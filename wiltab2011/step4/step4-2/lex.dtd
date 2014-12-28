@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!ELEMENT LEX (r)*>
+<!ELEMENT r (rule,c,wil,mw)*>
+
+<!ELEMENT rule (#PCDATA)>
+<!ATTLIST rule conf (SURE|LIKELY|ROOT|_) #IMPLIED>
+<!ATTLIST rule class (ERROR|VARIANT|GRAMMAR|ISSUE|_) #IMPLIED>
+<!ATTLIST rule corrected (y) #IMPLIED>
+
+<!ELEMENT c (#PCDATA)>
+<!ATTLIST c auth (MA|SS|PS|Ss|SM) #IMPLIED>
+<!ATTLIST c cclass (E|G|V|N|R|Q|_|W|y) #IMPLIED>
+<!ATTLIST c done (y|n) #IMPLIED>
+
+<!ELEMENT wil (#PCDATA)>
+<!ATTLIST wil err CDATA #IMPLIED>
+<!ATTLIST wil corr CDATA #IMPLIED>
+
+<!ELEMENT mw (#PCDATA)>
+

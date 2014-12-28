@@ -1,0 +1,86 @@
+<c>(MA) denominativum (na)</c> <wil>aMSana</wil> <mw></mw>
+<c>(MA) participium</c> <wil>aMSanIya</wil> <mw></mw>
+<c>(MA) participium</c> <wil>aMSamAna</wil> <mw></mw>
+<c>(MA) participium</c> <wil>aMSayat</wil> <mw></mw>
+<c>(MA) participium</c> <wil>aMSayitavya</wil> <mw></mw>
+<c>(MA) participium (ejf action noun?)</c> <wil>aMSayitf</wil> <mw></mw>
+<c>(MA) (b/v)</c> <wil>aMSubARa</wil> <mw>aMSuvARa</mw>
+<c>(MA) comparativum</c> <wil>akanizWama</wil> <mw>a</mw>
+<c>(MA)?(-/r) printing-error</c> <wil err="fact" corr="akarkkaSa">akakkaSa</wil> <mw>akarkaSa</mw>
+<c>(MA) negation</c> <wil>akarttavya</wil> <mw></mw>
+<c>(MA) negation (rmm/rm)</c> <wil>akarmmakft</wil> <mw></mw>
+<c>(MA) compositum</c> <wil>akARqajAta</wil> <mw></mw>
+<c>(MA) abstraktum (-tva)</c> <wil>akftajYatva</wil> <mw></mw>
+<c>(MA) (n/m) printing-error</c> <wil err="scan" corr="akftrima">akftrina</wil> <mw>akftrima</mw>
+<c>(MA) (y/p) input-error</c> <wil err="typo" corr="akfpa">akfya</wil> <mw>akfpa</mw>
+<c>(MA) not in MW; and error (w/d) (d + danda looks like w)</c> <wil err="typo" corr="akovid">akoviw</wil> <mw></mw>
+<c>(MA) (A/o) printing-error</c> <wil err="scan" corr="akroDa">akrADa</wil> <mw>akroDa</mw>
+<c>(MA) abstraktum (-tva)</c> <wil>akriyatva</wil> <mw></mw>
+<c>(MA) negation</c> <wil>aklAnta</wil> <mw></mw>
+<c>(MA) ?</c> <wil>akzadyatika</wil> <mw></mw>
+<c>(MA) abstraktum (-tva)</c> <wil>akzamatva</wil> <mw></mw>
+<c>(MA) ?</c> <wil>akzaracaYca</wil> <mw></mw>
+<c>(MA) (w/d) input-error</c> <wil err="typo" corr="akzavid">akzaviw</wil> <mw>akzavid</mw>
+<c>(MA) (M/-) printing-error</c> <wil err="scan" corr="akzasUtra">akzasUtraM</wil> <mw>akzasUtra</mw>
+<c>(MA) (v/b)</c> <wil>akziva</wil> <mw>akziba</mw>
+<c>(MA) ? I can not find kUS in MW</c> <wil>akzivikUSita</wil> <mw></mw>
+<c>(MA) (v/b)</c> <wil>akzIva</wil> <mw>akzIba</mw>
+<c>(MA) negation</c> <wil>akzubDa</wil> <mw></mw>
+<c>(MA) (q/w) mentioned by MW under: "Also spelt ..."</c> <wil>akzoqa</wil> <mw>akzowa</mw>
+<c>(MA) negation of participium</c> <wil>akzoBita</wil> <mw></mw>
+<c>(MA) ?</c> <wil>akzna</wil> <mw></mw>
+<c>(MA) negation</c> <wil>aKAdita</wil> <mw></mw>
+<c>(MA) negation</c> <wil>agaRanIya</wil> <mw></mw>
+<c>(MA) (N/M) spelling of anusvara</c> <wil>agadaNkAra</wil> <mw>agadaMkAra</mw>
+<c>(MA) unreadable in Wilson scan ( ejf prob agarva)</c> <wil err="typo" corr="agarrva">agarYva</wil> <mw>agarva</mw>
+<c>(MA) abstraktum (-tA)</c> <wil>agADatA</wil> <mw></mw>
+<c>(MA) abstraktum (-tva)</c> <wil>agADatva</wil> <mw></mw>
+<c>(MA) not in MW</c> <wil>agina</wil> <mw></mw>
+<c>(MA) compositum: aguru-SiMSapA</c> <wil>aguruSiMSapA</wil> <mw></mw>
+<c>(MA) (A/o) printing-error</c> <wil err="scan" corr="agocara">agAcara</wil> <mw>agocara</mw>
+<c>(MA) compositum: agni-kArita</c> <wil>agnikArita</wil> <mw></mw>
+<c>(MA) (M/-) printing-error; and compound; and (ryy/ry) spelling after r</c> <wil err="scan" corr="agnikAryya">agnikAryyaM</wil> <mw>agnikArya</mw>
+<c>(MA)  (ejf: a/u)</c> <wil>agnikukkawa</wil> <mw>agnikukkuwa</mw>
+<c>(MA) compositum: agni-dEvatya</c> <wil>agnidEvatya</wil> <mw></mw>
+<c>(MA) (y/T) input-error</c> <wil err="typo" corr="agnimanTa">agnimanya</wil> <mw>agnimanTa</mw>
+<c>(MA) compositum, not in MW</c> <wil>agnirakzita</wil> <mw></mw>
+<c>(MA) compositum, not in MW</c> <wil>agnirahita</wil> <mw></mw>
+<c>(MA) (h/dD) input-error; and (rdD/rD) spelling after r</c> <wil err="typo" corr="agnivardDaka">agnivarhvaka</wil> <mw>agnivarDaka</mw>
+<c>(MA) (rdD/rD) spelling after r</c> <wil>agnivardDana</wil> <mw>agnivarDana</mw>
+<c>(MA) (v/b)</c> <wil>agnivAhu</wil> <mw>agnibAhu</mw>
+<c>(MA) (v/b)</c> <wil>agnivIja</wil> <mw>agnibIja</mw>
+<c>(MA) (z/D) input-error</c> <wil err="typo" corr="agnID">agnIz</wil> <mw>agnID</mw>
+<c>(MA) compositum, not in MW</c> <wil>agnyastra</wil> <mw></mw>
+<c>(MA) (v/b)</c> <wil>agravIja</wil> <mw>agrabIja</mw>
+<c>(MA) (nD/MD) spelling of anusvara</c> <wil>agrasanDAnI</wil> <mw>agrasaMDAnI</mw>
+<c>(MA) negation</c> <wil>agrahaRIya</wil> <mw></mw>
+<c>(MA) (n/R) in compositum</c> <wil>agrevana</wil> <mw>agrevaRa</mw>
+<c>(MA) compositum, not in MW</c> <wil>aGanASana</wil> <mw></mw>
+<c>(MA) compositum, not in MW</c> <wil>aGamaya</wil> <mw></mw>
+<c>(MA) compositum, not in MW (agha+ahan)</c> <wil>aGAha</wil> <mw></mw>
+<c>(MA) participium</c> <wil>aNkanIya</wil> <mw></mw>
+<c>(MA) participium</c> <wil>aNkayitavya</wil> <mw></mw>
+<c>(MA) (b/v) input-error</c> <wil err="typo" corr="aNkavidyA">aNkabidyA</wil> <mw>aNkavidyA</mw>
+<c>(MA) (w/d) input-error; and (rdD/rD) spelling</c> <wil err="typo" corr="aNkuSadurdDara">aNkuSawurdDara</wil> <mw>aNkuSadurDara</mw>
+<c>(MA) (l/w)</c> <wil>aNkola</wil> <mw>aNkowa</mw>
+<c>(MA) (Sv/Sc) input-error</c> <wil err="typo" corr="aNgaprAyaScitta">aNgaprAyaSvitta</wil> <mw>aNgaprAyaScitta</mw>
+<c>(MA) (b/v) input-error</c> <wilerr="typo" corr="aNgAravallarI">aNgAraballarI</wil> <mw></mw>
+<c>(MA) femininum (ejf: not sure how to handle)</c> <wil>aNgAriRI</wil> <mw></mw>
+<c>(MA) (n/M) spelling of anusvara</c> <wil>aNgulisandeSa</wil> <mw>aNgulisaMdeSa</mw>
+<c>(MA) negation and abstractum</c> <wil>acintatA</wil> <mw></mw>
+<c>(MA) negation</c> <wil>ajanaka</wil> <mw></mw>
+<c>(MA) (A/o) printing-error</c> <wil err="scan" corr="ajamodA">ajamAdA</wil> <mw>ajamodA</mw>
+<c>(MA) (v/b)</c> <wil>ajalamvana</wil> <mw>ajalambana</mw>
+<c>(MA) ? (ejf (t/tt)</c> <wil>ajinapatrA</wil> <mw>ajinapattrA</mw>
+<c>(MA) (B/J) input-error</c> <wil err="typo" corr="ajJawA">ajBawA</wil> <mw>ajJawA</mw>
+<c>(MA) (B/J) input-error</c> <wil err="typo" corr="ajJala">ajBala</wil> <mw>ajJala</mw>
+<c>(MA) (a/-) printing-error (virama)</c> <wil err="scan" corr="ajYAnin">ajYAnina</wil> <mw>ajYAnin</mw>
+<c>(MA) (a/-) printing-error (virama)</c> <wil err="scan" corr="aYj">aYja</wil> <mw>aYj</mw>
+<c>(MA) (G/D) input-error</c> <wil err="typo" corr="aYjanADikA">aYjanAGikA</wil> <mw>aYjanADikA</mw>
+<c>(MA) (ka/-) mentioned by MW : "m. or awwAlaka"</c> <wil>awwAlaka</wil> <mw></mw>
+<c>(MA) ? (ejf: (A/I)</c> <wil>aRqakowarapuzpA</wil> <mw>aRqakowarapuzpI</mw>
+<c>(MA) participium</c> <wil>atarpaRIya</wil> <mw></mw>
+<c>(MA) participium (ejf negativum)</c> <wil>atarpita</wil> <mw></mw>
+<c>(MA) (ra/f) </c> <wil>atikraSa</wil> <mw>atikfSa</mw>
+<c>(MA) (b/v) input-error; and (rvv/rv) spelling after r</c> <wil err="typo" corr="atigarrvita">atigarbvita</wil> <mw>atigarvita</mw>
+<c>(MA) prefix ati</c> <wil>atigarhita</wil> <mw></mw>

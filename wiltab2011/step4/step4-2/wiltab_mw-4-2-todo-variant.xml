@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE LEX SYSTEM "lex.dtd" []>
+<LEX>
+<r><rule conf="_" class="VARIANT"></rule><c auth="MA" cclass="V" done="n">(b/v) </c> <wil>aMSubARa</wil> <mw>aMSuvARa</mw></r>
+<r><rule conf="_" class="VARIANT"></rule><c auth="MA" cclass="V" done="n">(v/b) </c> <wil>akziva</wil> <mw>akziba</mw></r>
+<r><rule conf="_" class="VARIANT"></rule><c auth="MA" cclass="V" done="n">(v/b) </c> <wil>akzIva</wil> <mw>akzIba</mw></r>
+<r><rule conf="_" class="VARIANT"></rule><c auth="MA" cclass="V" done="n">(q/w) mentioned by MW under: "Also spelt ..."</c> <wil>akzoqa</wil> <mw>akzowa</mw></r>
+<r><rule conf="_" class="VARIANT"></rule><c auth="MA" cclass="V" done="n">(N/M) </c> <wil>agadaNkAra</wil> <mw>agadaMkAra</mw></r>
+<r><rule conf="_" class="VARIANT"></rule><c auth="MA" cclass="V" done="n">(rdD/rD) </c> <wil>agnivardDana</wil> <mw>agnivarDana</mw></r>
+<r><rule conf="_" class="VARIANT"></rule><c auth="MA" cclass="V" done="n">(v/b) </c> <wil>agnivAhu</wil> <mw>agnibAhu</mw></r>
+<r><rule conf="_" class="VARIANT"></rule><c auth="MA" cclass="V" done="n">(v/b) </c> <wil>agnivIja</wil> <mw>agnibIja</mw></r>
+<r><rule conf="_" class="VARIANT"></rule><c auth="MA" cclass="V" done="n">(v/b) </c> <wil>agravIja</wil> <mw>agrabIja</mw></r>
+<r><rule conf="_" class="VARIANT"></rule><c auth="MA" cclass="V" done="n">(n/M) </c> <wil>agrasanDAnI</wil> <mw>agrasaMDAnI</mw></r>
+<r><rule conf="_" class="VARIANT"></rule><c auth="MA" cclass="V" done="n">(n/R) </c> <wil>agrevana</wil> <mw>agrevaRa</mw></r>
+<r><rule conf="_" class="VARIANT"></rule><c auth="MA" cclass="V" done="n">(l/w) </c> <wil>aNkola</wil> <mw>aNkowa</mw></r>
+<r><rule conf="_" class="VARIANT"></rule><c auth="MA" cclass="V" done="n">(n/M) </c> <wil>aNgulisandeSa</wil> <mw>aNgulisaMdeSa</mw></r>
+<r><rule conf="_" class="VARIANT"></rule><c auth="MA" cclass="V" done="n">(v/b) </c> <wil>ajalamvana</wil> <mw>ajalambana</mw></r>
+<r><rule conf="_" class="VARIANT"></rule><c auth="MA" cclass="V" done="n">(tr/ttr) </c> <wil>ajinapatrA</wil> <mw>ajinapattrA</mw></r>
+<r><rule conf="_" class="VARIANT"></rule><c auth="MA" cclass="V" done="n">(ka/-) mentioned by MW : "m. or awwAlaka"</c> <wil>awwAlaka</wil> <mw>awwAla</mw></r>
+<r><rule conf="_" class="VARIANT"></rule><c auth="MA" cclass="V" done="n">(cC/C); and (tr/ttr) spelling</c> <wil>aticCatra</wil> <mw>atiCattra</mw></r>
+<r><rule conf="_" class="VARIANT"></rule><c auth="MA" cclass="V" done="n">(cC/C); and (tr/ttr) spelling</c> <wil>aticCatraka</wil> <mw>atiCattraka</mw></r>
+<r><rule conf="_" class="VARIANT"></rule><c auth="MA" cclass="V" done="n">(Y/M) </c> <wil>atisaYcaya</wil> <mw>atisaMcaya</mw></r>
+<r><rule conf="_" class="VARIANT"></rule><c auth="MA" cclass="V" done="n">(n/M) </c> <wil>atisanDAna</wil> <mw>atisaMDAna</mw></r>
+<r><rule conf="_" class="VARIANT"></rule><c auth="MA" cclass="V" done="n">(v/b) </c> <wil>aDolamva</wil> <mw>aDolamba</mw></r>
+<r><rule conf="_" class="VARIANT"></rule><c auth="MA" cclass="V" done="n">(N/M) </c> <wil>anayaNgata</wil> <mw>anayaMgata</mw></r>
+<r><rule conf="_" class="VARIANT"></rule><c auth="MA" cclass="V" done="n">(tr/ttr) </c> <wil>AkfticCatrA</wil> <mw>*</mw></r>
+<r><rule conf="_" class="VARIANT"></rule><c auth="MA" cclass="V" done="n">MW mentiones under "akzowa": "Also spelt akzoqa ( Sus3r. ) , akzoqaka , Akzowa , Akzoqaka , AKowa."</c> <wil>Akzoqa</wil> <mw>*</mw></r>
+<r><rule conf="_" class="VARIANT"></rule><c auth="MA" cclass="V" done="n">(b/v) </c> <wil>Agantabya</wil> <mw>Agantavya</mw></r>
+<r><rule conf="_" class="VARIANT"></rule><c auth="MA" cclass="V" done="n">(b/v) </c> <wil>Aguraba</wil> <mw>*</mw></r>
+<r><rule conf="_" class="VARIANT"></rule><c auth="MA" cclass="V" done="n">(rjj/rj); and (b/v) </c> <wil>AcArabarjjita</wil> <mw>AcAravarjita</mw></r>
+<r><rule conf="_" class="VARIANT"></rule><c auth="MA" cclass="V" done="n">pwg: "falsche Form bei Wilson"</c> <wil>AcCAka</wil> <mw>AcCuka</mw></r>
+<r><rule conf="_" class="VARIANT"></rule><c auth="MA" cclass="V" done="n">(rtt/rt); and compositum</c> <wil>AjYAnuvarttin</wil> <mw>*</mw></r>
+<r><rule conf="_" class="VARIANT"></rule><c auth="MA" cclass="V" done="n">(b/v) </c> <wil>Awabika</wil> <mw>Awavika</mw></r>
+<r><rule conf="_" class="VARIANT"></rule><c auth="MA" cclass="V" done="n">(N/M) </c> <wil>AQyaNkaraRa</wil> <mw>AQyaMkaraRa</mw></r>
+<r><rule conf="_" class="VARIANT"></rule><c auth="MA" cclass="V" done="n">(tv/ttv) </c> <wil>Atmatatva</wil> <mw>Atmatattva</mw></r>
+<r><rule conf="_" class="VARIANT"></rule><c auth="MA" cclass="V" done="n">(tv/ttv) spelling</c> <wil>AtmatatvajYa</wil> <mw>AtmatattvajYa</mw></r>
+<r><rule conf="_" class="VARIANT"></rule><c auth="MA" cclass="V" done="n">(n/M) </c> <wil>Atmasandeha</wil> <mw>AtmasaMdeha</mw></r>
+<r><rule conf="_" class="VARIANT"></rule><c auth="MA" cclass="V" done="n">(b/v) </c> <wil>AdyavIja</wil> <mw>AdyabIja</mw></r>
+<r><rule conf="_" class="VARIANT"></rule><c auth="MA" cclass="V" done="n">(b/v) </c> <wil>Apastamva</wil> <mw>Apastamba</mw></r>
+<r><rule conf="_" class="VARIANT"></rule><c auth="MA" cclass="V" done="n">(b/v) </c> <wil>Aplabana</wil> <mw>Aplavana</mw></r>
+<r><rule conf="_" class="VARIANT"></rule><c auth="MA" cclass="V" done="n">(rdD/rD) </c> <wil>AyatArdDa</wil> <mw>AyatArDa</mw></r>
+<r><rule conf="_" class="VARIANT"></rule><c auth="MA" cclass="V" done="n">(s/z) ? </c> <wil>Ayuskara</wil> <mw>Ayuzkara</mw></r>
+<r><rule conf="_" class="VARIANT"></rule><c auth="MA" cclass="V" done="n">(rdD/rD) </c> <wil>ArdDadrORika</wil> <mw>ArDadrORika</mw></r>
+<r><rule conf="_" class="VARIANT"></rule><c auth="MA" cclass="V" done="n">(rdD/rD) </c> <wil>ArdDaDAtuka</wil> <mw>ArDaDAtuka</mw></r>
+<r><rule conf="_" class="VARIANT"></rule><c auth="MA" cclass="V" done="n">(rdD/rD) </c> <wil>ArdDaprasTika</wil> <mw>ArDaprasTika</mw></r>
+<r><rule conf="_" class="VARIANT"></rule><c auth="MA" cclass="V" done="n">(rdD/rD) </c> <wil>ArdDamAsika</wil> <mw>ArDamAsika</mw></r>
+<r><rule conf="_" class="VARIANT"></rule><c auth="MA" cclass="V" done="n">(rdD/rD) </c> <wil>ArdDika</wil> <mw>ArDika</mw></r>
+<r><rule conf="_" class="VARIANT"></rule><c auth="MA" cclass="V" done="n">(ryy/ry) </c> <wil>Aryyavftta</wil> <mw>Aryavftta</mw></r>
+<r><rule conf="_" class="VARIANT"></rule><c auth="MA" cclass="V" done="n">(rdd/rd); and (M/-) </c> <wil err="scan" corr="Alagardda">AlagarddaM</wil> <mw>Alagarda</mw></r>
+<r><rule conf="_" class="VARIANT"></rule><c auth="MA" cclass="V" done="n">(v/b) </c> <wil>Avalya</wil> <mw>Abalya</mw></r>
+<r><rule conf="_" class="VARIANT"></rule><c auth="MA" cclass="V" done="n">(v/b) </c> <wil>AvAlya</wil> <mw>*</mw></r>
+<r><rule conf="_" class="VARIANT"></rule><c auth="MA" cclass="V" done="n">(N/M) </c> <wil>ASitaNgavIna</wil> <mw>ASitaMgavIna</mw></r>
+<r><rule conf="_" class="VARIANT"></rule><c auth="MA" cclass="V" done="n">(tr/ttr) </c> <wil>ASupatrI</wil> <mw>ASupattrI</mw></r>
+<r><rule conf="_" class="VARIANT"></rule><c auth="MA" cclass="V" done="n">(tr/ttr) </c> <wil>Asyapatra</wil> <mw>Asyapattra</mw></r>
+<r><rule conf="_" class="VARIANT"></rule><c auth="MA" cclass="V" done="n">(tr/ttr) </c> <wil>ikzupatra</wil> <mw>ikzupattra</mw></r>
+<r><rule conf="_" class="VARIANT"></rule><c auth="MA" cclass="V" done="n">(b/v) </c> <wil>icCAbat</wil> <mw>icCAvat</mw></r>
+<r><rule conf="_" class="VARIANT"></rule><c auth="MA" cclass="V" done="n">(n/M) </c> <wil>idAnIntana</wil> <mw>idAnIMtana</mw></r>
+<r><rule conf="_" class="VARIANT"></rule><c auth="MA" cclass="V" done="n">(n/R) </c> <wil>IrzyamAna</wil> <mw>IrzyamARa</mw></r>
+<r><rule conf="_" class="VARIANT"></rule><c auth="MA" cclass="V" done="n">pwg: "falsche Form bei Wilson"</c> <wil>kAlakUwaNkawa</wil> <mw>kAlakawaNkawa</mw></r>
+<r><rule conf="_" class="VARIANT"></rule><c auth="MA" cclass="V" done="n">pwg: "falsche Form bei Wilson"</c> <wil>jyEzWasAman</wil> <mw>jyezWasAman</mw></r>
+<r><rule conf="_" class="VARIANT"></rule><c auth="MA" cclass="V" done="n">pwg: "falsche Form bei Wilson"</c> <wil>tArIza</wil> <mw>tAviza</mw></r>
+<r><rule conf="_" class="VARIANT"></rule><c auth="MA" cclass="V" done="n">pwg: "falsche Form bei Wilson"</c> <wil>dakziRapaTa</wil> <mw>dakziRApaTa</mw></r>
+<r><rule conf="_" class="VARIANT"></rule><c auth="MA" cclass="V" done="n">pwg: "falsche Form bei Wilson"</c> <wil>parikzipaka</wil> <mw>parikzepaka</mw></r>
+<r><rule conf="_" class="VARIANT"></rule><c auth="MA" cclass="V" done="n">pwg: "falsche Form bei Wilson"</c> <wil>prAyuDezin</wil> <mw>prAyudDezin</mw></r>
+</LEX>

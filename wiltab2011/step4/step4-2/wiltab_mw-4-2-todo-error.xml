@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE LEX SYSTEM "lex.dtd" []>
+<LEX>
+<r><rule conf="_" class="ERROR"></rule><c auth="MA" cclass="E" done="n">(-/r) </c> <wil err="scan" corr="akarkkaSa">akakkaSa</wil> <mw>akarkaSa</mw></r>
+<r><rule conf="_" class="ERROR"></rule><c auth="MA" cclass="E" done="n">(n/m) </c> <wil err="scan" corr="akftrima">akftrina</wil> <mw>akftrima</mw></r>
+<r><rule conf="_" class="ERROR"></rule><c auth="MA" cclass="E" done="n">(y/p) </c> <wil err="typo" corr="akfpa">akfya</wil> <mw>akfpa</mw></r>
+<r><rule conf="_" class="ERROR"></rule><c auth="MA" cclass="E" done="n">not in MW; and error (w/d) (d + danda looks like w) </c> <wil err="typo" corr="akovid">akoviw</wil> <mw>*</mw></r>
+<r><rule conf="_" class="ERROR"></rule><c auth="MA" cclass="E" done="n">(A/o) </c> <wil err="scan" corr="akroDa">akrADa</wil> <mw>akroDa</mw></r>
+<r><rule conf="_" class="ERROR"></rule><c auth="MA" cclass="E" done="n">(a/O) printing-error? (-dyUtika); MW has "AkzadyUtika"</c> <wil err="scan">akzadyatika</wil> <mw>*</mw></r>
+<r><rule conf="_" class="ERROR"></rule><c auth="MA" cclass="E" done="n">(w/d) </c> <wil err="typo" corr="akzavid">akzaviw</wil> <mw>akzavid</mw></r>
+<r><rule conf="_" class="ERROR"></rule><c auth="MA" cclass="E" done="n">(M/-) "M" at word-end</c> <wil err="scan" corr="akzasUtra">akzasUtraM</wil> <mw>akzasUtra</mw></r>
+<r><rule conf="_" class="ERROR"></rule><c auth="MA" cclass="E" done="n">unreadable in Wilson scan ( ejf prob agarva) </c> <wil err="typo" corr="agarvva">agarYva</wil> <mw>agarva</mw></r>
+<r><rule conf="_" class="ERROR"></rule><c auth="MA" cclass="E" done="n">(A/o) </c> <wil err="scan" corr="agocara">agAcara</wil> <mw>agocara</mw></r>
+<r><rule conf="_" class="ERROR"></rule><c auth="MA" cclass="E" done="n">(M/-) "M" at word-end; and compound; and (ryy/ry) spelling after r</c> <wil err="scan" corr="agnikAryya">agnikAryyaM</wil> <mw>agnikArya</mw></r>
+<r><rule conf="_" class="ERROR"></rule><c auth="MA" cclass="E" done="n">(a/u) </c> <wil>agnikukkawa</wil> <mw>agnikukkuwa</mw></r>
+<r><rule conf="_" class="ERROR"></rule><c auth="MA" cclass="E" done="n">(y/T) </c> <wil err="typo" corr="agnimanTa">agnimanya</wil> <mw>agnimanTa</mw></r>
+<r><rule conf="_" class="ERROR"></rule><c auth="MA" cclass="E" done="n">(h/dD); and (rdD/rD) spelling after r</c> <wil err="typo" corr="agnivardDaka">agnivarhvaka</wil> <mw>agnivarDaka</mw></r>
+<r><rule conf="_" class="ERROR"></rule><c auth="MA" cclass="E" done="n">(z/D) </c> <wil err="typo" corr="agnID">agnIz</wil> <mw>agnID</mw></r>
+<r><rule conf="_" class="ERROR"></rule><c auth="MA" cclass="E" done="n">(b/v) </c> <wil err="typo" corr="aNkavidyA">aNkabidyA</wil> <mw>aNkavidyA</mw></r>
+<r><rule conf="_" class="ERROR"></rule><c auth="MA" cclass="E" done="n">(w/d); and (rdD/rD) spelling</c> <wil err="typo" corr="aNkuSadurdDara">aNkuSawurdDara</wil> <mw>aNkuSadurDara</mw></r>
+<r><rule conf="_" class="ERROR"></rule><c auth="MA" cclass="E" done="n">(Sv/Sc) </c> <wil err="typo" corr="aNgaprAyaScitta">aNgaprAyaSvitta</wil> <mw>aNgaprAyaScitta</mw></r>
+<r><rule conf="_" class="ERROR"></rule><c auth="MA" cclass="E" done="n">(b/v) </c> <wil err="typo" corr="aNgAravallarI">aNgAraballarI</wil> <mw>*</mw></r>
+<r><rule conf="_" class="ERROR"></rule><c auth="MA" cclass="E" done="n">(A/o) </c> <wil err="scan" corr="ajamodA">ajamAdA</wil> <mw>ajamodA</mw></r>
+<r><rule conf="_" class="ERROR"></rule><c auth="MA" cclass="E" done="n">(B/J) </c> <wil err="typo" corr="ajJawA">ajBawA</wil> <mw>ajJawA</mw></r>
+<r><rule conf="_" class="ERROR"></rule><c auth="MA" cclass="E" done="n">(B/J) </c> <wil err="typo" corr="ajJala">ajBala</wil> <mw>ajJala</mw></r>
+<r><rule conf="_" class="ERROR"></rule><c auth="MA" cclass="E" done="n">(G/D) </c> <wil err="typo" corr="aYjanADikA">aYjanAGikA</wil> <mw>aYjanADikA</mw></r>
+<r><rule conf="_" class="ERROR"></rule><c auth="MA" cclass="E" done="n">(b/v); and (rvv/rv) spelling after r</c> <wil err="typo" corr="atigarrvita">atigarbvita</wil> <mw>atigarvita</mw></r>
+<r><rule conf="_" class="ERROR"></rule><c auth="MA" cclass="E" done="n">(w/d) </c> <wil err="typo" corr="atiduzkara">atiwuzkara</wil> <mw>atiduzkara</mw></r>
+<r><rule conf="_" class="ERROR"></rule><c auth="MA" cclass="E" done="n">(e/o) </c> <wil err="typo" corr="atiSoBana">atiSeBana</wil> <mw>atiSoBana</mw></r>
+<r><rule conf="_" class="ERROR"></rule><c auth="MA" cclass="E" done="n">(k/tk) </c> <wil err="typo" corr="atyutkfzwa">atyukfzwa</wil> <mw>*atyutkfzwa</mw></r>
+<r><rule conf="_" class="ERROR"></rule><c auth="MA" cclass="E" done="n">(v/tr); wrong auto-correction: AUTO(NEGa)</c> <wil corr="atrapa">avapa</wil> <mw>*</mw></r>
+<r><rule conf="_" class="ERROR"></rule><c auth="MA" cclass="E" done="n">(v/tr) </c> <wil err="typo" corr="atraBavat">avaBavat</wil> <mw>atraBavat</mw></r>
+<r><rule conf="_" class="ERROR"></rule><c auth="MA" cclass="E" done="n">(w/d) </c> <wil err="typo" corr="aduzwa">awuzwa</wil> <mw>aduzwa</mw></r>
+<r><rule conf="_" class="ERROR"></rule><c auth="MA" cclass="E" done="n">(a/E) </c> <wil err="scan" corr="advEta">advata</wil> <mw>advEta</mw></r>
+<r><rule conf="_" class="ERROR"></rule><c auth="MA" cclass="E" done="n">(a/E) </c> <wil err="scan" corr="advEtavAdin">advatavAdin</wil> <mw>advEtavAdin</mw></r>
+<r><rule conf="_" class="ERROR"></rule><c auth="MA" cclass="E" done="n">(s/m) </c> <wil err="typo" corr="aDamaBftaka">aDasaBftaka</wil> <mw>aDamaBftaka</mw></r>
+<r><rule conf="_" class="ERROR"></rule><c auth="MA" cclass="E" done="n">(a/u) </c> <wil err="scan" corr="aDaramaDu">aDaramaDa</wil> <mw>aDaramaDu</mw></r>
+<r><rule conf="_" class="ERROR"></rule><c auth="MA" cclass="E" done="n">(Sv/Sc) </c> <wil err="typo" corr="aDaScara">aDaSvara</wil> <mw>aDaScara</mw></r>
+<r><rule conf="_" class="ERROR"></rule><c auth="MA" cclass="E" done="n">(Sv/Sc) </c> <wil err="typo" corr="aDaScOra">aDaSvOra</wil> <mw>*aDaScOra</mw></r>
+<r><rule conf="_" class="ERROR"></rule><c auth="MA" cclass="E" done="n">(-/am)| printing-error (Wilson prints a virama that is wrong)?</c> <wil err="fact" corr="aDijyotiza">aDijyotiz</wil> <mw>aDijyotizam</mw></r>
+<r><rule conf="_" class="ERROR"></rule><c auth="MA" cclass="E" done="n">(-/M) </c> <wil err="typo" corr="aDo'MSuka">aDo'Suka</wil> <mw>aDoMSuka</mw></r>
+<r><rule conf="_" class="ERROR"></rule><c auth="MA" cclass="E" done="n">(M/-) "M" at word-end; printing-error?</c> <wil>aDobanDanaM</wil> <mw>aDobanDana</mw></r>
+<r><rule conf="_" class="ERROR"></rule><c auth="MA" cclass="E" done="n">(ntv/ntr) </c> <wil err="typo" corr="aDoyantra">aDoyantva</wil> <mw>aDoyantra</mw></r>
+<r><rule conf="_" class="ERROR"></rule><c auth="MA" cclass="E" done="n">(t/nt) </c> <wil err="typo" corr="anantaka">anataka</wil> <mw>anantaka</mw></r>
+<r><rule conf="_" class="ERROR"></rule><c auth="MA" cclass="E" done="n">(v/y) </c> <wil err="typo" corr="anapAyin">anapAvin</wil> <mw>anapAyin</mw></r>
+<r><rule conf="_" class="ERROR"></rule><c auth="MA" cclass="E" done="n">(v/t) </c> <wil err="scan" corr="anaBimata">anaBimava</wil> <mw>anaBimata</mw></r>
+<r><rule conf="_" class="ERROR"></rule><c auth="MA" cclass="E" done="n">(a/u) </c> <wil corr="anukaraRa">anakaraRa</wil> <mw>*</mw></r>
+<r><rule conf="_" class="ERROR"></rule><c auth="MA" cclass="E" done="n">(M/-)</c> <wil corr="anukramaRikA">anukraMmaRikA</wil> <mw>anukramaRikA</mw></r>
+<r><rule conf="_" class="ERROR"></rule><c auth="MA" cclass="E" done="n">(M/-) "M" at word-end</c> <wil corr="anuraYjana">anuraYjanaM</wil> <mw>anuraYjana</mw></r>
+<r><rule conf="_" class="ERROR"></rule><c auth="MA" cclass="E" done="n">(M/-) "M" at word-end</c> <wil corr="apraSasta">apraSastaM</wil> <mw>apraSasta</mw></r>
+<r><rule conf="_" class="ERROR"></rule><c auth="MA" cclass="E" done="n">(M/-) "M" at word-end</c> <wil corr="aBihitatva">aBihitatvaM</wil> <mw>aBihitatva</mw></r>
+<r><rule conf="_" class="ERROR"></rule><c auth="MA" cclass="E" done="n">(e/o) </c> <wil corr="amanogata">amanegata</wil> <mw>*</mw></r>
+<r><rule conf="_" class="ERROR"></rule><c auth="MA" cclass="E" done="n">(a/u) </c> <wil corr="avawuja">avawaja</wil> <mw>*</mw></r>
+<r><rule conf="_" class="ERROR"></rule><c auth="MA" cclass="E" done="n">(m/s); wrong auto-correction: AUTO(NEGa)</c> <wil corr="asat">amat</wil> <mw>*</mw></r>
+<r><rule conf="_" class="ERROR"></rule><c auth="MA" cclass="E" done="n">(M/-) "M" at word-end</c> <wil corr="astranivAraRa">astranivAraRaM</wil> <mw>*</mw></r>
+<r><rule conf="_" class="ERROR"></rule><c auth="MA" cclass="E" done="n">(g/m) </c> <wil err="scan" corr="Akampra">Akagpra</wil> <mw>Akampra</mw></r>
+<r><rule conf="_" class="ERROR"></rule><c auth="MA" cclass="E" done="n">(Sp/Sy) </c> <wil err="typo" corr="AkfzyamARa">AkfzpamARa</wil> <mw>*</mw></r>
+<r><rule conf="_" class="ERROR"></rule><c auth="MA" cclass="E" done="n">(a/u) </c> <wil err="scan" corr="Akruzwa">Akrazwa</wil> <mw>Akruzwa</mw></r>
+<r><rule conf="_" class="ERROR"></rule><c auth="MA" cclass="E" done="n">(b/v) </c> <wil err="typo" corr="AKuvizahA">AKubizahA</wil> <mw>AKuvizahA</mw></r>
+<r><rule conf="_" class="ERROR"></rule><c auth="MA" cclass="E" done="n">(df/wwa) </c> <wil err="typo" corr="AGawwaka">AGadfka</wil> <mw>AGawwaka</mw></r>
+<r><rule conf="_" class="ERROR"></rule><c auth="MA" cclass="E" done="n">(df/wwa) </c> <wil err="typo" corr="AGawwana">AGadfna</wil> <mw>AGawwana</mw></r>
+<r><rule conf="_" class="ERROR"></rule><c auth="MA" cclass="E" done="n">(o/A) </c> <wil err="scan" corr="AjYopaka">AjYopaka</wil> <mw>AjYApaka</mw></r>
+<r><rule conf="_" class="ERROR"></rule><c auth="MA" cclass="E" done="n">(A/a); and E (a/-)</c> <wil err="typo" corr="Atmavid">AtmAvida</wil> <mw>Atmavid</mw></r>
+<r><rule conf="_" class="ERROR"></rule><c auth="MA" cclass="E" done="n">(e/a) </c> <wil err="scan" corr="Adipuruza">Adipuruze</wil> <mw>Adipuruza</mw></r>
+<r><rule conf="_" class="ERROR"></rule><c auth="MA" cclass="E" done="n">(a/i) </c> <wil err="typo" corr="ADarzata">ADarzata</wil> <mw>ADarzita</mw></r>
+<r><rule conf="_" class="ERROR"></rule><c auth="MA" cclass="E" done="n">(w/d) </c> <wil err="typo" corr="AnakawunduBi">AnakawunduBi</wil> <mw>AnakadunduBi</mw></r>
+<r><rule conf="_" class="ERROR"></rule><c auth="MA" cclass="E" done="n">(s/m) </c> <wil err="typo" corr="Anamra">Anasra</wil> <mw>Anamra</mw></r>
+<r><rule conf="_" class="ERROR"></rule><c auth="MA" cclass="E" done="n">(b/v): and (rvv/rv) </c> <wil err="typo" corr="AnupUrbba">AnupUrbva</wil> <mw>AnupUrva</mw></r>
+<r><rule conf="_" class="ERROR"></rule><c auth="MA" cclass="E" done="n">(va/rve) </c> <wil err="scan" corr="AntarveSmika">AntavaSmika</wil> <mw>AntarveSmika</mw></r>
+<r><rule conf="_" class="ERROR"></rule><c auth="MA" cclass="E" done="n">(rbv/rv) </c> <wil err="typo" corr="Aptagarbba">Aptagarbva</wil> <mw>Aptagarva</mw></r>
+<r><rule conf="_" class="ERROR"></rule><c auth="MA" cclass="E" done="n">(st/l) </c> <wil err="scan" corr="AmUla">AmUsta</wil> <mw>*</mw></r>
+<r><rule conf="_" class="ERROR"></rule><c auth="MA" cclass="E" done="n">(A/o) </c> <wil err="scan" corr="Amozin">AmAzin</wil> <mw>Amozin</mw></r>
+<r><rule conf="_" class="ERROR"></rule><c auth="MA" cclass="E" done="n">(a/u) </c> <wil err="scan" corr="AyuDAgAra">AyaDAgAra</wil> <mw>AyuDAgAra</mw></r>
+<r><rule conf="_" class="ERROR"></rule><c auth="MA" cclass="E" done="n">(a/u) </c> <wil err="scan" corr="AyuDika">AyaDika</wil> <mw>AyuDika</mw></r>
+<r><rule conf="_" class="ERROR"></rule><c auth="MA" cclass="E" done="n">(n/b) </c> <wil err="scan" corr="ArabDa">AranDa</wil> <mw>ArabDa</mw></r>
+<r><rule conf="_" class="ERROR"></rule><c auth="MA" cclass="E" done="n">(M/-) "M" + "r"</c> <wil err="typo" corr="Arkzavarza">ArkzaMvarza</wil> <mw>Arkzavarza</mw></r>
+<r><rule conf="_" class="ERROR"></rule><c auth="MA" cclass="E" done="n">(rtt/rtv) </c> <wil err="fact" corr="Artvijya">Arttijya</wil> <mw>Artvijya</mw></r>
+<r><rule conf="_" class="ERROR"></rule><c auth="MA" cclass="E" done="n">(-/r) </c> <wil err="scan" corr="ArTika">ATika</wil> <mw>ArTika</mw></r>
+<r><rule conf="_" class="ERROR"></rule><c auth="MA" cclass="E" done="n">(-/r) </c> <wil err="scan" corr="ArdratA">AdratA</wil> <mw>ArdratA</mw></r>
+<r><rule conf="_" class="ERROR"></rule><c auth="MA" cclass="E" done="n">(-/r) </c> <wil err="scan" corr="Ardranayana">Adranayana</wil> <mw>Ardranayana</mw></r>
+<r><rule conf="_" class="ERROR"></rule><c auth="MA" cclass="E" done="n">(-/r); and (yy/y) </c> <wil err="scan" corr="AryyarUpa">AyyarUpa</wil> <mw>AryarUpa</mw></r>
+<r><rule conf="_" class="ERROR"></rule><c auth="MA" cclass="E" done="n">(b/v) </c> <wil err="typo" corr="AvaraRaSakti">AbaraRaSakti</wil> <mw>*</mw></r>
+<r><rule conf="_" class="ERROR"></rule><c auth="MA" cclass="E" done="n">(a/e) </c> <wil err="scan" corr="AveSika">AvaSika</wil> <mw>AveSika</mw></r>
+<r><rule conf="_" class="ERROR"></rule><c auth="MA" cclass="E" done="n">(a/e) </c> <wil err="scan" corr="ASleza">ASlaza</wil> <mw>ASleza</mw></r>
+<r><rule conf="_" class="ERROR"></rule><c auth="MA" cclass="E" done="n">(vy/ty) </c> <wil err="scan" corr="Ahfvya">Ahfvya</wil> <mw>Ahftya</mw></r>
+<r><rule conf="_" class="ERROR"></rule><c auth="MA" cclass="E" done="n">(hr/hn) </c> <wil err="scan" corr="AhnikAcAra">AhrikAcAra</wil> <mw>AhnikAcAra</mw></r>
+<r><rule conf="_" class="ERROR"></rule><c auth="MA" cclass="E" done="n">(wv/wc) </c> <wil err="scan" corr="iwcara">iwvara</wil> <mw>iwcara</mw></r>
+<r><rule conf="_" class="ERROR"></rule><c auth="MA" cclass="E" done="n">(a/u) </c> <wil err="typo" corr="indukamala">indakamala</wil> <mw>indukamala</mw></r>
+<r><rule conf="_" class="ERROR"></rule><c auth="MA" cclass="E" done="n">(a/u) </c> <wil err="scan" corr="indujA">indajA</wil> <mw>indujA</mw></r>
+<r><rule conf="_" class="ERROR"></rule><c auth="MA" cclass="E" done="n">(dD/dr) </c> <wil err="scan" corr="indradru">indradDu</wil> <mw>indradru</mw></r>
+<r><rule conf="_" class="ERROR"></rule><c auth="MA" cclass="E" done="n">(g/r) </c> <wil err="scan" corr="irA">igA</wil> <mw>irA</mw></r>
+<r><rule conf="_" class="ERROR"></rule><c auth="MA" cclass="E" done="n">(bv/v) </c> <wil err="typo" corr="irvvAruSuktikA">irbvAruSuktikA</wil> <mw>irvAruSuktikA</mw></r>
+<r><rule conf="_" class="ERROR"></rule><c auth="MA" cclass="E" done="n">(bv/v) </c> <wil err="typo" corr="irvvAlu">irbvAlu</wil> <mw>irvAlu</mw></r>
+<r><rule conf="_" class="ERROR"></rule><c auth="MA" cclass="E" done="n">(bv/v) </c> <wil err="typo" corr="IrvvAru">IrbvAru</wil> <mw>IrvAru</mw></r>
+<r><rule conf="_" class="ERROR"></rule><c auth="MA" cclass="E" done="n">(M/-) "M" + "r"</c> <wil err="scan" corr="Irzyaka">IrzyaMka</wil> <mw>Irzyaka</mw></r>
+<r><rule conf="_" class="ERROR"></rule><c auth="MA" cclass="E" done="n">(M/-) "M" + "r"</c> <wil>IrzyAMvaSa</wil> <mw>*</mw></r>
+<r><rule conf="_" class="ERROR"></rule><c auth="MA" cclass="E" done="n">(M/-) "M" at word-end</c> <wil corr="uttamarRa">uttamarRaM</wil> <mw>uttamarRa</mw></r>
+<r><rule conf="_" class="ERROR"></rule><c auth="MA" cclass="E" done="n">(M/-) "M" + "r"</c> <wil corr="unmArgagAmin">unmArgaMgAmin</wil> <mw>unmArgagAmin</mw></r>
+<r><rule conf="_" class="ERROR"></rule><c auth="MA" cclass="E" done="n">(M/-) "M" at word-end</c> <wil corr="upacArakaraRa">upacArakaraRaM</wil> <mw>*</mw></r>
+<r><rule conf="_" class="ERROR"></rule><c auth="MA" cclass="E" done="n">(M/-) "M" at word-end</c> <wil corr="upasarjana">upasarjanaM</wil> <mw>*</mw></r>
+<r><rule conf="_" class="ERROR"></rule><c auth="MA" cclass="E" done="n">(M/-) "M" + "r"</c> <wil corr="karRaveDa">karRaMveDa</wil> <mw>*</mw></r>
+<r><rule conf="_" class="ERROR"></rule><c auth="MA" cclass="E" done="n">(M/-); a root; in MW under "kartr"o</c> <wil corr="kartra">kartraM</wil> <mw>*</mw></r>
+<r><rule conf="_" class="ERROR"></rule><c auth="MA" cclass="E" done="n">(M/-) </c> <wil corr="kulaBftyA">kulaMBftyA</wil> <mw>*</mw></r>
+<r><rule conf="_" class="ERROR"></rule><c auth="MA" cclass="E" done="n">(M/-) "M" at word-end</c> <wil corr="kfzRasarpa">kfzRasarpaM</wil> <mw>*</mw></r>
+<r><rule conf="_" class="ERROR"></rule><c auth="MA" cclass="E" done="n">(M/-)</c> <wil corr="keSapaNkti">keSapaMNkti</wil> <mw>*</mw></r>
+<r><rule conf="_" class="ERROR"></rule><c auth="MA" cclass="E" done="n">(M/-)</c> <wil corr="kORqinya">kORqinyaM</wil> <mw>*</mw></r>
+<r><rule conf="_" class="ERROR"></rule><c auth="MA" cclass="E" done="n">(M/-)</c> <wil corr="kzudraSIrza">kzudraSIrzaM</wil> <mw>*</mw></r>
+<r><rule conf="_" class="ERROR"></rule><c auth="MA" cclass="E" done="n">(M/-)</c> <wil corr="cAndraka">cAndrakaM</wil> <mw>*</mw></r>
+<r><rule conf="_" class="ERROR"></rule><c auth="MA" cclass="E" done="n">(M/-)</c> <wil corr="duzpraDarzaRI">duzpraDarzaMRI</wil> <mw>*</mw></r>
+<r><rule conf="_" class="ERROR"></rule><c auth="MA" cclass="E" done="n">(M/-) "M" + "r"</c> <wil corr="nirGaRwa">nirGaMRwa</wil> <mw>*</mw></r>
+<r><rule conf="_" class="ERROR"></rule><c auth="MA" cclass="E" done="n">(M/-)</c> <wil corr="nUtanatva">nUtanatvaM</wil> <mw>*</mw></r>
+<r><rule conf="_" class="ERROR"></rule><c auth="MA" cclass="E" done="n">(M/-)</c> <wil corr="pOnaHpunya">pOnaHpunyaM</wil> <mw>*</mw></r>
+<r><rule conf="_" class="ERROR"></rule><c auth="MA" cclass="E" done="n">(M/-)</c> <wil corr="mAkanda">mAMkanda</wil> <mw>*</mw></r>
+<r><rule conf="_" class="ERROR"></rule><c auth="MA" cclass="E" done="n">(M/-) "M" at word-end</c> <wil corr="varutra">varutraM</wil> <mw>*</mw></r>
+<r><rule conf="_" class="ERROR"></rule><c auth="MA" cclass="E" done="n">(M/-) "M" at word-end</c> <wil corr="huqukka">huqukkaM</wil> <mw>*</mw></r>
+</LEX>

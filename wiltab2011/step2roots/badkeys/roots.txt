@@ -1,0 +1,143 @@
+<c>SP-ROOT</c> <wil>prI(Na)prIN</wil> <mw>prI</mw>
+<c>SP-ROOT</c> <wil>pru(Na)pruNa</wil> <mw>pru</mw>
+<c>SP-ROOT</c> <wil>plu(Na)pluN</wil> <mw>plu</mw>
+<c>SP-ROOT</c> <wil>plusa(ira)plusira</wil> <mw>plus</mw>
+<c>SP-ROOT</c> <wil>pleva(f)plevf</wil> <mw>plev</mw>
+<c>SP-ROOT</c> <wil>bAqa(f)bAqf</wil> <mw>bAq</mw>
+<c>SP-ROOT</c> <wil>bADa(f)bADf</wil> <mw>bAD</mw>
+<c>SP-ROOT</c> <wil>bAha(f)bAhf</wil> <mw>bAh</mw>
+<c>SP-ROOT</c> <wil>bida(i)bidi</wil> <mw>bid</mw>
+<c>SP-ROOT</c> <wil>bis(ira)bisira</wil> <mw>bis</mw>
+<c>SP-ROOT</c> <wil>buda(u, ira)ubudir</wil> <mw>bud</mw>
+<c>SP-ROOT</c> <wil>buDa(O)ObuDa</wil> <mw>buD</mw>
+<c>SP-ROOT</c> <wil>bunda(u, ira)ubundir</wil> <mw>bund</mw>
+<c>SP-ROOT</c> <wil>bunDa(u, ir)u bunD</wil> <mw>bunD</mw>
+<c>SP-ROOT</c> <wil>brU(Ya)brUY</wil> <mw>brU</mw>
+<c>SP-ROOT</c> <wil>BaYja(o, O) oBaYj</wil> <mw>BaYj</mw>
+<c>SP-ROOT</c> <wil>Baqa(i)Baqi</wil> <mw>BaRq</mw>
+<c>SP-ROOT</c> <wil>Bada(i)Badi</wil> <mw>Band</mw>
+<c>SP-ROOT</c> <wil>BAza(f)BAzf</wil> <mw>BAz</mw>
+<c>SP-ROOT</c> <wil>BAsa(f)BAsf</wil> <mw>BAs</mw>
+<c>SP-ROOT</c> <wil>BI(Yi)YiBI</wil> <mw>BI</mw>
+<c>SP-ROOT</c> <wil>Buqa(i)Buqi</wil> <mw>BuRq</mw>
+<c>SP-ROOT</c> <wil>Bf(Y) BfY</wil> <mw>Bf</mw>
+<c>SP-ROOT</c> <wil>Bfja(I)BfjI</wil> <mw>Bfj</mw>
+<c>SP-ROOT</c> <wil>BfSa(ir, u,) ir Bf</wil> <mw>BfS</mw>
+<c>SP-ROOT</c> <wil>Beza(f)Bezf</wil> <mw>Bez</mw>
+<c>SP-ROOT</c> <wil>BraMSa(u,)BraMSu</wil> <mw>BraMS</mw>
+<c>SP-ROOT</c> <wil>BraMsa(u,)BraMsu</wil> <mw>BraMs</mw>
+<c>SP-ROOT</c> <wil>Brama(u,)Bramu</wil> <mw>Bram</mw>
+<c>SP-ROOT</c> <wil>BraSa(u,)BraSu</wil> <mw>BraS</mw>
+<c>SP-ROOT</c> <wil>BrAja(wu, f,) wuBr</wil> <mw>BrAj</mw>
+<c>SP-ROOT</c> <wil>BrASa(wu, f,)wuBrA</wil> <mw>BrAS</mw>
+<c>SP-ROOT</c> <wil>Breja(f)Brejf</wil> <mw>Brej</mw>
+<c>SP-ROOT</c> <wil>Breza(f)Brezf</wil> <mw>Brez</mw>
+<c>SP-ROOT</c> <wil>BlASa(wu f)wu BlAS</wil> <mw>BlAS</mw>
+<c>SP-ROOT</c> <wil>Bleza(f)Blezf</wil> <mw>Blez</mw>
+<c>SP-ROOT</c> <wil>maga(i)</wil> <mw>maNg</mw>
+<c>SP-ROOT</c> <wil>maGa(i)maGi</wil> <mw>maNG</mw>
+<c>SP-ROOT</c> <wil>maYca(u,)maYcu</wil> <mw>maYc</mw>
+<c>SP-ROOT</c> <wil>maqa(i)maqi</wil> <mw>maRq</mw>
+<c>SP-ROOT</c> <wil>maTa(e,)maTe</wil> <mw>maT</mw>
+<c>SP-ROOT</c> <wil>masa(ira, I) ir masI</wil> <mw>mas</mw>
+<c>SP-ROOT</c> <wil>mAqa(f)mAqf</wil> <mw>mAq</mw>
+<c>SP-ROOT</c> <wil>mAha(u, or f) mAhu</wil> <mw>mAh</mw>
+<c>SP-ROOT</c> <wil>mi(qu Y,) qumiY</wil> <mw>mi</mw>
+<c>SP-ROOT</c> <wil>miTa(f,) miTf</wil> <mw>miT</mw>
+<c>SP-ROOT</c> <wil>miva(i)mivi</wil> <mw>minv</mw>
+<c>SP-ROOT</c> <wil>miha(O)mihO</wil> <mw>mih</mw>
+<c>SP-ROOT</c> <wil>mIma(f)mImf</wil> <mw>mIm</mw>
+<c>SP-ROOT</c> <wil>muca(lf O) O muclf</wil> <mw>muc</mw>
+<c>SP-ROOT</c> <wil>muWa(i)muWi</wil> <mw>muRW</mw>
+<c>SP-ROOT</c> <wil>murcCa(A,)murcCA</wil> <mw>murC</mw>
+<c>SP-ROOT</c> <wil>murva(I)murvvI</wil> <mw>murv</mw>
+<c>SP-ROOT</c> <wil>musa(ira)musira</wil> <mw>mus</mw>
+<c>SP-ROOT</c> <wil>mf(mf)</wil> <mw>mf</mw>
+<c>SP-ROOT</c> <wil>mfja(U)mfjU</wil> <mw>mfj</mw>
+<c>SP-ROOT</c> <wil>mfDa(u)mfDu</wil> <mw>mfD</mw>
+<c>SP-ROOT</c> <wil>mfSa(O)mfSO</wil> <mw>mfS</mw>
+<c>SP-ROOT</c> <wil>mewa(f)medf</wil> <mw>mew</mw>
+<c>SP-ROOT</c> <wil>meTa(f)meTf</wil> <mw>meT</mw>
+<c>SP-ROOT</c> <wil>meda(f)medf</wil> <mw>med</mw>
+<c>SP-ROOT</c> <wil>meDa(f,)meDf</wil> <mw>meD</mw>
+<c>SP-ROOT</c> <wil>mepa(f)mepf</wil> <mw>mep</mw>
+<c>SP-ROOT</c> <wil>meva(f)mevf</wil> <mw>mev</mw>
+<c>SP-ROOT</c> <wil>mruca(u,)mrucu</wil> <mw>mruc</mw>
+<c>SP-ROOT</c> <wil>mruMca(u,)mruYca</wil> <mw>mruYc</mw>
+<c>SP-ROOT</c> <wil>mrewa(f,)mredf</wil> <mw>mrew</mw>
+<c>SP-ROOT</c> <wil>mreqa(f,)meqf</wil> <mw>mreq</mw>
+<c>SP-ROOT</c> <wil>mluca(u,)mlucu</wil> <mw>mluc</mw>
+<c>SP-ROOT</c> <wil>mluYca(u,)mluYcu</wil> <mw>mluYc</mw>
+<c>SP-ROOT</c> <wil>mlewa(f,)mledf</wil> <mw>mlew</mw>
+<c>SP-ROOT</c> <wil>mleva(f,)mlevf</wil> <mw>mlev</mw>
+<c>SP-ROOT</c> <wil>yata(I)yatI</wil> <mw>yat</mw>
+<c>SP-ROOT</c> <wil>yatra(i,)yatri</wil> <mw>yantr</mw>
+<c>SP-ROOT</c> <wil>yaBa(O)yaBO</wil> <mw>yaB</mw>
+<c>SP-ROOT</c> <wil>yasa(ira u) ir yasu</wil> <mw>yas</mw>
+<c>SP-ROOT</c> <wil>yAca(du,f)duyAhf</wil> <mw>yAc</mw>
+<c>SP-ROOT</c> <wil>yuga(i)yugi</wil> <mw>yuNg</mw>
+<c>SP-ROOT</c> <wil>yuja(O)yujO</wil> <mw>yuj</mw>
+<c>SP-ROOT</c> <wil>yuDa(O)</wil> <mw>yuD</mw>
+<c>SP-ROOT</c> <wil>yeza(f)yezf</wil> <mw>yez</mw>
+<c>SP-ROOT</c> <wil>yOwa(f,)yOdf</wil> <mw>yOw</mw>
+<c>SP-ROOT</c> <wil>raGa(i)raGi</wil> <mw>raG</mw>
+<c>SP-ROOT</c> <wil>raDa(lf u</wil> <mw>raD</mw>
+<c>SP-ROOT</c> <wil>raPa(i)raPi</wil> <mw>raP</mw>
+<c>SP-ROOT</c> <wil>raba(i)rabi</wil> <mw>ramb</mw>
+<c>SP-ROOT</c> <wil>raBa(O)O raBa</wil> <mw>raB</mw>
+<c>SP-ROOT</c> <wil>rama(O, u) Oramu</wil> <mw>ram</mw>
+<c>SP-ROOT</c> <wil>rAKa(f)rAKf</wil> <mw>rAK</mw>
+<c>SP-ROOT</c> <wil>ruda(ira)rudira</wil> <mw>rud</mw>
+<c>SP-ROOT</c> <wil>ruha(Yi O) YiOruha</wil> <mw>ruh</mw>
+<c>SP-ROOT</c> <wil>reka(f,)rekf</wil> <mw>rek</mw>
+<c>SP-ROOT</c> <wil>reja(f,)rejf</wil> <mw>rej</mw>
+<c>SP-ROOT</c> <wil>rewa(f)redf</wil> <mw>rew</mw>
+<c>SP-ROOT</c> <wil>repa(f)repf</wil> <mw>rep</mw>
+<c>SP-ROOT</c> <wil>reva(f)revf</wil> <mw>rev</mw>
+<c>SP-ROOT</c> <wil>reza(f)rezf</wil> <mw>rez</mw>
+<c>SP-ROOT</c> <wil>roqa(f)roqf</wil> <mw>roq</mw>
+<c>SP-ROOT</c> <wil>rOwa(f)rOdf</wil> <mw>rOw</mw>
+<c>SP-ROOT</c> <wil>rOqa(f)rOqf</wil> <mw>rOq</mw>
+<c>SP-ROOT</c> <wil>laga(e,)lage</wil> <mw>lag</mw>
+<c>SP-ROOT</c> <wil>lapa(f)lapf</wil> <mw>lap</mw>
+<c>SP-ROOT</c> <wil>laba(i)labi</wil> <mw>lamb</mw>
+<c>SP-ROOT</c> <wil>laBa(qu aza)qulaBa</wil> <mw>laB</mw>
+<c>SP-ROOT</c> <wil>lAKa(f)lARvf</wil> <mw>lAK</mw>
+<c>SP-ROOT</c> <wil>lAGa(f)lAGf</wil> <mw>lAG</mw>
+<c>SP-ROOT</c> <wil>lAcCa(i)lAcCi</wil> <mw>lAYC</mw>
+<c>SP-ROOT</c> <wil>liga(i)ligi</wil> <mw>liNg</mw>
+<c>SP-ROOT</c> <wil>lipa(Yi O)Yi Olipa</wil> <mw>lip</mw>
+<c>SP-ROOT</c> <wil>liSa(O)liSO</wil> <mw>liS</mw>
+<c>SP-ROOT</c> <wil>luca(i)luci</wil> <mw>luYc</mw>
+<c>SP-ROOT</c> <wil>luwa(lf)luwlf</wil> <mw>luw</mw>
+<c>SP-ROOT</c> <wil>luTa(i)luTi</wil> <mw>lunT</mw>
+<c>SP-ROOT</c> <wil>luba(i)lubi</wil> <mw>lumb</mw>
+<c>SP-ROOT</c> <wil>lU(lU)</wil> <mw>lU</mw>
+<c>SP-ROOT</c> <wil>lepa(f)lepf</wil> <mw>lep</mw>
+<c>SP-ROOT</c> <wil>lERa(f)lERf</wil> <mw>lER</mw>
+<c>SP-ROOT</c> <wil>loka(f)lokf</wil> <mw>lok</mw>
+<c>SP-ROOT</c> <wil>loca(f)locf</wil> <mw>loc</mw>
+<c>SP-ROOT</c> <wil>lowa(f)lodf</wil> <mw>low</mw>
+<c>SP-ROOT</c> <wil>loqa(f)loqf</wil> <mw>loq</mw>
+<c>SP-ROOT</c> <wil>vaka(i)vaki</wil> <mw>vak</mw>
+<c>SP-ROOT</c> <wil>vaga(i)vagi</wil> <mw>vaNg</mw>
+<c>SP-ROOT</c> <wil>vaGa(i)vaGi</wil> <mw>vaNG</mw>
+<c>SP-ROOT</c> <wil>vaca(O)Ovaca</wil> <mw>vac</mw>
+<c>SP-ROOT</c> <wil>vaYca(u)vaYca</wil> <mw>vaYc</mw>
+<c>SP-ROOT</c> <wil>vaqa(i)vaqi</wil> <mw>vaRq</mw>
+<c>SP-ROOT</c> <wil>vaRa(f)vaRf</wil> <mw>vaR</mw>
+<c>SP-ROOT</c> <wil>vapa(qu)quvapa</wil> <mw>vap</mw>
+<c>SP-ROOT</c> <wil>vama(wu u)wuvamu</wil> <mw>vam</mw>
+<c>SP-ROOT</c> <wil>vasa(O)Ovasa</wil> <mw>vas</mw>
+<c>SP-ROOT</c> <wil>vAkza(i)vAkzi</wil> <mw>vANkz</mw>
+<c>SP-ROOT</c> <wil>vAcCa(i)vAcCi</wil> <mw>vAYC</mw>
+<c>SP-ROOT</c> <wil>vAqa(f)vAqf</wil> <mw>vAq</mw>
+<c>SP-ROOT</c> <wil>vAvfta(u)</wil> <mw>vAvft</mw>
+<c>SP-ROOT</c> <wil>vASa(f)vASf</wil> <mw>vAS</mw>
+<c>SP-ROOT</c> <wil>vAha(f)vAhf</wil> <mw>vAh</mw>
+<c>SP-ROOT</c> <wil>vica(Oira)O vicir</wil> <mw>vic</mw>
+<c>SP-ROOT</c> <wil>vija(O ira)O vijir</wil> <mw>vij</mw>
+<c>SP-ROOT</c> <wil>viTa(f)viTf</wil> <mw>viT</mw>
+<c>SP-ROOT</c> <wil>vfja(I)vfjI</wil> <mw>vfj</mw>
+<c>SP-ROOT</c> <wil>vraSca(o u)ovraScu</wil> <mw>vraSc</mw>
+<c>SP-ROOT</c> <wil>SOqa(f)SOqf</wil> <mw>SOw</mw>

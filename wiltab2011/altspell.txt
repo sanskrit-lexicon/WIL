@@ -1,0 +1,8 @@
+<c>(ejf)SPELL</c> <wil>naBo'mbupa</wil> <mw>naBombupa</mw>
+<c>(ejf)SPELL</c> <wil>medo'rvvuda</wil> <mw>medorbuda</mw>
+<c>(ejf)SPELL</c> <wil>aMSAMSi</wil> <mw>aMSAMsi</mw>
+<c>(ejf)SPELL</c> <wil>ahaspati</wil> <mw>ahaHpati</mw>
+<c>(ejf)SPELL</c> <wil>trik</wil> <mw>trika</mw>
+<c>(ejf)SPELL</c> <wil>triKadva</wil> <mw>triKawva</mw>
+<c>(ejf)SPELL</c> <wil>tridaSan</wil> <mw>tridaSa</mw>
+<c>(ejf)SPELL</c> <wil>devIkowwa</wil> <mw>devIkowa</mw>

@@ -1,0 +1,499 @@
+<!-- was: "wiltab_mw-1.log"; edited by MA  -->
+<!-- "?" = "I don't know why this word is not in MW; "E" = "error"; "V" = "variant"; "G" = "grammar"; "R" = "root issue" -->
+
+<c>(MA) E (-/M) </c> <wil err="typo" corr="aDo'MSuka">aDo'Suka</wil> <mw>aDoMSuka</mw>
+<c>(MA) E (-/am)| printing-error (Wilson prints a virama that is wrong)?</c> <wil err="fact" corr="aDijyotiza">aDijyotiz</wil> <mw>aDijyotizam</mw>
+<c>(MA) E (-/r) </c> <wil err="scan" corr="ArTika">ATika</wil> <mw>ArTika</mw>
+<c>(MA) E (-/r) </c> <wil err="scan" corr="Ardranayana">Adranayana</wil> <mw>Ardranayana</mw>
+<c>(MA) E (-/r) </c> <wil err="scan" corr="ArdratA">AdratA</wil> <mw>ArdratA</mw>
+<c>(MA) E (-/r) </c> <wil err="scan" corr="akarkkaSa">akakkaSa</wil> <mw>akarkaSa</mw>
+<c>(MA) E (-/r); and (yy/y) </c> <wil err="scan" corr="AryyarUpa">AyyarUpa</wil> <mw>AryarUpa</mw>
+<c>(MA) E (A/a); and E (a/-)</c> <wil err="typo" corr="Atmavid">AtmAvida</wil> <mw>Atmavid</mw>
+<c>(MA) E (A/o) </c> <wil err="scan" corr="Amozin">AmAzin</wil> <mw>Amozin</mw>
+<c>(MA) E (A/o) </c> <wil err="scan" corr="agocara">agAcara</wil> <mw>agocara</mw>
+<c>(MA) E (A/o) </c> <wil err="scan" corr="ajamodA">ajamAdA</wil> <mw>ajamodA</mw>
+<c>(MA) E (A/o) </c> <wil err="scan" corr="akroDa">akrADa</wil> <mw>akroDa</mw>
+<c>(MA) E (B/J) </c> <wil err="typo" corr="ajJala">ajBala</wil> <mw>ajJala</mw>
+<c>(MA) E (B/J) </c> <wil err="typo" corr="ajJawA">ajBawA</wil> <mw>ajJawA</mw>
+<c>(MA) E (G/D) </c> <wil err="typo" corr="aYjanADikA">aYjanAGikA</wil> <mw>aYjanADikA</mw>
+<c>(MA) E (M/-) "M" + "r"</c> <wil corr="karRaveDa">karRaMveDa</wil> <mw>*</mw>
+<c>(MA) E (M/-) "M" + "r"</c> <wil corr="nirGaRwa">nirGaMRwa</wil> <mw>*</mw>
+<c>(MA) E (M/-) "M" + "r"</c> <wil corr="unmArgagAmin">unmArgaMgAmin</wil> <mw>unmArgagAmin</mw>
+<c>(MA) E (M/-) "M" + "r"</c> <wil err="scan" corr="Irzyaka">IrzyaMka</wil> <mw>Irzyaka</mw>
+<c>(MA) E (M/-) "M" + "r"</c> <wil err="typo" corr="Arkzavarza">ArkzaMvarza</wil> <mw>Arkzavarza</mw>
+<c>(MA) E (M/-) "M" + "r"</c> <wil>IrzyAMvaSa</wil> <mw>*</mw>
+<c>(MA) E (M/-) "M" at word-end; and compound; and (ryy/ry) spelling after r</c> <wil err="scan" corr="agnikAryya">agnikAryyaM</wil> <mw>agnikArya</mw>
+<c>(MA) E (M/-) "M" at word-end; printing-error?</c> <wil>aDobanDanaM</wil> <mw>aDobanDana</mw>
+<c>(MA) E (M/-) "M" at word-end</c> <wil corr="aBihitatva">aBihitatvaM</wil> <mw>aBihitatva</mw>
+<c>(MA) E (M/-) "M" at word-end</c> <wil corr="anuraYjana">anuraYjanaM</wil> <mw>anuraYjana</mw>
+<c>(MA) E (M/-) "M" at word-end</c> <wil corr="apraSasta">apraSastaM</wil> <mw>apraSasta</mw>
+<c>(MA) E (M/-) "M" at word-end</c> <wil corr="astranivAraRa">astranivAraRaM</wil> <mw>*</mw>
+<c>(MA) E (M/-) "M" at word-end</c> <wil corr="huqukka">huqukkaM</wil> <mw>*</mw>
+<c>(MA) E (M/-) "M" at word-end</c> <wil corr="kfzRasarpa">kfzRasarpaM</wil> <mw>*</mw>
+<c>(MA) E (M/-) "M" at word-end</c> <wil corr="upacArakaraRa">upacArakaraRaM</wil> <mw>*</mw>
+<c>(MA) E (M/-) "M" at word-end</c> <wil corr="upasarjana">upasarjanaM</wil> <mw>*</mw>
+<c>(MA) E (M/-) "M" at word-end</c> <wil corr="uttamarRa">uttamarRaM</wil> <mw>uttamarRa</mw>
+<c>(MA) E (M/-) "M" at word-end</c> <wil corr="varutra">varutraM</wil> <mw>*</mw>
+<c>(MA) E (M/-) "M" at word-end</c> <wil err="scan" corr="akzasUtra">akzasUtraM</wil> <mw>akzasUtra</mw>
+<c>(MA) E (M/-) </c> <wil corr="kulaBftyA">kulaMBftyA</wil> <mw>*</mw>
+<c>(MA) E (M/-); a root; in MW under "kartr"o</c> <wil corr="kartra">kartraM</wil> <mw>*</mw>
+<c>(MA) E (M/-)</c> <wil corr="anukramaRikA">anukraMmaRikA</wil> <mw>anukramaRikA</mw>
+<c>(MA) E (M/-)</c> <wil corr="cAndraka">cAndrakaM</wil> <mw>*</mw>
+<c>(MA) E (M/-)</c> <wil corr="duzpraDarzaRI">duzpraDarzaMRI</wil> <mw>*</mw>
+<c>(MA) E (M/-)</c> <wil corr="kORqinya">kORqinyaM</wil> <mw>*</mw>
+<c>(MA) E (M/-)</c> <wil corr="keSapaNkti">keSapaMNkti</wil> <mw>*</mw>
+<c>(MA) E (M/-)</c> <wil corr="kzudraSIrza">kzudraSIrzaM</wil> <mw>*</mw>
+<c>(MA) E (M/-)</c> <wil corr="mAkanda">mAMkanda</wil> <mw>*</mw>
+<c>(MA) E (M/-)</c> <wil corr="nUtanatva">nUtanatvaM</wil> <mw>*</mw>
+<c>(MA) E (M/-)</c> <wil corr="pOnaHpunya">pOnaHpunyaM</wil> <mw>*</mw>
+<c>(MA) E (Sp/Sy) </c> <wil err="typo" corr="AkfzyamARa">AkfzpamARa</wil> <mw>*</mw>
+<c>(MA) E (Sv/Sc) </c> <wil err="typo" corr="aDaScOra">aDaSvOra</wil> <mw>aDaScOra</mw>
+<c>(MA) E (Sv/Sc) </c> <wil err="typo" corr="aDaScara">aDaSvara</wil> <mw>aDaScara</mw>
+<c>(MA) E (Sv/Sc) </c> <wil err="typo" corr="aNgaprAyaScitta">aNgaprAyaSvitta</wil> <mw>aNgaprAyaScitta</mw>
+<c>(MA) E (a/E) </c> <wil err="scan" corr="advEta">advata</wil> <mw>advEta</mw>
+<c>(MA) E (a/E) </c> <wil err="scan" corr="advEtavAdin">advatavAdin</wil> <mw>advEtavAdin</mw>
+<c>(MA) E (a/O) printing-error? (-dyUtika); MW has "AkzadyUtika"</c> <wil err="scan">akzadyatika</wil> <mw>*</mw>
+<c>(MA) E (a/e) </c> <wil err="scan" corr="ASleza">ASlaza</wil> <mw>ASleza</mw>
+<c>(MA) E (a/e) </c> <wil err="scan" corr="AveSika">AvaSika</wil> <mw>AveSika</mw>
+<c>(MA) E (a/i) </c> <wil err="typo" corr="ADarzata">ADarzata</wil> <mw>ADarzita</mw>
+<c>(MA) E (a/u) </c> <wil corr="anukaraRa">anakaraRa</wil> <mw>*</mw>
+<c>(MA) E (a/u) </c> <wil corr="avawuja">avawaja</wil> <mw>*</mw>
+<c>(MA) E (a/u) </c> <wil err="scan" corr="Akruzwa">Akrazwa</wil> <mw>Akruzwa</mw>
+<c>(MA) E (a/u) </c> <wil err="scan" corr="AyuDAgAra">AyaDAgAra</wil> <mw>AyuDAgAra</mw>
+<c>(MA) E (a/u) </c> <wil err="scan" corr="AyuDika">AyaDika</wil> <mw>AyuDika</mw>
+<c>(MA) E (a/u) </c> <wil err="scan" corr="aDaramaDu">aDaramaDa</wil> <mw>aDaramaDu</mw>
+<c>(MA) E (a/u) </c> <wil err="scan" corr="indujA">indajA</wil> <mw>indujA</mw>
+<c>(MA) E (a/u) </c> <wil err="typo" corr="indukamala">indakamala</wil> <mw>indukamala</mw>
+<c>(MA) E (a/u) </c> <wil>agnikukkawa</wil> <mw>agnikukkuwa</mw>
+<c>(MA) E (b/v) </c> <wil err="typo" corr="AKuvizahA">AKubizahA</wil> <mw>AKuvizahA</mw>
+<c>(MA) E (b/v) </c> <wil err="typo" corr="AvaraRaSakti">AbaraRaSakti</wil> <mw>*</mw>
+<c>(MA) E (b/v) </c> <wil err="typo" corr="aNgAravallarI">aNgAraballarI</wil> <mw>*</mw>
+<c>(MA) E (b/v) </c> <wil err="typo" corr="aNkavidyA">aNkabidyA</wil> <mw>aNkavidyA</mw>
+<c>(MA) E (b/v) </c> <wil err="typo">AtmabIra</wil> <mw>AtmavIra</mw>
+<c>(MA) E (b/v): and (rvv/rv) </c> <wil err="typo" corr="AnupUrbba">AnupUrbva</wil> <mw>AnupUrva</mw>
+<c>(MA) E (b/v); and (rvv/rv) spelling after r</c> <wil err="typo" corr="atigarrvita">atigarbvita</wil> <mw>atigarvita</mw>
+<c>(MA) E (bv/v) </c> <wil err="typo" corr="IrvvAru">IrbvAru</wil> <mw>IrvAru</mw>
+<c>(MA) E (bv/v) </c> <wil err="typo" corr="irvvAlu">irbvAlu</wil> <mw>irvAlu</mw>
+<c>(MA) E (bv/v) </c> <wil err="typo" corr="irvvAruSuktikA">irbvAruSuktikA</wil> <mw>irvAruSuktikA</mw>
+<c>(MA) E (dD/dr) </c> <wil err="scan" corr="indradru">indradDu</wil> <mw>indradru</mw>
+<c>(MA) E (df/wwa) </c> <wil err="typo" corr="AGawwaka">AGadfka</wil> <mw>AGawwaka</mw>
+<c>(MA) E (df/wwa) </c> <wil err="typo" corr="AGawwana">AGadfna</wil> <mw>AGawwana</mw>
+<c>(MA) E (e/a) </c> <wil err="scan" corr="Adipuruza">Adipuruze</wil> <mw>Adipuruza</mw>
+<c>(MA) E (e/o) </c> <wil corr="amanogata">amanegata</wil> <mw>*</mw>
+<c>(MA) E (e/o) </c> <wil err="typo" corr="atiSoBana">atiSeBana</wil> <mw>atiSoBana</mw>
+<c>(MA) E (g/m) </c> <wil err="scan" corr="Akampra">Akagpra</wil> <mw>Akampra</mw>
+<c>(MA) E (g/r) </c> <wil err="scan" corr="irA">igA</wil> <mw>irA</mw>
+<c>(MA) E (h/dD); and (rdD/rD) spelling after r</c> <wil err="typo" corr="agnivardDaka">agnivarhvaka</wil> <mw>agnivarDaka</mw>
+<c>(MA) E (hr/hn) </c> <wil err="scan" corr="AhnikAcAra">AhrikAcAra</wil> <mw>AhnikAcAra</mw>
+<c>(MA) E (k/tk) </c> <wil err="typo" corr="atyutkfzwa">atyukfzwa</wil> <mw>atyutkfzwa</mw>
+<c>(MA) E (m/s); wrong auto-correction: AUTO(NEGa)</c> <wil corr="asat">amat</wil> <mw>*</mw>
+<c>(MA) E (n/b) </c> <wil err="scan" corr="ArabDa">AranDa</wil> <mw>ArabDa</mw>
+<c>(MA) E (n/m) </c> <wil err="scan" corr="akftrima">akftrina</wil> <mw>akftrima</mw>
+<c>(MA) E (ntv/ntr) </c> <wil err="typo" corr="aDoyantra">aDoyantva</wil> <mw>aDoyantra</mw>
+<c>(MA) E (o/A) </c> <wil err="scan" corr="AjYopaka">AjYopaka</wil> <mw>AjYApaka</mw>
+<c>(MA) E (rbv/rv) </c> <wil err="typo" corr="Aptagarbba">Aptagarbva</wil> <mw>Aptagarva</mw>
+<c>(MA) E (rtt/rtv) </c> <wil err="fact" corr="Artvijya">Arttijya</wil> <mw>Artvijya</mw>
+<c>(MA) E (s/m) </c> <wil err="typo" corr="Anamra">Anasra</wil> <mw>Anamra</mw>
+<c>(MA) E (s/m) </c> <wil err="typo" corr="aDamaBftaka">aDasaBftaka</wil> <mw>aDamaBftaka</mw>
+<c>(MA) E (st/l) </c> <wil err="scan" corr="AmUla">AmUsta</wil> <mw>*</mw>
+<c>(MA) E (t/nt) </c> <wil err="typo" corr="anantaka">anataka</wil> <mw>anantaka</mw>
+<c>(MA) E (v/t) </c> <wil err="scan" corr="anaBimata">anaBimava</wil> <mw>anaBimata</mw>
+<c>(MA) E (v/tr) </c> <wil err="typo" corr="atraBavat">avaBavat</wil> <mw>atraBavat</mw>
+<c>(MA) E (v/tr); wrong auto-correction: AUTO(NEGa)</c> <wil corr="atrapa">avapa</wil> <mw>*</mw>
+<c>(MA) E (v/y) </c> <wil err="typo" corr="anapAyin">anapAvin</wil> <mw>anapAyin</mw>
+<c>(MA) E (va/rve) </c> <wil err="scan" corr="AntarveSmika">AntavaSmika</wil> <mw>AntarveSmika</mw>
+<c>(MA) E (vy/ty) </c> <wil err="scan" corr="Ahfvya">Ahfvya</wil> <mw>Ahftya</mw>
+<c>(MA) E (w/d) </c> <wil err="typo" corr="AnakawunduBi">AnakawunduBi</wil> <mw>AnakadunduBi</mw>
+<c>(MA) E (w/d) </c> <wil err="typo" corr="aduzwa">awuzwa</wil> <mw>aduzwa</mw>
+<c>(MA) E (w/d) </c> <wil err="typo" corr="akzavid">akzaviw</wil> <mw>akzavid</mw>
+<c>(MA) E (w/d) </c> <wil err="typo" corr="atiduzkara">atiwuzkara</wil> <mw>atiduzkara</mw>
+<c>(MA) E (w/d); and (rdD/rD) spelling</c> <wil err="typo" corr="aNkuSadurdDara">aNkuSawurdDara</wil> <mw>aNkuSadurDara</mw>
+<c>(MA) E (wv/wc) </c> <wil err="scan" corr="iwcara">iwvara</wil> <mw>iwcara</mw>
+<c>(MA) E (y/T) </c> <wil err="typo" corr="agnimanTa">agnimanya</wil> <mw>agnimanTa</mw>
+<c>(MA) E (y/p) </c> <wil err="typo" corr="akfpa">akfya</wil> <mw>akfpa</mw>
+<c>(MA) E (z/D) </c> <wil err="typo" corr="agnID">agnIz</wil> <mw>agnID</mw>
+<c>(MA) E not in MW; and error (w/d) (d + danda looks like w) </c> <wil err="typo" corr="akovid">akoviw</wil> <mw>*</mw>
+<c>(MA) E unreadable in Wilson scan ( ejf prob agarva) </c> <wil err="typo" corr="agarvva">agarYva</wil> <mw>agarva</mw>
+<c>(MA) G (-/m$) adverb: Wilson has the adverb in the stem-form, MW "aDyAtma" and "aDyAtmam"</c> <wil>aDyAtman</wil> <mw>aDyAtma</mw>
+<c>(MA) G (-/m$) adverb: Wilson has the adverb in the stem-form, MW with the final "m"</c> <wil>aDiloka</wil> <mw>aDilokam</mw>
+<c>(MA) G (-/m$) adverb: Wilson has the adverb in the stem-form, MW with the final "m"</c> <wil>aDipraja</wil> <mw>aDiprajam</mw>
+<c>(MA) G (-/m$) adverb: Wilson has the adverb in the stem-form, MW with the final "m"</c> <wil>aDyakzara</wil> <mw>aDyakzaram</mw>
+<c>(MA) G </c> <wil>Agamayya</wil> <mw>*</mw>
+<c>(MA) G </c> <wil>AjYAnusArin</wil> <mw>*</mw>
+<c>(MA) G </c> <wil>AkASajananin</wil> <mw>*</mw>
+<c>(MA) G abstractum (-tA) </c> <wil>aDfzwatA</wil> <mw>*</mw>
+<c>(MA) G abstractum (-tA) </c> <wil>aDyakzatA</wil> <mw>*</mw>
+<c>(MA) G abstractum (-tA) </c> <wil>atIkzRatA</wil> <mw>*</mw>
+<c>(MA) G abstractum (-tA); and (rmm/rm) </c> <wil>aDarmmatA</wil> <mw>*</mw>
+<c>(MA) G abstractum </c> <wil>AkAlikatva</wil> <mw>*</mw>
+<c>(MA) G abstractum </c> <wil>AtatAyitA</wil> <mw>*</mw>
+<c>(MA) G abstractum </c> <wil>AvaSyakatva</wil> <mw>*</mw>
+<c>(MA) G abstraktum (-tA) </c> <wil>agADatA</wil> <mw>*</mw>
+<c>(MA) G abstraktum (-tva) </c> <wil>agADatva</wil> <mw>*</mw>
+<c>(MA) G abstraktum (-tva) </c> <wil>akftajYatva</wil> <mw>*</mw>
+<c>(MA) G abstraktum (-tva) </c> <wil>akriyatva</wil> <mw>*</mw>
+<c>(MA) G abstraktum (-tva) </c> <wil>akzamatva</wil> <mw>*</mw>
+<c>(MA) G abstraktum </c> <wil>AstikatA</wil> <mw>*</mw>
+<c>(MA) G comparativum</c> <wil>aDikatama</wil> <mw>*</mw>
+<c>(MA) G comparativum</c> <wil>aDikatara</wil> <mw>*</mw>
+<c>(MA) G comparativum</c> <wil>akanizWama</wil> <mw>*</mw>
+<c>(MA) G compositum (perhaps it should be "aDoBAgadozahara") </c> <wil>aDoBAgahara</wil> <mw>*</mw>
+<c>(MA) G compositum </c> <wil>Ahitasvana</wil> <mw>*</mw>
+<c>(MA) G compositum </c> <wil>AhitavyaTa</wil> <mw>*</mw>
+<c>(MA) G compositum </c> <wil>AstIkajananI</wil> <mw>*</mw>
+<c>(MA) G compositum; and (ryy/ry) </c> <wil>ananyahAryya</wil> <mw>*</mw>
+<c>(MA) G compositum</c> <wil>ADyupaBoga</wil> <mw>*</mw>
+<c>(MA) G compositum</c> <wil>AdyopAnta</wil> <mw>*</mw>
+<c>(MA) G compositum</c> <wil>Agamarahita</wil> <mw>*</mw>
+<c>(MA) G compositum</c> <wil>AgamasApekza</wil> <mw>*</mw>
+<c>(MA) G compositum</c> <wil>AjIvanArTa</wil> <mw>*</mw>
+<c>(MA) G compositum</c> <wil>AjYAkaraRa</wil> <mw>*</mw>
+<c>(MA) G compositum</c> <wil>AjYAnuyAyin</wil> <mw>*</mw>
+<c>(MA) G compositum</c> <wil>AjikriyA</wil> <mw>*</mw>
+<c>(MA) G compositum</c> <wil>AjyaBAsa</wil> <mw>*</mw>
+<c>(MA) G compositum</c> <wil>AkASamaRqala</wil> <mw>*</mw>
+<c>(MA) G compositum</c> <wil>AmASaya</wil> <mw>*</mw>
+<c>(MA) G compositum</c> <wil>ApatprApta</wil> <mw>*</mw>
+<c>(MA) G compositum</c> <wil>AtapABAva</wil> <mw>*</mw>
+<c>(MA) G compositum</c> <wil>AtmArTa</wil> <mw>*</mw>
+<c>(MA) G compositum</c> <wil>Atmaloman</wil> <mw>*</mw>
+<c>(MA) G compositum</c> <wil>AtmasAtkfta</wil> <mw>*</mw>
+<c>(MA) G compositum</c> <wil>AtmasidDi</wil> <mw>*</mw>
+<c>(MA) G compositum</c> <wil>Attagarvva</wil> <mw>*</mw>
+<c>(MA) G compositum</c> <wil>aDaHkzipta</wil> <mw>*</mw>
+<c>(MA) G compositum</c> <wil>aDaHpatita</wil> <mw>*</mw>
+<c>(MA) G compositum</c> <wil>aGAha</wil> <mw>*</mw>
+<c>(MA) G compositum</c> <wil>aGamaya</wil> <mw>*</mw>
+<c>(MA) G compositum</c> <wil>aGanASana</wil> <mw>*</mw>
+<c>(MA) G compositum</c> <wil>agnidEvatya</wil> <mw>*</mw>
+<c>(MA) G compositum</c> <wil>agnikArita</wil> <mw>*</mw>
+<c>(MA) G compositum</c> <wil>agnirahita</wil> <mw>*</mw>
+<c>(MA) G compositum</c> <wil>agnirakzita</wil> <mw>*</mw>
+<c>(MA) G compositum</c> <wil>agnyastra</wil> <mw>*</mw>
+<c>(MA) G compositum</c> <wil>aguruSiMSapA</wil> <mw>*</mw>
+<c>(MA) G compositum</c> <wil>akARqajAta</wil> <mw>*</mw>
+<c>(MA) G femininum (ejf: not sure how to handle) </c> <wil>aNgAriRI</wil> <mw>*</mw>
+<c>(MA) G femininum</c> <wil>AyatAkzI</wil> <mw>*</mw>
+<c>(MA) G instr.</c> <wil>aDareRa</wil> <mw>*</mw>
+<c>(MA) G negation; and (rmm/rm) </c> <wil>akarmmakft</wil> <mw>*</mw>
+<c>(MA) G negation; and abstractum</c> <wil>acintatA</wil> <mw>*</mw>
+<c>(MA) G negation; correct: AUTO(NEGa)</c> <wil>aSArIrika</wil> <mw>*</mw>
+<c>(MA) G negation; correct: AUTO(NEGa)</c> <wil>aSAsanIya</wil> <mw>*</mw>
+<c>(MA) G negation; correct: AUTO(NEGa)</c> <wil>aSAsita</wil> <mw>*</mw>
+<c>(MA) G negation; correct: AUTO(NEGa)</c> <wil>aSOcatva</wil> <mw>*</mw>
+<c>(MA) G negation; correct: AUTO(NEGa)</c> <wil>aSizwAcAra</wil> <mw>*</mw>
+<c>(MA) G negation; correct: AUTO(NEGa)</c> <wil>aSlAGanIya</wil> <mw>*</mw>
+<c>(MA) G negation; correct: AUTO(NEGa)</c> <wil>aSoDana</wil> <mw>*</mw>
+<c>(MA) G negation; correct: AUTO(NEGa)</c> <wil>aSrIla</wil> <mw>*</mw>
+<c>(MA) G negation; correct: AUTO(NEGa)</c> <wil>ahalya</wil> <mw>*</mw>
+<c>(MA) G negation; correct: AUTO(NEGa)</c> <wil>ahantavya</wil> <mw>*</mw>
+<c>(MA) G negation; correct: AUTO(NEGa)</c> <wil>aharzita</wil> <mw>*</mw>
+<c>(MA) G negation; correct: AUTO(NEGa)</c> <wil>ahetutA</wil> <mw>*</mw>
+<c>(MA) G negation; correct: AUTO(NEGa)</c> <wil>ahiMsita</wil> <mw>*</mw>
+<c>(MA) G negation; correct: AUTO(NEGa)</c> <wil>alipijYa</wil> <mw>*</mw>
+<c>(MA) G negation; correct: AUTO(NEGa)</c> <wil>alokana</wil> <mw>*</mw>
+<c>(MA) G negation; correct: AUTO(NEGa)</c> <wil>amAnya</wil> <mw>*</mw>
+<c>(MA) G negation; correct: AUTO(NEGa)</c> <wil>amArgita</wil> <mw>*</mw>
+<c>(MA) G negation; correct: AUTO(NEGa)</c> <wil>amanohara</wil> <mw>*</mw>
+<c>(MA) G negation; correct: AUTO(NEGa)</c> <wil>amantavya</wil> <mw>*</mw>
+<c>(MA) G negation; correct: AUTO(NEGa)</c> <wil>amaruta</wil> <mw>*</mw>
+<c>(MA) G negation; correct: AUTO(NEGa)</c> <wil>ameGa</wil> <mw>*</mw>
+<c>(MA) G negation; correct: AUTO(NEGa)</c> <wil>amftaDAra</wil> <mw>*</mw>
+<c>(MA) G negation; correct: AUTO(NEGa)</c> <wil>aramya</wil> <mw>*</mw>
+<c>(MA) G negation; correct: AUTO(NEGa)</c> <wil>arudita</wil> <mw>*</mw>
+<c>(MA) G negation; correct: AUTO(NEGa)</c> <wil>aruzwa</wil> <mw>*</mw>
+<c>(MA) G negation; correct: AUTO(NEGa)</c> <wil>asADanIya</wil> <mw>*</mw>
+<c>(MA) G negation; correct: AUTO(NEGa)</c> <wil>asADita</wil> <mw>*</mw>
+<c>(MA) G negation; correct: AUTO(NEGa)</c> <wil>asADutA</wil> <mw>*</mw>
+<c>(MA) G negation; correct: AUTO(NEGa)</c> <wil>asAmpratam</wil> <mw>*</mw>
+<c>(MA) G negation; correct: AUTO(NEGa)</c> <wil>asAndra</wil> <mw>*</mw>
+<c>(MA) G negation; correct: AUTO(NEGa)</c> <wil>asOzwava</wil> <mw>*</mw>
+<c>(MA) G negation; correct: AUTO(NEGa)</c> <wil>asTAga</wil> <mw>*</mw>
+<c>(MA) G negation; correct: AUTO(NEGa)</c> <wil>asTAya</wil> <mw>*</mw>
+<c>(MA) G negation; correct: AUTO(NEGa)</c> <wil>asTala</wil> <mw>*</mw>
+<c>(MA) G negation; correct: AUTO(NEGa)</c> <wil>asTiratA</wil> <mw>*</mw>
+<c>(MA) G negation; correct: AUTO(NEGa)</c> <wil>asaMlagna</wil> <mw>*</mw>
+<c>(MA) G negation; correct: AUTO(NEGa)</c> <wil>asaMsTiti</wil> <mw>*</mw>
+<c>(MA) G negation; correct: AUTO(NEGa)</c> <wil>asahanIya</wil> <mw>*</mw>
+<c>(MA) G negation; correct: AUTO(NEGa)</c> <wil>asahita</wil> <mw>*</mw>
+<c>(MA) G negation; correct: AUTO(NEGa)</c> <wil>asamAhAra</wil> <mw>*</mw>
+<c>(MA) G negation; correct: AUTO(NEGa)</c> <wil>asamApita</wil> <mw>*</mw>
+<c>(MA) G negation; correct: AUTO(NEGa)</c> <wil>asamBAvanA</wil> <mw>*</mw>
+<c>(MA) G negation; correct: AUTO(NEGa)</c> <wil>asamBAvanIya</wil> <mw>*</mw>
+<c>(MA) G negation; correct: AUTO(NEGa)</c> <wil>asamBoga</wil> <mw>*</mw>
+<c>(MA) G negation; correct: AUTO(NEGa)</c> <wil>asamBrama</wil> <mw>*</mw>
+<c>(MA) G negation; correct: AUTO(NEGa)</c> <wil>asamavAyikAraRa</wil> <mw>*</mw>
+<c>(MA) G negation; correct: AUTO(NEGa)</c> <wil>asambADa</wil> <mw>*</mw>
+<c>(MA) G negation; correct: AUTO(NEGa)</c> <wil>asambadDa</wil> <mw>*</mw>
+<c>(MA) G negation; correct: AUTO(NEGa)</c> <wil>asambanDa</wil> <mw>*</mw>
+<c>(MA) G negation; correct: AUTO(NEGa)</c> <wil>asammAna</wil> <mw>*</mw>
+<c>(MA) G negation; correct: AUTO(NEGa)</c> <wil>asammUQa</wil> <mw>*</mw>
+<c>(MA) G negation; correct: AUTO(NEGa)</c> <wil>asammata</wil> <mw>*</mw>
+<c>(MA) G negation; correct: AUTO(NEGa)</c> <wil>asammati</wil> <mw>*</mw>
+<c>(MA) G negation; correct: AUTO(NEGa)</c> <wil>asammoha</wil> <mw>*</mw>
+<c>(MA) G negation; correct: AUTO(NEGa)</c> <wil>asampUrRa</wil> <mw>*</mw>
+<c>(MA) G negation; correct: AUTO(NEGa)</c> <wil>asampanna</wil> <mw>*</mw>
+<c>(MA) G negation; correct: AUTO(NEGa)</c> <wil>asamparkIya</wil> <mw>*</mw>
+<c>(MA) G negation; correct: AUTO(NEGa)</c> <wil>asamparka</wil> <mw>*</mw>
+<c>(MA) G negation; correct: AUTO(NEGa)</c> <wil>asampatti</wil> <mw>*</mw>
+<c>(MA) G negation; correct: AUTO(NEGa)</c> <wil>asamyaYc</wil> <mw>*</mw>
+<c>(MA) G negation; correct: AUTO(NEGa)</c> <wil>asevana</wil> <mw>*</mw>
+<c>(MA) G negation; correct: AUTO(NEGa)</c> <wil>asmaraRIya</wil> <mw>*</mw>
+<c>(MA) G negation; correct: AUTO(NEGa)</c> <wil>asparSanIya</wil> <mw>*</mw>
+<c>(MA) G negation; correct: AUTO(NEGa)</c> <wil>asvAmya</wil> <mw>*</mw>
+<c>(MA) G negation; correct: AUTO(NEGa)</c> <wil>asvacCa</wil> <mw>*</mw>
+<c>(MA) G negation; correct: AUTO(NEGa)</c> <wil>asvakIya</wil> <mw>*</mw>
+<c>(MA) G negation; correct: AUTO(NEGa)</c> <wil>avAstavika</wil> <mw>*</mw>
+<c>(MA) G negation; correct: AUTO(NEGa)</c> <wil>avIkzita</wil> <mw>*</mw>
+<c>(MA) G negation; correct: AUTO(NEGa)</c> <wil>avaSyaka</wil> <mw>*</mw>
+<c>(MA) G negation; correct: AUTO(NEGa)</c> <wil>aviBAvanIya</wil> <mw>*</mw>
+<c>(MA) G negation; correct: AUTO(NEGa)</c> <wil>aviSezajYa</wil> <mw>*</mw>
+<c>(MA) G negation; correct: AUTO(NEGa)</c> <wil>avigama</wil> <mw>*</mw>
+<c>(MA) G negation; correct: AUTO(NEGa)</c> <wil>avigata</wil> <mw>*</mw>
+<c>(MA) G negation; correct: AUTO(NEGa)</c> <wil>aviklAnta</wil> <mw>*</mw>
+<c>(MA) G negation; correct: AUTO(NEGa)</c> <wil>avikzoBita</wil> <mw>*</mw>
+<c>(MA) G negation; correct: AUTO(NEGa)</c> <wil>avilAsa</wil> <mw>*</mw>
+<c>(MA) G negation; correct: AUTO(NEGa)</c> <wil>avilaNGanIya</wil> <mw>*</mw>
+<c>(MA) G negation; correct: AUTO(NEGa)</c> <wil>avimala</wil> <mw>*</mw>
+<c>(MA) G negation; correct: AUTO(NEGa)</c> <wil>avipanna</wil> <mw>*</mw>
+<c>(MA) G negation; correct: AUTO(NEGa)</c> <wil>avipaw</wil> <mw>*</mw>
+<c>(MA) G negation; correct: AUTO(NEGa)</c> <wil>aviqIna</wil> <mw>*</mw>
+<c>(MA) G negation; correct: AUTO(NEGa)</c> <wil>avismaraRa</wil> <mw>*</mw>
+<c>(MA) G negation; correct: AUTO(NEGa)</c> <wil>avitta</wil> <mw>*</mw>
+<c>(MA) G negation; correct: AUTO(NEGa)</c> <wil>avivAhita</wil> <mw>*</mw>
+<c>(MA) G negation; correct: AUTO(NEGa)</c> <wil>avyAKyA</wil> <mw>*</mw>
+<c>(MA) G negation; correct: AUTO(NEGa)</c> <wil>avyAKyAna</wil> <mw>*</mw>
+<c>(MA) G negation; correct: AUTO(NEGa)</c> <wil>avyAkula</wil> <mw>*</mw>
+<c>(MA) G negation; correct: AUTO(NEGa)</c> <wil>avyApitva</wil> <mw>*</mw>
+<c>(MA) G negation; correct: AUTO(NEGa)</c> <wil>avyaBicArin</wil> <mw>*</mw>
+<c>(MA) G negation; correct: AUTO(NEGa)</c> <wil>avyavasAya</wil> <mw>*</mw>
+<c>(MA) G negation; correct: AUTO(NEGa)</c> <wil>avyavasAyavat</wil> <mw>*</mw>
+<c>(MA) G negation; correct: AUTO(NEGa)</c> <wil>ayAvaka</wil> <mw>*</mw>
+<c>(MA) G negation; correct: AUTO(NEGa)</c> <wil>ayajYaka</wil> <mw>*</mw>
+<c>(MA) G negation; correct: AUTO(NEGa)</c> <wil>ayatin</wil> <mw>*</mw>
+<c>(MA) G negation; correct: AUTO(NEGa)</c> <wil>ayojana</wil> <mw>*</mw>
+<c>(MA) G negation; correct: AUTO(NEGa)</c> <wil>ayugala</wil> <mw>*</mw>
+<c>(MA) G negation; correct: AUTO(NEGa)</c> <wil>azaqakzIRa</wil> <mw>*</mw>
+<c>(MA) G negation; of participium</c> <wil>akzoBita</wil> <mw>*</mw>
+<c>(MA) G negation</c> <wil>aBIlu</wil> <mw>*</mw>
+<c>(MA) G negation</c> <wil>aBaktacCanda</wil> <mw>*</mw>
+<c>(MA) G negation</c> <wil>aBavitavya</wil> <mw>*</mw>
+<c>(MA) G negation</c> <wil>aBavitavyatA</wil> <mw>*</mw>
+<c>(MA) G negation</c> <wil>aBfSam</wil> <mw>*</mw>
+<c>(MA) G negation</c> <wil>aBojanIya</wil> <mw>*</mw>
+<c>(MA) G negation</c> <wil>aBoktf</wil> <mw>*</mw>
+<c>(MA) G negation</c> <wil>aKAdita</wil> <mw>*</mw>
+<c>(MA) G negation</c> <wil>adahanIya</wil> <mw>*</mw>
+<c>(MA) G negation</c> <wil>agaRanIya</wil> <mw>*</mw>
+<c>(MA) G negation</c> <wil>agrahaRIya</wil> <mw>*</mw>
+<c>(MA) G negation</c> <wil>ajanaka</wil> <mw>*</mw>
+<c>(MA) G negation</c> <wil>akarttavya</wil> <mw>*</mw>
+<c>(MA) G negation</c> <wil>aklAnta</wil> <mw>*</mw>
+<c>(MA) G negation</c> <wil>akzubDa</wil> <mw>*</mw>
+<c>(MA) G negation</c> <wil>amanonIta</wil> <mw>*</mw>
+<c>(MA) G negation</c> <wil>anaBiBava</wil> <mw>*</mw>
+<c>(MA) G negation</c> <wil>anaBizvaNga</wil> <mw>*</mw>
+<c>(MA) G negation</c> <wil>anaDigama</wil> <mw>*</mw>
+<c>(MA) G negation</c> <wil>anamasya</wil> <mw>*</mw>
+<c>(MA) G negation</c> <wil>anapacita</wil> <mw>*</mw>
+<c>(MA) G negation</c> <wil>anatikrAnta</wil> <mw>*</mw>
+<c>(MA) G negation</c> <wil>anatikramya</wil> <mw>*</mw>
+<c>(MA) G negation</c> <wil>anikzu</wil> <mw>*</mw>
+<c>(MA) G negation</c> <wil>anizRAta</wil> <mw>*</mw>
+<c>(MA) G negation</c> <wil>apANkta</wil> <mw>*</mw>
+<c>(MA) G negation</c> <wil>apAraka</wil> <mw>*</mw>
+<c>(MA) G negation</c> <wil>aparipAwi</wil> <mw>*</mw>
+<c>(MA) G negation</c> <wil>aparipUta</wil> <mw>*</mw>
+<c>(MA) G negation</c> <wil>apavitratA</wil> <mw>*</mw>
+<c>(MA) G negation</c> <wil>apawukaraRa</wil> <mw>*</mw>
+<c>(MA) G negation</c> <wil>apicCala</wil> <mw>*</mw>
+<c>(MA) G negation</c> <wil>aprARin</wil> <mw>*</mw>
+<c>(MA) G negation</c> <wil>aprativiDAna</wil> <mw>*</mw>
+<c>(MA) G negation</c> <wil>apratiyatna</wil> <mw>*</mw>
+<c>(MA) G negation</c> <wil>apratyayin</wil> <mw>*</mw>
+<c>(MA) G negation</c> <wil>atftpi</wil> <mw>*</mw>
+<c>(MA) G negation</c> <wil>atrAsa</wil> <mw>*</mw>
+<c>(MA) G negation</c> <wil>atyAjya</wil> <mw>*</mw>
+<c>(MA) G negation</c> <wil>atyajanIya</wil> <mw>*</mw>
+<c>(MA) G participium (ejf action noun?) </c> <wil>aMSayitf</wil> <mw>*</mw>
+<c>(MA) G participium </c> <wil>ASvasat</wil> <mw>*</mw>
+<c>(MA) G participium </c> <wil>IhamAna</wil> <mw>*</mw>
+<c>(MA) G participium </c> <wil>icCan</wil> <mw>*</mw>
+<c>(MA) G participium; and (b/v) </c> <wil>Akfzwabat</wil> <mw>*</mw>
+<c>(MA) G participium; and (df/ww) input-error</c> <wil err="typo" corr="AGawwita">AGadfita</wil> <mw>*</mw>
+<c>(MA) G participium; and (ryy/ry) </c> <wil>aDyAhAryya</wil> <mw>*</mw>
+<c>(MA) G participium; and negation</c> <wil>atarpaRIya</wil> <mw>*</mw>
+<c>(MA) G participium; and negation</c> <wil>atarpita</wil> <mw>*</mw>
+<c>(MA) G participium; and negation</c> <wil>atulanIya</wil> <mw>*</mw>
+<c>(MA) G participium</c> <wil>AGarzita</wil> <mw>*</mw>
+<c>(MA) G participium</c> <wil>AcakzamARa</wil> <mw>*</mw>
+<c>(MA) G participium</c> <wil>Acarat</wil> <mw>*</mw>
+<c>(MA) G participium</c> <wil>AdaDAna</wil> <mw>*</mw>
+<c>(MA) G participium</c> <wil>AdadAna</wil> <mw>*</mw>
+<c>(MA) G participium</c> <wil>AkANkzanIya</wil> <mw>*</mw>
+<c>(MA) G participium</c> <wil>AkANkzita</wil> <mw>*</mw>
+<c>(MA) G participium</c> <wil>AkANzat</wil> <mw>*</mw>
+<c>(MA) G participium</c> <wil>AkarRita</wil> <mw>*</mw>
+<c>(MA) G participium</c> <wil>AkroSanIya</wil> <mw>*</mw>
+<c>(MA) G participium</c> <wil>AnIya</wil> <mw>*</mw>
+<c>(MA) G participium</c> <wil>Aneya</wil> <mw>*</mw>
+<c>(MA) G participium</c> <wil>Avahat</wil> <mw>*</mw>
+<c>(MA) G participium</c> <wil>aMSamAna</wil> <mw>*</mw>
+<c>(MA) G participium</c> <wil>aMSanIya</wil> <mw>*</mw>
+<c>(MA) G participium</c> <wil>aMSayat</wil> <mw>*</mw>
+<c>(MA) G participium</c> <wil>aMSayitavya</wil> <mw>*</mw>
+<c>(MA) G participium</c> <wil>aNkanIya</wil> <mw>*</mw>
+<c>(MA) G participium</c> <wil>aNkayitavya</wil> <mw>*</mw>
+<c>(MA) G participium</c> <wil>atisaMhita</wil> <mw>*</mw>
+<c>(MA) G participium</c> <wil>atyayita</wil> <mw>*</mw>
+<c>(MA) G prefix "ati"</c> <wil>atIcCa</wil> <mw>*</mw>
+<c>(MA) G prefix "ati"</c> <wil>atigarhita</wil> <mw>*</mw>
+<c>(MA) G prefix "ati"</c> <wil>atipAraka</wil> <mw>*</mw>
+<c>(MA) G prefix "ati"</c> <wil>atiraTin</wil> <mw>*</mw>
+<c>(MA) G suffix "a"</c> <wil>aDyAroha</wil> <mw>*</mw>
+<c>(MA) G suffix "ana"</c> <wil>AboDana</wil> <mw>*</mw>
+<c>(MA) G suffix "ana"</c> <wil>AkrIqana</wil> <mw>*</mw>
+<c>(MA) G suffix "ana"</c> <wil>aMSana</wil> <mw>*</mw>
+<c>(MA) G suffix "in"</c> <wil>AtmamAnin</wil> <mw>*</mw>
+<c>(MA) G suffix "in"</c> <wil>aDamarRin</wil> <mw>*</mw>
+<c>(MA) G suffix "in"</c> <wil>atipAtakin</wil> <mw>*</mw>
+<c>(MA) G suffix "in"</c> <wil>ativyayin</wil> <mw>*</mw>
+<c>(MA) G suffix "in"</c> <wil>atyAcArin</wil> <mw>*</mw>
+<c>(MA) G suffix "ka"</c> <wil>AKyAyaka</wil> <mw>*</mw>
+<c>(MA) G suffix "ka"</c> <wil>AkrAmaka</wil> <mw>*</mw>
+<c>(MA) G suffix "ka"</c> <wil>Atapatraka</wil> <mw>*</mw>
+<c>(MA) G two particles</c> <wil>aDikantu</wil> <mw>*</mw>
+<c>(MA) R (a/-) </c> <wil err="scan" corr="IK">IKa</wil> <mw>IK</mw>
+<c>(MA) R (a/-) </c> <wil err="scan" corr="Ij">Ija</wil> <mw>Ij</mw>
+<c>(MA) R (a/-) </c> <wil err="scan" corr="Irkzy">Irkzya</wil> <mw>Irkzy</mw>
+<c>(MA) R (a/-) </c> <wil err="scan" corr="aYj">aYja</wil> <mw>aYj</mw>
+<c>(MA) R (a/-) </c> <wil err="scan" corr="ajYAnin">ajYAnina</wil> <mw>ajYAnin</mw>
+<c>(MA) R (a/-) </c> <wil err="scan" corr="iK">iKa</wil> <mw>iK</mw>
+<c>(MA) R (a/-) </c> <wil err="typo" corr="adriBid">adriBida</wil> <mw>adriBid</mw>
+<c>(MA) R (a/-) </c> <wil err="typo" corr="anantajit">anantajita</wil> <mw>anantajit</mw>
+<c>(MA) V (N/M) </c> <wil>AQyaNkaraRa</wil> <mw>AQyaMkaraRa</mw>
+<c>(MA) V (N/M) </c> <wil>ASitaNgavIna</wil> <mw>ASitaMgavIna</mw>
+<c>(MA) V (N/M) </c> <wil>agadaNkAra</wil> <mw>agadaMkAra</mw>
+<c>(MA) V (N/M) </c> <wil>anayaNgata</wil> <mw>anayaMgata</mw>
+<c>(MA) V (Y/M) </c> <wil>atisaYcaya</wil> <mw>atisaMcaya</mw>
+<c>(MA) V (b/v) </c> <wil>AdyavIja</wil> <mw>AdyabIja</mw>
+<c>(MA) V (b/v) </c> <wil>Agantabya</wil> <mw>Agantavya</mw>
+<c>(MA) V (b/v) </c> <wil>Aguraba</wil> <mw>*</mw>
+<c>(MA) V (b/v) </c> <wil>Apastamva</wil> <mw>Apastamba</mw>
+<c>(MA) V (b/v) </c> <wil>Aplabana</wil> <mw>Aplavana</mw>
+<c>(MA) V (b/v) </c> <wil>Awabika</wil> <mw>Awavika</mw>
+<c>(MA) V (b/v) </c> <wil>aMSubARa</wil> <mw>aMSuvARa</mw>
+<c>(MA) V (b/v) </c> <wil>icCAbat</wil> <mw>icCAvat</mw>
+<c>(MA) V (cC/C); and (tr/ttr) spelling</c> <wil>aticCatra</wil> <mw>atiCattra</mw>
+<c>(MA) V (cC/C); and (tr/ttr) spelling</c> <wil>aticCatraka</wil> <mw>atiCattraka</mw>
+<c>(MA) V (ka/-) mentioned by MW : "m. or awwAlaka"</c> <wil>awwAlaka</wil> <mw>awwAla</mw>
+<c>(MA) V (l/w) </c> <wil>aNkola</wil> <mw>aNkowa</mw>
+<c>(MA) V (n/M) </c> <wil>Atmasandeha</wil> <mw>AtmasaMdeha</mw>
+<c>(MA) V (n/M) </c> <wil>aNgulisandeSa</wil> <mw>aNgulisaMdeSa</mw>
+<c>(MA) V (n/M) </c> <wil>agrasanDAnI</wil> <mw>agrasaMDAnI</mw>
+<c>(MA) V (n/M) </c> <wil>atisanDAna</wil> <mw>atisaMDAna</mw>
+<c>(MA) V (n/M) </c> <wil>idAnIntana</wil> <mw>idAnIMtana</mw>
+<c>(MA) V (n/R) </c> <wil>IrzyamAna</wil> <mw>IrzyamARa</mw>
+<c>(MA) V (n/R) </c> <wil>agrevana</wil> <mw>agrevaRa</mw>
+<c>(MA) V (q/w) mentioned by MW under: "Also spelt ..."</c> <wil>akzoqa</wil> <mw>akzowa</mw>
+<c>(MA) V (rdD/rD) </c> <wil>ArdDaDAtuka</wil> <mw>ArDaDAtuka</mw>
+<c>(MA) V (rdD/rD) </c> <wil>ArdDadrORika</wil> <mw>ArDadrORika</mw>
+<c>(MA) V (rdD/rD) </c> <wil>ArdDamAsika</wil> <mw>ArDamAsika</mw>
+<c>(MA) V (rdD/rD) </c> <wil>ArdDaprasTika</wil> <mw>ArDaprasTika</mw>
+<c>(MA) V (rdD/rD) </c> <wil>ArdDika</wil> <mw>ArDika</mw>
+<c>(MA) V (rdD/rD) </c> <wil>AyatArdDa</wil> <mw>AyatArDa</mw>
+<c>(MA) V (rdD/rD) </c> <wil>agnivardDana</wil> <mw>agnivarDana</mw>
+<c>(MA) V (rdd/rd); and (M/-) </c> <wil err="scan" corr="Alagardda">AlagarddaM</wil> <mw>Alagarda</mw>
+<c>(MA) V (rjj/rj); and (b/v) </c> <wil>AcArabarjjita</wil> <mw>AcAravarjita</mw>
+<c>(MA) V (rtt/rt); and compositum</c> <wil>AjYAnuvarttin</wil> <mw>*</mw>
+<c>(MA) V (ryy/ry) </c> <wil>Aryyavftta</wil> <mw>Aryavftta</mw>
+<c>(MA) V (s/z) ? </c> <wil>Ayuskara</wil> <mw>Ayuzkara</mw>
+<c>(MA) V (tr/ttr) </c> <wil>ASupatrI</wil> <mw>ASupattrI</mw>
+<c>(MA) V (tr/ttr) </c> <wil>AkfticCatrA</wil> <mw>*</mw>
+<c>(MA) V (tr/ttr) </c> <wil>Asyapatra</wil> <mw>Asyapattra</mw>
+<c>(MA) V (tr/ttr) </c> <wil>ajinapatrA</wil> <mw>ajinapattrA</mw>
+<c>(MA) V (tr/ttr) </c> <wil>ikzupatra</wil> <mw>ikzupattra</mw>
+<c>(MA) V (tv/ttv) </c> <wil>Atmatatva</wil> <mw>Atmatattva</mw>
+<c>(MA) V (tv/ttv) spelling</c> <wil>AtmatatvajYa</wil> <mw>AtmatattvajYa</mw>
+<c>(MA) V (v/b) </c> <wil>AvAlya</wil> <mw>*</mw>
+<c>(MA) V (v/b) </c> <wil>Avalya</wil> <mw>Abalya</mw>
+<c>(MA) V (v/b) </c> <wil>aDolamva</wil> <mw>aDolamba</mw>
+<c>(MA) V (v/b) </c> <wil>agnivAhu</wil> <mw>agnibAhu</mw>
+<c>(MA) V (v/b) </c> <wil>agnivIja</wil> <mw>agnibIja</mw>
+<c>(MA) V (v/b) </c> <wil>agravIja</wil> <mw>agrabIja</mw>
+<c>(MA) V (v/b) </c> <wil>ajalamvana</wil> <mw>ajalambana</mw>
+<c>(MA) V (v/b) </c> <wil>akzIva</wil> <mw>akzIba</mw>
+<c>(MA) V (v/b) </c> <wil>akziva</wil> <mw>akziba</mw>
+<c>(MA) V MW mentiones under "akzowa": "Also spelt akzoqa ( Sus3r. ) , akzoqaka , Akzowa , Akzoqaka , AKowa."</c> <wil>Akzoqa</wil> <mw>*</mw>
+<c>(MA) V pwg: "falsche Form bei Wilson"</c> <wil>AcCAka</wil> <mw>AcCuka</mw>
+<c>(MA) V pwg: "falsche Form bei Wilson"</c> <wil>dakziRapaTa</wil> <mw>dakziRApaTa</mw>
+<c>(MA) V pwg: "falsche Form bei Wilson"</c> <wil>jyEzWasAman</wil> <mw>jyezWasAman</mw>
+<c>(MA) V pwg: "falsche Form bei Wilson"</c> <wil>kAlakUwaNkawa</wil> <mw>kAlakawaNkawa</mw>
+<c>(MA) V pwg: "falsche Form bei Wilson"</c> <wil>parikzipaka</wil> <mw>parikzepaka</mw>
+<c>(MA) V pwg: "falsche Form bei Wilson"</c> <wil>prAyuDezin</wil> <mw>prAyudDezin</mw>
+<c>(MA) V pwg: "falsche Form bei Wilson"</c> <wil>tArIza</wil> <mw>tAviza</mw>
+
+<c>(MA) ? (R/n) different sandhi of suffix"ana"? </c> <wil>IqaRa</wil> <mw>Iqana</mw>
+<c>(MA) ? (a/an)| Wilson has nominative, MW stem; and (rmm/rm) </c> <wil>anapakarmma</wil> <mw>anapakarman</mw>
+<c>(MA) ? (ejf: (A/I) </c> <wil>aRqakowarapuzpA</wil> <mw>aRqakowarapuzpI</mw>
+<c>(MA) ? (q/l) MW has ony "ilvala"</c> <wil>ilvaqa</wil> <mw>*</mw>
+<c>(MA) ? (ra/f) </c> <wil>atikraSa</wil> <mw>atikfSa</mw>
+<c>(MA) ? (ryy/ry); and (M/-) printing error?</c> <wil>aDEryyaM</wil> <mw>aDErya</mw>
+<c>(MA) ? </c> <wil>ABIkzna</wil> <mw>*</mw>
+<c>(MA) ? </c> <wil>ADUryya</wil> <mw>*</mw>
+<c>(MA) ? </c> <wil>ADimanyava</wil> <mw>*</mw>
+<c>(MA) ? </c> <wil>ADitvopADi</wil> <mw>*</mw>
+<c>(MA) ? </c> <wil>AKanikavaka</wil> <mw>*</mw>
+<c>(MA) ? </c> <wil>ASala</wil> <mw>*</mw>
+<c>(MA) ? </c> <wil>AditsitA</wil> <mw>*</mw>
+<c>(MA) ? </c> <wil>AhiRqika</wil> <mw>*</mw>
+<c>(MA) ? </c> <wil>AjU</wil> <mw>*</mw>
+<c>(MA) ? </c> <wil>Ajigraha</wil> <mw>*</mw>
+<c>(MA) ? </c> <wil>AkuzWa</wil> <mw>*</mw>
+<c>(MA) ? </c> <wil>AkzapaRa</wil> <mw>*</mw>
+<c>(MA) ? </c> <wil>Akzoda</wil> <mw>*</mw>
+<c>(MA) ? </c> <wil>AlIQaka</wil> <mw>*</mw>
+<c>(MA) ? </c> <wil>AnDasa</wil> <mw>*</mw>
+<c>(MA) ? </c> <wil>Anakya</wil> <mw>*</mw>
+<c>(MA) ? </c> <wil>AnandAnandana</wil> <mw>*</mw>
+<c>(MA) ? </c> <wil>Apanika</wil> <mw>*</mw>
+<c>(MA) ? </c> <wil>AparAhnika</wil> <mw>*</mw>
+<c>(MA) ? </c> <wil>Apvan</wil> <mw>*</mw>
+<c>(MA) ? </c> <wil>Arevata</wil> <mw>*</mw>
+<c>(MA) ? </c> <wil>Arhatya</wil> <mw>*</mw>
+<c>(MA) ? </c> <wil>AspardDA</wil> <mw>*</mw>
+<c>(MA) ? </c> <wil>AspardDin</wil> <mw>*</mw>
+<c>(MA) ? </c> <wil>ISAdanta</wil> <mw>*</mw>
+<c>(MA) ? </c> <wil>aDividyA</wil> <mw>*</mw>
+<c>(MA) ? </c> <wil>agina</wil> <mw>*</mw>
+<c>(MA) ? </c> <wil>akzaracaYca</wil> <mw>*</mw>
+<c>(MA) ? </c> <wil>akzna</wil> <mw>*</mw>
+<c>(MA) ? </c> <wil>atitIkzma</wil> <mw>*</mw>
+<c>(MA) ? </c> <wil>atnu</wil> <mw>*</mw>
+<c>(MA) ? </c> <wil>iDmapravraYcana</wil> <mw>*</mw>
+<c>(MA) ? </c> <wil>iRvIndu</wil> <mw>*</mw>
+<c>(MA) ? </c> <wil>iRyInya</wil> <mw>*</mw>
+<c>(MA) ? </c> <wil>icCuka</wil> <mw>*</mw>
+<c>(MA) ? </c> <wil>ikzava</wil> <mw>*</mw>
+<c>(MA) ? </c> <wil>ikzurasoda</wil> <mw>*</mw>
+<c>(MA) ? </c> <wil>indirAvara</wil> <mw>*</mw>
+<c>(MA) ? </c> <wil>indraCandas</wil> <mw>*</mw>
+<c>(MA) ? </c> <wil>irAvellikA</wil> <mw>*</mw>
+<c>(MA) ? </c> <wil>iru</wil> <mw>*</mw>
+<c>(MA) ? I can not find kUS in MW</c> <wil>akzivikUSita</wil> <mw>*</mw>
+<c>(MA) ? Is in MW</c> <wil>aDyArohaRa</wil> <mw>aDyArohaRa</mw>
+<c>(MA) ? MW has only "indratUla"</c> <wil>indramUla</wil> <mw>*</mw>
+<c>(MA) ? MW-error: this word is missing in the digital version</c> <wil>AyatacCadA</wil> <mw err="typo">*</mw>
+<c>(MA) ? V (n/R) different sandhi of suffix "ana"?</c> <wil>aDyAropana</wil> <mw>aDyAropaRa</mw>
+<c>(MA) ? is "ig" correct ? </c> <wil>iga</wil> <mw>iNg</mw>
+<c>(MA) ? is in MW</c> <wil>AGarza</wil> <mw>*</mw>
+<c>(MA) ? mentioned under "itas": "(itas , itas , here - there ;"; Wilson has wrong sandhi.</c> <wil>itaHitas</wil> <mw>*</mw>
+<c>(MA) ? mentioned under "itas"</c> <wil>itaScetas</wil> <mw>*</mw>
+<c>(MA) ? unreadable</c> <wil>adDrA</wil> <mw>*</mw>
+<c>(MA) ? wrong auto-correction: AUTO(NEGa)</c> <wil>aSanaparRI</wil> <mw>*SanaparRI</mw>
+<c>(MA) ? wrong auto-correction: AUTO(NEGa)</c> <wil>aSrapa</wil> <mw>*Srapa</mw>
+<c>(MA) ? wrong auto-correction: AUTO(NEGa)</c> <wil>ariza</wil> <mw>*riza</mw>
+<c>(MA) ? wrong auto-correction: AUTO(NEGa)</c> <wil>asUka</wil> <mw>*sUka</mw>
+<c>(MA) ? wrong auto-correction: AUTO(NEGa)</c> <wil>asru</wil> <mw>*sru</mw>
+<c>(MA) ? wrong auto-correction: AUTO(NEGa)</c> <wil>astavat</wil> <mw>*stavat</mw>
+<c>(MA) ? wrong auto-correction: AUTO(NEGa)</c> <wil>avis</wil> <mw>*vis</mw>

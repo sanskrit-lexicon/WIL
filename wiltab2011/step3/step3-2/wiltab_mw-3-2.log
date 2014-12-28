@@ -1,0 +1,67 @@
+line skipped in wiltab_mw-known-1.txt: <!--
+line skipped in wiltab_mw-known-1.txt: Was "wilson_keys_nonmw-ma-4.xml"
+line skipped in wiltab_mw-known-1.txt: Was Jim's  "wilson_nonmw_corr.txt" (2011-02-15) (aMSana-atigarhita) and Jim's "wilson_keys_nonmw.txt" (2009-10-02) (rest) Comments by Matthias
+line skipped in wiltab_mw-known-1.txt: What do we want to do with neg's etc?
+line skipped in wiltab_mw-known-1.txt: -->
+error in wiltab_mw-known-1.txt:  <!-- mw problem --><c>(MA) (k/tk) </c> <wil err="typo" corr="atyutkfzwa">atyukfzwa</wil> <mw>atyutkfzwa</mw><!-- next entry manually inserted from "wiltab_mw-ma-1.txt" -->
+error in wiltab_mw-known-1.txt:  <!-- mw problem --><c>(MA) (Sv/Sc) </c> <wil err="typo" corr="aDaScOra">aDaSvOra</wil> <mw>aDaScOra</mw><!-- MA: I had noted "MW-error". Perhaps that was a mistake. -->
+line skipped in wiltab_mw-known-1.txt: <!-- I skip all this negations (MA) -->
+error in wiltab_mw-known-1.txt:  <!-- mw problem --><c>(MA) (M/-) "M" at word-end</c> <wil corr="aBihitatva">aBihitatvaM</wil> <mw>aBihitatvaM</mw>
+error in wiltab_mw-known-1.txt:  <!-- mw problem --><c>(MA) (e/o)</c> <wil corr="amanogata">amanegata</wil> <mw>amanogata</mw>
+line skipped in wiltab_mw-known-1.txt: <!--  ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ -->
+error in wiltab_mw-known-1.txt:  <!-- wil problem --><c>(MA) wrong auto-correction: AUTO(NEGa)</c> <wil>avawaja</wil> <mw>*vawaja</mw>
+error in wiltab_mw-known-1.txt:  <!-- wil problem --><c>(MA) wrong auto-correction: AUTO(NEGa)</c> <wil>avapa</wil> <mw>*vapa</mw>
+error in wiltab_mw-known-1.txt:  <!-- wil problem --><c>(MA) correct: AUTO(SE:M/)</c> <wil>astranivAraRaM</wil> <mw>astranivAraRa</mw>
+line skipped in wiltab_mw-known-1.txt: <!--  ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ -->
+error in wiltab_mw-known-1.txt:  <!-- mw problem --><c>(MA) (Sp/Sy) </c> <wil err="typo" corr="AkfzyamARa">AkfzpamARa</wil> <mw>AkfzyamARa</mw>
+error in wiltab_mw-known-1.txt:  <!-- mw problem --><c>(MA) (tv/ttv) spelling</c> <wil>AtmatatvajYa</wil> <mw>AtmatatvajYa</mw>
+error in wiltab_mw-known-1.txt:  <!-- wil problem --><c>(MA) (b/v) </c> <wil err="typo">AtmabIra</wil> <mw>AtmavIra</mw>
+error in wiltab_mw-known-1.txt:  <!-- mw problem --><c>(MA) (st/l) </c> <wil err="scan" corr="AmUla">AmUsta</wil> <mw>AmUla</mw>
+error in wiltab_mw-known-1.txt:  <!-- mw problem --><c>(MA) MW-error: this word is missing in the digital version</c> <wil>AyatacCadA</wil> <mw err="typo"></mw>
+error in wiltab_mw-known-1.txt:  <!-- mw problem --><c>(MA) (rdD/rD) spelling after r</c> <wil>ArdDadrORika</wil> <mw>ArdDadrORika</mw>
+error in wiltab_mw-known-1.txt:  <!-- mw problem --><c>(MA) (v/b) </c> <wil>AvAlya</wil> <mw>AbAlya</mw>
+line skipped in wiltab_mw-known-1.txt: <c>(MA) (vy/ty) </c> <wil err="scan" corr="Ahfvya">Ahfvya</Wil> <mw>Ahftya</mw>
+error in wiltab_mw-known-1.txt:  <!-- wil problem --><c>(MA) is "ig" correct ? </c> <wil err="?">iga</wil> <mw>iNg</mw>
+error in wiltab_mw-known-1.txt:  <!-- mw problem --><c>(MA) (M/-) specifically: (r.M/r.)</c> <wil err="scan" corr="Irzyaka">IrzyaMka</wil> <mw>IrzyaMka</mw>
+error in wiltab_mw-known-1.txt:  <!-- mw problem --><c>(MA) (M/-) "r" + "M"</c> <wil corr="unmArgagAmin">unmArgaMgAmin</wil> <mw>unmArgaMgAmin</mw>
+44270 keys processed
+0 keys were ill-formed
+35916 keys found with no spelling change
+3485 keys found after spelling change
+4377 records not found yet 
+492 records processed as known from wiltab_mw-known-1.txt
+spelling rule <rule conf="LIKELY" class="ERROR">M/</rule> solved 5 problems
+spelling rule <rule conf="SURE" class="VARIANT">rxx/rx</rule> solved 1712 problems
+spelling rule <rule conf="LIKELY" class="GRAMMAR">NEGa</rule> solved 11 problems
+spelling rule <rule conf="LIKELY" class="ERROR">Ca/Ce</rule> solved 27 problems
+spelling rule <rule conf="LIKELY" class="ERROR">Ca/Cu</rule> solved 51 problems
+spelling rule <rule conf="LIKELY" class="GRAMMAR">tA</rule> solved 23 problems
+spelling rule <rule conf="SURE" class="VARIANT">N/M</rule> solved 246 problems
+spelling rule <rule conf="LIKELY" class="VARIANT">v/b</rule> solved 253 problems
+spelling rule <rule conf="LIKELY" class="GRAMMAR">NEGan</rule> solved 3 problems
+spelling rule <rule conf="SURE" class="VARIANT">rdD/rD</rule> solved 163 problems
+spelling rule <rule conf="LIKELY" class="ERROR">VC/VrC</rule> solved 38 problems
+spelling rule <rule conf="LIKELY" class="GRAMMAR">a/am</rule> solved 36 problems
+spelling rule <rule conf="LIKELY" class="VARIANT">b/v</rule> solved 106 problems
+spelling rule <rule conf="LIKELY" class="GRAMMAR">tva</rule> solved 9 problems
+spelling rule <rule conf="SURE" class="VARIANT">n/M</rule> solved 260 problems
+spelling rule <rule conf="ROOT" class="ISSUE">a$/</rule> solved 92 problems
+spelling rule <rule conf="LIKELY" class="ERROR">CA/Co</rule> solved 26 problems
+spelling rule <rule conf="LIKELY" class="ERROR">B/J</rule> solved 3 problems
+spelling rule <rule conf="LIKELY" class="ERROR">t/tt</rule> solved 170 problems
+spelling rule <rule conf="LIKELY" class="VARIANT">cC/C</rule> solved 28 problems
+spelling rule <rule conf="LIKELY" class="ERROR">m/s</rule> solved 46 problems
+spelling rule <rule conf="LIKELY" class="ERROR">wu/du</rule> solved 21 problems
+spelling rule <rule conf="LIKELY" class="VARIANT">n/R</rule> solved 21 problems
+spelling rule <rule conf="SURE" class="VARIANT">Y/M</rule> solved 57 problems
+spelling rule <rule conf="LIKELY" class="ERROR">s/m</rule> solved 10 problems
+spelling rule <rule conf="LIKELY" class="ERROR">Ca/Cf</rule> solved 7 problems
+spelling rule <rule conf="LIKELY" class="ERROR">Ca/CU</rule> solved 19 problems
+spelling rule <rule conf="SURE" class="VARIANT">rbB/rB</rule> solved 9 problems
+spelling rule <rule conf="LIKELY" class="ERROR">ra/f</rule> solved 7 problems
+spelling rule <rule conf="LIKELY" class="ERROR">q/w</rule> solved 12 problems
+spelling rule <rule conf="LIKELY" class="ERROR">l/w</rule> solved 5 problems
+spelling rule <rule conf="LIKELY" class="ERROR">J/B</rule> solved 1 problems
+spelling rule <rule conf="LIKELY" class="ERROR">Sv/Sc</rule> solved 3 problems
+spelling rule <rule conf="LIKELY" class="ERROR">Ca/CE</rule> solved 5 problems
+(nc = 3485)

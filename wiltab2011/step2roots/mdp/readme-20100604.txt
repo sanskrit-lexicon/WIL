@@ -1,0 +1,175 @@
+Westergaard/readme-20100604.txt
+ejf
+
+This note describes the current state of a project whose aim is to match
+roots from the {sd mADavIyA DAtuvftti} (mdp) with records from the Monier-Williams (mw)
+Sanskrit-English dictionary.
+The source of mdp information is the mdp/MadhaviyaDhP2_entries.xml file.  The source of
+mw information is monier.xml from the Cologne Sanskrit-Lexicon.
+An additional source of information, used indirectly but substantively, is the
+Westergaard Dhatupatha (wdp). This has been used in two ways. First, a listing of the
+Westergaard sutras was developed; by reading the wdp sutras in conjunction with the
+Madhaviya sutras, a correspondence was made between the two; this may be seen
+in the WestergaardDhP1.xml file.  Second, a list of references by mw to the 
+Westergaard Dhatupatha was developed (such as mwtab1/Dha1tupd.txt). While there are
+imperfections in the mdp-wdp and mw-wdp correspondences, they nonetheless prove useful 
+as a bridge between mdp and mw.
+
+The balance of this note describes the information available in two files in 
+subdirectory match5/key9:  
+- matchman2.txt is a tab-delimited file showing the matches between mdp records
+(identified by an 'msid') and mw records (identified by an 'L' record number).
+- matchman2.html,  an html file displaying some of the supporting data upon which
+  the matching information in matchman2.txt is based.
+
+Programming note:
+ - the batch file 'redo.bat' in match5 subdirectory updates both these files based upon
+   numerous intermediates.
+
+The fields in matchman2.txt: Consider some samples:
+NOMDP	NOMDP	aMS	9	V=10	CLASS=N	DEF=N	MATCH=N	GROUP=NOMDP	wdp variant dp
+aMsa	10.304-01	aMs	87	V=10	CLASS=Y	DEF=N	MATCH=N	GROUP=N1	
+ast	10.084-01	NOMW	NOMW	V=0	CLASS=N	DEF=N	MATCH=N	GROUP=NOMW1	mdp not in mw
+Ap	10.230-01	Ap	24743	V=5,C	CLASS=P	DEF=Y	MATCH=P	GROUP=YG	MW shows Caus.
+
+
+ key1 = the mdp normalized root  (= NOMDP if not present)
+ msid = the mdp identifier       (= NOMDP if not present)
+       the file mdp/mdp.xml  has the list of 2276 entries.
+       From the file 'mdp/norm-mw.txt' there are 1531 different values of key1
+ key2 = the mw 'key1' field      (= NOMW if not present)
+ L    = the mw record id         (= NOMW if not present)
+  The file mwverb/mwroots.txt has 1971 lines, one for each L.
+  From mdp/norm-mw.txt, there are 1823 different values of key2.
+ v    = the classes in mw record (in a few cases, these are inferred)
+ vstat = status of match between the class implicit in msid and the class(es) in 'v'. 
+         value is CLASS=N (msid class not in v), 
+                        P (msid class in v, which has additional values), 
+                        Y (msid class = v)
+         In some cases, such as 'Ap', MW has a causal , and 'C' is shown as one of the mw classes.
+         This is treated as matching msid class 10.
+ dstat = status of match between the definitions of the mdp senses and the mw root definitions.
+         Using mdp 'senses' attributes and MW dictionary, a set of English definitions was developed
+         for each mdp sense.  These are in the file mdp/sense/sensemw1.txt (719 senses)
+         Also, a set of simplified definitions of the MW roots was developed; these
+          are in the file mwverb/sense/rootsense1.txt.
+         Then, a set of correspondences between these two sets of definitions was developed; these are
+          in the file mwtab1/sense/sensemap1.txt.
+         It is  on the basis of these files that a given msid-L combination is marked as having
+         a matching definition (DEF=Y) or not (DEF=N).
+  stat = combination of vstat and dstat. If either vstat or dstat is 'N', so is the value of stat;
+         otherwise, stat = vstat (P or Y).
+  gstat = a group matching status.
+         The records of matchman are formed into groups based upon 'key1' (the mdp normalized root).
+         Then, a matching status code is developed for all the records in a given group of matchman2,
+         and coded as 'GROUP=code'. Here are all the codes, and their meaning:
+   754   Y1 : Only one member of the group, and mdp and mw match.
+   287   YG : More than one member of the group, and the classes match in aggregate, and the definitions
+              match individually.  
+    26   NNom: The mdp record (usu. with cl. 10) matched a record mw described as 'Nom.' (A root derived
+               from a nominal; the mw class is usually inferred).
+   307   NOMDP:  The MW key2 could not be matched with an mdp key.
+    36   NOMW1:  There was only 1 record with the mdp key, and no mw record matched
+     6   NOMW2:  There was more than 1 record with the mdp key, and no mw record matched
+   194   NG1: One or more records in group, all the definitions match, all the msid classes are among the
+              mw classes, but mw has some extra classes.
+    45   N1 : Just one record in group, and either the definitions don't match, or else the mdp
+              class is not among the mw classes.
+     6   NG0: More than one record in group, and each of them is inconsistent with respect to definition or
+              class.
+   145   NPG: More than one record in group, at least one of them is inconsistent with respect to definition or
+              class, and at least one of them is consistent.
+
+  1804 groups
+
+There are various ways one might further summarize the situation of matching.
+The 1041 groups in Y1 and YG are most likely matched correctly.
+The 349 groups in NOMDP, NOMW1, and NOMW2 are thus far unmatchable.
+  In the case of the larger NOMDP group, perhaps there are additional pAWAntaras in mdp. However,
+  since Westerguaard has considered mdp, most cases may be due to other authors, such as Vopadeva,
+  and will not be ultimately found in mdp.
+The 26 groups in NNom could perhaps be deemed to match by ignoring the fact that MW classes them as
+   denominatives.
+The 51 groups in N1 and NG0 seem questionably matched, though perhaps some definitions thus far
+   deemed inconsistent could be deemed consistent (for instance, with 'sev' the mdp definition 'secana'
+   perhaps has been misread as 'sevana'). As another instance, consider 'Parv'. Here there is only
+   one root in mw and in mdp spelled 'Parv', and each source appears as class 1; however, the 
+   definitions are completely different;  on the one hand, surely each source is talking about the
+   same root; on the other hand, if so, why are the definitions not comparable?
+The 194 groups in NG1 probably match, but for some reason mw found instances of classes which were not
+   identified by mdp.
+The 145 groups in NPG are partially matched, and perhaps some inconsistencies can be overlooked or explained
+   similarly to differences in N1,NG0 and NG1.
+
+Notes regarding matchman2.html
+- The records are listed in mdp order.
+- The group code ('Y1, YG, etc.) is printed, and so may be searched for in the browser.
+  The background color of records is also adjusted to assist the eye.  Groups Y1 and YG have
+  white background, groups NOMW1, NOMW2 and NOMDP have a grey background.
+  NNOM has a green background. The rest have a tan or yellow background.
+- Within in each record, matching definitions appear in green text, non-matching in red text.
+  Note that in the case of matching definitions, there may be additional nom-matching 
+  definitions for either the mw entry or the mdp entry; these non-matching cases are omitted from
+  the display.
+- If the mw headword and the mdp normalized root agree in spelling, then only the common value is
+  shown in the first column; when there is a difference, both are shown, with the mdp root 
+  appearing in parentheses and in red text.
+- The word 'artificial' or 'genuine' appears near the root name and refers to whether the
+  mw headword is written in large or small devanagari.
+- In the 'DP' column, a symbol ('check' or 'warning') indicates the value of 'stat' (i.e., whether
+   the individual record shown on a line is a match.  The msid is shown in green (along with the
+   mw class in the first column) provided the msid class is among the mw class(es); otherwise, 
+   both msid and mw class are shown in red.
+-  The wsid (Westergaard identifier) corresponding to msid is show in the DP column; it is shown
+   in green if present as a reference in the mw record, and in red otherwise.  There are a few cases
+   (for instance, 'kaW') where the wsid is shown as 'NA', despite the fact that in the mw record
+   there is a reference (9.48 for 'kaW').
+-  There are a few miscellaneous comments in the last column
+
+
+Notes some peculiarities in matchman2.txt.
+
+- There are more than 300 records in matchman2 in which a correspondence is made between
+  an mdp record and an mw record for which the mdp normalized root is spelled differently than the
+  mw headword. (in the html, these may be found by searching for ')KD'.
+  Discounting duplicates, there are 293 ($key1,$key2) pairs with $key1 not equal to $key2.
+  These instances may be subdivided: (see key9/matchman2-keydiff.txt)
+  - 70: Class 10 roots which in mdp have a root ending in 'a', and where mw headword omits the final 'a'.
+  - 27: cases where the mw entry is a denominative.
+  - 178: Cases where the mw headword inserts a nasal before a final consonant (or consonant cluster).
+    The corresponding mdp entries have the marker 'i'.
+    There may be a few mdp entries with marker 'i' for which mw does not insert a nasal.
+  - 14: Cases where the mdp headword ends in 'cC' but the mw headword ends in 'C' (without the 'c').
+      In three of these, mw inserts a nasal, and the mdp entry has marker 'i'.
+  - 4: Other cases. These appear doubtful.
+
+- indirect mw information.
+  - 191 mw records were reclassified as roots. Roots are tagged in the Cologne monier.xml by the
+    empty markup '<vlex type="root"></vlex>'. In many of these cases, the mw record will contain only
+    some kind of pointer to another record previously marked as a root. In particular, there may be
+    no class or definition present in such a record.  In these cases, the class and definition 
+    information were taken from the record pointed to by the referential mw record. 
+    (see mwverb/verb/add.txt)
+  - Incidentally, the file drop.txt contains 51 records which were previously classified as roots,
+    but which upon closer examination were thought to be inappropriately so classified.  Many of
+    these are causal forms, desiderative stems, etc.
+  - In some cases, the wdp references in an mw record must be inferred by the context of the record;
+    for instance, one may see 'ix,15' and can infer that this means wdp 9.15 because of a previous
+    citation, usually within the record, but occasionally within the previous record.
+- sense comparisons.
+  The idea trying to match mw definitions with the mdp senses came into my mind as a result of
+  a comment by Chandrashekar.  Since the mw definitions are in English and the mdp senses are in
+  Sanskrit, it became necessary to develop some means to determine whether ceratin English phrases
+  and Sanskrit phrases should be considered as semantically the same or different. My approach was
+  to convert the Sanskrit senses into English, by using the MW dictionary, and then to compare these
+  English senses with the given English senses present in the mw records for corresponding roots.
+  In most cases, some common word appearing in both sources served as the basis for equality.
+  In some cases, an English synonym for some word in one source would, by appearing in a putative
+  correspondence, provide the basis for a match.
+  In some cases, I did not hesitate to use considerable imagination in looking for correspondence 
+  between records that otherwise matched in terms of root spelling and class.
+  Since the correspondence, while explicit in the data structures, was subjectively developed,
+  it is likely that other readers would develop the correspondences differently.  In particular,
+  someone more familiar with Sanskrit might disavow certain sense equalities, and avow certain
+  sense inequalities.
+

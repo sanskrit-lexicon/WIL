@@ -1,0 +1,101 @@
+Peter's notes made on 14-15 August 2011 to Jim's readme.txt 13 Aug. 2011.
+
+1. removed 2 lines ...
+
+PMS: This one is also a correction to be made to MW
+<rule conf="LIKELY" class="GRAMMAR">tva</rule> <c auth="PS" cclass="Q">MW 1201c has both sADutA and sADutva</c> <wil>sADutva</wil> <mw>sADu</mw>
+ejf1:  20110816  correction made to MW.
+
+1a.	This type of difference is treated differently elsewhere
+<rule conf="LIKELY" class="ERROR">t/tt</rule> <c auth="SS" cclass="_">y</c> <wil>gurupatra</wil> <mw>gurupattra</mw>
+
+PMS: This should also be treated like the other x-patra, i.e.
+ejf1:  moved following gurupatra to wilson-map.txt  (along with the rest of the 'tt->t' instances)
+<rule conf="LIKELY" class="ERROR">t/tt</rule> <c auth="PS" cclass="W">y</c> <wil>gurupatra</wil> <mw>gurupattra</mw>
+
+2b2, 2b3
+PMS: I think I often did not touch the contents of the mw attribute when I made a correction to wil.  I seem to have assumed that if a correction were indicated to be made to Wilson (by cclass="E" or <wil ...  corr="..." ...>) that any mapping would be ignored and that mw had the identical form to the corrected Wilson form.  If the class="Error" and "<c...>y" then the Wilson form would be corrected to be identical to the mw form.
+
+2b4 sUkzmamakzika f(A)
+PMS: Am I incorrect in recalling that you created keys for all the feminine forms?  Yes, I am incorrect.  You, Malcolm and I created these in the grammar table for the purpose of inflection to produce the full-form lexicon.  We made a list of rules like d1+A, d3+ikA.  We might use the output of that ruleset (or a subset of it if it included producing mfn forms of all adjectives) to some advantage separate from its original use to create the full-form lexicon to address the "subtle point regarding the correspondence" you raise.
+
+2d.	PMS: sammAda not found in digital mw
+ejf1:  correction now made to mw
+
+
+3a.	PMS: cclass="G" does reclassify the class as to GRAMMAR.  All records that have class="ERROR" but cclass="x" where x is anything other than _ (underscore) [or "E"], are not errors in Wilson.  They are mapping issues and should all be put in "rest"
+ejf1:  moved record to wilson-map.txt
+
+3b.	PMS: the cclass here is anomalously "MW" but in any case it is not "_" so belongs in "rest" not in the error file.
+ejf1:  This record does NOT need to be in the rest file. Since the correction to MW, the word is in both
+wilson and mw.
+
+
+4b.	reclassification of 'pattra' types.  PMS: Our lapse.  Changed cclass to "W".  Should change 'tt' back to 't' and map.
+<rule conf="LIKELY" class="ERROR">t/tt</rule> <c auth="SS" cclass="W">y</c> <wil>aBIrupatrI</wil> <mw>aBIrupattrI</mw>
+<rule conf="LIKELY" class="ERROR">t/tt</rule> <c auth="SS" cclass="W">y</c> <wil>elApatra</wil> <mw>elApattra</mw>
+<rule conf="LIKELY" class="ERROR">t/tt</rule> <c auth="SS" cclass="W">y</c> <wil>gurupatra</wil> <mw>gurupattra</mw>
+<rule conf="LIKELY" class="ERROR">t/tt</rule> <c auth="PS" cclass="W">y</c> <wil>SyAmapatra</wil> <mw>SyAmapattra</mw>
+<rule conf="LIKELY" class="ERROR">t/tt</rule> <c auth="PS" cclass="W">y</c> <wil>sapatrAkaraRa</wil> <mw>sapattrAkaraRa</mw>
+<rule conf="LIKELY" class="ERROR">t/tt</rule> <c auth="PS" cclass="W">y</c> <wil>sapatrAkfti</wil> <mw>sapattrAkfti</mw>
+<rule conf="LIKELY" class="ERROR">t/tt</rule> <c auth="PS" cclass="W">y</c> <wil>sarapatrikA</wil> <mw>sarapattrikA</mw>
+<rule conf="LIKELY" class="ERROR">Ca/Cu</rule> <c auth="PS" cclass="W">SS: diff words,diff meanings. PMS: remapped t/tt</c> <wil>tripatra</wil> <mw>tripattra</mw>
+ejf1: did the following:
+  a.  Change wilson back to 'gurupatra', etc.
+  b.  Move these 'W' records to wilson-map.txt
+
+*********Begin complicated issues for consulting
+Notes on corrections:
+1. The wilson record is 'ciraRQI'...
+PMS: probably corrected on-line previously because Matthias's file has ciraRqI.  Anyway, ...
+corr="ciraRwI"
+Wilson then has (-RqI) in parens after 'f.' in the lexid and later "also ciriRwI"; yet the derivation he gives justifies only ciraRwI.  "f. (-RqI)" is a factual error or a Prakritization but it makes no sense to have the headword one thing and the lexid another.  So do we show what Wilson actually has printed (ciraRQI) or do we revise it to reflect what his etymology suggests (ciraRwI)?  Wilson also has an entry for ciriRWI.  MW has ciraRwI as headword and ciraRWI and ciraRQI as subentries.  He also has ciriRwI)
+===================
+Peter's notes on Jim's file notes.txt
+No further action necessary on "FOUND, so already corrected" items either above or below.
+beginning with filter2.txt
+
+1.	ERROR SKIPPING: no correction!
+<rule conf="LIKELY" class="GRAMMAR">NEGa</rule> <c auth="SS" cclass="E">wilson may have a factual error since 'api' and 'tu' are separate words</c> <wil>apitu</wil> <mw>*</mw>
+PMS: complex mapping: <c auth="PS" cclass="W"><wil>apitu</wil> <mw>api [L=10138]</mw><mw>tu [L=85708][L=85709]</mw>
+
+2.	Corrected. remap?
+<rule conf="LIKELY" class="ERROR">Ca/Cf</rule> <c auth="SS" cclass="E">Additionally correct udB to udJ in the def.  Probably need to correct entry uYBa m. to uYJa m.</c> <wil err="scan" corr="udJa">udBa</wil> <mw>*</mw>
+PMS: correct and map as follows:
+<c auth="PS" cclass="E">regular Wilson problem of final 'a' on root</c><wil corr="udJ">udJa</wil> <mw>ujJ</mw>
+<c auth="PS" cclass="E">regular Wilson problem of final 'a' on root; but don't change [L=13921]</c><wil corr="uYJ">uYJa[L=13920]</wil> <mw>ujJ</mw>
+<c auth="PS" cclass="W">Y/j This is really a factual error in Wilson.</c><wil>uYJ</wil> <mw>ujJa</mw>
+<c auth="PS" cclass="W">Y/j This is really a factual error in Wilson.  But correct uYJa to uYJ in the etymology (after "E.")</c><wil>uYJa</wil> <mw>ujJa</mw>
+*********End complicated issues for consulting
+
+4.	
+Corrected. remap?
+<rule conf="LIKELY" class="ERROR">m/s</rule> <c auth="PS" cclass="E">SS: entry should have been mahIyas. PMS: right, but algorithm mad two substitutions instead of just one. Added attributes.</c> <wil err="typo" corr="mahIyas">mahIyam</wil> <mw>sahIyas</mw>
+PMS: corrected form is identical to mw form, i.e. map to: <mw>mahIyas</mw>
+ejf1:  No remapping required.  mahIyas is in both mw and wilson.  the presence of 'sahIyas' in the rule
+above is an error in the rule.
+
+Corrected. remap?
+<rule conf="LIKELY" class="ERROR">Ca/Ce</rule> <c auth="PS" cclass="E">MW has correct entry too [L=250964] but not found upon ordinary search; only found with prefix search in advanced search. ejf changed mw field to sUkzmamakzika</c> <wil err="typo" corr="sUkzmamakzikA">sUkzmakzikA</wil> <mw>sUkzmamakzika</mw>
+PMS: right.
+ejf1:  moved rule to wilson-map, slightly adjusted.
+
+line skipped: ----- filter3.txt ---
+Corrected. remap?
+<rule conf="LIKELY" class="ERROR">Ca/Cu</rule> <c auth="PS" cclass="G">SS: very similar but diff words. PMS: remapped to MW root; participle: prap of causative of prAR.</c> <wil err="scan" corr="prARayat">prARayata</wil> <mw>prAR</mw>
+
+WARN SKIPPING: no records in wiltab for key=prANayata  (SLP = prARayata) (CORR=prARayat)  FOUND, so already corrected
+<rule conf="LIKELY" class="ERROR">Ca/Cu</rule> <c auth="PS" cclass="G">SS: very similar but diff words. PMS: remapped to MW root; participle: prap of causative of prAR.</c> <wil err="scan" corr="prARayat">prARayata</wil> <mw>prAR</mw>
+PMS: Right. Grammar mapping of participle <wil>prARayat</wil> to MW root <mw>prAR</mw>
+ejf1:  have already moved prARayat record to wilson-map, but removed the '  err="scan" corr="prARayat"' part.
+
+
+Corrected. remap?
+<rule conf="LIKELY" class="ERROR">m/s</rule> <c auth="PS" cclass="V">Wilson Root should be 'zam' with marker 'a' but he always puts the 'a' after final consonant; MW root: sam1</c> <wil corr="zam">zama</wil> <mw>sam</mw>
+PMS: Right. Map Wilson root <wil>zam</wil> to MW root sam1 [L=232986] <mw>sam</mw>
+ejf1:  moved rule to wilson-ma, slightly adjusted.
+
+Corrected. remap?
+<rule conf="LIKELY" class="ERROR">s/m</rule> <c auth="PS" cclass="V">remapped. MW adds penultimate nasal found in present stem to root. MW[L=262731].  The Wilson root should not have final 'a'.</c> <wil err="fac" corr="his">hisa</wil> <mw>hiMs</mw>
+PMS: Right. Map Wilson root <wil>his</wil> to MW root hiMs1 [L=262731] <mw>hiMs</mw>
+ejf1:  moved rule to wilson-map, slightly adjusted.

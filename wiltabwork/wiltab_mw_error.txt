@@ -1,0 +1,566 @@
+<r><rule conf="LIKELY">M/</rule> <c>___</c> <wil>aMSita</wil> <mw>aSita</mw></r>
+<r><rule conf="_"></rule><c>(-/r) </c> <wil err="scan" corr="akarkkaSa">akakkaSa</wil> <mw>akarkaSa</mw></r>
+<r><rule conf="_"></rule><c>(n/m) </c> <wil err="scan" corr="akftrima">akftrina</wil> <mw>akftrima</mw></r>
+<r><rule conf="_"></rule><c>(y/p) </c> <wil err="typo" corr="akfpa">akfya</wil> <mw>akfpa</mw></r>
+<r><rule conf="_"></rule><c>not in MW; and error (w/d) (d + danda looks like w) </c> <wil err="typo" corr="akovid">akoviw</wil> <mw>*</mw></r>
+<r><rule conf="_"></rule><c>(A/o) </c> <wil err="scan" corr="akroDa">akrADa</wil> <mw>akroDa</mw></r>
+<r><rule conf="_"></rule><c>(a/O) printing-error? (-dyUtika); MW has "AkzadyUtika"</c> <wil err="scan">akzadyatika</wil> <mw>*</mw></r>
+<r><rule conf="_"></rule><c>(w/d) </c> <wil err="typo" corr="akzavid">akzaviw</wil> <mw>akzavid</mw></r>
+<r><rule conf="_"></rule><c>(M/-) "M" at word-end</c> <wil err="scan" corr="akzasUtra">akzasUtraM</wil> <mw>akzasUtra</mw></r>
+<r><rule conf="_"></rule><c>unreadable in Wilson scan ( ejf prob agarva) </c> <wil err="typo" corr="agarvva">agarYva</wil> <mw>agarva</mw></r>
+<r><rule conf="_"></rule><c>(A/o) </c> <wil err="scan" corr="agocara">agAcara</wil> <mw>agocara</mw></r>
+<r><rule conf="_"></rule><c>(M/-) "M" at word-end; and compound; and (ryy/ry) spelling after r</c> <wil err="scan" corr="agnikAryya">agnikAryyaM</wil> <mw>agnikArya</mw></r>
+<r><rule conf="_"></rule><c>(a/u) </c> <wil>agnikukkawa</wil> <mw>agnikukkuwa</mw></r>
+<r><rule conf="_"></rule><c>(y/T) </c> <wil err="typo" corr="agnimanTa">agnimanya</wil> <mw>agnimanTa</mw></r>
+<r><rule conf="_"></rule><c>(h/dD); and (rdD/rD) spelling after r</c> <wil err="typo" corr="agnivardDaka">agnivarhvaka</wil> <mw>agnivarDaka</mw></r>
+<r><rule conf="_"></rule><c>(z/D) </c> <wil err="typo" corr="agnID">agnIz</wil> <mw>agnID</mw></r>
+<r><rule conf="_"></rule><c>(b/v) </c> <wil err="typo" corr="aNkavidyA">aNkabidyA</wil> <mw>aNkavidyA</mw></r>
+<r><rule conf="_"></rule><c>(w/d); and (rdD/rD) spelling</c> <wil err="typo" corr="aNkuSadurdDara">aNkuSawurdDara</wil> <mw>aNkuSadurDara</mw></r>
+<r><rule conf="_"></rule><c>(Sv/Sc) </c> <wil err="typo" corr="aNgaprAyaScitta">aNgaprAyaSvitta</wil> <mw>aNgaprAyaScitta</mw></r>
+<r><rule conf="_"></rule><c>(b/v) </c> <wil err="typo" corr="aNgAravallarI">aNgAraballarI</wil> <mw>*</mw></r>
+<r><rule conf="_"></rule><c>(A/o) </c> <wil err="scan" corr="ajamodA">ajamAdA</wil> <mw>ajamodA</mw></r>
+<r><rule conf="_"></rule><c>(B/J) </c> <wil err="typo" corr="ajJawA">ajBawA</wil> <mw>ajJawA</mw></r>
+<r><rule conf="_"></rule><c>(B/J) </c> <wil err="typo" corr="ajJala">ajBala</wil> <mw>ajJala</mw></r>
+<r><rule conf="_"></rule><c>(G/D) </c> <wil err="typo" corr="aYjanADikA">aYjanAGikA</wil> <mw>aYjanADikA</mw></r>
+<r><rule conf="_"></rule><c>(b/v); and (rvv/rv) spelling after r</c> <wil err="typo" corr="atigarrvita">atigarbvita</wil> <mw>atigarvita</mw></r>
+<r><rule conf="_"></rule><c>(w/d) </c> <wil err="typo" corr="atiduzkara">atiwuzkara</wil> <mw>atiduzkara</mw></r>
+<r><rule conf="_"></rule><c>(e/o) </c> <wil err="typo" corr="atiSoBana">atiSeBana</wil> <mw>atiSoBana</mw></r>
+<r><rule conf="_"></rule><c>(k/tk) </c> <wil err="typo" corr="atyutkfzwa">atyukfzwa</wil> <mw>*atyutkfzwa</mw></r>
+<r><rule conf="_"></rule><c>(v/tr); wrong auto-correction: AUTO(NEGa)</c> <wil corr="atrapa">avapa</wil> <mw>*</mw></r>
+<r><rule conf="_"></rule><c>(v/tr) </c> <wil err="typo" corr="atraBavat">avaBavat</wil> <mw>atraBavat</mw></r>
+<r><rule conf="_"></rule><c>(w/d) </c> <wil err="typo" corr="aduzwa">awuzwa</wil> <mw>aduzwa</mw></r>
+<r><rule conf="_"></rule><c>(a/E) </c> <wil err="scan" corr="advEta">advata</wil> <mw>advEta</mw></r>
+<r><rule conf="_"></rule><c>(a/E) </c> <wil err="scan" corr="advEtavAdin">advatavAdin</wil> <mw>advEtavAdin</mw></r>
+<r><rule conf="_"></rule><c>(s/m) </c> <wil err="typo" corr="aDamaBftaka">aDasaBftaka</wil> <mw>aDamaBftaka</mw></r>
+<r><rule conf="_"></rule><c>(a/u) </c> <wil err="scan" corr="aDaramaDu">aDaramaDa</wil> <mw>aDaramaDu</mw></r>
+<r><rule conf="_"></rule><c>(Sv/Sc) </c> <wil err="typo" corr="aDaScara">aDaSvara</wil> <mw>aDaScara</mw></r>
+<r><rule conf="_"></rule><c>(Sv/Sc) </c> <wil err="typo" corr="aDaScOra">aDaSvOra</wil> <mw>*aDaScOra</mw></r>
+<r><rule conf="_"></rule><c>(-/am)| printing-error (Wilson prints a virama that is wrong)?</c> <wil err="fact" corr="aDijyotiza">aDijyotiz</wil> <mw>aDijyotizam</mw></r>
+<r><rule conf="_"></rule><c>(-/M) </c> <wil err="typo" corr="aDo'MSuka">aDo'Suka</wil> <mw>aDoMSuka</mw></r>
+<r><rule conf="_"></rule><c>(M/-) "M" at word-end; printing-error?</c> <wil>aDobanDanaM</wil> <mw>aDobanDana</mw></r>
+<r><rule conf="_"></rule><c>(ntv/ntr) </c> <wil err="typo" corr="aDoyantra">aDoyantva</wil> <mw>aDoyantra</mw></r>
+<r><rule conf="LIKELY">Ca/Ce</rule> <c>___</c> <wil>aDyaya</wil> <mw>aDyeya</mw></r>
+<r><rule conf="LIKELY">Ca/Cu</rule> <c>___</c> <wil>anakampA</wil> <mw>anukampA</mw></r>
+<r><rule conf="LIKELY">Ca/Ce</rule> <c>___</c> <wil>anaqamUka</wil> <mw>aneqamUka</mw></r>
+<r><rule conf="LIKELY">Ca/Cu</rule> <c>___</c> <wil>anatarzaRa</wil> <mw>anutarzaRa</mw></r>
+<r><rule conf="_"></rule><c>(t/nt) </c> <wil err="typo" corr="anantaka">anataka</wil> <mw>anantaka</mw></r>
+<r><rule conf="LIKELY">Ca/Cu</rule> <c>___</c> <wil>anapaBukta</wil> <mw>anupaBukta</mw></r>
+<r><rule conf="_"></rule><c>(v/y) </c> <wil err="typo" corr="anapAyin">anapAvin</wil> <mw>anapAyin</mw></r>
+<r><rule conf="_"></rule><c>(v/t) </c> <wil err="scan" corr="anaBimata">anaBimava</wil> <mw>anaBimata</mw></r>
+<r><rule conf="LIKELY">VC/VrC</rule> <c>___</c> <wil>anilocita</wil> <mw>anirlocita</mw></r>
+<r><rule conf="LIKELY">VC/VrC</rule> <c>___</c> <wil>aniloqita</wil> <mw>anirloqita</mw></r>
+<r><rule conf="_"></rule><c>(a/u) </c> <wil corr="anukaraRa">anakaraRa</wil> <mw>*</mw></r>
+<r><rule conf="_"></rule><c>(M/-)</c> <wil corr="anukramaRikA">anukraMmaRikA</wil> <mw>anukramaRikA</mw></r>
+<r><rule conf="_"></rule><c>(M/-) "M" at word-end</c> <wil corr="anuraYjana">anuraYjanaM</wil> <mw>anuraYjana</mw></r>
+<r><rule conf="LIKELY">CA/Co</rule> <c>___</c> <wil>annakAzWaka</wil> <mw>annakozWaka</mw></r>
+<r><rule conf="LIKELY">B/J</rule> <c>___</c> <wil>aparavojBita</wil> <mw>aparavojJita</mw></r>
+<r><rule conf="LIKELY">Ca/Cu</rule> <c>___</c> <wil>apazwa</wil> <mw>apuzwa</mw></r>
+<r><rule conf="_"></rule><c>(M/-) "M" at word-end</c> <wil corr="apraSasta">apraSastaM</wil> <mw>apraSasta</mw></r>
+<r><rule conf="LIKELY">Ca/Cu</rule> <c>___</c> <wil>apsa</wil> <mw>apsu</mw></r>
+<r><rule conf="_"></rule><c>(M/-) "M" at word-end</c> <wil corr="aBihitatva">aBihitatvaM</wil> <mw>aBihitatva</mw></r>
+<r><rule conf="LIKELY">t/tt</rule> <c>___</c> <wil>aBIrupatrI</wil> <mw>aBIrupattrI</mw></r>
+<r><rule conf="LIKELY">Ca/Cu</rule> <c>___</c> <wil>aByapagamita</wil> <mw>aByupagamita</mw></r>
+<r><rule conf="_"></rule><c>(e/o) </c> <wil corr="amanogata">amanegata</wil> <mw>*</mw></r>
+<r><rule conf="LIKELY">Ca/Cu</rule> <c>___</c> <wil>amAnazya</wil> <mw>amAnuzya</mw></r>
+<r><rule conf="LIKELY">t/tt</rule> <c>___</c> <wil>ambupatrA</wil> <mw>ambupattrA</mw></r>
+<r><rule conf="LIKELY">m/s</rule> <c>___</c> <wil>arama</wil> <mw>arasa</mw></r>
+<r><rule conf="LIKELY">wu/du</rule> <c>___</c> <wil>arizwawuzwaDI</wil> <mw>arizwaduzwaDI</mw></r>
+<r><rule conf="LIKELY">t/tt</rule> <c>___</c> <wil>arkapatra</wil> <mw>arkapattra</mw></r>
+<r><rule conf="LIKELY">CA/Co</rule> <c>___</c> <wil>arSAroga</wil> <mw>arSoroga</mw></r>
+<r><rule conf="LIKELY">t/tt</rule> <c>___</c> <wil>alpapatra</wil> <mw>alpapattra</mw></r>
+<r><rule conf="_"></rule><c>(a/u) </c> <wil corr="avawuja">avawaja</wil> <mw>*</mw></r>
+<r><rule conf="LIKELY">VC/VrC</rule> <c>___</c> <wil>avAcIna</wil> <mw>arvAcIna</mw></r>
+<r><rule conf="LIKELY">Ca/Cu</rule> <c>___</c> <wil>asaKin</wil> <mw>asuKin</mw></r>
+<r><rule conf="_"></rule><c>(m/s); wrong auto-correction: AUTO(NEGa)</c> <wil corr="asat">amat</wil> <mw>*</mw></r>
+<r><rule conf="LIKELY">s/m</rule> <c>___</c> <wil>asala</wil> <mw>amala</mw></r>
+<r><rule conf="LIKELY">t/tt</rule> <c>___</c> <wil>asipatra</wil> <mw>asipattra</mw></r>
+<r><rule conf="LIKELY">t/tt</rule> <c>___</c> <wil>asipatraka</wil> <mw>asipattraka</mw></r>
+<r><rule conf="LIKELY">t/tt</rule> <c>___</c> <wil>asipatravana</wil> <mw>asipattravana</mw></r>
+<r><rule conf="LIKELY">VC/VrC</rule> <c>___</c> <wil>asUkzaRa</wil> <mw>asUrkzaRa</mw></r>
+<r><rule conf="LIKELY">Ca/Cu</rule> <c>___</c> <wil>astata</wil> <mw>astuta</mw></r>
+<r><rule conf="_"></rule><c>(M/-) "M" at word-end</c> <wil corr="astranivAraRa">astranivAraRaM</wil> <mw>*</mw></r>
+<r><rule conf="LIKELY">VC/VrC</rule> <c>___</c> <wil>asTisamapaRa</wil> <mw>asTisamarpaRa</mw></r>
+<r><rule conf="LIKELY">Ca/Cu</rule> <c>___</c> <wil>asPawaPala</wil> <mw>asPuwaPala</mw></r>
+<r><rule conf="LIKELY">t/tt</rule> <c>___</c> <wil>ahicCatra</wil> <mw>ahicCattra</mw></r>
+<r><rule conf="_"></rule><c>(g/m) </c> <wil err="scan" corr="Akampra">Akagpra</wil> <mw>Akampra</mw></r>
+<r><rule conf="_"></rule><c>(Sp/Sy) </c> <wil err="typo" corr="AkfzyamARa">AkfzpamARa</wil> <mw>*</mw></r>
+<r><rule conf="_"></rule><c>(a/u) </c> <wil err="scan" corr="Akruzwa">Akrazwa</wil> <mw>Akruzwa</mw></r>
+<r><rule conf="_"></rule><c>(b/v) </c> <wil err="typo" corr="AKuvizahA">AKubizahA</wil> <mw>AKuvizahA</mw></r>
+<r><rule conf="_"></rule><c>(df/wwa) </c> <wil err="typo" corr="AGawwaka">AGadfka</wil> <mw>AGawwaka</mw></r>
+<r><rule conf="_"></rule><c>(df/wwa) </c> <wil err="typo" corr="AGawwana">AGadfna</wil> <mw>AGawwana</mw></r>
+<r><rule conf="LIKELY">t/tt</rule> <c>___</c> <wil>AjYApatra</wil> <mw>AjYApattra</mw></r>
+<r><rule conf="_"></rule><c>(o/A) </c> <wil err="scan" corr="AjYopaka">AjYopaka</wil> <mw>AjYApaka</mw></r>
+<r><rule conf="LIKELY">VC/VrC</rule> <c>___</c> <wil>Atana</wil> <mw>Artana</mw></r>
+<r><rule conf="_"></rule><c>(A/a); and E (a/-)</c> <wil err="typo" corr="Atmavid">AtmAvida</wil> <mw>Atmavid</mw></r>
+<r><rule conf="_"></rule><c>(e/a) </c> <wil err="scan" corr="Adipuruza">Adipuruze</wil> <mw>Adipuruza</mw></r>
+<r><rule conf="_"></rule><c>(a/i) </c> <wil err="typo" corr="ADarzata">ADarzata</wil> <mw>ADarzita</mw></r>
+<r><rule conf="_"></rule><c>(w/d) </c> <wil err="typo" corr="AnakawunduBi">AnakawunduBi</wil> <mw>AnakadunduBi</mw></r>
+<r><rule conf="_"></rule><c>(s/m) </c> <wil err="typo" corr="Anamra">Anasra</wil> <mw>Anamra</mw></r>
+<r><rule conf="_"></rule><c>(b/v): and (rvv/rv) </c> <wil err="typo" corr="AnupUrbba">AnupUrbva</wil> <mw>AnupUrva</mw></r>
+<r><rule conf="_"></rule><c>(va/rve) </c> <wil err="scan" corr="AntarveSmika">AntavaSmika</wil> <mw>AntarveSmika</mw></r>
+<r><rule conf="_"></rule><c>(rbv/rv) </c> <wil err="typo" corr="Aptagarbba">Aptagarbva</wil> <mw>Aptagarva</mw></r>
+<r><rule conf="_"></rule><c>(st/l) </c> <wil err="scan" corr="AmUla">AmUsta</wil> <mw>*</mw></r>
+<r><rule conf="LIKELY">m/s</rule> <c>___</c> <wil>AmeDa</wil> <mw>AseDa</mw></r>
+<r><rule conf="_"></rule><c>(A/o) </c> <wil err="scan" corr="Amozin">AmAzin</wil> <mw>Amozin</mw></r>
+<r><rule conf="_"></rule><c>(a/u) </c> <wil err="scan" corr="AyuDAgAra">AyaDAgAra</wil> <mw>AyuDAgAra</mw></r>
+<r><rule conf="_"></rule><c>(a/u) </c> <wil err="scan" corr="AyuDika">AyaDika</wil> <mw>AyuDika</mw></r>
+<r><rule conf="_"></rule><c>(n/b) </c> <wil err="scan" corr="ArabDa">AranDa</wil> <mw>ArabDa</mw></r>
+<r><rule conf="_"></rule><c>(M/-) "M" + "r"</c> <wil err="typo" corr="Arkzavarza">ArkzaMvarza</wil> <mw>Arkzavarza</mw></r>
+<r><rule conf="_"></rule><c>(rtt/rtv) </c> <wil err="fact" corr="Artvijya">Arttijya</wil> <mw>Artvijya</mw></r>
+<r><rule conf="_"></rule><c>(-/r) </c> <wil err="scan" corr="ArTika">ATika</wil> <mw>ArTika</mw></r>
+<r><rule conf="_"></rule><c>(-/r) </c> <wil err="scan" corr="ArdratA">AdratA</wil> <mw>ArdratA</mw></r>
+<r><rule conf="_"></rule><c>(-/r) </c> <wil err="scan" corr="Ardranayana">Adranayana</wil> <mw>Ardranayana</mw></r>
+<r><rule conf="_"></rule><c>(-/r); and (yy/y) </c> <wil err="scan" corr="AryyarUpa">AyyarUpa</wil> <mw>AryarUpa</mw></r>
+<r><rule conf="_"></rule><c>(b/v) </c> <wil err="typo" corr="AvaraRaSakti">AbaraRaSakti</wil> <mw>*</mw></r>
+<r><rule conf="LIKELY">VC/VrC</rule> <c>___</c> <wil>Avahita</wil> <mw>Avarhita</mw></r>
+<r><rule conf="_"></rule><c>(a/e) </c> <wil err="scan" corr="AveSika">AvaSika</wil> <mw>AveSika</mw></r>
+<r><rule conf="_"></rule><c>(a/e) </c> <wil err="scan" corr="ASleza">ASlaza</wil> <mw>ASleza</mw></r>
+<r><rule conf="_"></rule><c>(vy/ty) </c> <wil err="scan" corr="Ahfvya">Ahfvya</wil> <mw>Ahftya</mw></r>
+<r><rule conf="_"></rule><c>(hr/hn) </c> <wil err="scan" corr="AhnikAcAra">AhrikAcAra</wil> <mw>AhnikAcAra</mw></r>
+<r><rule conf="_"></rule><c>(wv/wc) </c> <wil err="scan" corr="iwcara">iwvara</wil> <mw>iwcara</mw></r>
+<r><rule conf="_"></rule><c>(a/u) </c> <wil err="typo" corr="indukamala">indakamala</wil> <mw>indukamala</mw></r>
+<r><rule conf="_"></rule><c>(a/u) </c> <wil err="scan" corr="indujA">indajA</wil> <mw>indujA</mw></r>
+<r><rule conf="_"></rule><c>(dD/dr) </c> <wil err="scan" corr="indradru">indradDu</wil> <mw>indradru</mw></r>
+<r><rule conf="_"></rule><c>(g/r) </c> <wil err="scan" corr="irA">igA</wil> <mw>irA</mw></r>
+<r><rule conf="_"></rule><c>(bv/v) </c> <wil err="typo" corr="irvvAruSuktikA">irbvAruSuktikA</wil> <mw>irvAruSuktikA</mw></r>
+<r><rule conf="_"></rule><c>(bv/v) </c> <wil err="typo" corr="irvvAlu">irbvAlu</wil> <mw>irvAlu</mw></r>
+<r><rule conf="LIKELY">Ca/Cu</rule> <c>___</c> <wil>Ipsa</wil> <mw>Ipsu</mw></r>
+<r><rule conf="_"></rule><c>(bv/v) </c> <wil err="typo" corr="IrvvAru">IrbvAru</wil> <mw>IrvAru</mw></r>
+<r><rule conf="_"></rule><c>(M/-) "M" + "r"</c> <wil err="scan" corr="Irzyaka">IrzyaMka</wil> <mw>Irzyaka</mw></r>
+<r><rule conf="_"></rule><c>(M/-) "M" + "r"</c> <wil>IrzyAMvaSa</wil> <mw>*</mw></r>
+<r><rule conf="LIKELY">Ca/Cu</rule> <c>___</c> <wil>uccatara</wil> <mw>uccataru</mw></r>
+<r><rule conf="LIKELY">Ca/Cu</rule> <c>___</c> <wil>utkaYcitA</wil> <mw>utkuYcitA</mw></r>
+<r><rule conf="_"></rule><c>(M/-) "M" at word-end</c> <wil corr="uttamarRa">uttamarRaM</wil> <mw>uttamarRa</mw></r>
+<r><rule conf="LIKELY">s/m</rule> <c>___</c> <wil>uttIras</wil> <mw>uttIram</mw></r>
+<r><rule conf="LIKELY">t/tt</rule> <c>___</c> <wil>utpalapatra</wil> <mw>utpalapattra</mw></r>
+<r><rule conf="LIKELY">Ca/Cf</rule> <c>___</c> <wil>udBa</wil> <mw>udBf</mw></r>
+<r><rule conf="LIKELY">Ca/Cu</rule> <c>___</c> <wil>undara</wil> <mw>undura</mw></r>
+<r><rule conf="LIKELY">s/m</rule> <c>___</c> <wil>unnasra</wil> <mw>unnamra</mw></r>
+<r><rule conf="_"></rule><c>(M/-) "M" + "r"</c> <wil corr="unmArgagAmin">unmArgaMgAmin</wil> <mw>unmArgagAmin</mw></r>
+<r><rule conf="_"></rule><c>(M/-) "M" at word-end</c> <wil corr="upacArakaraRa">upacArakaraRaM</wil> <mw>*</mw></r>
+<r><rule conf="LIKELY">wu/du</rule> <c>___</c> <wil>upapAwuka</wil> <mw>upapAduka</mw></r>
+<r><rule conf="_"></rule><c>(M/-) "M" at word-end</c> <wil corr="upasarjana">upasarjanaM</wil> <mw>*</mw></r>
+<r><rule conf="LIKELY">t/tt</rule> <c>___</c> <wil>upasTapatra</wil> <mw>upasTapattra</mw></r>
+<r><rule conf="LIKELY">Ca/Cu</rule> <c>___</c> <wil>ura</wil> <mw>uru</mw></r>
+<r><rule conf="LIKELY">CA/Co</rule> <c>___</c> <wil>uzRAdaka</wil> <mw>uzRodaka</mw></r>
+<r><rule conf="LIKELY">t/tt</rule> <c>___</c> <wil>ekapatrikA</wil> <mw>ekapattrikA</mw></r>
+<r><rule conf="LIKELY">CA/Co</rule> <c>___</c> <wil>ekayAni</wil> <mw>ekayoni</mw></r>
+<r><rule conf="LIKELY">Ca/Cf</rule> <c>___</c> <wil>ejita</wil> <mw>ejitf</mw></r>
+<r><rule conf="LIKELY">t/tt</rule> <c>___</c> <wil>eraRqapatrikA</wil> <mw>eraRqapattrikA</mw></r>
+<r><rule conf="LIKELY">t/tt</rule> <c>___</c> <wil>elApatra</wil> <mw>elApattra</mw></r>
+<r><rule conf="LIKELY">M/</rule> <c>___</c> <wil>oM</wil> <mw>o</mw></r>
+<r><rule conf="LIKELY">t/tt</rule> <c>___</c> <wil>kakKawapatraka</wil> <mw>kakKawapattraka</mw></r>
+<r><rule conf="LIKELY">t/tt</rule> <c>___</c> <wil>kaNkapatra</wil> <mw>kaNkapattra</mw></r>
+<r><rule conf="LIKELY">CA/Co</rule> <c>___</c> <wil>kaNkarAla</wil> <mw>kaNkarola</mw></r>
+<r><rule conf="LIKELY">t/tt</rule> <c>___</c> <wil>kaNgunIpatrA</wil> <mw>kaNgunIpattrA</mw></r>
+<r><rule conf="LIKELY">Ca/Cu</rule> <c>___</c> <wil>kawaBadra</wil> <mw>kawuBadra</mw></r>
+<r><rule conf="LIKELY">t/tt</rule> <c>___</c> <wil>kawupatra</wil> <mw>kawupattra</mw></r>
+<r><rule conf="LIKELY">wu/du</rule> <c>___</c> <wil>kawuzRa</wil> <mw>kaduzRa</mw></r>
+<r><rule conf="LIKELY">VC/VrC</rule> <c>___</c> <wil>kaRagUTa</wil> <mw>karRagUTa</mw></r>
+<r><rule conf="LIKELY">t/tt</rule> <c>___</c> <wil>kaRwapatra</wil> <mw>kaRwapattra</mw></r>
+<r><rule conf="LIKELY">CA/Co</rule> <c>___</c> <wil>kattAya</wil> <mw>kattoya</mw></r>
+<r><rule conf="LIKELY">VC/VrC</rule> <c>___</c> <wil>kadawa</wil> <mw>kardawa</mw></r>
+<r><rule conf="LIKELY">t/tt</rule> <c>___</c> <wil>karapatra</wil> <mw>karapattra</mw></r>
+<r><rule conf="LIKELY">t/tt</rule> <c>___</c> <wil>karapatravat</wil> <mw>karapattravat</mw></r>
+<r><rule conf="LIKELY">t/tt</rule> <c>___</c> <wil>karapatrikA</wil> <mw>karapattrikA</mw></r>
+<r><rule conf="LIKELY">m/s</rule> <c>___</c> <wil>karinAmikA</wil> <mw>karinAsikA</mw></r>
+<r><rule conf="LIKELY">Ca/CU</rule> <c>___</c> <wil>karRajalakA</wil> <mw>karRajalUkA</mw></r>
+<r><rule conf="_"></rule><c>(M/-) "M" + "r"</c> <wil corr="karRaveDa">karRaMveDa</wil> <mw>*</mw></r>
+<r><rule conf="LIKELY">m/s</rule> <c>___</c> <wil>karRImuta</wil> <mw>karRIsuta</mw></r>
+<r><rule conf="_"></rule><c>(M/-); a root; in MW under "kartr"o</c> <wil corr="kartra">kartraM</wil> <mw>*</mw></r>
+<r><rule conf="LIKELY">Ca/Ce</rule> <c>___</c> <wil>kalikIrRa</wil> <mw>kelikIrRa</mw></r>
+<r><rule conf="LIKELY">t/tt</rule> <c>___</c> <wil>kavacapatra</wil> <mw>kavacapattra</mw></r>
+<r><rule conf="LIKELY">Ca/Ce</rule> <c>___</c> <wil>kaSAvamarzaRa</wil> <mw>keSAvamarzaRa</mw></r>
+<r><rule conf="LIKELY">Ca/Cf</rule> <c>___</c> <wil>kazikA</wil> <mw>kfzikA</mw></r>
+<r><rule conf="LIKELY">CA/Co</rule> <c>___</c> <wil>kANkzAru</wil> <mw>kANkzoru</mw></r>
+<r><rule conf="LIKELY">CA/Co</rule> <c>___</c> <wil>kAwISa</wil> <mw>kowISa</mw></r>
+<r><rule conf="LIKELY">Ca/Ce</rule> <c>___</c> <wil>kAttrayaka</wil> <mw>kAttreyaka</mw></r>
+<r><rule conf="LIKELY">VC/VrC</rule> <c>___</c> <wil>kApAsanAsikA</wil> <mw>kArpAsanAsikA</mw></r>
+<r><rule conf="LIKELY">CA/Co</rule> <c>___</c> <wil>kAmApahata</wil> <mw>kAmopahata</mw></r>
+<r><rule conf="LIKELY">m/s</rule> <c>___</c> <wil>kAmAlu</wil> <mw>kAsAlu</mw></r>
+<r><rule conf="LIKELY">Ca/Ce</rule> <c>___</c> <wil>kArakahatu</wil> <mw>kArakahetu</mw></r>
+<r><rule conf="LIKELY">m/s</rule> <c>___</c> <wil>kArttikotmava</wil> <mw>kArttikotsava</mw></r>
+<r><rule conf="LIKELY">Ca/CU</rule> <c>___</c> <wil>kAlakastarI</wil> <mw>kAlakastUrI</mw></r>
+<r><rule conf="LIKELY">Ca/Ce</rule> <c>___</c> <wil>kAlanamiripu</wil> <mw>kAlanemiripu</mw></r>
+<r><rule conf="LIKELY">Ca/Ce</rule> <c>___</c> <wil>kAlamaSikA</wil> <mw>kAlameSikA</mw></r>
+<r><rule conf="LIKELY">Ca/Cu</rule> <c>___</c> <wil>kAzWadra</wil> <mw>kAzWadru</mw></r>
+<r><rule conf="LIKELY">Ca/Cu</rule> <c>___</c> <wil>kuNkamAruRa</wil> <mw>kuNkumAruRa</mw></r>
+<r><rule conf="LIKELY">Ca/Cu</rule> <c>___</c> <wil>kumadinI</wil> <mw>kumudinI</mw></r>
+<r><rule conf="_"></rule><c>(M/-) </c> <wil corr="kulaBftyA">kulaMBftyA</wil> <mw>*</mw></r>
+<r><rule conf="LIKELY">Ca/Cu</rule> <c>___</c> <wil>kUlamadruja</wil> <mw>kUlamudruja</mw></r>
+<r><rule conf="LIKELY">Ca/Ce</rule> <c>___</c> <wil>kfSAnuratas</wil> <mw>kfSAnuretas</mw></r>
+<r><rule conf="LIKELY">VC/VrC</rule> <c>___</c> <wil>kfzRadaSana</wil> <mw>kfzRadarSana</mw></r>
+<r><rule conf="_"></rule><c>(M/-) "M" at word-end</c> <wil corr="kfzRasarpa">kfzRasarpaM</wil> <mw>*</mw></r>
+<r><rule conf="_"></rule><c>(M/-)</c> <wil corr="keSapaNkti">keSapaMNkti</wil> <mw>*</mw></r>
+<r><rule conf="LIKELY">m/s</rule> <c>___</c> <wil>kowiSam</wil> <mw>kowiSas</mw></r>
+<r><rule conf="_"></rule><c>(M/-)</c> <wil corr="kORqinya">kORqinyaM</wil> <mw>*</mw></r>
+<r><rule conf="LIKELY">B/J</rule> <c>___</c> <wil>kroDojBita</wil> <mw>kroDojJita</mw></r>
+<r><rule conf="LIKELY">Ca/Cu</rule> <c>___</c> <wil>kzat</wil> <mw>kzut</mw></r>
+<r><rule conf="LIKELY">m/s</rule> <c>___</c> <wil>kzatatejam</wil> <mw>kzatatejas</mw></r>
+<r><rule conf="LIKELY">ra/f</rule> <c>___</c> <wil>kzattra</wil> <mw>kzattf</mw></r>
+<r><rule conf="LIKELY">t/tt</rule> <c>___</c> <wil>kzarapatrA</wil> <mw>kzarapattrA</mw></r>
+<r><rule conf="LIKELY">Ca/Cu</rule> <c>___</c> <wil>kzavaTa</wil> <mw>kzavaTu</mw></r>
+<r><rule conf="LIKELY">t/tt</rule> <c>___</c> <wil>kzArapatra</wil> <mw>kzArapattra</mw></r>
+<r><rule conf="LIKELY">t/tt</rule> <c>___</c> <wil>kzudrapatrA</wil> <mw>kzudrapattrA</mw></r>
+<r><rule conf="_"></rule><c>(M/-)</c> <wil corr="kzudraSIrza">kzudraSIrzaM</wil> <mw>*</mw></r>
+<r><rule conf="LIKELY">q/w</rule> <c>___</c> <wil>Kaqu</wil> <mw>Kawu</mw></r>
+<r><rule conf="LIKELY">t/tt</rule> <c>___</c> <wil>Kaqgapatra</wil> <mw>Kaqgapattra</mw></r>
+<r><rule conf="LIKELY">t/tt</rule> <c>___</c> <wil>KaRqapatra</wil> <mw>KaRqapattra</mw></r>
+<r><rule conf="LIKELY">m/s</rule> <c>___</c> <wil>KaRqaSam</wil> <mw>KaRqaSas</mw></r>
+<r><rule conf="LIKELY">t/tt</rule> <c>___</c> <wil>KadirapatrI</wil> <mw>KadirapattrI</mw></r>
+<r><rule conf="LIKELY">m/s</rule> <c>___</c> <wil>KaraRam</wil> <mw>KaraRas</mw></r>
+<r><rule conf="LIKELY">t/tt</rule> <c>___</c> <wil>Karapatra</wil> <mw>Karapattra</mw></r>
+<r><rule conf="LIKELY">t/tt</rule> <c>___</c> <wil>Karapatraka</wil> <mw>Karapattraka</mw></r>
+<r><rule conf="LIKELY">Ca/Ce</rule> <c>___</c> <wil>KalanI</wil> <mw>KelanI</mw></r>
+<r><rule conf="LIKELY">l/w</rule> <c>___</c> <wil>KalvikA</wil> <mw>KawvikA</mw></r>
+<r><rule conf="LIKELY">t/tt</rule> <c>___</c> <wil>gatasatva</wil> <mw>gatasattva</mw></r>
+<r><rule conf="LIKELY">t/tt</rule> <c>___</c> <wil>ganDapatra</wil> <mw>ganDapattra</mw></r>
+<r><rule conf="LIKELY">VC/VrC</rule> <c>___</c> <wil>gaBiRI</wil> <mw>garBiRI</mw></r>
+<r><rule conf="LIKELY">CA/Co</rule> <c>___</c> <wil>garBapAzaRa</wil> <mw>garBapozaRa</mw></r>
+<r><rule conf="LIKELY">Ca/Ce</rule> <c>___</c> <wil>gANgawaya</wil> <mw>gANgaweya</mw></r>
+<r><rule conf="LIKELY">Ca/Cu</rule> <c>___</c> <wil>gizRa</wil> <mw>gizRu</mw></r>
+<r><rule conf="LIKELY">t/tt</rule> <c>___</c> <wil>gucCapatra</wil> <mw>gucCapattra</mw></r>
+<r><rule conf="LIKELY">Ca/Cu</rule> <c>___</c> <wil>guRAnaroDa</wil> <mw>guRAnuroDa</mw></r>
+<r><rule conf="LIKELY">t/tt</rule> <c>___</c> <wil>gurupatra</wil> <mw>gurupattra</mw></r>
+<r><rule conf="LIKELY">CA/Co</rule> <c>___</c> <wil>gfhApakaraRa</wil> <mw>gfhopakaraRa</mw></r>
+<r><rule conf="LIKELY">CA/Co</rule> <c>___</c> <wil>gfhAlikA</wil> <mw>gfholikA</mw></r>
+<r><rule conf="LIKELY">Ca/Ce</rule> <c>___</c> <wil>gehaSUra</wil> <mw>geheSUra</mw></r>
+<r><rule conf="LIKELY">Ca/CU</rule> <c>___</c> <wil>goDamasamBava</wil> <mw>goDUmasamBava</mw></r>
+<r><rule conf="LIKELY">Ca/Cu</rule> <c>___</c> <wil>gopawA</wil> <mw>gopuwA</mw></r>
+<r><rule conf="LIKELY">Ca/Cu</rule> <c>___</c> <wil>gopawika</wil> <mw>gopuwika</mw></r>
+<r><rule conf="LIKELY">m/s</rule> <c>___</c> <wil>goma</wil> <mw>gosa</mw></r>
+<r><rule conf="LIKELY">Ca/CU</rule> <c>___</c> <wil>GarRana</wil> <mw>GUrRana</mw></r>
+<r><rule conf="LIKELY">VC/VrC</rule> <c>___</c> <wil>Gaza</wil> <mw>Garza</mw></r>
+<r><rule conf="LIKELY">Ca/Cu</rule> <c>___</c> <wil>GeYcalikA</wil> <mw>GeYculikA</mw></r>
+<r><rule conf="LIKELY">m/s</rule> <c>___</c> <wil>cakzam</wil> <mw>cakzas</mw></r>
+<r><rule conf="LIKELY">q/w</rule> <c>___</c> <wil>caq</wil> <mw>caw</mw></r>
+<r><rule conf="_"></rule><c>(M/-)</c> <wil corr="cAndraka">cAndrakaM</wil> <mw>*</mw></r>
+<r><rule conf="LIKELY">m/s</rule> <c>___</c> <wil>cAracakzum</wil> <mw>cAracakzus</mw></r>
+<r><rule conf="LIKELY">Ca/Cu</rule> <c>___</c> <wil>citrapatrikA</wil> <mw>citraputrikA</mw></r>
+<r><rule conf="LIKELY">m/s</rule> <c>___</c> <wil>citramena</wil> <mw>citrasena</mw></r>
+<r><rule conf="LIKELY">q/w</rule> <c>___</c> <wil>ciraRqI</wil> <mw>ciraRwI</mw></r>
+<r><rule conf="LIKELY">t/tt</rule> <c>___</c> <wil>Catra</wil> <mw>Cattra</mw></r>
+<r><rule conf="LIKELY">t/tt</rule> <c>___</c> <wil>Catraka</wil> <mw>Cattraka</mw></r>
+<r><rule conf="LIKELY">t/tt</rule> <c>___</c> <wil>Catracakra</wil> <mw>Cattracakra</mw></r>
+<r><rule conf="LIKELY">t/tt</rule> <c>___</c> <wil>CatraDAra</wil> <mw>CattraDAra</mw></r>
+<r><rule conf="LIKELY">t/tt</rule> <c>___</c> <wil>CatraDAraRa</wil> <mw>CattraDAraRa</mw></r>
+<r><rule conf="LIKELY">t/tt</rule> <c>___</c> <wil>Catrapatra</wil> <mw>Cattrapattra</mw></r>
+<r><rule conf="LIKELY">t/tt</rule> <c>___</c> <wil>CatraBaNga</wil> <mw>CattraBaNga</mw></r>
+<r><rule conf="LIKELY">t/tt</rule> <c>___</c> <wil>CatrAka</wil> <mw>CattrAka</mw></r>
+<r><rule conf="LIKELY">t/tt</rule> <c>___</c> <wil>CatrikA</wil> <mw>CattrikA</mw></r>
+<r><rule conf="LIKELY">t/tt</rule> <c>___</c> <wil>Catvara</wil> <mw>Cattvara</mw></r>
+<r><rule conf="LIKELY">t/tt</rule> <c>___</c> <wil>Cadapatra</wil> <mw>Cadapattra</mw></r>
+<r><rule conf="LIKELY">Ca/Cu</rule> <c>___</c> <wil>Cap</wil> <mw>Cup</mw></r>
+<r><rule conf="LIKELY">t/tt</rule> <c>___</c> <wil>CAtra</wil> <mw>CAttra</mw></r>
+<r><rule conf="LIKELY">t/tt</rule> <c>___</c> <wil>CAtraka</wil> <mw>CAttraka</mw></r>
+<r><rule conf="LIKELY">t/tt</rule> <c>___</c> <wil>CAtragaRqa</wil> <mw>CAttragaRqa</mw></r>
+<r><rule conf="LIKELY">t/tt</rule> <c>___</c> <wil>CAtradarSana</wil> <mw>CAttradarSana</mw></r>
+<r><rule conf="LIKELY">t/tt</rule> <c>___</c> <wil>Citvara</wil> <mw>Cittvara</mw></r>
+<r><rule conf="LIKELY">t/tt</rule> <c>___</c> <wil>jayapatra</wil> <mw>jayapattra</mw></r>
+<r><rule conf="LIKELY">m/s</rule> <c>___</c> <wil>jalamarpiRI</wil> <mw>jalasarpiRI</mw></r>
+<r><rule conf="LIKELY">CA/Co</rule> <c>___</c> <wil>jalAkA</wil> <mw>jalokA</mw></r>
+<r><rule conf="LIKELY">t/tt</rule> <c>___</c> <wil>jAtIpatrI</wil> <mw>jAtIpattrI</mw></r>
+<r><rule conf="LIKELY">VC/VrC</rule> <c>___</c> <wil>jivi</wil> <mw>jirvi</mw></r>
+<r><rule conf="LIKELY">VC/VrC</rule> <c>___</c> <wil>jYAnadapaRa</wil> <mw>jYAnadarpaRa</mw></r>
+<r><rule conf="LIKELY">J/B</rule> <c>___</c> <wil>JawA</wil> <mw>BawA</mw></r>
+<r><rule conf="LIKELY">q/w</rule> <c>___</c> <wil>taqAGAta</wil> <mw>tawAGAta</mw></r>
+<r><rule conf="LIKELY">t/tt</rule> <c>___</c> <wil>tatapatrI</wil> <mw>tatapattrI</mw></r>
+<r><rule conf="LIKELY">t/tt</rule> <c>___</c> <wil>tatva</wil> <mw>tattva</mw></r>
+<r><rule conf="LIKELY">t/tt</rule> <c>___</c> <wil>tamAlapatra</wil> <mw>tamAlapattra</mw></r>
+<r><rule conf="LIKELY">Ca/Cf</rule> <c>___</c> <wil>tarita</wil> <mw>taritf</mw></r>
+<r><rule conf="LIKELY">t/tt</rule> <c>___</c> <wil>tAqapatra</wil> <mw>tAqapattra</mw></r>
+<r><rule conf="LIKELY">t/tt</rule> <c>___</c> <wil>tAmrapatra</wil> <mw>tAmrapattra</mw></r>
+<r><rule conf="LIKELY">t/tt</rule> <c>___</c> <wil>tAlapatra</wil> <mw>tAlapattra</mw></r>
+<r><rule conf="LIKELY">t/tt</rule> <c>___</c> <wil>tAlISapatra</wil> <mw>tAlISapattra</mw></r>
+<r><rule conf="LIKELY">t/tt</rule> <c>___</c> <wil>tiktapatra</wil> <mw>tiktapattra</mw></r>
+<r><rule conf="LIKELY">Ca/Cu</rule> <c>___</c> <wil>titira</wil> <mw>titiru</mw></r>
+<r><rule conf="LIKELY">t/tt</rule> <c>___</c> <wil>tIkzRapatra</wil> <mw>tIkzRapattra</mw></r>
+<r><rule conf="LIKELY">t/tt</rule> <c>___</c> <wil>tejapatra</wil> <mw>tejapattra</mw></r>
+<r><rule conf="LIKELY">m/s</rule> <c>___</c> <wil>tejam</wil> <mw>tejas</mw></r>
+<r><rule conf="LIKELY">t/tt</rule> <c>___</c> <wil>totra</wil> <mw>tottra</mw></r>
+<r><rule conf="LIKELY">ra/f</rule> <c>___</c> <wil>trad</wil> <mw>tfd</mw></r>
+<r><rule conf="LIKELY">ra/f</rule> <c>___</c> <wil>trapa</wil> <mw>tfpa</mw></r>
+<r><rule conf="LIKELY">ra/f</rule> <c>___</c> <wil>trapita</wil> <mw>tfpita</mw></r>
+<r><rule conf="LIKELY">Ca/Cu</rule> <c>___</c> <wil>tripatra</wil> <mw>triputra</mw></r>
+<r><rule conf="LIKELY">m/s</rule> <c>___</c> <wil>dakziRatam</wil> <mw>dakziRatas</mw></r>
+<r><rule conf="LIKELY">Ca/Cu</rule> <c>___</c> <wil>dagDikA</wil> <mw>dugDikA</mw></r>
+<r><rule conf="LIKELY">m/s</rule> <c>___</c> <wil>daRqadAma</wil> <mw>daRqadAsa</mw></r>
+<r><rule conf="LIKELY">t/tt</rule> <c>___</c> <wil>datvA</wil> <mw>dattvA</mw></r>
+<r><rule conf="LIKELY">Ca/Cf</rule> <c>___</c> <wil>dadat</wil> <mw>dadft</mw></r>
+<r><rule conf="LIKELY">t/tt</rule> <c>___</c> <wil>dantapatra</wil> <mw>dantapattra</mw></r>
+<r><rule conf="LIKELY">t/tt</rule> <c>___</c> <wil>dantapatraka</wil> <mw>dantapattraka</mw></r>
+<r><rule conf="LIKELY">VC/VrC</rule> <c>___</c> <wil>daya</wil> <mw>darya</mw></r>
+<r><rule conf="LIKELY">Ca/Cu</rule> <c>___</c> <wil>dayAla</wil> <mw>dayAlu</mw></r>
+<r><rule conf="LIKELY">Ca/CU</rule> <c>___</c> <wil>darIBU</wil> <mw>dUrIBU</mw></r>
+<r><rule conf="LIKELY">wu/du</rule> <c>___</c> <wil>darwura</wil> <mw>dardura</mw></r>
+<r><rule conf="LIKELY">t/tt</rule> <c>___</c> <wil>darBapatra</wil> <mw>darBapattra</mw></r>
+<r><rule conf="LIKELY">Ca/Ce</rule> <c>___</c> <wil>davayoni</wil> <mw>devayoni</mw></r>
+<r><rule conf="LIKELY">m/s</rule> <c>___</c> <wil>daSanavAsam</wil> <mw>daSanavAsas</mw></r>
+<r><rule conf="LIKELY">s/m</rule> <c>___</c> <wil>dasana</wil> <mw>damana</mw></r>
+<r><rule conf="LIKELY">t/tt</rule> <c>___</c> <wil>dArGasatra</wil> <mw>dArGasattra</mw></r>
+<r><rule conf="LIKELY">CA/Co</rule> <c>___</c> <wil>dAhalavatI</wil> <mw>dohalavatI</mw></r>
+<r><rule conf="LIKELY">CA/Co</rule> <c>___</c> <wil>dAhya</wil> <mw>dohya</mw></r>
+<r><rule conf="LIKELY">VC/VrC</rule> <c>___</c> <wil>dIGakIla</wil> <mw>dIrGakIla</mw></r>
+<r><rule conf="LIKELY">VC/VrC</rule> <c>___</c> <wil>dIGajaNGa</wil> <mw>dIrGajaNGa</mw></r>
+<r><rule conf="LIKELY">VC/VrC</rule> <c>___</c> <wil>dIGAyuDa</wil> <mw>dIrGAyuDa</mw></r>
+<r><rule conf="LIKELY">t/tt</rule> <c>___</c> <wil>dIrGapatra</wil> <mw>dIrGapattra</mw></r>
+<r><rule conf="LIKELY">t/tt</rule> <c>___</c> <wil>dIrGapatraka</wil> <mw>dIrGapattraka</mw></r>
+<r><rule conf="LIKELY">t/tt</rule> <c>___</c> <wil>dIrGasatra</wil> <mw>dIrGasattra</mw></r>
+<r><rule conf="LIKELY">Ca/Cu</rule> <c>___</c> <wil>durhana</wil> <mw>durhanu</mw></r>
+<r><rule conf="LIKELY">t/tt</rule> <c>___</c> <wil>duzpatra</wil> <mw>duzpattra</mw></r>
+<r><rule conf="_"></rule><c>(M/-)</c> <wil corr="duzpraDarzaRI">duzpraDarzaMRI</wil> <mw>*</mw></r>
+<r><rule conf="LIKELY">Sv/Sc</rule> <c>___</c> <wil>dfQaniSvaya</wil> <mw>dfQaniScaya</mw></r>
+<r><rule conf="LIKELY">Ca/Cu</rule> <c>___</c> <wil>devapara</wil> <mw>devapura</mw></r>
+<r><rule conf="LIKELY">wu/du</rule> <c>___</c> <wil>dowulyamAna</wil> <mw>dodulyamAna</mw></r>
+<r><rule conf="LIKELY">m/s</rule> <c>___</c> <wil>dom</wil> <mw>dos</mw></r>
+<r><rule conf="LIKELY">Ca/CU</rule> <c>___</c> <wil>dyatakara</wil> <mw>dyUtakara</mw></r>
+<r><rule conf="LIKELY">Ca/CU</rule> <c>___</c> <wil>dyatakAra</wil> <mw>dyUtakAra</mw></r>
+<r><rule conf="LIKELY">Ca/Cu</rule> <c>___</c> <wil>draRa</wil> <mw>druRa</mw></r>
+<r><rule conf="LIKELY">t/tt</rule> <c>___</c> <wil>dvAdaSapatraka</wil> <mw>dvAdaSapattraka</mw></r>
+<r><rule conf="LIKELY">m/s</rule> <c>___</c> <wil>dvijamevaka</wil> <mw>dvijasevaka</mw></r>
+<r><rule conf="LIKELY">Ca/CU</rule> <c>___</c> <wil>DanacCa</wil> <mw>DanacCU</mw></r>
+<r><rule conf="LIKELY">Ca/CU</rule> <c>___</c> <wil>DapANga</wil> <mw>DUpANga</mw></r>
+<r><rule conf="LIKELY">Ca/CU</rule> <c>___</c> <wil>DamapraBA</wil> <mw>DUmapraBA</mw></r>
+<r><rule conf="LIKELY">t/tt</rule> <c>___</c> <wil>nawapatrikA</wil> <mw>nawapattrikA</mw></r>
+<r><rule conf="LIKELY">Ca/CE</rule> <c>___</c> <wil>nazaDa</wil> <mw>nEzaDa</mw></r>
+<r><rule conf="LIKELY">t/tt</rule> <c>___</c> <wil>nAqipatra</wil> <mw>nAqipattra</mw></r>
+<r><rule conf="LIKELY">t/tt</rule> <c>___</c> <wil>niHsatva</wil> <mw>niHsattva</mw></r>
+<r><rule conf="LIKELY">VC/VrC</rule> <c>___</c> <wil>nigranTa</wil> <mw>nirgranTa</mw></r>
+<r><rule conf="LIKELY">Ca/CU</rule> <c>___</c> <wil>nijuhnazu</wil> <mw>nijuhnUzu</mw></r>
+<r><rule conf="_"></rule><c>(M/-) "M" + "r"</c> <wil corr="nirGaRwa">nirGaMRwa</wil> <mw>*</mw></r>
+<r><rule conf="LIKELY">VC/VrC</rule> <c>___</c> <wil>niviSeza</wil> <mw>nirviSeza</mw></r>
+<r><rule conf="LIKELY">VC/VrC</rule> <c>___</c> <wil>nivyapekza</wil> <mw>nirvyapekza</mw></r>
+<r><rule conf="LIKELY">t/tt</rule> <c>___</c> <wil>nizpatrAkfti</wil> <mw>nizpattrAkfti</mw></r>
+<r><rule conf="LIKELY">t/tt</rule> <c>___</c> <wil>nIlapatra</wil> <mw>nIlapattra</mw></r>
+<r><rule conf="LIKELY">B/J</rule> <c>___</c> <wil>nIlaBiRwI</wil> <mw>nIlaJiRwI</mw></r>
+<r><rule conf="_"></rule><c>(M/-)</c> <wil corr="nUtanatva">nUtanatvaM</wil> <mw>*</mw></r>
+<r><rule conf="LIKELY">m/s</rule> <c>___</c> <wil>noDam</wil> <mw>noDas</mw></r>
+<r><rule conf="LIKELY">Ca/CU</rule> <c>___</c> <wil>nyanatA</wil> <mw>nyUnatA</mw></r>
+<r><rule conf="LIKELY">t/tt</rule> <c>___</c> <wil>paYcatatva</wil> <mw>paYcatattva</mw></r>
+<r><rule conf="LIKELY">t/tt</rule> <c>___</c> <wil>patra</wil> <mw>pattra</mw></r>
+<r><rule conf="LIKELY">t/tt</rule> <c>___</c> <wil>patraka</wil> <mw>pattraka</mw></r>
+<r><rule conf="LIKELY">t/tt</rule> <c>___</c> <wil>patrakAhalA</wil> <mw>pattrakAhalA</mw></r>
+<r><rule conf="LIKELY">t/tt</rule> <c>___</c> <wil>patrakfcCra</wil> <mw>pattrakfcCra</mw></r>
+<r><rule conf="LIKELY">t/tt</rule> <c>___</c> <wil>patragupta</wil> <mw>pattragupta</mw></r>
+<r><rule conf="LIKELY">t/tt</rule> <c>___</c> <wil>patraRA</wil> <mw>pattraRA</mw></r>
+<r><rule conf="LIKELY">t/tt</rule> <c>___</c> <wil>patrataRqulA</wil> <mw>pattrataRqulA</mw></r>
+<r><rule conf="LIKELY">t/tt</rule> <c>___</c> <wil>patrataru</wil> <mw>pattrataru</mw></r>
+<r><rule conf="LIKELY">t/tt</rule> <c>___</c> <wil>patradAraka</wil> <mw>pattradAraka</mw></r>
+<r><rule conf="LIKELY">t/tt</rule> <c>___</c> <wil>patranAqikA</wil> <mw>pattranAqikA</mw></r>
+<r><rule conf="LIKELY">t/tt</rule> <c>___</c> <wil>patraparaSu</wil> <mw>pattraparaSu</mw></r>
+<r><rule conf="LIKELY">t/tt</rule> <c>___</c> <wil>patrapAla</wil> <mw>pattrapAla</mw></r>
+<r><rule conf="LIKELY">t/tt</rule> <c>___</c> <wil>patrapASyA</wil> <mw>pattrapASyA</mw></r>
+<r><rule conf="LIKELY">t/tt</rule> <c>___</c> <wil>patrapiSAcikA</wil> <mw>pattrapiSAcikA</mw></r>
+<r><rule conf="LIKELY">t/tt</rule> <c>___</c> <wil>patrapuzpa</wil> <mw>pattrapuzpa</mw></r>
+<r><rule conf="LIKELY">t/tt</rule> <c>___</c> <wil>patrapuzpaka</wil> <mw>pattrapuzpaka</mw></r>
+<r><rule conf="LIKELY">t/tt</rule> <c>___</c> <wil>patrabanDa</wil> <mw>pattrabanDa</mw></r>
+<r><rule conf="LIKELY">t/tt</rule> <c>___</c> <wil>patrabAla</wil> <mw>pattrabAla</mw></r>
+<r><rule conf="LIKELY">t/tt</rule> <c>___</c> <wil>patraBaNga</wil> <mw>pattraBaNga</mw></r>
+<r><rule conf="LIKELY">t/tt</rule> <c>___</c> <wil>patrayOvana</wil> <mw>pattrayOvana</mw></r>
+<r><rule conf="LIKELY">t/tt</rule> <c>___</c> <wil>patraraYjana</wil> <mw>pattraraYjana</mw></r>
+<r><rule conf="LIKELY">t/tt</rule> <c>___</c> <wil>patraraTa</wil> <mw>pattraraTa</mw></r>
+<r><rule conf="LIKELY">t/tt</rule> <c>___</c> <wil>patrala</wil> <mw>pattrala</mw></r>
+<r><rule conf="LIKELY">t/tt</rule> <c>___</c> <wil>patraleKA</wil> <mw>pattraleKA</mw></r>
+<r><rule conf="LIKELY">t/tt</rule> <c>___</c> <wil>patravAha</wil> <mw>pattravAha</mw></r>
+<r><rule conf="LIKELY">t/tt</rule> <c>___</c> <wil>patraSrezWa</wil> <mw>pattraSrezWa</mw></r>
+<r><rule conf="LIKELY">t/tt</rule> <c>___</c> <wil>patrasaMskAra</wil> <mw>pattrasaMskAra</mw></r>
+<r><rule conf="LIKELY">t/tt</rule> <c>___</c> <wil>patrasUci</wil> <mw>pattrasUci</mw></r>
+<r><rule conf="LIKELY">t/tt</rule> <c>___</c> <wil>patrahima</wil> <mw>pattrahima</mw></r>
+<r><rule conf="LIKELY">t/tt</rule> <c>___</c> <wil>patrANga</wil> <mw>pattrANga</mw></r>
+<r><rule conf="LIKELY">t/tt</rule> <c>___</c> <wil>patrANguli</wil> <mw>pattrANguli</mw></r>
+<r><rule conf="LIKELY">t/tt</rule> <c>___</c> <wil>patrAYjana</wil> <mw>pattrAYjana</mw></r>
+<r><rule conf="LIKELY">t/tt</rule> <c>___</c> <wil>patrAQya</wil> <mw>pattrAQya</mw></r>
+<r><rule conf="LIKELY">t/tt</rule> <c>___</c> <wil>patrAlI</wil> <mw>pattrAlI</mw></r>
+<r><rule conf="LIKELY">t/tt</rule> <c>___</c> <wil>patrAvali</wil> <mw>pattrAvali</mw></r>
+<r><rule conf="LIKELY">t/tt</rule> <c>___</c> <wil>patrikA</wil> <mw>pattrikA</mw></r>
+<r><rule conf="LIKELY">t/tt</rule> <c>___</c> <wil>patrin</wil> <mw>pattrin</mw></r>
+<r><rule conf="LIKELY">t/tt</rule> <c>___</c> <wil>patropaskara</wil> <mw>pattropaskara</mw></r>
+<r><rule conf="LIKELY">t/tt</rule> <c>___</c> <wil>patrorRa</wil> <mw>pattrorRa</mw></r>
+<r><rule conf="LIKELY">t/tt</rule> <c>___</c> <wil>patrollAsa</wil> <mw>pattrollAsa</mw></r>
+<r><rule conf="LIKELY">M/</rule> <c>___</c> <wil>pAMSava</wil> <mw>pASava</mw></r>
+<r><rule conf="LIKELY">m/s</rule> <c>___</c> <wil>pAramika</wil> <mw>pArasika</mw></r>
+<r><rule conf="LIKELY">VC/VrC</rule> <c>___</c> <wil>pAzata</wil> <mw>pArzata</mw></r>
+<r><rule conf="LIKELY">q/w</rule> <c>___</c> <wil>piq</wil> <mw>piw</mw></r>
+<r><rule conf="LIKELY">m/s</rule> <c>___</c> <wil>piRqagoma</wil> <mw>piRqagosa</mw></r>
+<r><rule conf="LIKELY">Sv/Sc</rule> <c>___</c> <wil>puMSvalI</wil> <mw>puMScalI</mw></r>
+<r><rule conf="LIKELY">Ca/CU</rule> <c>___</c> <wil>pupazat</wil> <mw>pupUzat</mw></r>
+<r><rule conf="LIKELY">Ca/CU</rule> <c>___</c> <wil>pEYjaza</wil> <mw>pEYjUza</mw></r>
+<r><rule conf="_"></rule><c>(M/-)</c> <wil corr="pOnaHpunya">pOnaHpunyaM</wil> <mw>*</mw></r>
+<r><rule conf="LIKELY">s/m</rule> <c>___</c> <wil>pratikAsa</wil> <mw>pratikAma</mw></r>
+<r><rule conf="LIKELY">wu/du</rule> <c>___</c> <wil>pratipAwuka</wil> <mw>pratipAduka</mw></r>
+<r><rule conf="LIKELY">VC/VrC</rule> <c>___</c> <wil>pratyac</wil> <mw>pratyarc</mw></r>
+<r><rule conf="LIKELY">m/s</rule> <c>___</c> <wil>praTIyam</wil> <mw>praTIyas</mw></r>
+<r><rule conf="LIKELY">VC/VrC</rule> <c>___</c> <wil>pradaSaka</wil> <mw>pradarSaka</mw></r>
+<r><rule conf="LIKELY">m/s</rule> <c>___</c> <wil>pramAdya</wil> <mw>prasAdya</mw></r>
+<r><rule conf="LIKELY">t/tt</rule> <c>___</c> <wil>praSatvan</wil> <mw>praSattvan</mw></r>
+<r><rule conf="LIKELY">ra/f</rule> <c>___</c> <wil>prazWavAh</wil> <mw>pfzWavAh</mw></r>
+<r><rule conf="LIKELY">VC/VrC</rule> <c>___</c> <wil>prAc</wil> <mw>prArc</mw></r>
+<r><rule conf="LIKELY">wu/du</rule> <c>___</c> <wil>prAwurBAva</wil> <mw>prAdurBAva</mw></r>
+<r><rule conf="LIKELY">wu/du</rule> <c>___</c> <wil>prAwuzkfta</wil> <mw>prAduzkfta</mw></r>
+<r><rule conf="LIKELY">Ca/Cu</rule> <c>___</c> <wil>prARayata</wil> <mw>prARayuta</mw></r>
+<r><rule conf="LIKELY">wu/du</rule> <c>___</c> <wil>prAntawurga</wil> <mw>prAntadurga</mw></r>
+<r><rule conf="LIKELY">Sv/Sc</rule> <c>___</c> <wil>prAyaSvitta</wil> <mw>prAyaScitta</mw></r>
+<r><rule conf="LIKELY">t/tt</rule> <c>___</c> <wil>PaYjiputrikA</wil> <mw>PaYjiputtrikA</mw></r>
+<r><rule conf="LIKELY">Ca/Cu</rule> <c>___</c> <wil>Pelaka</wil> <mw>Peluka</mw></r>
+<r><rule conf="LIKELY">t/tt</rule> <c>___</c> <wil>badarIpatraka</wil> <mw>badarIpattraka</mw></r>
+<r><rule conf="LIKELY">wu/du</rule> <c>___</c> <wil>bahuwugDa</wil> <mw>bahudugDa</mw></r>
+<r><rule conf="LIKELY">wu/du</rule> <c>___</c> <wil>bahuwugDikA</wil> <mw>bahudugDikA</mw></r>
+<r><rule conf="LIKELY">t/tt</rule> <c>___</c> <wil>bahupatra</wil> <mw>bahupattra</mw></r>
+<r><rule conf="LIKELY">t/tt</rule> <c>___</c> <wil>bAlapatra</wil> <mw>bAlapattra</mw></r>
+<r><rule conf="LIKELY">m/s</rule> <c>___</c> <wil>budDimahAya</wil> <mw>budDisahAya</mw></r>
+<r><rule conf="LIKELY">t/tt</rule> <c>___</c> <wil>brahmasatra</wil> <mw>brahmasattra</mw></r>
+<r><rule conf="LIKELY">q/w</rule> <c>___</c> <wil>Baq</wil> <mw>Baw</mw></r>
+<r><rule conf="LIKELY">Ca/CU</rule> <c>___</c> <wil>BatagaRa</wil> <mw>BUtagaRa</mw></r>
+<r><rule conf="LIKELY">t/tt</rule> <c>___</c> <wil>BadrAlapatrikA</wil> <mw>BadrAlapattrikA</mw></r>
+<r><rule conf="LIKELY">Ca/CU</rule> <c>___</c> <wil>Bazayitavya</wil> <mw>BUzayitavya</mw></r>
+<r><rule conf="LIKELY">CA/Co</rule> <c>___</c> <wil>BAja</wil> <mw>Boja</mw></r>
+<r><rule conf="LIKELY">Ca/Ce</rule> <c>___</c> <wil>BImasana</wil> <mw>BImasena</mw></r>
+<r><rule conf="LIKELY">Ca/Cu</rule> <c>___</c> <wil>makuzWaka</wil> <mw>mukuzWaka</mw></r>
+<r><rule conf="LIKELY">Ca/Cu</rule> <c>___</c> <wil>makkala</wil> <mw>makkula</mw></r>
+<r><rule conf="LIKELY">m/s</rule> <c>___</c> <wil>mag</wil> <mw>sag</mw></r>
+<r><rule conf="LIKELY">m/s</rule> <c>___</c> <wil>maG</wil> <mw>saG</mw></r>
+<r><rule conf="LIKELY">Ca/CU</rule> <c>___</c> <wil>majjazA</wil> <mw>majjUzA</mw></r>
+<r><rule conf="LIKELY">Ca/Ce</rule> <c>___</c> <wil>maq</wil> <mw>meq</mw></r>
+<r><rule conf="LIKELY">m/s</rule> <c>___</c> <wil>matr</wil> <mw>satr</mw></r>
+<r><rule conf="LIKELY">CA/Co</rule> <c>___</c> <wil>madAtkawa</wil> <mw>madotkawa</mw></r>
+<r><rule conf="LIKELY">m/s</rule> <c>___</c> <wil>madfka</wil> <mw>sadfka</mw></r>
+<r><rule conf="LIKELY">m/s</rule> <c>___</c> <wil>maDa</wil> <mw>saDa</mw></r>
+<r><rule conf="LIKELY">Ca/Cu</rule> <c>___</c> <wil>marata</wil> <mw>maruta</mw></r>
+<r><rule conf="LIKELY">t/tt</rule> <c>___</c> <wil>mahAsatva</wil> <mw>mahAsattva</mw></r>
+<r><rule conf="LIKELY">m/s</rule> <c>___</c> <wil>mahIyam</wil> <mw>sahIyas</mw></r>
+<r><rule conf="_"></rule><c>(M/-)</c> <wil corr="mAkanda">mAMkanda</wil> <mw>*</mw></r>
+<r><rule conf="LIKELY">m/s</rule> <c>___</c> <wil>mAkz</wil> <mw>sAkz</mw></r>
+<r><rule conf="LIKELY">m/s</rule> <c>___</c> <wil>miw</wil> <mw>siw</mw></r>
+<r><rule conf="LIKELY">m/s</rule> <c>___</c> <wil>miv</wil> <mw>siv</mw></r>
+<r><rule conf="LIKELY">l/w</rule> <c>___</c> <wil>mula</wil> <mw>muwa</mw></r>
+<r><rule conf="LIKELY">l/w</rule> <c>___</c> <wil>muSalI</wil> <mw>muSawI</mw></r>
+<r><rule conf="LIKELY">Ca/Cu</rule> <c>___</c> <wil>mUtraSakra</wil> <mw>mUtraSukra</mw></r>
+<r><rule conf="LIKELY">M/</rule> <c>___</c> <wil>mruMc</wil> <mw>mruc</mw></r>
+<r><rule conf="LIKELY">q/w</rule> <c>___</c> <wil>mleq</wil> <mw>mlew</mw></r>
+<r><rule conf="LIKELY">Ca/Cu</rule> <c>___</c> <wil>yakzarAwparI</wil> <mw>yakzarAwpurI</mw></r>
+<r><rule conf="LIKELY">Ca/CU</rule> <c>___</c> <wil>yajYaBami</wil> <mw>yajYaBUmi</mw></r>
+<r><rule conf="LIKELY">wu/du</rule> <c>___</c> <wil>yawu</wil> <mw>yadu</mw></r>
+<r><rule conf="LIKELY">wu/du</rule> <c>___</c> <wil>yawunATa</wil> <mw>yadunATa</mw></r>
+<r><rule conf="LIKELY">VC/VrC</rule> <c>___</c> <wil>yATATika</wil> <mw>yATArTika</mw></r>
+<r><rule conf="LIKELY">CA/Co</rule> <c>___</c> <wil>yAni</wil> <mw>yoni</mw></r>
+<r><rule conf="LIKELY">t/tt</rule> <c>___</c> <wil>yugapatra</wil> <mw>yugapattra</mw></r>
+<r><rule conf="LIKELY">t/tt</rule> <c>___</c> <wil>yugapatraka</wil> <mw>yugapattraka</mw></r>
+<r><rule conf="LIKELY">t/tt</rule> <c>___</c> <wil>yugmapatra</wil> <mw>yugmapattra</mw></r>
+<r><rule conf="LIKELY">t/tt</rule> <c>___</c> <wil>yugmapatrikA</wil> <mw>yugmapattrikA</mw></r>
+<r><rule conf="LIKELY">Ca/Ce</rule> <c>___</c> <wil>racaka</wil> <mw>recaka</mw></r>
+<r><rule conf="LIKELY">Ca/Ce</rule> <c>___</c> <wil>rab</wil> <mw>reb</mw></r>
+<r><rule conf="LIKELY">Ca/Ce</rule> <c>___</c> <wil>rav</wil> <mw>rev</mw></r>
+<r><rule conf="LIKELY">CA/Co</rule> <c>___</c> <wil>rasAtpatti</wil> <mw>rasotpatti</mw></r>
+<r><rule conf="LIKELY">ra/f</rule> <c>___</c> <wil>rahat</wil> <mw>fhat</mw></r>
+<r><rule conf="LIKELY">VC/VrC</rule> <c>___</c> <wil>rAgacURa</wil> <mw>rAgacUrRa</mw></r>
+<r><rule conf="LIKELY">Ca/Ce</rule> <c>___</c> <wil>rAmakalI</wil> <mw>rAmakelI</mw></r>
+<r><rule conf="LIKELY">CA/Co</rule> <c>___</c> <wil>romAdBeda</wil> <mw>romodBeda</mw></r>
+<r><rule conf="LIKELY">t/tt</rule> <c>___</c> <wil>laGupatraka</wil> <mw>laGupattraka</mw></r>
+<r><rule conf="LIKELY">VC/VrC</rule> <c>___</c> <wil>lab</wil> <mw>larb</mw></r>
+<r><rule conf="LIKELY">l/w</rule> <c>___</c> <wil>lasat</wil> <mw>wasat</mw></r>
+<r><rule conf="LIKELY">l/w</rule> <c>___</c> <wil>lu</wil> <mw>wu</mw></r>
+<r><rule conf="LIKELY">t/tt</rule> <c>___</c> <wil>leKyapatra</wil> <mw>leKyapattra</mw></r>
+<r><rule conf="LIKELY">t/tt</rule> <c>___</c> <wil>leKyapatraka</wil> <mw>leKyapattraka</mw></r>
+<r><rule conf="LIKELY">t/tt</rule> <c>___</c> <wil>vaMSapatraka</wil> <mw>vaMSapattraka</mw></r>
+<r><rule conf="LIKELY">t/tt</rule> <c>___</c> <wil>vaMSapatrapatita</wil> <mw>vaMSapattrapatita</mw></r>
+<r><rule conf="LIKELY">Ca/CE</rule> <c>___</c> <wil>vakaNkata</wil> <mw>vEkaNkata</mw></r>
+<r><rule conf="LIKELY">Ca/CE</rule> <c>___</c> <wil>vakAlika</wil> <mw>vEkAlika</mw></r>
+<r><rule conf="LIKELY">Ca/Ce</rule> <c>___</c> <wil>vaktrAsava</wil> <mw>vaktrAsave</mw></r>
+<r><rule conf="LIKELY">t/tt</rule> <c>___</c> <wil>vawapatrA</wil> <mw>vawapattrA</mw></r>
+<r><rule conf="LIKELY">q/w</rule> <c>___</c> <wil>vaq</wil> <mw>vaw</mw></r>
+<r><rule conf="LIKELY">VC/VrC</rule> <c>___</c> <wil>vaRajyezWa</wil> <mw>varRajyezWa</mw></r>
+<r><rule conf="LIKELY">VC/VrC</rule> <c>___</c> <wil>vaRi</wil> <mw>varRi</mw></r>
+<r><rule conf="LIKELY">VC/VrC</rule> <c>___</c> <wil>vatra</wil> <mw>vartra</mw></r>
+<r><rule conf="LIKELY">Ca/CE</rule> <c>___</c> <wil>varAdana</wil> <mw>vErAdana</mw></r>
+<r><rule conf="_"></rule><c>(M/-) "M" at word-end</c> <wil corr="varutra">varutraM</wil> <mw>*</mw></r>
+<r><rule conf="LIKELY">t/tt</rule> <c>___</c> <wil>varRapatra</wil> <mw>varRapattra</mw></r>
+<r><rule conf="LIKELY">t/tt</rule> <c>___</c> <wil>valgupatra</wil> <mw>valgupattra</mw></r>
+<r><rule conf="LIKELY">VC/VrC</rule> <c>___</c> <wil>vazaka</wil> <mw>varzaka</mw></r>
+<r><rule conf="LIKELY">t/tt</rule> <c>___</c> <wil>vAcikapatra</wil> <mw>vAcikapattra</mw></r>
+<r><rule conf="LIKELY">Ca/Cu</rule> <c>___</c> <wil>vAtAya</wil> <mw>vAtAyu</mw></r>
+<r><rule conf="LIKELY">CA/Co</rule> <c>___</c> <wil>vArava</wil> <mw>vorava</mw></r>
+<r><rule conf="LIKELY">q/w</rule> <c>___</c> <wil>vArikaRqaka</wil> <mw>vArikaRwaka</mw></r>
+<r><rule conf="LIKELY">Ca/Cu</rule> <c>___</c> <wil>vArdDazi</wil> <mw>vArdDuzi</mw></r>
+<r><rule conf="LIKELY">Ca/Ce</rule> <c>___</c> <wil>vikzapa</wil> <mw>vikzepa</mw></r>
+<r><rule conf="LIKELY">Ca/Ce</rule> <c>___</c> <wil>vijYaya</wil> <mw>vijYeya</mw></r>
+<r><rule conf="LIKELY">t/tt</rule> <c>___</c> <wil>vinDapatra</wil> <mw>vinDapattra</mw></r>
+<r><rule conf="LIKELY">wu/du</rule> <c>___</c> <wil>vipawudDAra</wil> <mw>vipadudDAra</mw></r>
+<r><rule conf="LIKELY">wu/du</rule> <c>___</c> <wil>viprawuzwa</wil> <mw>vipraduzwa</mw></r>
+<r><rule conf="LIKELY">wu/du</rule> <c>___</c> <wil>viprawuzwaBAva</wil> <mw>vipraduzwaBAva</mw></r>
+<r><rule conf="LIKELY">s/m</rule> <c>___</c> <wil>vipraluspaka</wil> <mw>vipralumpaka</mw></r>
+<r><rule conf="LIKELY">CA/Co</rule> <c>___</c> <wil>viprAzita</wil> <mw>viprozita</mw></r>
+<r><rule conf="LIKELY">Ca/Ce</rule> <c>___</c> <wil>viracya</wil> <mw>virecya</mw></r>
+<r><rule conf="LIKELY">Ca/Ce</rule> <c>___</c> <wil>vivacanIya</wil> <mw>vivecanIya</mw></r>
+<r><rule conf="LIKELY">m/s</rule> <c>___</c> <wil>viSvaretam</wil> <mw>viSvaretas</mw></r>
+<r><rule conf="LIKELY">m/s</rule> <c>___</c> <wil>vizwaraSravam</wil> <mw>vizwaraSravas</mw></r>
+<r><rule conf="LIKELY">m/s</rule> <c>___</c> <wil>vihAyam</wil> <mw>vihAyas</mw></r>
+<r><rule conf="LIKELY">t/tt</rule> <c>___</c> <wil>vfdDipatra</wil> <mw>vfdDipattra</mw></r>
+<r><rule conf="LIKELY">t/tt</rule> <c>___</c> <wil>veRupatrI</wil> <mw>veRupattrI</mw></r>
+<r><rule conf="LIKELY">t/tt</rule> <c>___</c> <wil>vetasapatra</wil> <mw>vetasapattra</mw></r>
+<r><rule conf="LIKELY">Ca/Cf</rule> <c>___</c> <wil>vedita</wil> <mw>veditf</mw></r>
+<r><rule conf="LIKELY">Ca/Cf</rule> <c>___</c> <wil>vyAKyAta</wil> <mw>vyAKyAtf</mw></r>
+<r><rule conf="LIKELY">M/</rule> <c>___</c> <wil>SaMvara</wil> <mw>Savara</mw></r>
+<r><rule conf="LIKELY">q/w</rule> <c>___</c> <wil>Saq</wil> <mw>Saw</mw></r>
+<r><rule conf="LIKELY">CA/Co</rule> <c>___</c> <wil>SataGAra</wil> <mw>SataGora</mw></r>
+<r><rule conf="LIKELY">t/tt</rule> <c>___</c> <wil>Satapatra</wil> <mw>Satapattra</mw></r>
+<r><rule conf="LIKELY">t/tt</rule> <c>___</c> <wil>Satapatraka</wil> <mw>Satapattraka</mw></r>
+<r><rule conf="LIKELY">t/tt</rule> <c>___</c> <wil>SamIpatrI</wil> <mw>SamIpattrI</mw></r>
+<r><rule conf="LIKELY">Ca/CE</rule> <c>___</c> <wil>SarIyaka</wil> <mw>SErIyaka</mw></r>
+<r><rule conf="LIKELY">VC/VrC</rule> <c>___</c> <wil>SAkarIya</wil> <mw>SArkarIya</mw></r>
+<r><rule conf="LIKELY">t/tt</rule> <c>___</c> <wil>SAtapatrakI</wil> <mw>SAtapattrakI</mw></r>
+<r><rule conf="LIKELY">t/tt</rule> <c>___</c> <wil>SAsanapatra</wil> <mw>SAsanapattra</mw></r>
+<r><rule conf="LIKELY">CA/Co</rule> <c>___</c> <wil>SirAvftta</wil> <mw>Sirovftta</mw></r>
+<r><rule conf="LIKELY">t/tt</rule> <c>___</c> <wil>SIrRapatra</wil> <mw>SIrRapattra</mw></r>
+<r><rule conf="LIKELY">wu/du</rule> <c>___</c> <wil>SuklawugDa</wil> <mw>SukladugDa</mw></r>
+<r><rule conf="LIKELY">Ca/Cu</rule> <c>___</c> <wil>SuSravas</wil> <mw>SuSruvas</mw></r>
+<r><rule conf="LIKELY">t/tt</rule> <c>___</c> <wil>SyAmapatra</wil> <mw>SyAmapattra</mw></r>
+<r><rule conf="LIKELY">Ca/Ce</rule> <c>___</c> <wil>Srak</wil> <mw>Srek</mw></r>
+<r><rule conf="LIKELY">t/tt</rule> <c>___</c> <wil>Svetapatra</wil> <mw>Svetapattra</mw></r>
+<r><rule conf="LIKELY">t/tt</rule> <c>___</c> <wil>SvetapatraraTa</wil> <mw>SvetapattraraTa</mw></r>
+<r><rule conf="LIKELY">m/s</rule> <c>___</c> <wil>zama</wil> <mw>zasa</mw></r>
+<r><rule conf="LIKELY">VC/VrC</rule> <c>___</c> <wil>saMhaza</wil> <mw>saMharza</mw></r>
+<r><rule conf="LIKELY">t/tt</rule> <c>___</c> <wil>satpatra</wil> <mw>satpattra</mw></r>
+<r><rule conf="LIKELY">t/tt</rule> <c>___</c> <wil>satva</wil> <mw>sattva</mw></r>
+<r><rule conf="LIKELY">m/s</rule> <c>___</c> <wil>saDim</wil> <mw>saDis</mw></r>
+<r><rule conf="LIKELY">Ca/Cu</rule> <c>___</c> <wil>sanABaka</wil> <mw>sunABaka</mw></r>
+<r><rule conf="LIKELY">t/tt</rule> <c>___</c> <wil>sapatrAkaraRa</wil> <mw>sapattrAkaraRa</mw></r>
+<r><rule conf="LIKELY">t/tt</rule> <c>___</c> <wil>sapatrAkfti</wil> <mw>sapattrAkfti</mw></r>
+<r><rule conf="LIKELY">wu/du</rule> <c>___</c> <wil>samawuHKa</wil> <mw>samaduHKa</mw></r>
+<r><rule conf="LIKELY">wu/du</rule> <c>___</c> <wil>samantawugDA</wil> <mw>samantadugDA</mw></r>
+<r><rule conf="LIKELY">CA/Co</rule> <c>___</c> <wil>sammAda</wil> <mw>sammoda</mw></r>
+<r><rule conf="LIKELY">t/tt</rule> <c>___</c> <wil>sarapatrikA</wil> <mw>sarapattrikA</mw></r>
+<r><rule conf="LIKELY">t/tt</rule> <c>___</c> <wil>sarpasatrin</wil> <mw>sarpasattrin</mw></r>
+<r><rule conf="LIKELY">s/m</rule> <c>___</c> <wil>salara</wil> <mw>malara</mw></r>
+<r><rule conf="LIKELY">m/s</rule> <c>___</c> <wil>savAsam</wil> <mw>savAsas</mw></r>
+<r><rule conf="LIKELY">t/tt</rule> <c>___</c> <wil>sasatvA</wil> <mw>sasattvA</mw></r>
+<r><rule conf="LIKELY">Ca/Ce</rule> <c>___</c> <wil>sasana</wil> <mw>sasena</mw></r>
+<r><rule conf="LIKELY">t/tt</rule> <c>___</c> <wil>sahasrapatra</wil> <mw>sahasrapattra</mw></r>
+<r><rule conf="LIKELY">Ca/Cu</rule> <c>___</c> <wil>sADiyajYa</wil> <mw>sADiyujYa</mw></r>
+<r><rule conf="LIKELY">m/s</rule> <c>___</c> <wil>sArameya</wil> <mw>sAraseya</mw></r>
+<r><rule conf="LIKELY">s/m</rule> <c>___</c> <wil>sAleya</wil> <mw>mAleya</mw></r>
+<r><rule conf="LIKELY">t/tt</rule> <c>___</c> <wil>sIsapatraka</wil> <mw>sIsapattraka</mw></r>
+<r><rule conf="LIKELY">m/s</rule> <c>___</c> <wil>sucirAyum</wil> <mw>sucirAyus</mw></r>
+<r><rule conf="LIKELY">Ca/Cu</rule> <c>___</c> <wil>suraNgayuj</wil> <mw>suruNgayuj</mw></r>
+<r><rule conf="LIKELY">s/m</rule> <c>___</c> <wil>surandalA</wil> <mw>murandalA</mw></r>
+<r><rule conf="LIKELY">m/s</rule> <c>___</c> <wil>suzupmu</wil> <mw>suzupsu</mw></r>
+<r><rule conf="LIKELY">VC/VrC</rule> <c>___</c> <wil>sUkzaRa</wil> <mw>sUrkzaRa</mw></r>
+<r><rule conf="LIKELY">Ca/Ce</rule> <c>___</c> <wil>sUkzmakzikA</wil> <mw>sUkzmekzikA</mw></r>
+<r><rule conf="LIKELY">t/tt</rule> <c>___</c> <wil>somapatra</wil> <mw>somapattra</mw></r>
+<r><rule conf="LIKELY">t/tt</rule> <c>___</c> <wil>sTirapatra</wil> <mw>sTirapattra</mw></r>
+<r><rule conf="LIKELY">t/tt</rule> <c>___</c> <wil>snigDapatra</wil> <mw>snigDapattra</mw></r>
+<r><rule conf="LIKELY">q/w</rule> <c>___</c> <wil>sPaq</wil> <mw>sPaw</mw></r>
+<r><rule conf="LIKELY">t/tt</rule> <c>___</c> <wil>smaracCatra</wil> <mw>smaracCattra</mw></r>
+<r><rule conf="LIKELY">Ca/CU</rule> <c>___</c> <wil>syana</wil> <mw>syUna</mw></r>
+<r><rule conf="LIKELY">ra/f</rule> <c>___</c> <wil>srak</wil> <mw>sfk</mw></r>
+<r><rule conf="LIKELY">t/tt</rule> <c>___</c> <wil>svacCapatra</wil> <mw>svacCapattra</mw></r>
+<r><rule conf="LIKELY">t/tt</rule> <c>___</c> <wil>svalpapatraka</wil> <mw>svalpapattraka</mw></r>
+<r><rule conf="LIKELY">m/s</rule> <c>___</c> <wil>hatOjam</wil> <mw>hatOjas</mw></r>
+<r><rule conf="LIKELY">VC/VrC</rule> <c>___</c> <wil>hayAnanda</wil> <mw>haryAnanda</mw></r>
+<r><rule conf="LIKELY">Ca/Cu</rule> <c>___</c> <wil>havA</wil> <mw>huvA</mw></r>
+<r><rule conf="LIKELY">q/w</rule> <c>___</c> <wil>hiq</wil> <mw>hiw</mw></r>
+<r><rule conf="LIKELY">s/m</rule> <c>___</c> <wil>hisa</wil> <mw>hima</mw></r>
+<r><rule conf="_"></rule><c>(M/-) "M" at word-end</c> <wil corr="huqukka">huqukkaM</wil> <mw>*</mw></r>
+<r><rule conf="LIKELY">wu/du</rule> <c>___</c> <wil>hemawugDa</wil> <mw>hemadugDa</mw></r>
+<r><rule conf="LIKELY">wu/du</rule> <c>___</c> <wil>hemawugDaka</wil> <mw>hemadugDaka</mw></r>
+<r><rule conf="LIKELY">t/tt</rule> <c>___</c> <wil>hrasvapatraka</wil> <mw>hrasvapattraka</mw></r>
+<r><rule conf="LIKELY">Ca/Cu</rule> <c>___</c> <wil>hrUqa</wil> <mw>hrUqu</mw></r>

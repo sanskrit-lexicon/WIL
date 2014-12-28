@@ -1,0 +1,10 @@
+skipping: <?xml version="1.0" encoding="UTF-8"?>
+skipping: <!DOCTYPE LEX SYSTEM "lex.dtd" []>
+skipping: <LEX>
+skipping: </LEX>
+8351 records in wiltab_mw-4-2.xml
+943 records in file wiltab_mw-4-2-likely.xml
+2447 records in file wiltab_mw-4-2-sure.xml
+92 records in file wiltab_mw-4-2-root.xml
+4869 records in file wiltab_mw-4-2-todo.xml
+8351 total output records

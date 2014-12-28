@@ -1,0 +1,22 @@
+4b.	reclassification of 'pattra' types.  PMS: Our lapse.  Changed cclass to "W".  Should change 'tt' back to 't' and map.
+<rule conf="LIKELY" class="ERROR">t/tt</rule> <c auth="SS" cclass="W">y</c> <wil>aBIrupatrI</wil> <mw>aBIrupattrI</mw>
+<rule conf="LIKELY" class="ERROR">t/tt</rule> <c auth="SS" cclass="W">y</c> <wil>elApatra</wil> <mw>elApattra</mw>
+<rule conf="LIKELY" class="ERROR">t/tt</rule> <c auth="SS" cclass="W">y</c> <wil>gurupatra</wil> <mw>gurupattra</mw>
+<rule conf="LIKELY" class="ERROR">t/tt</rule> <c auth="PS" cclass="W">y</c> <wil>SyAmapatra</wil> <mw>SyAmapattra</mw>
+<rule conf="LIKELY" class="ERROR">t/tt</rule> <c auth="PS" cclass="W">y</c> <wil>sapatrAkaraRa</wil> <mw>sapattrAkaraRa</mw>
+<rule conf="LIKELY" class="ERROR">t/tt</rule> <c auth="PS" cclass="W">y</c> <wil>sapatrAkfti</wil> <mw>sapattrAkfti</mw>
+<rule conf="LIKELY" class="ERROR">t/tt</rule> <c auth="PS" cclass="W">y</c> <wil>sarapatrikA</wil> <mw>sarapattrikA</mw>
+<rule conf="LIKELY" class="ERROR">Ca/Cu</rule> <c auth="PS" cclass="W">SS: diff words,diff meanings. PMS: remapped t/tt</c> <wil>tripatra</wil> <mw>tripattra</mw>
+
+change Wilson back to gurupatra, etc.
+Move these 'W' records to wilson-map.txt
+05711 done
+17332 done
+29401 done
+86032 done
+89204 done
+89205 done
+90639 done
+39005 done
+
+This work has been done (ejf)

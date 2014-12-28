@@ -1,0 +1,4 @@
+y WARN: <r><rule conf="LIKELY" class="VARIANT">v/b</rule> <c auth="SS" cclass="_" done="y">y-kuvera=kubera</c> <wil>kuveraka</wil> <mw>kuberaka</mw></r>
+y WARN: <r><rule conf="LIKELY" class="VARIANT" corrected="y">b/v</rule> <c auth="PS" cclass="E" done="y">yes but alphabetic order is ambiguous, Wilson has 'vrata' not 'brata' and neither 'anuvrata' nor 'anubrata'</c> <wil err="scan" corr="samanuvrata">samanubrata</wil> <mw>samanuvrata</mw></r>
+945 records read from wilss-3-3c.xml
+0 records altered

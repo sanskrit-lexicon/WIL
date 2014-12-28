@@ -1,0 +1,46 @@
+
+Dec 25, 2014
+* wiltab_dumpkeys.txt 
+ This is a dump of the keys in Mysql table wiltab.
+It was made in directory WILScan/mysql/wiltab.
+The keys are in HK format
+Format of lines in n:hw
+44576 lines in file.
+* wiltabkeys.txt
+Converts wiltab_dumpkeys.txt to have keys in SLP1
+python26 transcode.py wiltab_dumpkeys.txt wiltabkeys.txt
+* compare to wilhw2.txt
+wilhw2.txt has 1 more line: 44577.
+python26 compare.py 1 wiltabkeys.txt ../wilhw2.txt compare1.txt
+
+5 corrections to wil.txt were required to get the headwords of
+wiltab to be comparable to those in wilhw2:
+ apsa, prati(after KyA) and vakavratika removed as headwords;
+ mAha and rOqa added as headwords.
+ These changes amounted to changing the markup of 5 lines in wil.txt
+
+* analysis of compare1.txt
+The format of lines is:
+N:X R Y
+where N is a sequence number, X is headword spelling in wiltab,
+and Y is headword spelling in wilhw2, and R is a relation code.  The
+relation codes (with counts) and meanings are:
+42704 ==  same spelling
+ 1303 =a  When an 'a' is appended to X, the result is Y.
+          These are (probably) all roots.  The wiltab work did some root
+          normalization.
+  569 !=  X and Y differ in some other way.
+* wiltab_mw-4-2.xml
+copied from /WILScan/mysql/wiltab/keys/step4/step4-2/
+Dated Dec 2011
+There are 8351 words mentioned here.
+* wiltab_mw_error.txt
+566 of these have a 'class="ERROR"' attribute. (file=wiltab_mw_error.txt)
+ all of these also have 'auth="MA" cclass="E" done="n"'
+ So, I remove this manually from wiltab_mw_error.txt, as well as 'class="ERROR"'
+* compare2.txt
+python26 compare2.py compare1.txt wiltab_mw_error.txt wilmw1.txt compare2.txt 
+
+Two records from wiltab_mw_error.txt found no match in compare1.txt:
+<r><rule conf="LIKELY">Ca/Cu</rule> <c>___</c> <wil>apsa</wil> <mw>apsu</mw></r>
+<r><rule conf="LIKELY">Ca/Cf</rule> <c>___</c> <wil>udBa</wil> <mw>udBf</mw></r>

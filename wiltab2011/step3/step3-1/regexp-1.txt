@@ -1,0 +1,33 @@
+rxx	SIMPLE	r([a-zA-Z])\1	r$1
+b/v	SIMPLE	b	v
+v/b	SIMPLE	v	b
+N/M	SIMPLE	N([gGkKN])	M$1
+Y/M	SIMPLE	Y([cCjJY])	M$1
+n/M	SIMPLE	n([tTdDn])	M$1
+cC/C	SIMPLE	cC	C
+n/R	SIMPLE	([fFrz][^cCjJYwWqQtTdDn]*)n([aAiIuUfFxeEoO])	$1R$2
+rcC/rC	SIMPLE	rcC	rC
+rdD/rD	SIMPLE	rdD	rD
+rbB/rB	SIMPLE	rbB	rB
+ra/f	SIMPLE	ra	f
+l/w	SIMPLE	l	w
+t/tt	SIMPLE	t([rv])	tt$1
+Vtt/t	SIMPLE	([aAiIuUfFeEoO])tt	$1t
+a/am	SIMPLE	a$	am
+q/w	SIMPLE	q	w
+SE:B/J	SIMPLE	B	J
+SE:s/m	SIMPLE	s	m
+SE:M/	SIMPLE	M	
+SE:Sv/Sc	SIMPLE	Sv	Sc
+SE:df/ww	SIMPLE	df	ww
+SE:wu/du	SIMPLE	wu	du
+SE:a$/	SIMPLE	a$	
+X:NEGa	SIMPLE	^a	
+X:NEGan	SIMPLE	^an	
+X:tA	SIMPLE	tA$	
+X:tva	SIMPLE	tva$
+SE:VC/VrC	LOOP	([aAiIuUfFeEoO])([kKgGNwWqQRtTdDnpPbBmyrlvSzsh])	$1r$2
+SE:CA/Co	LOOP	([kKgGNwWqQRtTdDnpPbBmyrlvSzsh])A	$1o
+SE:Ca/CE	LOOP	([kKgGNwWqQRtTdDnpPbBmyrlvSzsh])a	$1E
+SE:Ca/Ce	LOOP	([kKgGNwWqQRtTdDnpPbBmyrlvSzsh])a	$1e
+SE:Ca/Cu	LOOP	([kKgGNwWqQRtTdDnpPbBmyrlvSzsh])a	$1u

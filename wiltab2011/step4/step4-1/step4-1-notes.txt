@@ -1,0 +1,69 @@
+step4-1a discovered 5 records in wiltab_mw-3-3.txt that were not
+present in wilss-3-3d.xml.
+Variants wiltab_mw-4-1.txt and wilss-4-1.xml are created from their
+predecessors to remedy this.
+These notes describe the changes.
+
+941 records in wilss-3-3d.xml
+946 records in wiltab_mw-3-3.txt
+The above 0 records are in wilss-3-3d.xml, but not in wiltab_mw-3-3.txt 
+
+------------------------------------------------------
+1 : <rule conf="LIKELY" class="ERROR">M/</rule> <c></c> <wil>aMSita</wil> <mw>aSita</mw>
+Peter discussed this in SampadaInstructions.txt.
+Here is his record:
+<rule conf="LIKELY" class="ERROR">M/</rule> <c auth="PS" cclass="G">ppp</c> <wil>aMSita</wil> <mw>*</mw>
+Here is the record inserted as the first record of wilss-4-1.xml
+<r><rule conf="LIKELY" class="ERROR">M/</rule> <c auth="PS" cclass="G" done="y">ppp</c> <wil>aMSita</wil> <mw>*</mw></r>
+
+------------------------------------------------------
+2 : <rule conf="LIKELY" class="ERROR">VC/VrC</rule> <c></c> <wil>parapAkanivftta</wil> <mw>parapAkanirvftta</mw>
+This was an error in MW.  
+ejf's procedure has been to correct mw errors, and to pretend they never happened. The upshot is that parapAkanivftta is now in MW.  
+The record from wiltab_mw-4-1.txt
+is removed:
+<rule conf="LIKELY" class="ERROR">VC/VrC</rule> <c></c> <wil>parapAkanivftta</wil> <mw>parapAkanirvftta</mw>
+
+------------------------------------------------------
+3 : <rule conf="LIKELY" class="ERROR">M/</rule> <c></c> <wil>SaMvara</wil> <mw>Savara</mw>
+This was explained in SamnpadaInstructions.txt:
+<rule conf="LIKELY" class="ERROR">M/</rule> <c auth="__" cclass="_">___</c> <wil>SaMvara</wil> <mw>Savara</mw>
+<rule conf="LIKELY" class="ERROR">M/</rule> <c auth="PS" cclass="V">Mv/mb</c> <wil>SaMvara</wil> <mw>Sambara</mw>
+Here I looked up the words, saw that they had a difference in meaning and found in Wilson a reference to a variant Sambara, which was found both in Wilson and in MW.  So I corrected the class of mapping as a variant rather than an error, corrected the variance to Mv/mb, and corrected the mw element contents to the word to which to map in MW.
+
+Resolution:  Add the record back to wilss-4-1.xml
+Here is the added record:
+<r><rule conf="LIKELY" class="ERROR">M/</rule> <c auth="PS" cclass="V" done="y">Mv/mb</c> <wil>SaMvara</wil> <mw>Sambara</mw></r>
+
+------------------------------------------------------
+4 : <rule conf="LIKELY" class="GRAMMAR">tA</rule> <c></c> <wil>sAkzitA</wil> <mw>sAkzi</mw>
+This was an error in MW.  
+ejf's procedure has been to correct mw errors, and to pretend they never happened. The upshot is that SakzitA is now in MW.  The record from wiltab_mw-4-1.txt
+is removed:
+<rule conf="LIKELY" class="GRAMMAR">tA</rule> <c></c> <wil>sAkzitA</wil> <mw>sAkzi</mw>
+
+------------------------------------------------------
+5 : <rule conf="LIKELY" class="ERROR">CA/Co</rule> <c></c> <wil>sAmayoni</wil> <mw>somayoni</mw>
+This is like #4.  MW corrected to sAmayoni is now in mw.
+The record from wiltab_mw-4-1.txt is removed:
+<rule conf="LIKELY" class="ERROR">CA/Co</rule> <c></c> <wil>sAmayoni</wil> <mw>somayoni</mw>
+
+------------------------------------------------------
+The above 5 records are in wiltab_mw-3-3.txt, but not in wilss-3-3d.xml 
+
+
+--------------------------------------------------------
+--------------------------------------------------------
+After the above changes were made to wilss-4-1.xml and wiltab_mw-4-1.txt,
+the comparison of LIKELY keys between these two revised files was made.
+The result is that there are no discrepancies:
+943 records in wilss-4-1.xml
+943 records in wiltab_mw-4-1.txt
+The above 0 records are in wilss-4-1.xml, but not in wiltab_mw-4-1.txt 
+The above 0 records are in wiltab_mw-4-1.txt, but not in wilss-4-1.xml 
+
+Thus, wilss-4-1.xml represents 'finished' records from those marked as
+LIKELY in wiltab_mw-4-1.txt.  
+There are approximately 8350 records in wiltab_mw-4-1.txt, representing
+wilson headwords not found in mw.  wilss-4-1.xml explains 943 of these.
+It remains to explain the rest.

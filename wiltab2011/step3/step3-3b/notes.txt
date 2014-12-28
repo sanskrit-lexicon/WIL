@@ -1,0 +1,68 @@
+line skipped: ----- filter1.txt ----
+ERROR SKIPPING: old wilkey = Gaza, corr wilkey = Garza:  both are found
+<rule conf="LIKELY" class="ERROR">VC/VrC</rule> <c auth="PS" cclass="_">y SS: wil has Garza</c> <wil err="typo" corr="Garza">Gaza</wil> <mw>Garza</mw>
+
+WARN SKIPPING: no records in wiltab for key=dazanavAsam  (SLP = daSanavAsam) (CORR=daSanavAsas)  FOUND, so already corrected
+<rule conf="LIKELY" class="ERROR">m/s</rule> <c auth="SS" cclass="_">y SS: both probably mean tooth-armour meaning lip but MW meaning is not ceertain. PMS: check the references --> daSanacCada; moreover the etymology in Wilson shows clearly that it is daSana + vAsas.</c> <wil>daSanavAsam</wil> <mw>daSanavAsas</mw>
+
+WARN SKIPPING: no records in wiltab for key=nIlabhiNTI  (SLP = nIlaBiRwI) (CORR=nIlaJiRwI)  FOUND, so already corrected
+<rule conf="LIKELY" class="ERROR">B/J</rule> <c auth="SS" cclass="_">y</c> <wil err="scan">nIlaBiRwI</wil> <mw>nIlaJiRwI</mw>
+
+WARN SKIPPING: no records in wiltab for key=nodham  (SLP = noDam) (CORR=noDas)  FOUND, so already corrected
+<rule conf="LIKELY" class="ERROR">m/s</rule> <c auth="PS" cclass="_">y PMS: m. (-DAH) and E. affix = asi confirms error.</c> <wil err="scan">noDam</wil> <mw>noDas</mw>
+
+WARN SKIPPING: no records in wiltab for key=prAntaTurga  (SLP = prAntawurga) (CORR=prAntadurga)  FOUND, so already corrected
+<rule conf="LIKELY" class="ERROR">wu/du</rule> <c auth="SS" cclass="_">y</c> <wil err="typo">prAntawurga</wil> <mw>prAntadurga</mw>
+
+WARN SKIPPING: no records in wiltab for key=vipaTuddhAra  (SLP = vipawudDAra) (CORR=vipadudDAra)  FOUND, so already corrected
+<rule conf="LIKELY" class="ERROR">wu/du</rule> <c auth="PS" cclass="_">y SS: Q, typo due to unclear scan</c> <wil err="typo">vipawudDAra</wil> <mw>vipadudDAra</mw>
+
+WARN SKIPPING: no records in wiltab for key=vipraTuSTa  (SLP = viprawuzwa) (CORR=vipraduzwa)  FOUND, so already corrected
+<rule conf="LIKELY" class="ERROR">wu/du</rule> <c auth="PS" cclass="_">y SS: Q, typo due to unclear scan</c> <wil err="typo">viprawuzwa</wil> <mw>vipraduzwa</mw>
+
+WARN SKIPPING: no records in wiltab for key=vipraTuSTabhAva  (SLP = viprawuzwaBAva) (CORR=vipraduzwaBAva)  FOUND, so already corrected
+<rule conf="LIKELY" class="ERROR">wu/du</rule> <c auth="PS" cclass="_">y SS: Q, typo due to unclear scan</c> <wil err="typo">viprawuzwaBAva</wil> <mw>vipraduzwaBAva</mw>
+
+WARN SKIPPING: no records in wiltab for key=vizvaretam  (SLP = viSvaretam) (CORR=viSvaretas)  FOUND, so already corrected
+<rule conf="LIKELY" class="ERROR">m/s</rule> <c auth="PS" cclass="_">y</c> <wil>viSvaretam</wil> <mw>viSvaretas</mw>
+
+WARN SKIPPING: no records in wiltab for key=samaTuHkha  (SLP = samawuHKa) (CORR=samaduHKa)  FOUND, so already corrected
+<rule conf="LIKELY" class="ERROR">wu/du</rule> <c auth="PS" cclass="_">y</c> <wil>samawuHKa</wil> <mw>samaduHKa</mw>
+
+WARN SKIPPING: no records in wiltab for key=savAsam  (SLP = savAsam) (CORR=savAsas)  FOUND, so already corrected
+<rule conf="LIKELY" class="ERROR">m/s</rule> <c auth="PS" cclass="_">y</c> <wil>savAsam</wil> <mw>savAsas</mw>
+
+WARN SKIPPING: no records in wiltab for key=hemaTugdha  (SLP = hemawugDa) (CORR=hemadugDa)  FOUND, so already corrected
+<rule conf="LIKELY" class="ERROR">wu/du</rule> <c auth="PS" cclass="_">y</c> <wil>hemawugDa</wil> <mw>hemadugDa</mw>
+
+line skipped: ------- filter2.txt -----
+ERROR SKIPPING: no correction!
+<rule conf="LIKELY" class="GRAMMAR">NEGa</rule> <c auth="SS" cclass="E">wilson may have a factual error since 'api' and 'tu' are separate words</c> <wil>apitu</wil> <mw>*</mw>
+
+Corrected. remap?
+<rule conf="LIKELY" class="ERROR">Ca/Cf</rule> <c auth="SS" cclass="E">Additionally correct udB to udJ in the def.  Probably need to correct entry uYBa m. to uYJa m.</c> <wil err="scan" corr="udJa">udBa</wil> <mw>*</mw>
+
+WARN SKIPPING: no records in wiltab for key=udbha  (SLP = udBa) (CORR=udJa)  FOUND, so already corrected
+<rule conf="LIKELY" class="ERROR">Ca/Cf</rule> <c auth="SS" cclass="E">Additionally correct udB to udJ in the def.  Probably need to correct entry uYBa m. to uYJa m.</c> <wil err="scan" corr="udJa">udBa</wil> <mw>*</mw>
+
+Corrected. remap?
+<rule conf="LIKELY" class="ERROR">m/s</rule> <c auth="PS" cclass="E">SS: entry should have been mahIyas. PMS: right, but algorithm mad two substitutions instead of just one. Added attributes.</c> <wil err="typo" corr="mahIyas">mahIyam</wil> <mw>sahIyas</mw>
+
+Corrected. remap?
+<rule conf="LIKELY" class="ERROR">Ca/Ce</rule> <c auth="PS" cclass="E">MW has correct entry too [L=250964] but not found upon ordinary search; only found with prefix search in advanced search. ejf changed mw field to sUkzmamakzika</c> <wil err="typo" corr="sUkzmamakzikA">sUkzmakzikA</wil> <mw>sUkzmamakzika</mw>
+
+line skipped: ----- filter3.txt ---
+Corrected. remap?
+<rule conf="LIKELY" class="ERROR">Ca/Cu</rule> <c auth="PS" cclass="G">SS: very similar but diff words. PMS: remapped to MW root; participle: prap of causative of prAR.</c> <wil err="scan" corr="prARayat">prARayata</wil> <mw>prAR</mw>
+
+WARN SKIPPING: no records in wiltab for key=prANayata  (SLP = prARayata) (CORR=prARayat)  FOUND, so already corrected
+<rule conf="LIKELY" class="ERROR">Ca/Cu</rule> <c auth="PS" cclass="G">SS: very similar but diff words. PMS: remapped to MW root; participle: prap of causative of prAR.</c> <wil err="scan" corr="prARayat">prARayata</wil> <mw>prAR</mw>
+
+Corrected. remap?
+<rule conf="LIKELY" class="ERROR">m/s</rule> <c auth="PS" cclass="V">Wilson Root should be 'zam' with marker 'a' but he always puts the 'a' after final consonant; MW root: sam1</c> <wil corr="zam">zama</wil> <mw>sam</mw>
+
+Corrected. remap?
+<rule conf="LIKELY" class="ERROR">s/m</rule> <c auth="PS" cclass="V">remapped. MW adds penultimate nasal found in present stem to root. MW[L=262731].  The Wilson root should not have final 'a'.</c> <wil err="fac" corr="his">hisa</wil> <mw>hiMs</mw>
+
+233 records read from filter1-3.txt
+215 records written to out.txt

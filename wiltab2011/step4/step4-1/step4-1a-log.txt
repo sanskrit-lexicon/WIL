@@ -1,0 +1,9 @@
+941 records in wilss-3-3d.xml
+946 records in wiltab_mw-3-3.txt
+The above 0 records are in wilss-3-3d.xml, but not in wiltab_mw-3-3.txt 
+1 : <rule conf="LIKELY" class="ERROR">M/</rule> <c></c> <wil>aMSita</wil> <mw>aSita</mw>
+2 : <rule conf="LIKELY" class="ERROR">VC/VrC</rule> <c></c> <wil>parapAkanivftta</wil> <mw>parapAkanirvftta</mw>
+3 : <rule conf="LIKELY" class="ERROR">M/</rule> <c></c> <wil>SaMvara</wil> <mw>Savara</mw>
+4 : <rule conf="LIKELY" class="GRAMMAR">tA</rule> <c></c> <wil>sAkzitA</wil> <mw>sAkzi</mw>
+5 : <rule conf="LIKELY" class="ERROR">CA/Co</rule> <c></c> <wil>sAmayoni</wil> <mw>somayoni</mw>
+The above 5 records are in wiltab_mw-3-3.txt, but not in wilss-3-3d.xml 

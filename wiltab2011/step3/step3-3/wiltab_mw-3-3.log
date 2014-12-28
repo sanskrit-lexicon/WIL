@@ -1,0 +1,43 @@
+line skipped in wiltab_mw-known-2a.txt: <!-- was: "wiltab_mw-1.log"; edited by MA  -->
+line skipped in wiltab_mw-known-2a.txt: <!-- "?" = "I don't know why this word is not in MW; "E" = "error"; "V" = "variant"; "G" = "grammar"; "R" = "root issue" -->
+44270 keys processed
+0 keys were ill-formed
+35916 keys found with no spelling change
+3485 keys found after spelling change
+4375 records not found yet 
+494 records processed as known from wiltab_mw-known-2a.txt
+spelling rule <rule conf="LIKELY" class="ERROR">M/</rule> solved 5 problems
+spelling rule <rule conf="SURE" class="VARIANT">rxx/rx</rule> solved 1712 problems
+spelling rule <rule conf="LIKELY" class="GRAMMAR">NEGa</rule> solved 11 problems
+spelling rule <rule conf="LIKELY" class="ERROR">Ca/Ce</rule> solved 27 problems
+spelling rule <rule conf="LIKELY" class="ERROR">Ca/Cu</rule> solved 51 problems
+spelling rule <rule conf="LIKELY" class="GRAMMAR">tA</rule> solved 23 problems
+spelling rule <rule conf="SURE" class="VARIANT">N/M</rule> solved 246 problems
+spelling rule <rule conf="LIKELY" class="VARIANT">v/b</rule> solved 253 problems
+spelling rule <rule conf="LIKELY" class="GRAMMAR">NEGan</rule> solved 3 problems
+spelling rule <rule conf="SURE" class="VARIANT">rdD/rD</rule> solved 163 problems
+spelling rule <rule conf="LIKELY" class="ERROR">VC/VrC</rule> solved 38 problems
+spelling rule <rule conf="LIKELY" class="GRAMMAR">a/am</rule> solved 36 problems
+spelling rule <rule conf="LIKELY" class="VARIANT">b/v</rule> solved 106 problems
+spelling rule <rule conf="LIKELY" class="GRAMMAR">tva</rule> solved 9 problems
+spelling rule <rule conf="SURE" class="VARIANT">n/M</rule> solved 260 problems
+spelling rule <rule conf="ROOT" class="ISSUE">a$/</rule> solved 92 problems
+spelling rule <rule conf="LIKELY" class="ERROR">CA/Co</rule> solved 26 problems
+spelling rule <rule conf="LIKELY" class="ERROR">B/J</rule> solved 3 problems
+spelling rule <rule conf="LIKELY" class="ERROR">t/tt</rule> solved 170 problems
+spelling rule <rule conf="LIKELY" class="VARIANT">cC/C</rule> solved 28 problems
+spelling rule <rule conf="LIKELY" class="ERROR">m/s</rule> solved 46 problems
+spelling rule <rule conf="LIKELY" class="ERROR">wu/du</rule> solved 21 problems
+spelling rule <rule conf="LIKELY" class="VARIANT">n/R</rule> solved 21 problems
+spelling rule <rule conf="SURE" class="VARIANT">Y/M</rule> solved 57 problems
+spelling rule <rule conf="LIKELY" class="ERROR">s/m</rule> solved 10 problems
+spelling rule <rule conf="LIKELY" class="ERROR">Ca/Cf</rule> solved 7 problems
+spelling rule <rule conf="LIKELY" class="ERROR">Ca/CU</rule> solved 19 problems
+spelling rule <rule conf="SURE" class="VARIANT">rbB/rB</rule> solved 9 problems
+spelling rule <rule conf="LIKELY" class="ERROR">ra/f</rule> solved 7 problems
+spelling rule <rule conf="LIKELY" class="ERROR">q/w</rule> solved 12 problems
+spelling rule <rule conf="LIKELY" class="ERROR">l/w</rule> solved 5 problems
+spelling rule <rule conf="LIKELY" class="ERROR">J/B</rule> solved 1 problems
+spelling rule <rule conf="LIKELY" class="ERROR">Sv/Sc</rule> solved 3 problems
+spelling rule <rule conf="LIKELY" class="ERROR">Ca/CE</rule> solved 5 problems
+(nc = 3485)

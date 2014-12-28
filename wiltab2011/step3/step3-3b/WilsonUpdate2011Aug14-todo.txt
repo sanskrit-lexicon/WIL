@@ -1,0 +1,37 @@
+WilsonUpdate2011Aug14-todo.txt
+Things that remain to be done/discussed from WilsonUpdate2011Aug14.xml
+Peter's notes made on 14-15 August 2011 to Jim's readme.txt 13 Aug. 2011.
+
+
+2b2, 2b3
+PMS: I think I often did not touch the contents of the mw attribute when I made a correction to wil.  I seem to have assumed that if a correction were indicated to be made to Wilson (by cclass="E" or <wil ...  corr="..." ...>) that any mapping would be ignored and that mw had the identical form to the corrected Wilson form.  If the class="Error" and "<c...>y" then the Wilson form would be corrected to be identical to the mw form.
+
+2b4 sUkzmamakzika f(A)
+PMS: Am I incorrect in recalling that you created keys for all the feminine forms?  Yes, I am incorrect.  You, Malcolm and I created these in the grammar table for the purpose of inflection to produce the full-form lexicon.  We made a list of rules like d1+A, d3+ikA.  We might use the output of that ruleset (or a subset of it if it included producing mfn forms of all adjectives) to some advantage separate from its original use to create the full-form lexicon to address the "subtle point regarding the correspondence" you raise.
+
+
+
+*********Begin complicated issues for consulting
+Notes on corrections:
+1. The wilson record is 'ciraRQI'...
+PMS: probably corrected on-line previously because Matthias's file has ciraRqI.  Anyway, ...
+corr="ciraRwI"
+Wilson then has (-RqI) in parens after 'f.' in the lexid and later "also ciriRwI"; yet the derivation he gives justifies only ciraRwI.  "f. (-RqI)" is a factual error or a Prakritization but it makes no sense to have the headword one thing and the lexid another.  So do we show what Wilson actually has printed (ciraRQI) or do we revise it to reflect what his etymology suggests (ciraRwI)?  Wilson also has an entry for ciriRWI.  MW has ciraRwI as headword and ciraRWI and ciraRQI as subentries.  He also has ciriRwI)
+===================
+Peter's notes on Jim's file notes.txt
+No further action necessary on "FOUND, so already corrected" items either above or below.
+beginning with filter2.txt
+
+1.	ERROR SKIPPING: no correction!
+<rule conf="LIKELY" class="GRAMMAR">NEGa</rule> <c auth="SS" cclass="E">wilson may have a factual error since 'api' and 'tu' are separate words</c> <wil>apitu</wil> <mw>*</mw>
+PMS: complex mapping: <c auth="PS" cclass="W"><wil>apitu</wil> <mw>api [L=10138]</mw><mw>tu [L=85708][L=85709]</mw>
+
+2.	Corrected. remap?
+<rule conf="LIKELY" class="ERROR">Ca/Cf</rule> <c auth="SS" cclass="E">Additionally correct udB to udJ in the def.  Probably need to correct entry uYBa m. to uYJa m.</c> <wil err="scan" corr="udJa">udBa</wil> <mw>*</mw>
+PMS: correct and map as follows:
+<c auth="PS" cclass="E">regular Wilson problem of final 'a' on root</c><wil corr="udJ">udJa</wil> <mw>ujJ</mw>
+<c auth="PS" cclass="E">regular Wilson problem of final 'a' on root; but don't change [L=13921]</c><wil corr="uYJ">uYJa[L=13920]</wil> <mw>ujJ</mw>
+<c auth="PS" cclass="W">Y/j This is really a factual error in Wilson.</c><wil>uYJ</wil> <mw>ujJa</mw>
+<c auth="PS" cclass="W">Y/j This is really a factual error in Wilson.  But correct uYJa to uYJ in the etymology (after "E.")</c><wil>uYJa</wil> <mw>ujJa</mw>
+*********End complicated issues for consulting
+

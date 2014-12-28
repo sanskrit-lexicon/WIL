@@ -1,0 +1,232 @@
+scans/WILScan/mysql/wilson/keys/readme.txt
+Sep 30, 2009
+Feb 11, 2011  
+Nov 29, 2011
+ejf
+
+* The database table 'wilson' has fields 'key,lnum,data'.
+The 'key' field is in HK form, and is based directly on the Wilson data.
+To integrate Wilson data with other lexicons, notably MW, differences in 
+the key of table 'monier' and that of table 'wilson' need to be reconciled.
+** discussion
+I begin with the assumption that the MW key conventions should be the 
+standard.  To derive keys for Wilson that conform to this standard 
+requires a table associating the given Wilson key with a
+key that is standardized.  This standardized key should
+a. be encoded in SLP1, as is the key of MW
+b. Spelling differences between wilson and MW should be reconciled.
+   i. wilson uses a sandhi convention of doubling consonants after 
+      'r' (and perhaps other letters), e.g. 'karmman', 'Darmma'.
+      The doubling of these consonants should be removed, e.g. 'karman', 'Darma'
+  ii. For roots, wilson often includes part of the DathaPatha anubandhas in the
+      key.  These should be removed.
+
+* step1
+** wilson_key_dump.txt
+  wilson_key_dump.sh  just dumps the mysql wilson keys into 
+  wilson_key_dump.txt, which has 3 tab-delimited fields:
+  key  Wilson key
+  slp  SLP1 spelling of key
+  num  number of records with the key (usu.=1,> 1 indicates key with
+       more than 1 record in wilson table)
+** (Feb 11, 2011)
+
+ wilson_mw.sh
+   partitions wilson_key_dump.txt into two files
+    wilson_keys_mw.txt   if slp key found in mwtab
+    wilson_keys_nonmw.txt if slp key NOT found in mwtab.
+** Revision of Feb 14, 2011
+   wilson_keys_nonmw.txt now has a simple xml structure:
+  <c></c><wil>x</wil><mw>x</mw>
+  c = comment (initially empty)
+  wil = wilson spelling (in slp1)
+  mw  = mw spelling (initially same value as wil)
+ 
+ wilson_nonmw_corr.txt  has the same structure for records.
+ It is used as an input.
+ 
+  For a few records with odd characters in key,
+  <c></c><wilorig>x0</wilorig><wil>x</wil><mw>x</mw>
+* step2 (Feb 19, 2011)
+** wiltab_dump.txt
+php wiltab_dump.php wiltab_dump.txt > wiltab_dump_log.txt
+
+The log file has 'bad' keys (slp : hk)
+** sh wiltab_mw.sh
+
+* step2roots
+** badkeys
+php roots.php wilson_dproots.txt roots.txt spelling.txt > temp
+** otherkeys
+php dumproots.php ../../step2/wiltab_dump.txt dumproots.txt
+find records identifiable as roots ( <body>.*? r[.] )
+
+
+php roots.php dumproots.txt roots.txt spelling.txt > roots_log.txt
+** mdp
+ PMS pointed out some problems with the 'dp' element in wiltab,
+ and suggested correlation with Madhaviya DP.  This work is in 
+ that direction
+*** Change to attribute
+ <dp><s>X</s></dp> => <dp v1="X"></dp>
+ This change made in text editor (change of log_20110224-03.txt to
+  log_20110224-03a.txt).
+ Reason: 'X' was not in the text. It was computer. Thus, it should
+ be an attribute, not part of the text.
+Note: the 03a changes were instituted into wiltab.
+*** 
+php dpadj.php log_20110224-03a.txt log_20110226-01.txt spelling.txt matchman2.txt mdp.xml > dpadj.log
+Note: 0226-01 was NOT instituted into wiltab.
+This exercise indicates how a correspondence could be done, but is
+incomplete in various dimensions.  In the dimension of coverage,
+ this (-03a) includes only keys in otherkeys/roots.txt.
+ It omits keys in (a) otherkeys/roots_log.txt,
+ (b) badkeys/roots.txt and (c)badkeys/roots_log.txt
+
+* alpha
+list all the words in Wilson in order of lnum.
+Flag those that are alphabetically in error.
+php alpha.php alpha.txt
+* step3/step3-1 (Mar 1, 2011
+** wiltab_dump.txt
+php wiltab_dump.php wiltab_dump.txt > wiltab_dump_log.txt
+** filter
+sh wiltab_mw-1.sh
+
+
+* step3/step3-2 ?
+* step3/step3-3
+Notes made Nov 29, 2011 of programs rune on Mar2/3, 2011.
+** wiltab_dump.txt
+php wiltab_dump.php wiltab_dump.txt > wiltab_dump_log.txt
+** filter
+sh wiltab_mw.sh
+i.e.
+php wiltab_mw.php  wiltab_dump.txt  wiltab_mw-known-2a.txt   
+   wiltab_mw-3-3.txt regexp-1-ma.txt > wiltab_mw-3-3.log
+Program logic:
+  Loosely expressed, the objective is to describe which wiltab keys
+are NOT in mw, taking into account (a) previously described cases (from the
+wiltab_mw-known-2a.txt file) and (b) various standardized spelling 
+transformations (from the file regexp-2-ma.txt).  The non-matches are
+put into wiltab_mw-3-3.txt file.  Some error messages appear in the log file.
+
+There are 44270 headword keys in mw (= # of lines in wiltab_dump.txt).
+There are 8354 (about 20%) of these headwords that are not immediately
+found in mw.  Of these, about 500 have already been explained by MA 
+(in the ..known file).  The
+
+*** input file wiltab_dump.txt   as above.
+    two keys:  $wilkey = wiltab key (in HK)  
+               $slp1a = slp1 transliteration of wiltab key
+*** input file   regexp-1-ma.txt
+ This contains a rather complex 
+Read lines from input file wiltab_dump.txt
+Try to find $slp1a as an MW headword,
+
+* step3-3a
+This contains material from MA. It is the material
+with which Sampada started
+* step3-3b
+wilSStil722PMStil946.xml is the end result of work done by Sampada,
+and finished by Peter.  It was given to me on 8/10/2011.
+The readme.txt file describes what ejf did.
+Essentially,
+ - correct wilSS.. re xml
+ - remove a few records which required changes to MW
+ - segregate the 200+ wilson changes.  From these, elsewhere,
+   changes were made to the wiltab database.
+ - some small number of miscellaneous comments were made by ejf.
+* step3-3c  Nov 30, 2011 ejf
+This constructs wilss-3-3c.xml and html from a corrected 
+wilSStil722PMStil946.xml.  
+lex.dtd (from MA's work) was slightly modified and wilSS also modified so
+wilSS validates against lex.dtd.
+wilss-3-3c.xml adds a 'corrected="yes"' attribute to the 200+ records for which
+changes were made to wiltab (see step3-3b).  
+The lex.dtd extended so it wilss-3-3c.xml also validates.
+The html changed to include the wiltab corrections, and the <c> element and
+attributes.
+* step3-3d Dec 1, 2011
+ constructs wilss-3-3d.xml from wilss-3-3c.xml, and 
+wilss-3-3d.html from wilss-3-3d.xml.
+The changes were suggested by Susan Moore, to make the end result of
+changes more readily interpretable from the c attributes and text.
+The lex.dtd was changed to reflected the new done="y" attribute of c.
+ - add done="y" as attribute to all <c> elements, indicating these
+   records are completed.
+ - remove a "y" as the text contents of <c>; replace it with triple underscore
+   remove a "y " as the initial part of text contents of <c>.
+   Note: there are two aberrant instances, unchanged:
+y WARN: <r><rule conf="LIKELY" class="VARIANT">v/b</rule> <c auth="SS" cclass="_" done="y">y-kuvera=kubera</c> <wil>kuveraka</wil> <mw>kuberaka</mw></r>
+y WARN: <r><rule conf="LIKELY" class="VARIANT" corrected="y">b/v</rule> <c auth="PS" cclass="E" done="y">yes but alphabetic order is ambiguous, Wilson has 'vrata' not 'brata' and neither 'anuvrata' nor 'anubrata'</c> <wil err="scan" corr="samanuvrata">samanubrata</wil> <mw>samanuvrata</mw></r>
+
+  In case this 'y-removal' left an empty text content to <c>, this empty
+  content was changed to triple underscore.
+ - changed instances of cclass="_" to agree with the class attribute of <rule>;
+   e.g. 
+     when class=GRAMMAR, cclass="-" changed to cclass="G".
+     when class=ERROR, cclass="-" changed to cclass="E".
+     when class=VARIANT, cclass="-" changed to cclass="V".
+     otherwise, leave class="-".
+     Note: this change was NOT made in case when mwkey=*.  In this 
+     circumstance, there is no mapping in mw of the wiltab headword; 
+     essentially, the cclass attribute is irrelevant.
+
+   Note that when cclass was NOT "_", no change was made to it.
+
+* step4  Dec 2, 2011
+This begins the process of completing the task of explaining the words in
+wiltab not in mw.
+The work done by Sampada and Peter, and expressed currently by wilss-3-3d.xml
+in step3-3d, was derived from work done by Matthias in step3-3.
+The file wiltab_mw-3.3.txt (in step3-3) is the comprehensive list of
+wiltab headwords not found in mw.
+* step4/step4-1 Dec 2, 2011
+
+Originally, the list that Sampada/Peter corrected was based on the
+records of wiltab_mw-3-3.txt that had conf="LIKELY".  For various reasons,
+5 of these records are not represented in wilss-3-3d.xml.  Why?
+The step4-1-notes.txt file explains the discrepancies.
+files wiltab_mw-4-1.txt and wilss-4-1.xml correct the discrepancies.
+There are approximately 8350 records in wiltab_mw-4-1.txt, representing
+wilson headwords not found in mw.  
+wilss-4-1.xml explains 943 of these.
+It remains to explain the rest.
+* step4/step4-2 Dec 3, 2011
+Here the inputs are the two files wiltab_mw-4-1.txt and wilss-4-1.xml. 
+Also, lex.dtd
+No changes are anticipated in wilss-4-1.xml: this is completed work.
+The objectives here are to:
+(a) get all the records in wiltab_mw-4-1.txt into a form validateable
+    by lex.dtd  (we'll call it wilmw-4-2.xml)
+(b) Do an initial partition of wilmw-4-2.xml into various piles:
+   (b1)  conf=LIKELY  -  these are the ones corresponding to wilss-4-1.xml
+                         they are done
+   (b2)  conf=SURE    -  MA marked these as sure -  after a brief
+                         perusal to confirm MA's assessment, these will also
+                         be done.
+   (b3)  conf=ROOT    -  some root problems.  Will prob. need corrections to
+                         wiltab headwords.
+   (b4)  NO conf      -  This is the hard part. Slightly below 5000 of these.
+
+
+* step4/step4-3 Jan 2012
+ This starts with the basic files of step4-2.
+ Susan Moore edits some of the incompleted files.
+** Jan-Mar, 2012: wiltab_mw-4-2-todo-issue-edit.xml
+
+xmllint --noout --valid wiltab_mw-4-2-todo-issue-edit.xml
+php html.php wiltab_mw-4-2-todo-issue-edit.xml wiltab_mw-4-2-todo-issue-edit.html
+
+** Mar 8,2012: wiltab_mw-4-2-todo-variant-edit.xml
+
+xmllint --noout --valid wiltab_mw-4-2-todo-variant-edit.xml
+php html.php wiltab_mw-4-2-todo-variant-edit.xml wiltab_mw-4-2-todo-variant-edit.html
+
+** Mar 13, 2010: wiltab_mw-4-2-todo-variant-edit1.xml
+minor changes to variant-edit.xml;
+ See ejf-variant-notes.txt.
+
+xmllint --noout --valid wiltab_mw-4-2-todo-variant-edit1.xml
+php html.php wiltab_mw-4-2-todo-variant-edit1.xml wiltab_mw-4-2-todo-variant-edit1.html

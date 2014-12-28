@@ -1,0 +1,4 @@
+943 records in wilss-4-1.xml
+943 records in wiltab_mw-4-1.txt
+The above 0 records are in wilss-4-1.xml, but not in wiltab_mw-4-1.txt 
+The above 0 records are in wiltab_mw-4-1.txt, but not in wilss-4-1.xml 

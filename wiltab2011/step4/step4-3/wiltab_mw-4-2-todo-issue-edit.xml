@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE LEX SYSTEM "lex.dtd" []>
+<LEX>
+<r><rule conf="_" class="ISSUE" corrected="y"></rule><c auth="SM" cclass="E" done="y">(a/-) </c> <wil err="scan" corr="ajYAnin">ajYAnina</wil> <mw>ajYAnin</mw></r>
+<r><rule conf="_" class="ISSUE" corrected="y"></rule><c auth="SM" cclass="R" done="y">(a/-) </c> <wil err="scan" corr="aYj">aYja</wil> <mw>aYj</mw></r>
+<r><rule conf="_" class="ISSUE" corrected="y"></rule><c auth="SM" cclass="E" done="y">(a/-) </c> <wil err="typo" corr="adriBid">adriBida</wil> <mw>adriBid</mw></r>
+<r><rule conf="_" class="ISSUE" corrected="y"></rule><c auth="SM" cclass="E" done="y">(a/-) </c> <wil err="typo" corr="anantajit">anantajita</wil> <mw>anantajit</mw></r>
+<r><rule conf="_" class="ISSUE" corrected="y"></rule><c auth="SM" cclass="R" done="y">(a/-) </c> <wil err="scan" corr="iK">iKa</wil> <mw>iK</mw></r>
+<r><rule conf="_" class="ISSUE" corrected="y"></rule><c auth="SM" cclass="R" done="y">(a/-) </c> <wil err="scan" corr="IK">IKa</wil> <mw>IK</mw></r>
+<r><rule conf="_" class="ISSUE" corrected="y"></rule><c auth="SM" cclass="R" done="y">(a/-) </c> <wil err="scan" corr="Ij">Ija</wil> <mw>Ij</mw></r>
+<r><rule conf="_" class="ISSUE" corrected="y"></rule><c auth="SM" cclass="R" done="y">(a/-) </c> <wil err="scan" corr="Irkzy">Irkzya</wil> <mw>Irkzy</mw></r>
+</LEX>

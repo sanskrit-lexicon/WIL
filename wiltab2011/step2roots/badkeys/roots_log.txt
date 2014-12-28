@@ -1,0 +1,23 @@
+ban: Wilson slp key=bana(banu)
+bahi: Wilson slp key=bahi(i)bahi
+Biw: Wilson slp key=Biw(ira)Bidir
+Brasj: Wilson slp key=Brasja(O)OBrasja
+matr: Wilson slp key=matra(i,)matri
+masj: Wilson slp key=masja(wu o)wumasjo
+mAkz: Wilson slp key=mAkza(i)mAkzi
+mAT: Wilson slp key=mATa(i)mATi
+muT (spelled as munT): Wilson slp key=muTa(i,)muTi
+meqf: Wilson slp key=meqf(f)meqf
+meb: Wilson slp key=meba(f)mebf
+mleq: Wilson slp key=mleqa(f,)mleqf
+rav: Wilson slp key=rava(i)ravi
+reb: Wilson slp key=reba(f)rebf
+reB: Wilson slp key=reBa(f)reBf
+lasj: Wilson slp key=lasja(o I)olasjI
+luj: Wilson slp key=luja(i)luji
+vAD: Wilson slp key=vADa(f)vADf
+vyus: Wilson slp key=vyusa(ira)vyusira
+vyo: Wilson slp key=vyo(Ya)vyeY(vyayati
+163 keys processed
+143 keys identified as roots
+20 keys not identified as roots 

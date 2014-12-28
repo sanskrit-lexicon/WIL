@@ -1,0 +1,122 @@
+Sampada,
+The file wiltab_mw-LIKELY_ss01.xml contains a list of 940 words found in Wilson's dictionary that are not found in Monier Williams.  We composed some rules that alter the word as found in Wilson to a form in which it might likely be found in Monier Williams.  These changes include common typing errors, common printing errors, common variants, alternate sandhi, and removal of grammatical suffixes or inflectional terminations.  After implementing these likely change rules to the word as found in Wilson, a corresponding word was found in Monier Williams.  It is likely, we think, that we have correctly found the corresponding word in Monier Williams.  Your job is do one of three things:
+1.	to confirm that the mapping is correct
+2.	to correct the mapping
+3.	indicate that the mapping is incorrect.
+4.	indicate that you can't determine what to do.
+
+The file wiltab_mw-LIKELY_ss01.html contains the same list as above (with 6 additional words I have already corrected but use as examples in my discussion below) in an html page.  Here the Wilson and MW words are links to look up the words in our corresponding digital dictionaries.  You can then edit the input field to alter the word to search for minor variants.  You may, however, find it easier to use the printed dictionaries if your network connection is absent or slow, or simply because the words are in alphabetic order in the list so that it does not require much searching to find.  Sometimes there are even a few items in the list on the same page.
+
+We have placed a template for a comment element in the middle of each record of the file that looks like this:
+
+<c auth="__" cclass="_">___</c>
+
+In every case, you will fill in the auth="__" attribute value with your initials.  You can do this most easily by double clicking on the underscores to select them and then typing SS.  The result would look like this:
+
+<c auth="SS" cclass="_">___</c>
+
+You can use a similar method to fill in the other blanks as called for below.
+
+1.	to confirm that the mapping is correct, replace the triple-underscore in the c element with a 'y' as follows:
+
+<c auth="SS" cclass="_">y</c>
+['auth' stands for 'author' and 'cclass' for 'comment class']
+
+For example,
+
+<rule conf="LIKELY" class="ERROR">m/s</rule> <c auth="__" cclass="_">___</c> <wil>AmeDa</wil> <mw>AseDa</mw>
+<rule conf="LIKELY" class="ERROR">m/s</rule> <c auth="PS" cclass="_">y</c> <wil>AmeDa</wil> <mw>AseDa</mw>
+The rule correctly found that Wilson had a printing error; he mistakenly printed 'm' instead of 's'.  All you need to do is type your initials in the value of the auth attribute and put a 'y' in the content of the c element to confirm that the mapping was correct.  Matthias will then infer that the Wilson form should be corrected to the MW form, and Jim Funderburk will update the datebase.
+
+2.	to correct the mapping, decide what class the correct mapping belongs to.  The possible classes are:
+
+"G" = grammar, i.e. Monier Williams has excluded the form because he considered it a regular grammatical derivate, such as a participle, an abstract noun formed by the addition of -tA, or -tva, etc., or it is a compound of elements that are found in MW.
+"V" = variant spelling or sandhi, for example, Wilson has 'b' instead of MW's 'v', or 'M' instead of 'N', 'Y', 'R', 'n' or 'm', etc.
+"E" = error in Wilson, i.e. There is a typo in the digital file made of Wilson or a printing error in Wilson.
+"W" = wrong form in Wilson, but it was deliberate.  This code tells us to depracate the form so that we do not produce all inflected varieties of it for our full form lexicon, yet we do not correct it nor remove it from Wilson's dictionary.  E.g. 'putra' which we map to 'puttra' in MW.
+"N" = word not in MW (and not "GVEQ").  It's just a different word not in MW.
+"Q" = unsure whether the mapping is correct or not
+
+Here are some examples where our rules tried to find the corresponding word in Monier Williams by deleting an anusvara:
+
+<rule conf="LIKELY" class="ERROR">M/</rule> <c auth="__" cclass="_">___</c> <wil>aMSita</wil> <mw>aSita</mw>
+<rule conf="LIKELY" class="ERROR">M/</rule> <c auth="PS" cclass="G">ppp</c> <wil>aMSita</wil> <mw>*</mw>
+The word aSita in MW has a different meaning from aMSita in Wilson; the two are not correlated.  I couldn't find any word in MW that should correlate with it, so I replaced the word in the mw element with an asterisk and then indicated that the reason I think the word is not found is that it is a grammatical derivate by putting 'G' in the cclass attribute.  In addition, since it is a past passive participle, I put 'ppp' in the comment element.  (You can describe these in your own way for now, or use the abbreviations I use in my first year Sanskrit text-book. See Appendices, Table 17, p. 135 for participles; Book, p. 244 for compounds.)
+
+<rule conf="LIKELY" class="ERROR">M/</rule> <c auth="__" cclass="_">___</c> <wil>oM</wil> <mw>o</mw>
+<rule conf="LIKELY" class="ERROR">M/</rule> <c auth="PS" cclass="V">M/m</c> <wil>oM</wil> <mw>om</mw>
+Here 'oM' in Wilson corresponds not ot 'o' but to 'om' in MW so I corrected the word to which to map the Wilson word in Monier Williams by editing the content of the mw element.  I indicated the class of the mapping a "variant" by typing a V in the value of the cclass attribute, and indicated what the correct rule to map the variance would be by putting 'M/m' in the c element.  Before the slash is the sound as in Wilson, after the slash is the form as in MW.
+
+<rule conf="LIKELY" class="ERROR">M/</rule> <c auth="__" cclass="_">___</c> <wil>pAMSava</wil> <mw>pASava</mw>
+<rule conf="LIKELY" class="ERROR">M/</rule> <c auth="PS" cclass="V">S/s</c> <wil>pAMSava</wil> <mw>pAMsava</mw>
+Here 'pAMSava' is Wilson does not mean the same as 'pASava' in MW so does not correlate.  I speculated instead that it was a variation of S/s ('S' in Wilson for 's' in MW) and found the word 'pAMsava' in MW with the same meaning as 'pAMSava' in Wilson.  I corrected the word to which to map the Wilson in MW accordingly by editing the contents of the mw element, indicated the class of mapping as a variant by giving the value 'V' to the cclass attribute, and indicated the variation by typing "S/s" in the content of the c element.
+
+<rule conf="LIKELY" class="ERROR">M/</rule> <c auth="__" cclass="_">___</c> <wil>SaMvara</wil> <mw>Savara</mw>
+<rule conf="LIKELY" class="ERROR">M/</rule> <c auth="PS" cclass="V">Mv/mb</c> <wil>SaMvara</wil> <mw>Sambara</mw>
+Here I looked up the words, saw that they had a difference in meaning and found in Wilson a reference to a variant Sambara, which was found both in Wilson and in MW.  So I corrected the class of mapping as a variant rather than an error, corrected the variance to Mv/mb, and corrected the mw element contents to the word to which to map in MW.
+
+<rule conf="LIKELY" class="ERROR">M/</rule> <c auth="__" cclass="_">___</c> <wil>mruMc</wil> <mw>mruc</mw>
+<rule conf="LIKELY" class="ERROR">M/</rule> <c auth="PS" cclass="R">M/Y</c> <wil>mruMc</wil> <mw>mruYc</mw>
+You will probably not have any verbal root issues, since we tried to give all those problems to me; however, here's what the story is with this correction:  Our rules thought that it was a matter of Wilson erroneously printing an anusvAra where it didn't belong.  In fact, however, an anusvAra was used in Wilson instead of the nasal homorganic with the following stop ('Y' in stead of 'M' before 'c').  This we classed as a root issue by putting 'R' in the value ofthe cclass attribute.  I specified the variance 'M/Y' in the content of the c element, and corrected the word to which to map in the MW element.
+
+[Note, these words are in the html file in case you would like to look them up easily, but have been removed from the xml file]
+
+If you correct the mapping of an error, please indicate what type of error it was by copying either of the following to the open wil element:
+
+err="typo"	(a typo by the data-entry person)
+err="scan"	(a misprint in the dictionary)
+err="fac"	(a factual error made by the dictionary editor) [We generally won't ask you to decide such cases]
+
+If the erroneous digital form of the word in the contents of the wil element differs from the printed/scanned text, then the err="typo"; otherwise err="scan".
+
+If the likely mapping was not correct and the form in the contents of the wil element needs to be corrected to something other than the contents of the mw element, then put the unusual corrected form in a corr attribute:
+corr=""
+
+the wil element might then look like this:
+
+<wil err="typo" corr="rightform">wrongform</wil> <mw>somethingrightbutnotexactlywhatwilsonhasprinted</mw>
+
+Example:
+<c auth="SS" cclass="E">hv/dD; and V rdD/rD</c> <wil err="typo" corr="agnivardDaka">agnivarhvaka</wil> <mw>agnivarDaka</mw>]
+
+3.	Indicate that the mapping is incorrect.  If you know that the mapping is wrong because you looked up the words in both dictionaries and they mean different things and you could not correct it as described above under (2), then replace the contents of the mw element with an asterisk.  Put your initials in the value of the auth attribute as usual.
+3a.	In addition, you may be able to determine the reason that there is no mapping.  For instance, MW just didn't include a participle or a compound that Wilson did.  Then put 'G' for 'grammar' in the cclass attribute value and identify the form with the appropriate participle tag or compound tag in the content of the c element.  Use cclass="G" if the form is a participle, absolutive, gerundive, or other regular derivate of a root, like an agent noun, or if the form is a more basic stem from which the Wilson form is derived by the addition of an affix, such as -tA or -tva.
+3b.	If you are sure that there isn't any word to which the Wilson word maps and that it is just an item that MW doesn't have, and not a question of a regular grammatical formation that MW chose to exclude, then put 'N' in the cclass attribute value.
+3c.	If you don't know what the correct mapping is then put a 'Q' for 'question' in the cclass attribute value.
+
+4.	indicate that you can't determine what to do.
+In other cases, you may not be able to determine whether the mapping is correct or not and don't know what to do.  In this case, just put a 'Q' for 'question' in the cclass attribute value, as well as your initials in the auth attribute.
+
+Below is some additional description of the types of hints that will be given in the rule element:
+First, check whether the word is not in proper alphabetic order.  This is a good indication that there is a typo or misprint.
+
+<rule conf="LIKELY" class="VARIANT">n/R</rule>	retroflexion: if the Wilson form is in incorrect alphabetic order for dental 'n' but correct alphabetic order for retroflex 'R', it is probably a printing error rather than a variant.  Confirm the meaning is the same, write err="scan" in the open wil tag, put 'E' in the open comment element's cclass attribute.  Otherwise, if the Wilson form is in correct alphabetic order, it is likely a variant, check the meaning is the same, replace "___" in the comment element with "y" to confirm the rule's mapping.
+<rule conf="LIKELY" class="VARIANT">cC/C</rule>		cC	C	unsure	variant verify that it is the same word that is meant.  Otherwise, any ideas???  If not, leave as is and go to the next.
+<rule conf="LIKELY" class="VARIANT">b/v</rule>		b	v	Check if out of alphabetic order.  If so its an error, put err="typo" if digital differs from the printed, or err="scan" if the same, in the open wil tag.  Put 'E' in the open comment element's cclass attribute.  If not out of alphabetic order, check that the word has the same meaning as the word with the variant spelling, replace comment element contents "___" by "y".  If Wilson has the form with 'v' in alphabetic order for 'v' (while MW has 'b') then we assume it's a variant.  Likewise, if Wilson has the form with 'b' in alphabetic order for 'b' (while MW has 'v') then we assume it's a variant.  (If both had 'b' or both 'v', we would have matched the forms already and it wouldn't be in your list.)
+<rule conf="LIKELY" class="VARIANT">v/b</rule>		v	b	ditto
+
+These are likely scan errors:	unsure	check
+<rule conf="LIKELY" class="ERROR">ra/f</rule>		ra	f	Check if out of alphabetic order, its an error err="typo" if digital differs from the printed or err="scan" if the same, check that the meaning is the same, replace comment by "y".  Otherwise, if not out of alphabetic order or meaning is different, any ideas???  If not, leave as is and go to the next.
+<rule conf="LIKELY" class="ERROR">l/w</rule>		l	w	ditto
+<rule conf="LIKELY" class="ERROR">t/tt</rule>		t([rv])	tt$1	$1 refers to what is in the preceding parenthesis.  Multiple characters in square brackets are options: [xyz] --> any one of xyz.  Is it an error decide whether err="typo/scan/fac" and put 'y' in comment element if it maps to the correct form in MW?  Or if the entry is a variant with a pointer to the more usual form, then replace "_" in the comment element with "variant".
+<rule conf="LIKELY" class="ERROR">q/w</rule>	A 'q' is printed in Wilson but not found in MW; found in MW with 'w' instead of 'q'. See "ra f" above.
+<rule conf="LIKELY" class="ERROR">B/J</rule>	A 'B' is printed in Wilson but not found in MW; found in MW with 'J' instead of 'B'. See "ra f" above.
+<rule conf="LIKELY" class="ERROR">J/B</rule>	vice verse. See "ra f" above.
+<rule conf="LIKELY" class="ERROR">s/m</rule>	A 's' is printed in Wilson but not found in MW; found in MW with 'm' instead of 's'. See "ra f" above.
+<rule conf="LIKELY" class="ERROR">m/s</rule>	vice verse. See "ra f" above.
+<rule conf="LIKELY" class="ERROR">Sv/Sc</rule>	ditto with 'Sv' in Wilson, 'Sc' in MW. See "ra f" above.
+<rule conf="LIKELY" class="ERROR">Sc/Sv</rule>	Sv	Sc. See "ra f" above.
+<rule conf="LIKELY" class="ERROR">df/ww</rule>	df	ww. See "ra f" above.
+<rule conf="LIKELY" class="ERROR">wu/du</rule>	wu	du. See "ra f" above.
+<rule conf="LIKELY" class="ERROR">VC/VrC</rule>	Wilson is missing an 'r'. typo or scan error
+<rule conf="LIKELY" class="ERROR">Ca/Ce</rule>	Wilson missing mAtrA on 'e'. typo or scan error
+<rule conf="LIKELY" class="ERROR">Ca/CE</rule>	Wilson missing mAtrAs on 'E'. typo or scan error
+<rule conf="LIKELY" class="ERROR">CA/Co</rule>	Wilson missing mAtrA on 'o'. typo or scan error
+<rule conf="LIKELY" class="ERROR">CA/CO</rule>	Wilson missing mAtrA on 'O'. typo or scan error
+<rule conf="LIKELY" class="ERROR">Ca/Cu</rule>	Wilson missing descender 'u'. typo or scan error
+<rule conf="LIKELY" class="ERROR">Ca/Cf</rule>	Wilson missing descender 'f'. typo or scan error
+
+These are mappings, not errors.  A dollar sign ($) at the end of a string of characters indicates that those characters must occur at the end of the word in question.
+<rule conf="LIKELY" class="GRAMMAR">tA</rule>	tA$ (the word-final suffix -tA)
+<rule conf="LIKELY" class="GRAMMAR">tva</rule>	tva$ (the word-final suffix -tA)
+<rule conf="LIKELY" class="GRAMMAR">a/am</rule>	Found in MW as an adverb in 'am', where Wilson probably has a stem in 'a' labeled as a noun 'n' for neuter.  If the form is only an adverb in MW, with the lexical tag 'ind.' but is a noun in Wilson, then write 'y' in the comment tag.  This affirms that the class="GRAMMAR" attribute in the rule is correct.

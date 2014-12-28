@@ -1,0 +1,724 @@
+<!--  This was initialized as rest3.txt on 20110816.
+      Remappings are inserted at bottom of the file
+-->
+<rule conf="LIKELY" class="GRAMMAR">NEGa</rule> <c auth="SS" cclass="_">y</c> <wil>agantavya</wil> <mw>gantavya</mw>
+<rule conf="LIKELY" class="GRAMMAR">NEGa</rule> <c auth="SS" cclass="_">y</c> <wil>aGna</wil> <mw>Gna</mw>
+<rule conf="LIKELY" class="GRAMMAR">NEGa</rule> <c auth="SS" cclass="N">___</c> <wil>awa</wil> <mw>*</mw>
+<rule conf="LIKELY" class="GRAMMAR">NEGa</rule> <c auth="SS" cclass="_">y</c> <wil>aDeya</wil> <mw>Deya</mw>
+<rule conf="LIKELY" class="ERROR">Ca/Ce</rule> <c auth="SS" cclass="N">___</c> <wil>aDyaya</wil> <mw>*</mw>
+<rule conf="LIKELY" class="GRAMMAR">tA</rule> <c auth="SS" cclass="_">y</c> <wil>anatatA</wil> <mw>anata</mw>
+<rule conf="LIKELY" class="GRAMMAR">NEGa</rule> <c auth="SS" cclass="N">___</c> <wil>anAti</wil> <mw>*</mw>
+<rule conf="LIKELY" class="GRAMMAR">NEGan</rule> <c auth="SS" cclass="_">y</c> <wil>anAhuta</wil> <mw>Ahuta</mw>
+<rule conf="LIKELY" class="GRAMMAR">a/am</rule> <c auth="SS" cclass="G">___</c> <wil>anukzaRa</wil> <mw>anukzaRam</mw>
+<rule conf="LIKELY" class="GRAMMAR">a/am</rule> <c auth="SS" cclass="G">___</c> <wil>anudina</wil> <mw>anudinam</mw>
+<rule conf="LIKELY" class="GRAMMAR">NEGan</rule> <c auth="SS" cclass="Q">___</c> <wil>anudyuta</wil> <mw>udyuta</mw>
+<rule conf="LIKELY" class="GRAMMAR">NEGan</rule> <c auth="SS" cclass="_">___</c> <wil>anupa</wil> <mw>*</mw>
+<rule conf="LIKELY" class="VARIANT">b/v</rule> <c auth="SS" cclass="_">y</c> <wil>anubftti</wil> <mw>anuvftti</mw>
+<rule conf="LIKELY" class="GRAMMAR">tva</rule> <c auth="SS" cclass="_">y</c> <wil>anuvAdatva</wil> <mw>anuvAda</mw>
+<rule conf="LIKELY" class="GRAMMAR">a/am</rule> <c auth="SS" cclass="_">y</c> <wil>anuvAra</wil> <mw>anuvAram</mw>
+<rule conf="LIKELY" class="GRAMMAR">NEGa</rule> <c auth="SS" cclass="Q">___</c> <wil>anodita</wil> <mw>nodita</mw>
+<rule conf="LIKELY" class="GRAMMAR">a/am</rule> <c auth="SS" cclass="_">y</c> <wil>apadiSa</wil> <mw>apadiSam</mw>
+<rule conf="LIKELY" class="GRAMMAR">NEGa</rule> <c auth="SS" cclass="_">y</c> <wil>aparADIna</wil> <mw>parADIna</mw>
+<rule conf="LIKELY" class="ERROR">Ca/Cu</rule> <c auth="SS" cclass="N">___</c> <wil>apazwa</wil> <mw>*</mw>
+<rule conf="LIKELY" class="GRAMMAR">NEGa</rule> <c auth="SS" cclass="_">y</c> <wil>aprajAta</wil> <mw>prajAta</mw>
+<rule conf="LIKELY" class="GRAMMAR">tva</rule> <c auth="SS" cclass="_">y</c> <wil>aBakzyatva</wil> <mw>aBakzya</mw>
+<rule conf="LIKELY" class="GRAMMAR">a/am</rule> <c auth="SS" cclass="_">y</c> <wil>aBicEdya</wil> <mw>aBicEdyam</mw>
+<rule conf="LIKELY" class="GRAMMAR">tA</rule> <c auth="SS" cclass="_">y</c> <wil>aBiyuktatA</wil> <mw>aBiyukta</mw>
+<rule conf="LIKELY" class="GRAMMAR">NEGa</rule> <c auth="SS" cclass="_">y</c> <wil>amatta</wil> <mw>matta</mw>
+<rule conf="LIKELY" class="ERROR">t/tt</rule> <c auth="SS" cclass="W">y Wilson also has patra for pattra</c> <wil>ambupatrA</wil> <mw>ambupattrA</mw>
+<rule conf="LIKELY" class="GRAMMAR">a/am</rule> <c auth="SS" cclass="_">y</c> <wil>ayaTAtaTa</wil> <mw>ayaTAtaTam</mw>
+<rule conf="LIKELY" class="VARIANT">cC/C</rule> <c auth="SS" cclass="_">y</c> <wil>ayukcCada</wil> <mw>ayukCada</mw>
+<rule conf="LIKELY" class="ERROR">m/s</rule> <c auth="SS" cclass="N">not same meaning</c> <wil>arama</wil> <mw>arasa</mw>
+<rule conf="LIKELY" class="VARIANT">n/R</rule> <c auth="PS" cclass="W">y PMS: Wilson factual error. Retroflexion required in same pada.</c> <wil>arugna</wil> <mw>arugRa</mw>
+<rule conf="LIKELY" class="ERROR">t/tt</rule> <c auth="SS" cclass="W">y</c> <wil>arkapatra</wil> <mw>arkapattra</mw>
+<rule conf="LIKELY" class="GRAMMAR">tA</rule> <c auth="SS" cclass="_">y</c> <wil>alaNGyatA</wil> <mw>alaNGya</mw>
+<rule conf="LIKELY" class="ERROR">t/tt</rule> <c auth="SS" cclass="W">y</c> <wil>alpapatra</wil> <mw>alpapattra</mw>
+<rule conf="LIKELY" class="GRAMMAR">tA</rule> <c auth="SS" cclass="_">y</c> <wil>avaDitA</wil> <mw>avaDi</mw>
+<rule conf="LIKELY" class="GRAMMAR">tva</rule> <c auth="SS" cclass="_">y</c> <wil>avaboDakatva</wil> <mw>avaboDaka</mw>
+<rule conf="LIKELY" class="GRAMMAR">tA</rule> <c auth="SS" cclass="_">y</c> <wil>avasannatA</wil> <mw>avasanna</mw>
+<rule conf="LIKELY" class="GRAMMAR">a/am</rule> <c auth="SS" cclass="_">y adv in MW, Wil recognises as adj/n/adv; also G NEGa</c> <wil>avirAma</wil> <mw>avirAmam</mw>
+<rule conf="LIKELY" class="VARIANT">v/b</rule> <c auth="SS" cclass="_">y same meaning. Wilson alphabetizes as if it's a 'v'</c> <wil>avIjaka</wil> <mw>abIjaka</mw>
+<rule conf="LIKELY" class="GRAMMAR">tA</rule> <c auth="SS" cclass="_">y</c> <wil>avyavaDAnatA</wil> <mw>avyavaDAna</mw>
+<rule conf="LIKELY" class="GRAMMAR">tA</rule> <c auth="SS" cclass="_">y</c> <wil>aSaktatA</wil> <mw>aSakta</mw>
+<rule conf="LIKELY" class="VARIANT">b/v</rule> <c auth="SS" cclass="_">y</c> <wil>aSvabAla</wil> <mw>aSvavAla</mw>
+<rule conf="LIKELY" class="ERROR">Ca/Cu</rule> <c auth="SS" cclass="N">MW does not have asaKin</c> <wil>asaKin</wil> <mw>asuKin</mw>
+<rule conf="LIKELY" class="GRAMMAR">a/am</rule> <c auth="SS" cclass="_">y and G NEGa?  Wilson here does not have adv.</c> <wil>asamakza</wil> <mw>asamakzam</mw>
+<rule conf="LIKELY" class="ERROR">s/m</rule> <c auth="SS" cclass="N">both words are correct</c> <wil>asala</wil> <mw>amala</mw>
+<rule conf="LIKELY" class="ERROR">t/tt</rule> <c auth="SS" cclass="W">y</c> <wil>asipatra</wil> <mw>asipattra</mw>
+<rule conf="LIKELY" class="ERROR">t/tt</rule> <c auth="SS" cclass="W">y</c> <wil>asipatraka</wil> <mw>asipattraka</mw>
+<rule conf="LIKELY" class="ERROR">t/tt</rule> <c auth="SS" cclass="W">y</c> <wil>asipatravana</wil> <mw>asipattravana</mw>
+<rule conf="LIKELY" class="ERROR">VC/VrC</rule> <c auth="SS" cclass="V">Wil explains</c> <wil>asUkzaRa</wil> <mw>asUrkzaRa</mw>
+<rule conf="LIKELY" class="VARIANT">n/R</rule> <c auth="PS" cclass="W">y PMS: PMS: Wilson factual error. Retroflexion required in same pada, also spfhanIya</c> <wil>aspfhanIya</wil> <mw>aspfhaRIya</mw>
+<rule conf="LIKELY" class="ERROR">t/tt</rule> <c auth="SS" cclass="W">y</c> <wil>AjYApatra</wil> <mw>AjYApattra</mw>
+<rule conf="LIKELY" class="ERROR">VC/VrC</rule> <c auth="SS" cclass="N">different meanings in both.</c> <wil>Atana</wil> <mw>Artana</mw>
+<rule conf="LIKELY" class="GRAMMAR">tva</rule> <c auth="SS" cclass="_">y</c> <wil>ADitva</wil> <mw>ADi</mw>
+<rule conf="LIKELY" class="GRAMMAR">a/am</rule> <c auth="SS" cclass="_">y</c> <wil>Aprapada</wil> <mw>Aprapadam</mw>
+<rule conf="LIKELY" class="ERROR">VC/VrC</rule> <c auth="SS" cclass="G">participle: ppp, remapped to preverb + root</c> <wil>Avahita</wil> <mw>Avah</mw>
+<rule conf="LIKELY" class="VARIANT">b/v</rule> <c auth="SS" cclass="_">y</c> <wil>AsutIbala</wil> <mw>AsutIvala</mw>
+<rule conf="LIKELY" class="ERROR">Ca/Cu</rule> <c auth="SS" cclass="N">different valid words</c> <wil>uccatara</wil> <mw>uccataru</mw>
+<rule conf="LIKELY" class="VARIANT">cC/C</rule> <c auth="SS" cclass="_">y</c> <wil>ucC</wil> <mw>uC</mw>
+<rule conf="LIKELY" class="ERROR">t/tt</rule> <c auth="SS" cclass="W">y</c> <wil>utpalapatra</wil> <mw>utpalapattra</mw>
+<rule conf="LIKELY" class="GRAMMAR">a/am</rule> <c auth="SS" cclass="_">y</c> <wil>udapeza</wil> <mw>udapezam</mw>
+<rule conf="LIKELY" class="GRAMMAR">a/am</rule> <c auth="SS" cclass="N">both different but correct words</c> <wil>udga</wil> <mw>udgam</mw>
+<rule conf="LIKELY" class="ERROR">Ca/Cu</rule> <c auth="PS" cclass="N">wil has both words; undara in pw Schmidt's Nachtraege</c> <wil>undara</wil> <mw>undura</mw>
+<rule conf="LIKELY" class="GRAMMAR">a/am</rule> <c auth="SS" cclass="_">y</c> <wil>upakumBa</wil> <mw>upakumBam</mw>
+<rule conf="LIKELY" class="GRAMMAR">tA</rule> <c auth="SS" cclass="_">y</c> <wil>upasannatA</wil> <mw>upasanna</mw>
+<rule conf="LIKELY" class="ERROR">t/tt</rule> <c auth="PS" cclass="W">y</c> <wil>upasTapatra</wil> <mw>upasTapattra</mw>
+<rule conf="LIKELY" class="VARIANT">v/b</rule> <c auth="PS" cclass="W">y alphabetized as v in Wilson</c> <wil>umvara</wil> <mw>umbara</mw>
+<rule conf="LIKELY" class="VARIANT">v/b</rule> <c auth="SS" cclass="_">y alphabetized as v in Wilson</c> <wil>umvI</wil> <mw>umbI</mw>
+<rule conf="LIKELY" class="ERROR">Ca/Cu</rule> <c auth="PS" cclass="N">different word, root 'ur' (or 'ura') not in MDhP</c> <wil>ura</wil> <mw>uru</mw>
+<rule conf="LIKELY" class="VARIANT">cC/C</rule> <c auth="PS" cclass="_">y</c> <wil>fcC</wil> <mw>fC</mw>
+<rule conf="LIKELY" class="ERROR">t/tt</rule> <c auth="PS" cclass="W">y</c> <wil>ekapatrikA</wil> <mw>ekapattrikA</mw>
+<rule conf="LIKELY" class="GRAMMAR">tA</rule> <c auth="SS" cclass="_">y</c> <wil>ekapiRqatA</wil> <mw>ekapiRqa</mw>
+<rule conf="LIKELY" class="ERROR">Ca/Cf</rule> <c auth="PS" cclass="G">participle not in mw, remapped to root</c> <wil>ejita</wil> <mw>ej</mw>
+<rule conf="LIKELY" class="ERROR">t/tt</rule> <c auth="PS" cclass="W">y</c> <wil>eraRqapatrikA</wil> <mw>eraRqapattrikA</mw>
+<rule conf="LIKELY" class="ERROR">M/</rule> <c auth="PS" cclass="V">M/m</c> <wil>oM</wil> <mw>om</mw>
+<rule conf="LIKELY" class="ERROR">t/tt</rule> <c auth="PS" cclass="W">y</c> <wil>kakKawapatraka</wil> <mw>kakKawapattraka</mw>
+<rule conf="LIKELY" class="ERROR">t/tt</rule> <c auth="PS" cclass="W">y</c> <wil>kaNkapatra</wil> <mw>kaNkapattra</mw>
+<rule conf="LIKELY" class="ERROR">t/tt</rule> <c auth="PS" cclass="W">y</c> <wil>kaNgunIpatrA</wil> <mw>kaNgunIpattrA</mw>
+<rule conf="LIKELY" class="VARIANT">v/b</rule> <c auth="SS" cclass="_">y</c> <wil>kawukAlAvu</wil> <mw>kawukAlAbu</mw>
+<rule conf="LIKELY" class="ERROR">t/tt</rule> <c auth="PS" cclass="W">y</c> <wil>kawupatra</wil> <mw>kawupattra</mw>
+<rule conf="LIKELY" class="VARIANT">v/b</rule> <c auth="SS" cclass="_">y</c>both are according to alphabetical order<wil>kawuvIjA</wil> <mw>kawubIjA</mw>
+<rule conf="LIKELY" class="ERROR">t/tt</rule> <c auth="SS" cclass="W">y</c> <wil>kaRwapatra</wil> <mw>kaRwapattra</mw>
+<rule conf="LIKELY" class="ERROR">t/tt</rule> <c auth="SS" cclass="W">y</c> <wil>karapatra</wil> <mw>karapattra</mw>
+<rule conf="LIKELY" class="ERROR">t/tt</rule> <c auth="SS" cclass="W">y</c> <wil>karapatravat</wil> <mw>karapattravat</mw>
+<rule conf="LIKELY" class="ERROR">t/tt</rule> <c auth="SS" cclass="W">y</c> <wil>karapatrikA</wil> <mw>karapattrikA</mw>
+<rule conf="LIKELY" class="VARIANT">b/v</rule> <c auth="SS" cclass="_">y</c> <wil>karabAlikA</wil> <mw>karavAlikA</mw>
+<rule conf="LIKELY" class="ERROR">t/tt</rule> <c auth="SS" cclass="W">y</c> <wil>kavacapatra</wil> <mw>kavacapattra</mw>
+<rule conf="LIKELY" class="ERROR">Ca/Cf</rule> <c auth="SS" cclass="N">___</c> <wil>kazikA</wil> <mw>kfzikA</mw>
+<rule conf="LIKELY" class="ERROR">Ca/Ce</rule> <c auth="SS" cclass="_">The Paninian affix 'Qak' -- 'ey'.  Wilson erroneously has the base 'katraya'. MW has the correct explanation and reference to the Paninian rule yielding katri + Qak</c> <wil err="fac">kAttrayaka</wil> <mw>kAttreyaka</mw>
+<rule conf="LIKELY" class="VARIANT">v/b</rule> <c auth="SS" cclass="_">y</c> <wil>kAdambarIvIja</wil> <mw>kAdambarIbIja</mw>
+<rule conf="LIKELY" class="GRAMMAR">tA</rule> <c auth="SS" cclass="_">y</c> <wil>kAntatA</wil> <mw>kAnta</mw>
+<rule conf="LIKELY" class="ERROR">m/s</rule> <c auth="SS" cclass="N">both words different meanings; Wilson also has kAsAlu</c> <wil>kAmAlu</wil> <mw>kAsAlu</mw>
+<rule conf="LIKELY" class="VARIANT">b/v</rule> <c auth="SS" cclass="_">y</c> <wil>kAyabalana</wil> <mw>kAyavalana</mw>
+<rule conf="LIKELY" class="VARIANT">v/b</rule> <c auth="SS" cclass="_">y</c> <wil>kilviza</wil> <mw>kilbiza</mw>
+<rule conf="LIKELY" class="VARIANT">v/b</rule> <c auth="SS" cclass="_">y</c> <wil>kilvizin</wil> <mw>kilbizin</mw>
+<rule conf="LIKELY" class="GRAMMAR">a/am</rule> <c auth="SS" cclass="_">y</c> <wil>kuwumbArTa</wil> <mw>kuwumbArTam</mw>
+<rule conf="LIKELY" class="VARIANT">v/b</rule> <c auth="SS" cclass="_">y</c> <wil>kumBinIvIja</wil> <mw>kumBinIbIja</mw>
+<rule conf="LIKELY" class="VARIANT">v/b</rule> <c auth="SS" cclass="_">y</c> <wil>kumBIvIja</wil> <mw>kumBIbIja</mw>
+<rule conf="LIKELY" class="VARIANT">v/b</rule> <c auth="SS" cclass="_">y</c> <wil>kuravaka</wil> <mw>kurabaka</mw>
+<rule conf="LIKELY" class="VARIANT">b/v</rule> <c auth="SS" cclass="W">but Wil is in alphabetical order</c> <wil>kulabaDU</wil> <mw>kulavaDU</mw>
+<rule conf="LIKELY" class="VARIANT">v/b</rule> <c auth="SS" cclass="_">y</c> <wil>kuvAhula</wil> <mw>kubAhula</mw>
+<rule conf="LIKELY" class="VARIANT">v/b</rule> <c auth="SS" cclass="_">y-kuvera=kubera</c> <wil>kuveraka</wil> <mw>kuberaka</mw>
+<rule conf="LIKELY" class="VARIANT">v/b</rule> <c auth="SS" cclass="_">y</c> <wil>kuverAkzI</wil> <mw>kuberAkzI</mw>
+<rule conf="LIKELY" class="VARIANT">v/b</rule> <c auth="SS" cclass="_">y</c> <wil>kuverAcala</wil> <mw>kuberAcala</mw>
+<rule conf="LIKELY" class="VARIANT">v/b</rule> <c auth="SS" cclass="_">y</c> <wil>kuverAdri</wil> <mw>kuberAdri</mw>
+<rule conf="LIKELY" class="VARIANT">v/b</rule> <c auth="SS" cclass="_">y</c> <wil>kuvra</wil> <mw>kubra</mw>
+<rule conf="LIKELY" class="GRAMMAR">tA</rule> <c auth="SS" cclass="_">y</c> <wil>kuSIlatA</wil> <mw>kuSIla</mw>
+<rule conf="LIKELY" class="VARIANT">v/b</rule> <c auth="SS" cclass="_">y</c> <wil>kUvarin</wil> <mw>kUbarin</mw>
+<rule conf="LIKELY" class="GRAMMAR">tA</rule> <c auth="SS" cclass="_">y</c> <wil>kftArTatA</wil> <mw>kftArTa</mw>
+<rule conf="LIKELY" class="ERROR">VC/VrC</rule> <c auth="SS" cclass="N">diff words,diff meanings,in order</c> <wil>kfzRadaSana</wil> <mw>kfzRadarSana</mw>
+<rule conf="LIKELY" class="VARIANT">v/b</rule> <c auth="SS" cclass="_">y</c> <wil>kfzRavIja</wil> <mw>kfzRabIja</mw>
+<rule conf="LIKELY" class="VARIANT">b/v</rule> <c auth="SS" cclass="_">y</c> <wil>kekAbala</wil> <mw>kekAvala</mw>
+<rule conf="LIKELY" class="VARIANT">v/b</rule> <c auth="SS" cclass="_">y</c> <wil>kOvera</wil> <mw>kObera</mw>
+<rule conf="LIKELY" class="VARIANT">cC/C</rule> <c auth="SS" cclass="_">y</c> <wil>kroDamUrcCita</wil> <mw>kroDamUrCita</mw>
+<rule conf="LIKELY" class="VARIANT">v/b</rule> <c auth="SS" cclass="_">y</c> <wil>klIva</wil> <mw>klIba</mw>
+<rule conf="LIKELY" class="VARIANT">v/b</rule> <c auth="SS" cclass="_">y</c> <wil>klEvya</wil> <mw>klEbya</mw>
+<rule conf="LIKELY" class="ERROR">ra/f</rule> <c auth="SS" cclass="W">Not as mapped; same word with same meaning present in Wil. But tt/t, the latter of which is correct, but Wilson definitely intended 'tt' since his etymology justifies the double t.</c> <wil>kzattra</wil> <mw>kzatra</mw>
+<rule conf="LIKELY" class="ERROR">t/tt</rule> <c auth="SS" cclass="W">y</c> <wil>kzarapatrA</wil> <mw>kzarapattrA</mw>
+<rule conf="LIKELY" class="ERROR">t/tt</rule> <c auth="SS" cclass="W">y</c> <wil>kzArapatra</wil> <mw>kzArapattra</mw>
+<rule conf="LIKELY" class="VARIANT">v/b</rule> <c auth="SS" cclass="_">y</c> <wil>kzIva</wil> <mw>kzIba</mw>
+<rule conf="LIKELY" class="VARIANT">v/b</rule> <c auth="SS" cclass="_">y</c> <wil>kzIvatA</wil> <mw>kzIbatA</mw>
+<rule conf="LIKELY" class="ERROR">t/tt</rule> <c auth="SS" cclass="W">y</c> <wil>kzudrapatrA</wil> <mw>kzudrapattrA</mw>
+<rule conf="LIKELY" class="ERROR">q/w</rule> <c auth="PS" cclass="N">both in order,diff meanings</c> <wil>Kaqu</wil> <mw>Kawu</mw>
+<rule conf="LIKELY" class="ERROR">t/tt</rule> <c auth="SS" cclass="W">y</c> <wil>Kaqgapatra</wil> <mw>Kaqgapattra</mw>
+<rule conf="LIKELY" class="ERROR">t/tt</rule> <c auth="SS" cclass="W">y</c> <wil>KaRqapatra</wil> <mw>KaRqapattra</mw>
+<rule conf="LIKELY" class="ERROR">t/tt</rule> <c auth="SS" cclass="W">y</c> <wil>KadirapatrI</wil> <mw>KadirapattrI</mw>
+<rule conf="LIKELY" class="ERROR">t/tt</rule> <c auth="SS" cclass="W">y</c> <wil>Karapatra</wil> <mw>Karapattra</mw>
+<rule conf="LIKELY" class="ERROR">t/tt</rule> <c auth="SS" cclass="W">y</c> <wil>Karapatraka</wil> <mw>Karapattraka</mw>
+<rule conf="LIKELY" class="VARIANT">b/v</rule> <c auth="SS" cclass="_">y</c> <wil>KalebAlI</wil> <mw>KalevAlI</mw>
+<rule conf="LIKELY" class="ERROR">l/w</rule> <c auth="SS" cclass="N">in order,diff meanings</c> <wil>KalvikA</wil> <mw>KawvikA</mw>
+<rule conf="LIKELY" class="VARIANT">v/b</rule> <c auth="SS" cclass="_">y</c> <wil>KavAzpa</wil> <mw>KabAzpa</mw>
+<rule conf="LIKELY" class="ERROR">t/tt</rule> <c auth="SS" cclass="W">y</c> <wil>gatasatva</wil> <mw>gatasattva</mw>
+<rule conf="LIKELY" class="ERROR">t/tt</rule> <c auth="SS" cclass="W">y</c> <wil>ganDapatra</wil> <mw>ganDapattra</mw>
+<rule conf="LIKELY" class="VARIANT">b/v</rule> <c auth="SS" cclass="_">wil scan is right</c> <wil err="typo">ganDabat</wil> <mw>ganDavat</mw>
+<rule conf="LIKELY" class="VARIANT">b/v</rule> <c auth="PS" cclass="W">y PMS: Wilson doesn't have brata, only vrata so even though alphabetic order shows garabrata to be deliberate, it's wrong and should be depracated</c> <wil>garabrata</wil> <mw>garavrata</mw>
+<rule conf="LIKELY" class="VARIANT">n/R</rule> <c auth="PS" cclass="W">y SS: i can't be certain due to the affix involved. PMS: Same meaning, but Wilson erroneously put dental; retroflexion is required within a pada.</c> <wil>gArgIputrakAyani</wil> <mw>gArgIputrakAyaRi</mw>
+<rule conf="LIKELY" class="ERROR">Ca/Cu</rule> <c auth="PS" cclass="V">Wilson has uRAdi affix qizRa</c> <wil>gizRa</wil> <mw>gizRu</mw>
+<rule conf="LIKELY" class="ERROR">t/tt</rule> <c auth="SS" cclass="W">y</c> <wil>gucCapatra</wil> <mw>gucCapattra</mw>
+<rule conf="LIKELY" class="ERROR">CA/Co</rule> <c auth="PS" cclass="V">SS: nothing to suggest which is wrong. PMS: MW confirms other more similar variants: gfhAlika/gfhAlikI. So remapped from gfholikA.</c> <wil>gfhAlikA</wil> <mw>gfhAlika</mw>
+<rule conf="LIKELY" class="ERROR">Ca/Ce</rule> <c auth="PS" cclass="V">[SS: MW has geha and gehe as possibilities] PMS: Alphabetic order shows that Wilson is deliberate; derivation is same with luk versus aluk in MW.</c> <wil>gehaSUra</wil> <mw>geheSUra</mw>
+<rule conf="LIKELY" class="VARIANT">b/v</rule> <c auth="PS" cclass="W">SS: can be y,but previous word is out of order. PMS: previous word is gopavaDU, with v, so b is erroneous, as hinted in Wilson's entry for baDU</c> <wil>gopabaDUwI</wil> <mw>gopavaDUwI</mw>
+<rule conf="LIKELY" class="VARIANT">b/v</rule> <c auth="PS" cclass="W">SS: y PMS: Wilson has baD and baDa instead of vaD and vaDa, in which 'b' is incorrect</c> <wil>gobaDa</wil> <mw>govaDa</mw>
+<rule conf="LIKELY" class="VARIANT">b/v</rule> <c auth="SS" cclass="_">y PMS: also bAla for vAla</c> <wil>gobAla</wil> <mw>govAla</mw>
+<rule conf="LIKELY" class="ERROR">m/s</rule> <c auth="SS" cclass="N">different meanings</c> <wil>goma</wil> <mw>gosa</mw>
+<rule conf="LIKELY" class="VARIANT">v/b</rule> <c auth="SS" cclass="_">y</c> <wil>granTivarhin</wil> <mw>granTibarhin</mw>
+<rule conf="LIKELY" class="VARIANT">v/b</rule> <c auth="SS" cclass="_">y</c> <wil>GaRwAvIja</wil> <mw>GaRwAbIja</mw>
+<rule conf="LIKELY" class="ERROR">Ca/Cu</rule> <c auth="PS" cclass="V">SS: no logic to ascertain. PMS: same meaning, Wilson alphabetic order correct but indeterminate.</c> <wil>GeYcalikA</wil> <mw>GeYculikA</mw>
+<rule conf="LIKELY" class="ERROR">m/s</rule> <c auth="PS" cclass="y">SS: can't ascertain. PMS: Wilson m. kzAH, affix asun points to cakzas</c> <wil>cakzam</wil> <mw>cakzas</mw>
+<rule conf="LIKELY" class="ERROR">q/w</rule> <c auth="PS" cclass="V">SS: diff verb roots. PMS: revised maping from MW caw</c> <wil>caq</wil> <mw>caRq</mw>
+<rule conf="LIKELY" class="VARIANT">v/b</rule> <c auth="PS" cclass="_">y SS: wil has bala. PMS: Wilson has both bala and vala = army</c> <wil err="typo">caturaNgavala</wil> <mw>caturaNgabala</mw>
+<rule conf="LIKELY" class="VARIANT">v/b</rule> <c auth="SS" cclass="_">y</c> <wil>candravAlA</wil> <mw>candrabAlA</mw>
+<rule conf="LIKELY" class="GRAMMAR">a/am</rule> <c auth="SS" cclass="_">y</c> <wil>calatpada</wil> <mw>calatpadam</mw>
+<rule conf="LIKELY" class="VARIANT">v/b</rule> <c auth="SS" cclass="_">y</c> <wil>cAruvAhu</wil> <mw>cArubAhu</mw>
+<rule conf="LIKELY" class="ERROR">Ca/Cu</rule> <c auth="PS" cclass="W">SS: diff words,diff meanings,both in order. PMS: changed mapping t/tt.</c> <wil>citrapatrikA</wil> <mw>citrapattrikA</mw>
+<rule conf="LIKELY" class="GRAMMAR">a/am</rule> <c auth="SS" cclass="_">y</c> <wil>citrapadakrama</wil> <mw>citrapadakramam</mw>
+<rule conf="LIKELY" class="VARIANT">v/b</rule> <c auth="SS" cclass="_">y</c> <wil>civi</wil> <mw>cibi</mw>
+<rule conf="LIKELY" class="VARIANT">v/b</rule> <c auth="SS" cclass="_">y</c> <wil>civuka</wil> <mw>cibuka</mw>
+<rule conf="LIKELY" class="ERROR">t/tt</rule> <c auth="SS" cclass="W">y</c> <wil>Catra</wil> <mw>Cattra</mw>
+<rule conf="LIKELY" class="ERROR">t/tt</rule> <c auth="SS" cclass="W">y</c> <wil>Catraka</wil> <mw>Cattraka</mw>
+<rule conf="LIKELY" class="ERROR">t/tt</rule> <c auth="SS" cclass="W">y</c> <wil>Catracakra</wil> <mw>Cattracakra</mw>
+<rule conf="LIKELY" class="ERROR">t/tt</rule> <c auth="SS" cclass="W">y</c> <wil>CatraDAra</wil> <mw>CattraDAra</mw>
+<rule conf="LIKELY" class="ERROR">t/tt</rule> <c auth="SS" cclass="W">y</c> <wil>CatraDAraRa</wil> <mw>CattraDAraRa</mw>
+<rule conf="LIKELY" class="ERROR">t/tt</rule> <c auth="SS" cclass="W">y</c> <wil>Catrapatra</wil> <mw>Cattrapattra</mw>
+<rule conf="LIKELY" class="ERROR">t/tt</rule> <c auth="SS" cclass="W">y</c> <wil>CatraBaNga</wil> <mw>CattraBaNga</mw>
+<rule conf="LIKELY" class="ERROR">t/tt</rule> <c auth="SS" cclass="W">y</c> <wil>CatrAka</wil> <mw>CattrAka</mw>
+<rule conf="LIKELY" class="ERROR">t/tt</rule> <c auth="SS" cclass="W">y</c> <wil>CatrikA</wil> <mw>CattrikA</mw>
+<rule conf="LIKELY" class="ERROR">t/tt</rule> <c auth="PS" cclass="V">SS: y. PMS: no reason for doubling apparent</c> <wil>Catvara</wil> <mw>Cattvara</mw>
+<rule conf="LIKELY" class="ERROR">t/tt</rule> <c auth="SS" cclass="W">y</c> <wil>Cadapatra</wil> <mw>Cadapattra</mw>
+<rule conf="LIKELY" class="ERROR">Ca/Cu</rule> <c auth="PS" cclass="V">PMS: revised mapping for root with penultimate nasal.</c> <wil>Cap</wil> <mw>Camp</mw>
+<rule conf="LIKELY" class="ERROR">t/tt</rule> <c auth="SS" cclass="W">y</c> <wil>CAtra</wil> <mw>CAttra</mw>
+<rule conf="LIKELY" class="ERROR">t/tt</rule> <c auth="SS" cclass="W">y</c> <wil>CAtraka</wil> <mw>CAttraka</mw>
+<rule conf="LIKELY" class="ERROR">t/tt</rule> <c auth="SS" cclass="W">y</c> <wil>CAtragaRqa</wil> <mw>CAttragaRqa</mw>
+<rule conf="LIKELY" class="ERROR">t/tt</rule> <c auth="SS" cclass="W">y</c> <wil>CAtradarSana</wil> <mw>CAttradarSana</mw>
+<rule conf="LIKELY" class="ERROR">t/tt</rule> <c auth="PS" cclass="V">SS: y. PMS: no reason for doubling apparent</c> <wil>Citvara</wil> <mw>Cittvara</mw>
+<rule conf="LIKELY" class="VARIANT">v/b</rule> <c auth="PS" cclass="_">y SS: from earlier exp but vala not marked bala in Wil. PMS: alphabetized as 'v'</c> <wil>jagadvala</wil> <mw>jagadbala</mw>
+<rule conf="LIKELY" class="GRAMMAR">a/am</rule> <c auth="SS" cclass="_">y</c> <wil>janAntika</wil> <mw>janAntikam</mw>
+<rule conf="LIKELY" class="ERROR">t/tt</rule> <c auth="SS" cclass="W">y</c> <wil>jayapatra</wil> <mw>jayapattra</mw>
+<rule conf="LIKELY" class="GRAMMAR">tA</rule> <c auth="SS" cclass="_">y</c> <wil>jayyatA</wil> <mw>jayya</mw>
+<rule conf="LIKELY" class="VARIANT">cC/C</rule> <c auth="SS" cclass="_">y</c> <wil>jarcC</wil> <mw>jarC</mw>
+<rule conf="LIKELY" class="VARIANT">v/b</rule> <c auth="PS" cclass="_">y PMS: none of budbuda, vudvuda, budvuda, vudbuda in Wilson</c> <wil>jalabudvuda</wil> <mw>jalabudbuda</mw>
+<rule conf="LIKELY" class="VARIANT">v/b</rule> <c auth="SS" cclass="_">y</c> <wil>jalaviqAla</wil> <mw>jalabiqAla</mw>
+<rule conf="LIKELY" class="VARIANT">v/b</rule> <c auth="SS" cclass="_">y</c> <wil>jalavindu</wil> <mw>jalabindu</mw>
+<rule conf="LIKELY" class="ERROR">CA/Co</rule> <c auth="PS" cclass="W">SS: Wil has both spellings, but diff meaning in MW. PMS: Wilson derivation supports his word, but probably an error for the new MW mapping I provide.</c> <wil>jalAkA</wil> <mw>jalOkas</mw>
+<rule conf="LIKELY" class="ERROR">t/tt</rule> <c auth="SS" cclass="W">y</c> <wil>jAtIpatrI</wil> <mw>jAtIpattrI</mw>
+<rule conf="LIKELY" class="ERROR">VC/VrC</rule> <c auth="PS" cclass="N">MDhP has jiv with marker i but no jivi</c> <wil>jivi</wil> <mw></mw>
+<rule conf="LIKELY" class="GRAMMAR">a/am</rule> <c auth="SS" cclass="_">y</c> <wil>jIvagrAha</wil> <mw>jIvagrAham</mw>
+<rule conf="LIKELY" class="VARIANT">b/v</rule> <c auth="SS" cclass="_">y</c> <wil>jIvabaDa</wil> <mw>jIvavaDa</mw>
+<rule conf="LIKELY" class="VARIANT">v/b</rule> <c auth="SS" cclass="_">y</c> <wil>jyotirvIja</wil> <mw>jyotirbIja</mw>
+<rule conf="LIKELY" class="ERROR">J/B</rule> <c auth="SS" cclass="N">diff words,diff meanings</c> <wil>JawA</wil> <mw>BawA</mw>
+<rule conf="LIKELY" class="ERROR">q/w</rule> <c auth="PS" cclass="N">SS: same meanings one using 'taqa' and 'tawa' meaning different things. PMS: Wilson etymologizes from taqA 'a beating', which he doesn't include. From root taq, or an error. </c> <wil>taqAGAta</wil> <mw>tawAGAta</mw>
+<rule conf="LIKELY" class="ERROR">t/tt</rule> <c auth="SS" cclass="W">y</c> <wil>tatapatrI</wil> <mw>tatapattrI</mw>
+<rule conf="LIKELY" class="ERROR">t/tt</rule> <c auth="SS" cclass="W">y</c> <wil>tatva</wil> <mw>tattva</mw>
+<rule conf="LIKELY" class="VARIANT">v/b</rule> <c auth="SS" cclass="_">y</c> <wil>tadvalA</wil> <mw>tadbalA</mw>
+<rule conf="LIKELY" class="ERROR">t/tt</rule> <c auth="SS" cclass="W">y</c> <wil>tamAlapatra</wil> <mw>tamAlapattra</mw>
+<rule conf="LIKELY" class="ERROR">Ca/Cf</rule> <c auth="PS" cclass="G">SS: check order in MW. PMS: participle: ppp, remapped to root.</c> <wil>tarita</wil> <mw>tF</mw>
+<rule conf="LIKELY" class="ERROR">t/tt</rule> <c auth="SS" cclass="W">y</c> <wil>tAqapatra</wil> <mw>tAqapattra</mw>
+<rule conf="LIKELY" class="ERROR">t/tt</rule> <c auth="SS" cclass="W">y</c> <wil>tAmrapatra</wil> <mw>tAmrapattra</mw>
+<rule conf="LIKELY" class="VARIANT">v/b</rule> <c auth="SS" cclass="_">y</c> <wil>tAmravIja</wil> <mw>tAmrabIja</mw>
+<rule conf="LIKELY" class="ERROR">t/tt</rule> <c auth="SS" cclass="W">y</c> <wil>tAlapatra</wil> <mw>tAlapattra</mw>
+<rule conf="LIKELY" class="VARIANT">v/b</rule> <c auth="PS" cclass="_">y SS: likely,but pralamva does not exist in Wil with va</c> <wil>tAlapralamva</wil> <mw>tAlapralamba</mw>
+<rule conf="LIKELY" class="ERROR">t/tt</rule> <c auth="SS" cclass="W">y</c> <wil>tAlISapatra</wil> <mw>tAlISapattra</mw>
+<rule conf="LIKELY" class="GRAMMAR">a/am</rule> <c auth="SS" cclass="_">y</c> <wil>tAvatkAla</wil> <mw>tAvatkAlam</mw>
+<rule conf="LIKELY" class="ERROR">t/tt</rule> <c auth="SS" cclass="W">y</c> <wil>tiktapatra</wil> <mw>tiktapattra</mw>
+<rule conf="LIKELY" class="ERROR">t/tt</rule> <c auth="SS" cclass="W">y</c> <wil>tIkzRapatra</wil> <mw>tIkzRapattra</mw>
+<rule conf="LIKELY" class="GRAMMAR">tA</rule> <c auth="SS" cclass="_">y</c> <wil>tuNgatA</wil> <mw>tuNga</mw>
+<rule conf="LIKELY" class="VARIANT">v/b</rule> <c auth="SS" cclass="_">y</c> <wil>tulAvIja</wil> <mw>tulAbIja</mw>
+<rule conf="LIKELY" class="VARIANT">v/b</rule> <c auth="SS" cclass="_">y</c> <wil>tuvarISimba</wil> <mw>tubarISimba</mw>
+<rule conf="LIKELY" class="VARIANT">v/b</rule> <c auth="SS" cclass="_">y</c> <wil>tUvara</wil> <mw>tUbara</mw>
+<rule conf="LIKELY" class="ERROR">t/tt</rule> <c auth="SS" cclass="W">y</c> <wil>tejapatra</wil> <mw>tejapattra</mw>
+<rule conf="LIKELY" class="ERROR">t/tt</rule> <c auth="SS" cclass="W">y</c> <wil>totra</wil> <mw>tottra</mw>
+<rule conf="LIKELY" class="ERROR">ra/f</rule> <c auth="PS" cclass="V">PMS: remapped. MW typically adds to the root the penultimate n found in its present stem</c> <wil>trad</wil> <mw>trand</mw>
+<rule conf="LIKELY" class="ERROR">ra/f</rule> <c auth="PS" cclass="N">SS: diff words. PMS: remapped, but also need to add since wilson has the masculine while MW has only the feminine.</c> <wil>trapa</wil> <mw>trapA</mw>
+<rule conf="LIKELY" class="ERROR">ra/f</rule> <c auth="PS" cclass="G">participle: ppp. remapped to root</c> <wil>trapita</wil> <mw>trap</mw>
+<rule conf="LIKELY" class="VARIANT">b/v</rule> <c auth="PS" cclass="W">SS: y. PMS: b/v Wilson is usually wrong when he has the same word that appears in compound with 'b' as a separate word with 'v'</c> <wil>tridaSabaDU</wil> <mw>tridaSavaDU</mw>
+<rule conf="LIKELY" class="VARIANT">v/b</rule> <c auth="SS" cclass="_">y</c> <wil>tripiva</wil> <mw>tripiba</mw>
+<rule conf="LIKELY" class="VARIANT">v/b</rule> <c auth="SS" cclass="_">y</c> <wil>truwivIja</wil> <mw>truwibIja</mw>
+<rule conf="LIKELY" class="ERROR">m/s</rule> <c auth="PS" cclass="_">SS: similar meaning. PMS: error as described m/s; note "E. tasi" which provides the affix 'tas' with a final 's' not 'm'</c> <wil err="scan">dakziRatam</wil> <mw>dakziRatas</mw>
+<rule conf="LIKELY" class="ERROR">Ca/Cu</rule> <c auth="PS" cclass="N">SS: can't say, MW meaning not clear. PMS: dugDikA is also in Wilson wiht the meaning given in MW, so dagDikA is a different word</c> <wil>dagDikA</wil> <mw>dugDikA</mw>
+<rule conf="LIKELY" class="GRAMMAR">tva</rule> <c auth="SS" cclass="_">y</c> <wil>daRqanIyatva</wil> <mw>daRqanIya</mw>
+<rule conf="LIKELY" class="ERROR">Ca/Cf</rule> <c auth="PS" cclass="G">SS: wrong mapping.'dadft' exists in Wil.can't say 'N' because dadat may exist in MW but can't be checked. PMS: participle: prap, remapped to root</c> <wil>dadat</wil> <mw>dA</mw>
+<rule conf="LIKELY" class="ERROR">t/tt</rule> <c auth="SS" cclass="W">y</c> <wil>dantapatra</wil> <mw>dantapattra</mw>
+<rule conf="LIKELY" class="ERROR">t/tt</rule> <c auth="SS" cclass="W">y</c> <wil>dantapatraka</wil> <mw>dantapattraka</mw>
+<rule conf="LIKELY" class="ERROR">VC/VrC</rule> <c auth="PS" cclass="N">SS: diff words,diff meanings. PMS: changed mapping.</c> <wil>daya</wil> <mw>dayA</mw>
+<rule conf="LIKELY" class="ERROR">Ca/Cu</rule> <c auth="SS" cclass="N">___</c> <wil>dayAla</wil> <mw>dayAlu</mw>
+<rule conf="LIKELY" class="ERROR">Ca/CU</rule> <c auth="PS" cclass="N">seem similar,both in order</c> <wil>darIBU</wil> <mw>dUrIBU</mw>
+<rule conf="LIKELY" class="ERROR">t/tt</rule> <c auth="SS" cclass="W">y</c> <wil>darBapatra</wil> <mw>darBapattra</mw>
+<rule conf="LIKELY" class="ERROR">s/m</rule> <c auth="SS" cclass="N">diff words,diff meanings,in order</c> <wil>dasana</wil> <mw>damana</mw>
+<rule conf="LIKELY" class="VARIANT">v/b</rule> <c auth="SS" cclass="_">y</c> <wil>dAravaliBuj</wil> <mw>dArabaliBuj</mw>
+<rule conf="LIKELY" class="ERROR">t/tt</rule> <c auth="SS" cclass="W">y</c> <wil>dArGasatra</wil> <mw>dArGasattra</mw>
+<rule conf="LIKELY" class="VARIANT">b/v</rule> <c auth="SS" cclass="_">y</c> <wil>dAlaba</wil> <mw>dAlava</mw>
+<rule conf="LIKELY" class="ERROR">CA/Co</rule> <c auth="PS" cclass="N">SS: diff words, diff meanings. PMS: participle: gerundive, remapped to root.</c> <wil>dAhya</wil> <mw>dah</mw>
+<rule conf="LIKELY" class="GRAMMAR">a/am</rule> <c auth="SS" cclass="_">y</c> <wil>divAniSa</wil> <mw>divAniSam</mw>
+<rule conf="LIKELY" class="GRAMMAR">a/am</rule> <c auth="SS" cclass="_">y</c> <wil>divArAtra</wil> <mw>divArAtram</mw>
+<rule conf="LIKELY" class="ERROR">t/tt</rule> <c auth="SS" cclass="W">y</c> <wil>dIrGapatra</wil> <mw>dIrGapattra</mw>
+<rule conf="LIKELY" class="ERROR">t/tt</rule> <c auth="SS" cclass="W">y</c> <wil>dIrGapatraka</wil> <mw>dIrGapattraka</mw>
+<rule conf="LIKELY" class="GRAMMAR">a/am</rule> <c auth="SS" cclass="_">y</c> <wil>dIrGarAtra</wil> <mw>dIrGarAtram</mw>
+<rule conf="LIKELY" class="VARIANT">cC/C</rule> <c auth="SS" cclass="_">y</c> <wil>dIrGavarcCikA</wil> <mw>dIrGavarCikA</mw>
+<rule conf="LIKELY" class="ERROR">t/tt</rule> <c auth="SS" cclass="W">y</c> <wil>dIrGasatra</wil> <mw>dIrGasattra</mw>
+<rule conf="LIKELY" class="ERROR">Ca/Cu</rule> <c auth="PS" cclass="N">SS: diff words, diff meanings. PMS: yes.</c> <wil>durhana</wil> <mw>durhanu</mw>
+<rule conf="LIKELY" class="VARIANT">v/b</rule> <c auth="SS" cclass="_">y</c> <wil>duzkftavahizkfta</wil> <mw>duzkftabahizkfta</mw>
+<rule conf="LIKELY" class="ERROR">t/tt</rule> <c auth="SS" cclass="W">y</c> <wil>duzpatra</wil> <mw>duzpattra</mw>
+<rule conf="LIKELY" class="ERROR">Ca/Cu</rule> <c auth="PS" cclass="N">SS: diff words, diff meanings. PMS: yes.</c> <wil>devapara</wil> <mw>devapura</mw>
+<rule conf="LIKELY" class="VARIANT">b/v</rule> <c auth="SS" cclass="_">y</c> <wil>devaballaBa</wil> <mw>devavallaBa</mw>
+<rule conf="LIKELY" class="VARIANT">v/b</rule> <c auth="SS" cclass="_">y</c> <wil>dyUtavIja</wil> <mw>dyUtabIja</mw>
+<rule conf="LIKELY" class="ERROR">Ca/Cu</rule> <c auth="SS" cclass="N">PMS: Wilson has druRa which matches the meaning of druRa in MW.</c> <wil>draRa</wil> <mw>druRa</mw>
+<rule conf="LIKELY" class="VARIANT">n/R</rule> <c auth="PS" cclass="W">Wilson factual error. Retroflexion required in same pada.</c> <wil>drAvana</wil> <mw>drAvaRa</mw>
+<rule conf="LIKELY" class="VARIANT">n/R</rule> <c auth="SS" cclass="_">y</c> <wil>drunaha</wil> <mw>druRaha</mw>
+<rule conf="LIKELY" class="ERROR">t/tt</rule> <c auth="SS" cclass="W">y</c> <wil>dvAdaSapatraka</wil> <mw>dvAdaSapattraka</mw>
+<rule conf="LIKELY" class="VARIANT">v/b</rule> <c auth="SS" cclass="_">y</c> <wil>nagarIvaka</wil> <mw>nagarIbaka</mw>
+<rule conf="LIKELY" class="ERROR">t/tt</rule> <c auth="SS" cclass="W">y</c> <wil>nawapatrikA</wil> <mw>nawapattrikA</mw>
+<rule conf="LIKELY" class="VARIANT">b/v</rule> <c auth="SS" cclass="W">SS: y. PMS: vaDU from vah not banD</c> <wil>navabaDU</wil> <mw>navavaDU</mw>
+<rule conf="LIKELY" class="ERROR">t/tt</rule> <c auth="SS" cclass="W">y</c> <wil>nAqipatra</wil> <mw>nAqipattra</mw>
+<rule conf="LIKELY" class="ERROR">t/tt</rule> <c auth="SS" cclass="W">y</c> <wil>niHsatva</wil> <mw>niHsattva</mw>
+<rule conf="LIKELY" class="VARIANT">n/R</rule> <c auth="PS" cclass="W">SS: y. PMS: Wilson factual error. Retroflexion required in same pada.</c> <wil>nidrAyamAna</wil> <mw>nidrAyamARa</mw>
+<rule conf="LIKELY" class="GRAMMAR">tA</rule> <c auth="SS" cclass="_">y</c> <wil>nirIhatA</wil> <mw>nirIha</mw>
+<rule conf="LIKELY" class="VARIANT">v/b</rule> <c auth="SS" cclass="_">y</c> <wil>nivarhita</wil> <mw>nibarhita</mw>
+<rule conf="LIKELY" class="ERROR">VC/VrC</rule> <c auth="PS" cclass="W">SS: y. Wilson factual error. But deliberate: He has nirviSeza too.</c> <wil>niviSeza</wil> <mw>nirviSeza</mw>
+<rule conf="LIKELY" class="VARIANT">n/R</rule> <c auth="PS" cclass="W">SS: y. PMS: Wilson factual error. Retroflexion required in same pada.</c> <wil>nizevana</wil> <mw>nizevaRa</mw>
+<rule conf="LIKELY" class="VARIANT">n/R</rule> <c auth="PS" cclass="W">SS: y. PMS: Wilson factual error. Retroflexion required in same pada.</c> <wil>nizevanIya</wil> <mw>nizevaRIya</mw>
+<rule conf="LIKELY" class="VARIANT">n/R</rule> <c auth="PS" cclass="W">SS: y. PMS: Wilson factual error. Retroflexion required in same pada.</c> <wil>nizkozana</wil> <mw>nizkozaRa</mw>
+<rule conf="LIKELY" class="ERROR">t/tt</rule> <c auth="SS" cclass="W">y</c> <wil>nizpatrAkfti</wil> <mw>nizpattrAkfti</mw>
+<rule conf="LIKELY" class="VARIANT">v/b</rule> <c auth="SS" cclass="_">y</c> <wil>nistAravIja</wil> <mw>nistArabIja</mw>
+<rule conf="LIKELY" class="ERROR">t/tt</rule> <c auth="SS" cclass="W">y</c> <wil>nIlapatra</wil> <mw>nIlapattra</mw>
+<rule conf="LIKELY" class="VARIANT">v/b</rule> <c auth="SS" cclass="_">y</c> <wil>nEviqya</wil> <mw>nEbiqya</mw>
+<rule conf="LIKELY" class="VARIANT">v/b</rule> <c auth="SS" cclass="_">y</c> <wil>pakzavindu</wil> <mw>pakzabindu</mw>
+<rule conf="LIKELY" class="VARIANT">n/R</rule> <c auth="SS" cclass="W">SS: y. PMS: Wilson factual error. Retroflexion required in same pada.</c> <wil>pakznu</wil> <mw>pakzRu</mw>
+<rule conf="LIKELY" class="GRAMMAR">a/am</rule> <c auth="PS" cclass="_">y SS: not clear from MW's scan data. PMS: clear from A. sutra reference.</c> <wil>pacatikalpa</wil> <mw>pacatikalpam</mw>
+<rule conf="LIKELY" class="ERROR">t/tt</rule> <c auth="SS" cclass="W">y</c> <wil>paYcatatva</wil> <mw>paYcatattva</mw>
+<rule conf="LIKELY" class="VARIANT">v/b</rule> <c auth="SS" cclass="_">y</c> <wil>paYcavARa</wil> <mw>paYcabARa</mw>
+<rule conf="LIKELY" class="ERROR">t/tt</rule> <c auth="SS" cclass="W">y</c> <wil>patra</wil> <mw>pattra</mw>
+<rule conf="LIKELY" class="ERROR">t/tt</rule> <c auth="SS" cclass="W">y</c> <wil>patraka</wil> <mw>pattraka</mw>
+<rule conf="LIKELY" class="ERROR">t/tt</rule> <c auth="SS" cclass="W">y</c> <wil>patrakAhalA</wil> <mw>pattrakAhalA</mw>
+<rule conf="LIKELY" class="ERROR">t/tt</rule> <c auth="SS" cclass="W">y</c> <wil>patrakfcCra</wil> <mw>pattrakfcCra</mw>
+<rule conf="LIKELY" class="ERROR">t/tt</rule> <c auth="SS" cclass="W">y</c> <wil>patragupta</wil> <mw>pattragupta</mw>
+<rule conf="LIKELY" class="ERROR">t/tt</rule> <c auth="SS" cclass="W">y</c> <wil>patraRA</wil> <mw>pattraRA</mw>
+<rule conf="LIKELY" class="ERROR">t/tt</rule> <c auth="SS" cclass="W">y</c> <wil>patrataRqulA</wil> <mw>pattrataRqulA</mw>
+<rule conf="LIKELY" class="ERROR">t/tt</rule> <c auth="SS" cclass="W">y</c> <wil>patrataru</wil> <mw>pattrataru</mw>
+<rule conf="LIKELY" class="ERROR">t/tt</rule> <c auth="SS" cclass="W">y</c> <wil>patradAraka</wil> <mw>pattradAraka</mw>
+<rule conf="LIKELY" class="ERROR">t/tt</rule> <c auth="SS" cclass="W">y</c> <wil>patranAqikA</wil> <mw>pattranAqikA</mw>
+<rule conf="LIKELY" class="ERROR">t/tt</rule> <c auth="SS" cclass="W">y</c> <wil>patraparaSu</wil> <mw>pattraparaSu</mw>
+<rule conf="LIKELY" class="ERROR">t/tt</rule> <c auth="SS" cclass="W">y</c> <wil>patrapAla</wil> <mw>pattrapAla</mw>
+<rule conf="LIKELY" class="ERROR">t/tt</rule> <c auth="SS" cclass="W">y</c> <wil>patrapASyA</wil> <mw>pattrapASyA</mw>
+<rule conf="LIKELY" class="ERROR">t/tt</rule> <c auth="SS" cclass="W">y</c> <wil>patrapiSAcikA</wil> <mw>pattrapiSAcikA</mw>
+<rule conf="LIKELY" class="ERROR">t/tt</rule> <c auth="SS" cclass="W">y</c> <wil>patrapuzpa</wil> <mw>pattrapuzpa</mw>
+<rule conf="LIKELY" class="ERROR">t/tt</rule> <c auth="SS" cclass="W">y</c> <wil>patrapuzpaka</wil> <mw>pattrapuzpaka</mw>
+<rule conf="LIKELY" class="ERROR">t/tt</rule> <c auth="SS" cclass="W">y</c> <wil>patrabanDa</wil> <mw>pattrabanDa</mw>
+<rule conf="LIKELY" class="ERROR">t/tt</rule> <c auth="SS" cclass="W">y</c> <wil>patrabAla</wil> <mw>pattrabAla</mw>
+<rule conf="LIKELY" class="ERROR">t/tt</rule> <c auth="SS" cclass="W">y</c> <wil>patraBaNga</wil> <mw>pattraBaNga</mw>
+<rule conf="LIKELY" class="ERROR">t/tt</rule> <c auth="SS" cclass="W">y</c> <wil>patrayOvana</wil> <mw>pattrayOvana</mw>
+<rule conf="LIKELY" class="ERROR">t/tt</rule> <c auth="SS" cclass="W">y</c> <wil>patraraYjana</wil> <mw>pattraraYjana</mw>
+<rule conf="LIKELY" class="ERROR">t/tt</rule> <c auth="SS" cclass="W">y</c> <wil>patraraTa</wil> <mw>pattraraTa</mw>
+<rule conf="LIKELY" class="ERROR">t/tt</rule> <c auth="SS" cclass="W">y</c> <wil>patrala</wil> <mw>pattrala</mw>
+<rule conf="LIKELY" class="ERROR">t/tt</rule> <c auth="SS" cclass="W">y</c> <wil>patraleKA</wil> <mw>pattraleKA</mw>
+<rule conf="LIKELY" class="ERROR">t/tt</rule> <c auth="SS" cclass="W">y</c> <wil>patravAha</wil> <mw>pattravAha</mw>
+<rule conf="LIKELY" class="ERROR">t/tt</rule> <c auth="SS" cclass="W">y</c> <wil>patraSrezWa</wil> <mw>pattraSrezWa</mw>
+<rule conf="LIKELY" class="ERROR">t/tt</rule> <c auth="SS" cclass="W">y</c> <wil>patrasaMskAra</wil> <mw>pattrasaMskAra</mw>
+<rule conf="LIKELY" class="ERROR">t/tt</rule> <c auth="SS" cclass="W">y</c> <wil>patrasUci</wil> <mw>pattrasUci</mw>
+<rule conf="LIKELY" class="ERROR">t/tt</rule> <c auth="SS" cclass="W">y</c> <wil>patrahima</wil> <mw>pattrahima</mw>
+<rule conf="LIKELY" class="ERROR">t/tt</rule> <c auth="SS" cclass="W">y</c> <wil>patrANga</wil> <mw>pattrANga</mw>
+<rule conf="LIKELY" class="ERROR">t/tt</rule> <c auth="SS" cclass="W">y</c> <wil>patrANguli</wil> <mw>pattrANguli</mw>
+<rule conf="LIKELY" class="ERROR">t/tt</rule> <c auth="SS" cclass="W">y</c> <wil>patrAYjana</wil> <mw>pattrAYjana</mw>
+<rule conf="LIKELY" class="ERROR">t/tt</rule> <c auth="SS" cclass="W">y</c> <wil>patrAQya</wil> <mw>pattrAQya</mw>
+<rule conf="LIKELY" class="ERROR">t/tt</rule> <c auth="SS" cclass="W">y</c> <wil>patrAlI</wil> <mw>pattrAlI</mw>
+<rule conf="LIKELY" class="ERROR">t/tt</rule> <c auth="SS" cclass="W">y</c> <wil>patrAvali</wil> <mw>pattrAvali</mw>
+<rule conf="LIKELY" class="ERROR">t/tt</rule> <c auth="SS" cclass="W">y</c> <wil>patrikA</wil> <mw>pattrikA</mw>
+<rule conf="LIKELY" class="ERROR">t/tt</rule> <c auth="SS" cclass="W">y</c> <wil>patrin</wil> <mw>pattrin</mw>
+<rule conf="LIKELY" class="ERROR">t/tt</rule> <c auth="SS" cclass="W">y</c> <wil>patropaskara</wil> <mw>pattropaskara</mw>
+<rule conf="LIKELY" class="ERROR">t/tt</rule> <c auth="SS" cclass="W">y</c> <wil>patrorRa</wil> <mw>pattrorRa</mw>
+<rule conf="LIKELY" class="ERROR">t/tt</rule> <c auth="SS" cclass="W">y</c> <wil>patrollAsa</wil> <mw>pattrollAsa</mw>
+<rule conf="LIKELY" class="VARIANT">v/b</rule> <c auth="SS" cclass="_">y</c> <wil>padmavIja</wil> <mw>padmabIja</mw>
+<rule conf="LIKELY" class="VARIANT">n/R</rule> <c auth="SS" cclass="_">y</c> <wil>parAhna</wil> <mw>parAhRa</mw>
+<rule conf="LIKELY" class="VARIANT">n/R</rule> <c auth="SS" cclass="_">y</c> <wil>parivApana</wil> <mw>parivApaRa</mw>
+<rule conf="LIKELY" class="VARIANT">v/b</rule> <c auth="SS" cclass="_">y</c> <wil>parivfMhaRa</wil> <mw>paribfMhaRa</mw>
+<rule conf="LIKELY" class="VARIANT">v/b</rule> <c auth="SS" cclass="_">y</c> <wil>parivfMhita</wil> <mw>paribfMhita</mw>
+<rule conf="LIKELY" class="ERROR">M/</rule> <c auth="PS" cclass="V">S/s</c> <wil>pAMSava</wil> <mw>pAMsava</mw>
+<rule conf="LIKELY" class="VARIANT">b/v</rule> <c auth="SS" cclass="_">y</c> <wil>pAnabaRij</wil> <mw>pAnavaRij</mw>
+<rule conf="LIKELY" class="ERROR">m/s</rule> <c auth="SS" cclass="N">both words, diff meanings, order right</c> <wil>pAramika</wil> <mw>pArasika</mw>
+<rule conf="LIKELY" class="VARIANT">cC/C</rule> <c auth="SS" cclass="_">y</c> <wil>picC</wil> <mw>piC</mw>
+<rule conf="LIKELY" class="VARIANT">v/b</rule> <c auth="SS" cclass="_">y</c> <wil>picCavARa</wil> <mw>picCabARa</mw>
+<rule conf="LIKELY" class="ERROR">q/w</rule> <c auth="PS" cclass="V">PMS: remapped MW adds penultimate nasal found in present stem to root.</c> <wil>piq</wil> <mw>piRq</mw>
+<rule conf="LIKELY" class="VARIANT">n/R</rule> <c auth="SS" cclass="_">y</c> <wil>piRqanirvapana</wil> <mw>piRqanirvapaRa</mw>
+<rule conf="LIKELY" class="VARIANT">v/b</rule> <c auth="SS" cclass="_">y</c> <wil>piRqavIja</wil> <mw>piRqabIja</mw>
+<rule conf="LIKELY" class="VARIANT">v/b</rule> <c auth="SS" cclass="_">y</c> <wil>piva</wil> <mw>piba</mw>
+<rule conf="LIKELY" class="VARIANT">b/v</rule> <c auth="SS" cclass="_">y</c> <wil>pItabAlukA</wil> <mw>pItavAlukA</mw>
+<rule conf="LIKELY" class="VARIANT">cC/C</rule> <c auth="SS" cclass="_">y</c> <wil>pucC</wil> <mw>puC</mw>
+<rule conf="LIKELY" class="VARIANT">v/b</rule> <c auth="SS" cclass="_">y</c> <wil>pUrRavIja</wil> <mw>pUrRabIja</mw>
+<rule conf="LIKELY" class="GRAMMAR">tva</rule> <c auth="SS" cclass="_">y</c> <wil>pozyatva</wil> <mw>pozya</mw>
+<rule conf="LIKELY" class="VARIANT">v/b</rule> <c auth="SS" cclass="_">y</c> <wil>prakzIvita</wil> <mw>prakzIbita</mw>
+<rule conf="LIKELY" class="VARIANT">cC/C</rule> <c auth="SS" cclass="_">y</c> <wil>pracC</wil> <mw>praC</mw>
+<rule conf="LIKELY" class="ERROR">s/m</rule> <c auth="PS" cclass="W">SS: diff meaning and in alpha order. PMS: changed mapping: S/s, though Wilson has both, the 's' is deprecated.</c> <wil>pratikAsa</wil> <mw>pratikASa</mw>
+<rule conf="LIKELY" class="GRAMMAR">a/am</rule> <c auth="SS" cclass="_">y</c> <wil>pratikzaRa</wil> <mw>pratikzaRam</mw>
+<rule conf="LIKELY" class="GRAMMAR">a/am</rule> <c auth="SS" cclass="_">y</c> <wil>pratitantra</wil> <mw>pratitantram</mw>
+<rule conf="LIKELY" class="GRAMMAR">a/am</rule> <c auth="SS" cclass="_">y</c> <wil>pratidina</wil> <mw>pratidinam</mw>
+<rule conf="LIKELY" class="GRAMMAR">a/am</rule> <c auth="SS" cclass="_">y</c> <wil>pratiniSa</wil> <mw>pratiniSam</mw>
+<rule conf="LIKELY" class="GRAMMAR">a/am</rule> <c auth="SS" cclass="_">y</c> <wil>prativAsara</wil> <mw>prativAsaram</mw>
+<rule conf="LIKELY" class="VARIANT">v/b</rule> <c auth="SS" cclass="_">y</c> <wil>prativimbAta</wil> <mw>pratibimbAta</mw>
+<rule conf="LIKELY" class="ERROR">VC/VrC</rule> <c auth="PS" cclass="V">SS: different words. PMS: revised mapping VC/V[NYRnmM]C</c> <wil>pratyac</wil> <mw>pratyaYc</mw>
+<rule conf="LIKELY" class="GRAMMAR">a/am</rule> <c auth="SS" cclass="_">y</c> <wil>pratyarTa</wil> <mw>pratyarTam</mw>
+<rule conf="LIKELY" class="VARIANT">b/v</rule> <c auth="SS" cclass="_">y</c> <wil>prabAlavat</wil> <mw>pravAlavat</mw>
+<rule conf="LIKELY" class="ERROR">m/s</rule> <c auth="SS" cclass="G">SS: could be N as word not in MW.Both words,different meansings and are in alpha order. PMS: participle: gerundive in -ya. remapped to MW preverb + root</c> <wil>pramAdya</wil> <mw>pramad</mw>
+<rule conf="LIKELY" class="VARIANT">v/b</rule> <c auth="SS" cclass="_">y</c> <wil>pravarha</wil> <mw>prabarha</mw>
+<rule conf="LIKELY" class="ERROR">t/tt</rule> <c auth="PS" cclass="V">y</c> <wil>praSatvan</wil> <mw>praSattvan</mw>
+<rule conf="LIKELY" class="ERROR">ra/f</rule> <c auth="PS" cclass="V">SS: not error. PMS: revised mapping: W strong stem / MW weak stem</c> <wil>prazWavAh</wil> <mw>pfzWavah</mw>
+<rule conf="LIKELY" class="ERROR">VC/VrC</rule> <c auth="PS" cclass="V">SS: different words. PMS: revised mapping VC/V[NYRnmM]C</c> <wil>prAc</wil> <mw>prAYc</mw>
+<rule conf="LIKELY" class="VARIANT">cC/C</rule> <c auth="PS" cclass="V">PMS: revised mapping L=140352</c> <wil>prAcC</wil> <mw>prAS</mw>
+<rule conf="LIKELY" class="VARIANT">n/R</rule> <c auth="SS" cclass="_">y</c> <wil>promBana</wil> <mw>promBaRa</mw>
+<rule conf="LIKELY" class="ERROR">t/tt</rule> <c auth="PS" cclass="V">y PMS: MW has it as alternate to -pattrikA, otherwise putrikA with single t is correct.</c> <wil>PaYjiputrikA</wil> <mw>PaYjiputtrikA</mw>
+<rule conf="LIKELY" class="ERROR">Ca/Cu</rule> <c auth="PS" cclass="N">SS: different words. PMS: yes, apparently different.</c> <wil>Pelaka</wil> <mw>Peluka</mw>
+<rule conf="LIKELY" class="VARIANT">v/b</rule> <c auth="SS" cclass="_">y</c> <wil>baqavA</wil> <mw>baqabA</mw>
+<rule conf="LIKELY" class="VARIANT">b/v</rule> <c auth="SS" cclass="_">y</c> <wil>baRa</wil> <mw>vaRa</mw>
+<rule conf="LIKELY" class="VARIANT">b/v</rule> <c auth="SS" cclass="_">y</c> <wil>baRikpaTa</wil> <mw>vaRikpaTa</mw>
+<rule conf="LIKELY" class="VARIANT">b/v</rule> <c auth="SS" cclass="_">y</c> <wil>baRigBAva</wil> <mw>vaRigBAva</mw>
+<rule conf="LIKELY" class="VARIANT">b/v</rule> <c auth="SS" cclass="_">y</c> <wil>baRigvaha</wil> <mw>vaRigvaha</mw>
+<rule conf="LIKELY" class="VARIANT">b/v</rule> <c auth="SS" cclass="_">y</c> <wil>baRijya</wil> <mw>vaRijya</mw>
+<rule conf="LIKELY" class="ERROR">t/tt</rule> <c auth="SS" cclass="W">y</c> <wil>badarIpatraka</wil> <mw>badarIpattraka</mw>
+<rule conf="LIKELY" class="VARIANT">b/v</rule> <c auth="PS" cclass="W">y</c> <wil>baDa</wil> <mw>vaDa</mw>
+<rule conf="LIKELY" class="VARIANT">b/v</rule> <c auth="PS" cclass="W">y</c> <wil>baDaka</wil> <mw>vaDaka</mw>
+<rule conf="LIKELY" class="VARIANT">b/v</rule> <c auth="PS" cclass="W">y</c> <wil>baDakAmyA</wil> <mw>vaDakAmyA</mw>
+<rule conf="LIKELY" class="VARIANT">b/v</rule> <c auth="PS" cclass="W">y</c> <wil>baDajIvin</wil> <mw>vaDajIvin</mw>
+<rule conf="LIKELY" class="VARIANT">b/v</rule> <c auth="PS" cclass="W">y</c> <wil>baDatra</wil> <mw>vaDatra</mw>
+<rule conf="LIKELY" class="VARIANT">b/v</rule> <c auth="PS" cclass="W">y</c> <wil>baDadaRqa</wil> <mw>vaDadaRqa</mw>
+<rule conf="LIKELY" class="VARIANT">b/v</rule> <c auth="PS" cclass="W">y</c> <wil>baDasTalI</wil> <mw>vaDasTalI</mw>
+<rule conf="LIKELY" class="VARIANT">b/v</rule> <c auth="PS" cclass="W">y</c> <wil>baDasTAna</wil> <mw>vaDasTAna</mw>
+<rule conf="LIKELY" class="VARIANT">b/v</rule> <c auth="PS" cclass="_">SS: unclear if same meaning. PMS: Neither W nor MW has the altnernate word as headword; W. takes baDa as killing, i.e. vaDa.</c> <wil>baDANgaka</wil> <mw>vaDANgaka</mw>
+<rule conf="LIKELY" class="VARIANT">b/v</rule> <c auth="PS" cclass="W">y</c> <wil>baDArha</wil> <mw>vaDArha</mw>
+<rule conf="LIKELY" class="VARIANT">b/v</rule> <c auth="PS" cclass="W">y</c> <wil>baDodarka</wil> <mw>vaDodarka</mw>
+<rule conf="LIKELY" class="VARIANT">b/v</rule> <c auth="PS" cclass="W">y</c> <wil>baDodyata</wil> <mw>vaDodyata</mw>
+<rule conf="LIKELY" class="VARIANT">b/v</rule> <c auth="PS" cclass="W">y</c> <wil>baDopAya</wil> <mw>vaDopAya</mw>
+<rule conf="LIKELY" class="VARIANT">b/v</rule> <c auth="PS" cclass="W">y</c> <wil>baDya</wil> <mw>vaDya</mw>
+<rule conf="LIKELY" class="VARIANT">b/v</rule> <c auth="PS" cclass="W">y</c> <wil>baDyatA</wil> <mw>vaDyatA</mw>
+<rule conf="LIKELY" class="VARIANT">b/v</rule> <c auth="PS" cclass="W">y</c> <wil>baDyaBUmi</wil> <mw>vaDyaBUmi</mw>
+<rule conf="LIKELY" class="VARIANT">b/v</rule> <c auth="PS" cclass="W">y</c> <wil>baDyasTAna</wil> <mw>vaDyasTAna</mw>
+<rule conf="LIKELY" class="VARIANT">b/v</rule> <c auth="SS" cclass="_">y</c> <wil>baDrya</wil> <mw>vaDrya</mw>
+<rule conf="LIKELY" class="VARIANT">b/v</rule> <c auth="PS" cclass="G">PMS: remapped. participle: absolutive of banD or vaD</c> <wil>baDvA</wil> <mw>vaD/banD</mw>
+<rule conf="LIKELY" class="VARIANT">b/v</rule> <c auth="SS" cclass="W">y</c> <wil>ban</wil> <mw>van</mw>
+<rule conf="LIKELY" class="VARIANT">b/v</rule> <c auth="SS" cclass="_">y</c> <wil>balAwa</wil> <mw>valAwa</mw>
+<rule conf="LIKELY" class="VARIANT">b/v</rule> <c auth="SS" cclass="_">y</c> <wil>balina</wil> <mw>valina</mw>
+<rule conf="LIKELY" class="VARIANT">b/v</rule> <c auth="SS" cclass="_">y</c> <wil>baliBa</wil> <mw>valiBa</mw>
+<rule conf="LIKELY" class="VARIANT">b/v</rule> <c auth="SS" cclass="_">y Wil definition may have an error. PMS: no error found.</c> <wil>balimuKa</wil> <mw>valimuKa</mw>
+<rule conf="LIKELY" class="VARIANT">b/v</rule> <c auth="SS" cclass="_">y</c> <wil>balImuKa</wil> <mw>valImuKa</mw>
+<rule conf="LIKELY" class="ERROR">t/tt</rule> <c auth="SS" cclass="W">y</c> <wil>bahupatra</wil> <mw>bahupattra</mw>
+<rule conf="LIKELY" class="VARIANT">b/v</rule> <c auth="PS" cclass="W">y</c> <wil>bA</wil> <mw>vA</mw>
+<rule conf="LIKELY" class="VARIANT">b/v</rule> <c auth="PS" cclass="_">y SS: cannot determine. PMS: yes</c> <wil>bAqava</wil> <mw>vAqava</mw>
+<rule conf="LIKELY" class="VARIANT">b/v</rule> <c auth="SS" cclass="_">y</c> <wil>bARijika</wil> <mw>vARijika</mw>
+<rule conf="LIKELY" class="VARIANT">b/v</rule> <c auth="SS" cclass="_">y</c> <wil>bARijya</wil> <mw>vARijya</mw>
+<rule conf="LIKELY" class="VARIANT">b/v</rule> <c auth="SS" cclass="_">y</c> <wil>bAlaDi</wil> <mw>vAlaDi</mw>
+<rule conf="LIKELY" class="ERROR">t/tt</rule> <c auth="SS" cclass="W">y</c> <wil>bAlapatra</wil> <mw>bAlapattra</mw>
+<rule conf="LIKELY" class="VARIANT">b/v</rule> <c auth="SS" cclass="_">y</c> <wil>bAlavAyaja</wil> <mw>vAlavAyaja</mw>
+<rule conf="LIKELY" class="VARIANT">b/v</rule> <c auth="SS" cclass="_">y</c> <wil>bAlavAsas</wil> <mw>vAlavAsas</mw>
+<rule conf="LIKELY" class="VARIANT">b/v</rule> <c auth="SS" cclass="_">y</c> <wil>bAlavyajana</wil> <mw>vAlavyajana</mw>
+<rule conf="LIKELY" class="VARIANT">b/v</rule> <c auth="SS" cclass="_">y</c> <wil>bAlahasta</wil> <mw>vAlahasta</mw>
+<rule conf="LIKELY" class="VARIANT">b/v</rule> <c auth="SS" cclass="_">y</c> <wil>bAlAkzI</wil> <mw>vAlAkzI</mw>
+<rule conf="LIKELY" class="VARIANT">b/v</rule> <c auth="SS" cclass="_">y</c> <wil>bAlisamBava</wil> <mw>vAlisamBava</mw>
+<rule conf="LIKELY" class="VARIANT">b/v</rule> <c auth="SS" cclass="_">y</c> <wil>bAlihantf</wil> <mw>vAlihantf</mw>
+<rule conf="LIKELY" class="VARIANT">b/v</rule> <c auth="SS" cclass="_">y</c> <wil>bAluka</wil> <mw>vAluka</mw>
+<rule conf="LIKELY" class="VARIANT">b/v</rule> <c auth="SS" cclass="_">y</c> <wil>bAlukAgaqa</wil> <mw>vAlukAgaqa</mw>
+<rule conf="LIKELY" class="VARIANT">b/v</rule> <c auth="SS" cclass="_">y</c> <wil>bAlukAtmikA</wil> <mw>vAlukAtmikA</mw>
+<rule conf="LIKELY" class="VARIANT">b/v</rule> <c auth="SS" cclass="_">y</c> <wil>bAlukApraBA</wil> <mw>vAlukApraBA</mw>
+<rule conf="LIKELY" class="VARIANT">b/v</rule> <c auth="SS" cclass="_">y</c> <wil>bAluNkI</wil> <mw>vAluNkI</mw>
+<rule conf="LIKELY" class="VARIANT">b/v</rule> <c auth="SS" cclass="_">y</c> <wil>bAlUka</wil> <mw>vAlUka</mw>
+<rule conf="LIKELY" class="VARIANT">b/v</rule> <c auth="SS" cclass="_">y</c> <wil>bfkka</wil> <mw>vfkka</mw>
+<rule conf="LIKELY" class="VARIANT">b/v</rule> <c auth="SS" cclass="_">y</c> <wil>bratati</wil> <mw>vratati</mw>
+<rule conf="LIKELY" class="VARIANT">v/b</rule> <c auth="SS" cclass="_">y</c> <wil>brahmavindu</wil> <mw>brahmabindu</mw>
+<rule conf="LIKELY" class="ERROR">t/tt</rule> <c auth="SS" cclass="W">y</c> <wil>brahmasatra</wil> <mw>brahmasattra</mw>
+<rule conf="LIKELY" class="ERROR">q/w</rule> <c auth="SS" cclass="G">PMS: revised mapping VC/V[NYRnmM]C</c> <wil>Baq</wil> <mw>BaRq</mw>
+<rule conf="LIKELY" class="ERROR">t/tt</rule> <c auth="SS" cclass="W">y</c> <wil>BadrAlapatrikA</wil> <mw>BadrAlapattrikA</mw>
+<rule conf="LIKELY" class="VARIANT">v/b</rule> <c auth="PS" cclass="W">y PMS: Wilson has anubanDa, not anuvanDa</c> <wil>BAgAnuvanDajAti</wil> <mw>BAgAnubanDajAti</mw>
+<rule conf="LIKELY" class="ERROR">CA/Co</rule> <c auth="SS" cclass="G">SS: different words,not in MW. PMS: MDhP class 10 root BAja not in MW who has BAjayati/te as causative of Baj.</c> <wil>BAja</wil> <mw>Baj</mw>
+<rule conf="LIKELY" class="VARIANT">cC/C</rule> <c auth="PS" cclass="_">y</c> <wil>BUcCAyA</wil> <mw>BUCAyA</mw>
+<rule conf="LIKELY" class="ERROR">Ca/Cu</rule> <c auth="PS" cclass="V">SS: cannot be sure. PMS: deliberate, also variant in PW.</c> <wil>makuzWaka</wil> <mw>mukuzWaka</mw>
+<rule conf="LIKELY" class="ERROR">Ca/Cu</rule> <c auth="PS" cclass="V">SS: cannot be sure. PMS: affix Ulac not in Astadhyayi; uRAdi?.</c> <wil>makkala</wil> <mw>makkula</mw>
+<rule conf="LIKELY" class="ERROR">m/s</rule> <c auth="PS" cclass="V">SS: different words. PMS: revised mapping VC/V[NYRnmM]C</c> <wil>mag</wil> <mw>maNg</mw>
+<rule conf="LIKELY" class="ERROR">m/s</rule> <c auth="PS" cclass="V">SS: different words. PMS: revised mapping VC/V[NYRnmM]C</c> <wil>maG</wil> <mw>maNG</mw>
+<rule conf="LIKELY" class="ERROR">Ca/Ce</rule> <c auth="PS" cclass="V">PMS: revised mapping VC/V[NYRnmM]C</c> <wil>maq</wil> <mw>maRq</mw>
+<rule conf="LIKELY" class="VARIANT">v/b</rule> <c auth="SS" cclass="_">y</c> <wil>maRivIja</wil> <mw>maRibIja</mw>
+<rule conf="LIKELY" class="ERROR">m/s</rule> <c auth="PS" cclass="V">SS: Q, wil scan word not found. PMS: new mapping necessary for Wilson root (r.) "/n"</c> <wil>matr</wil> <mw>mantr</mw>
+<rule conf="LIKELY" class="VARIANT">v/b</rule> <c auth="SS" cclass="_">y</c> <wil>maDuravIjapUra</wil> <mw>maDurabIjapUra</mw>
+<rule conf="LIKELY" class="VARIANT">v/b</rule> <c auth="SS" cclass="_">y</c> <wil>maDuvIja</wil> <mw>maDubIja</mw>
+<rule conf="LIKELY" class="ERROR">Ca/Cu</rule> <c auth="SS" cclass="N">unless aff determines otherwise. Also, MW has mfta not marata</c> <wil>marata</wil> <mw>*</mw>
+<rule conf="LIKELY" class="VARIANT">v/b</rule> <c auth="SS" cclass="_">y PMS: misalphabetized v between A and A.</c> <wil>mahadvila</wil> <mw>mahadbila</mw>
+<rule conf="LIKELY" class="VARIANT">v/b</rule> <c auth="SS" cclass="_">y</c> <wil>mahAvila</wil> <mw>mahAbila</mw>
+<rule conf="LIKELY" class="VARIANT">v/b</rule> <c auth="SS" cclass="_">y</c> <wil>mahAvIjya</wil> <mw>mahAbIjya</mw>
+<rule conf="LIKELY" class="VARIANT">v/b</rule> <c auth="PS" cclass="_">y SS: Q, probably N. PMS: Wilson has vfhat for MW bfhat</c> <wil>mahAvfhatI</wil> <mw>mahAbfhatI</mw>
+<rule conf="LIKELY" class="ERROR">t/tt</rule> <c auth="SS" cclass="W">y</c> <wil>mahAsatva</wil> <mw>mahAsattva</mw>
+<rule conf="LIKELY" class="ERROR">m/s</rule> <c auth="PS" cclass="V">SS: N, different words. PMS: remap root "/nasal[NYRnmM]"</c> <wil>mAkz</wil> <mw>mANkz</mw>
+<rule conf="LIKELY" class="GRAMMAR">a/am</rule> <c auth="SS" cclass="_">y</c> <wil>mAcira</wil> <mw>mAciram</mw>
+<rule conf="LIKELY" class="VARIANT">cC/C</rule> <c auth="SS" cclass="_">y</c> <wil>micC</wil> <mw>miC</mw>
+<rule conf="LIKELY" class="ERROR">m/s</rule> <c auth="PS" cclass="V">SS: N, different words, miv not in MW. PMS: root remapped to minv "/n"</c> <wil>miv</wil> <mw>minv</mw>
+<rule conf="LIKELY" class="VARIANT">n/R</rule> <c auth="PS" cclass="W">y SS: I think N is necessary because it is preceeded by r in the same pada but this is a compound, so am i right? PMS: A. 8.4.4 n of vana after several words including miSrakA is replaced by retroflex.</c> <wil>miSrakAvana</wil> <mw>miSrakAvaRa</mw>
+<rule conf="LIKELY" class="VARIANT">cC/C</rule> <c auth="SS" cclass="_">y</c> <wil>murcC</wil> <mw>murC</mw>
+<rule conf="LIKELY" class="ERROR">l/w</rule> <c auth="PS" cclass="V">PMS: remapped root.</c> <wil>mula</wil> <mw>mUl</mw>
+<rule conf="LIKELY" class="ERROR">l/w</rule> <c auth="PS" cclass="V">SS: Q, wrong mapping, valid word is in wil. PMS: remapped "S/s"</c> <wil>muSalI</wil> <mw>musalI</mw>
+<rule conf="LIKELY" class="VARIANT">cC/C</rule> <c auth="SS" cclass="_">y</c> <wil>mUrcCana</wil> <mw>mUrCana</mw>
+<rule conf="LIKELY" class="VARIANT">cC/C</rule> <c auth="SS" cclass="_">y</c> <wil>mUrcCA</wil> <mw>mUrCA</mw>
+<rule conf="LIKELY" class="VARIANT">cC/C</rule> <c auth="SS" cclass="_">y</c> <wil>mUrcCAla</wil> <mw>mUrCAla</mw>
+<rule conf="LIKELY" class="VARIANT">cC/C</rule> <c auth="SS" cclass="_">y</c> <wil>mUrcCAvat</wil> <mw>mUrCAvat</mw>
+<rule conf="LIKELY" class="VARIANT">cC/C</rule> <c auth="SS" cclass="_">y</c> <wil>mUrcCita</wil> <mw>mUrCita</mw>
+<rule conf="LIKELY" class="VARIANT">b/v</rule> <c auth="PS" cclass="W">y PMS: cf. 'baD' depracated throughout.</c> <wil>mfgabaDAjIva</wil> <mw>mfgavaDAjIva</mw>
+<rule conf="LIKELY" class="VARIANT">v/b</rule> <c auth="PS" cclass="_">y</c> <wil>mftyuvIja</wil> <mw>mftyubIja</mw>
+<rule conf="LIKELY" class="VARIANT">v/b</rule> <c auth="SS" cclass="_">y</c> <wil>mEtrIvala</wil> <mw>mEtrIbala</mw>
+<rule conf="LIKELY" class="ERROR">M/</rule> <c auth="PS" cclass="R">M/Y</c> <wil>mruMc</wil> <mw>mruYc</mw>
+<rule conf="LIKELY" class="ERROR">q/w</rule> <c auth="SS" cclass="V">MW lists both possibilities</c> <wil>mleq</wil> <mw>mlew</mw>
+<rule conf="LIKELY" class="GRAMMAR">a/am</rule> <c auth="SS" cclass="_">y</c> <wil>yaTAkalpa</wil> <mw>yaTAkalpam</mw>
+<rule conf="LIKELY" class="GRAMMAR">a/am</rule> <c auth="SS" cclass="_">y</c> <wil>yaTAvakASa</wil> <mw>yaTAvakASam</mw>
+<rule conf="LIKELY" class="GRAMMAR">a/am</rule> <c auth="SS" cclass="_">y</c> <wil>yaTAvasara</wil> <mw>yaTAvasaram</mw>
+<rule conf="LIKELY" class="VARIANT">n/R</rule> <c auth="SS" cclass="W">y</c> <wil>yiyakzamAna</wil> <mw>yiyakzamARa</mw>
+<rule conf="LIKELY" class="ERROR">t/tt</rule> <c auth="SS" cclass="W">y</c> <wil>yugapatra</wil> <mw>yugapattra</mw>
+<rule conf="LIKELY" class="ERROR">t/tt</rule> <c auth="SS" cclass="W">y</c> <wil>yugapatraka</wil> <mw>yugapattraka</mw>
+<rule conf="LIKELY" class="ERROR">t/tt</rule> <c auth="SS" cclass="W">y</c> <wil>yugmapatra</wil> <mw>yugmapattra</mw>
+<rule conf="LIKELY" class="ERROR">t/tt</rule> <c auth="SS" cclass="W">y</c> <wil>yugmapatrikA</wil> <mw>yugmapattrikA</mw>
+<rule conf="LIKELY" class="VARIANT">cC/C</rule> <c auth="SS" cclass="_">y but could be W depending on you</c> <wil>yucC</wil> <mw>yuC</mw>
+<rule conf="LIKELY" class="VARIANT">b/v</rule> <c auth="SS" cclass="_">y</c> <wil>raktabAluka</wil> <mw>raktavAluka</mw>
+<rule conf="LIKELY" class="ERROR">Ca/Ce</rule> <c auth="PS" cclass="N">SS: wrong mapping. both in alpha. Wil has both words. PMS: nominal derivate of root mapped.</c> <wil>racaka</wil> <mw>rac</mw>
+<rule conf="LIKELY" class="ERROR">Ca/Ce</rule> <c auth="PS" cclass="V">SS: seems to  be V. PMS: Root variant "/m"</c> <wil>rab</wil> <mw>ramb</mw>
+<rule conf="LIKELY" class="ERROR">Ca/Ce</rule> <c auth="PS" cclass="V">SS: MW scan says connection is doubtful. PMS: Root variant "/m, v/b"</c> <wil>rav</wil> <mw>ramb</mw>
+<rule conf="LIKELY" class="ERROR">ra/f</rule> <c auth="PS" cclass="G">SS: cannot determine. PMS: participle prap mapped to MW root</c> <wil>rahat</wil> <mw>rah</mw>
+<rule conf="LIKELY" class="VARIANT">v/b</rule> <c auth="SS" cclass="_">y</c> <wil>rAjavalA</wil> <mw>rAjabalA</mw>
+<rule conf="LIKELY" class="ERROR">Ca/Ce</rule> <c auth="PS" cclass="N">SS: Q, wil seems right. can't determine. PMS: deliberate, not a simple typo or scan error.</c> <wil>rAmakalI</wil> <mw>rAmakelI</mw>
+<rule conf="LIKELY" class="VARIANT">n/R</rule> <c auth="SS" cclass="W">PMS: Wilson factual error. Retroflexion required in same pada.</c> <wil>rugna</wil> <mw>rugRa</mw>
+<rule conf="LIKELY" class="VARIANT">n/R</rule> <c auth="SS" cclass="W">PMS: Wilson factual error. Retroflexion required in same pada.</c> <wil>rugnatA</wil> <mw>rugRatA</mw>
+<rule conf="LIKELY" class="ERROR">t/tt</rule> <c auth="SS" cclass="W">___</c> <wil>laGupatraka</wil> <mw>laGupattraka</mw>
+<rule conf="LIKELY" class="VARIANT">cC/C</rule> <c auth="SS" cclass="_">y</c> <wil>lacC</wil> <mw>laC</mw>
+<rule conf="LIKELY" class="ERROR">VC/VrC</rule> <c auth="PS" cclass="V">PMS: Root variant "/m"</c> <wil>lab</wil> <mw>lamb</mw>
+<rule conf="LIKELY" class="ERROR">l/w</rule> <c auth="PS" cclass="G">SS: diff words. PMS: participle prap mapped to root las1</c> <wil>lasat</wil> <mw>las</mw>
+<rule conf="LIKELY" class="ERROR">l/w</rule> <c auth="PS" cclass="N">SS: diff words. ifc. nominal derivate of root mapped</c> <wil>lu</wil> <mw>lU</mw>
+<rule conf="LIKELY" class="ERROR">t/tt</rule> <c auth="SS" cclass="W">y</c> <wil>leKyapatra</wil> <mw>leKyapattra</mw>
+<rule conf="LIKELY" class="ERROR">t/tt</rule> <c auth="SS" cclass="W">y</c> <wil>leKyapatraka</wil> <mw>leKyapattraka</mw>
+<rule conf="LIKELY" class="VARIANT">v/b</rule> <c auth="PS" cclass="V">y SS: N, diff words. PMS: variant</c> <wil>lokavAhya</wil> <mw>lokabAhya</mw>
+<rule conf="LIKELY" class="GRAMMAR">tA</rule> <c auth="SS" cclass="_">y</c> <wil>lOkikatA</wil> <mw>lOkika</mw>
+<rule conf="LIKELY" class="ERROR">t/tt</rule> <c auth="SS" cclass="W">y</c> <wil>vaMSapatraka</wil> <mw>vaMSapattraka</mw>
+<rule conf="LIKELY" class="ERROR">t/tt</rule> <c auth="SS" cclass="W">y</c> <wil>vaMSapatrapatita</wil> <mw>vaMSapattrapatita</mw>
+<rule conf="LIKELY" class="VARIANT">v/b</rule> <c auth="SS" cclass="_">y</c> <wil>vakaciYcikA</wil> <mw>bakaciYcikA</mw>
+<rule conf="LIKELY" class="VARIANT">v/b</rule> <c auth="SS" cclass="_">y</c> <wil>vakajit</wil> <mw>bakajit</mw>
+<rule conf="LIKELY" class="VARIANT">v/b</rule> <c auth="SS" cclass="_">y</c> <wil>vakaDUpa</wil> <mw>bakaDUpa</mw>
+<rule conf="LIKELY" class="VARIANT">v/b</rule> <c auth="SS" cclass="_">y</c> <wil>vakapuzpa</wil> <mw>bakapuzpa</mw>
+<rule conf="LIKELY" class="VARIANT">v/b</rule> <c auth="SS" cclass="_">y</c> <wil>vakAcI</wil> <mw>bakAcI</mw>
+<rule conf="LIKELY" class="VARIANT">v/b</rule> <c auth="SS" cclass="_">y</c> <wil>vakowa</wil> <mw>bakowa</mw>
+<rule conf="LIKELY" class="ERROR">Ca/Ce</rule> <c auth="SS" cclass="Q">MW seems to be wrong. PMS: corrected MW on-line.</c> <wil>vaktrAsava</wil> <mw>vaktrAsave</mw>
+<rule conf="LIKELY" class="VARIANT">b/v</rule> <c auth="SS" cclass="_">y</c> <wil>vakrabAlaDi</wil> <mw>vakravAlaDi</mw>
+<rule conf="LIKELY" class="ERROR">t/tt</rule> <c auth="SS" cclass="W">y</c> <wil>vawapatrA</wil> <mw>vawapattrA</mw>
+<rule conf="LIKELY" class="VARIANT">v/b</rule> <c auth="SS" cclass="_">y</c> <wil>vawuka</wil> <mw>bawuka</mw>
+<rule conf="LIKELY" class="VARIANT">v/b</rule> <c auth="SS" cclass="_">y</c> <wil>vawUkaraRa</wil> <mw>bawUkaraRa</mw>
+<rule conf="LIKELY" class="ERROR">q/w</rule> <c auth="PS" cclass="V">SS: roots of diff verbs, but meanings match. PMS: remapped root "/R"</c> <wil>vaq</wil> <mw>vaRq</mw>
+<rule conf="LIKELY" class="VARIANT">v/b</rule> <c auth="SS" cclass="_">y</c> <wil>vaRqa</wil> <mw>baRqa</mw>
+<rule conf="LIKELY" class="VARIANT">v/b</rule> <c auth="SS" cclass="_">y</c> <wil>vandigrAha</wil> <mw>bandigrAha</mw>
+<rule conf="LIKELY" class="VARIANT">v/b</rule> <c auth="SS" cclass="_">y</c> <wil>vandicOra</wil> <mw>bandicOra</mw>
+<rule conf="LIKELY" class="VARIANT">v/b</rule> <c auth="SS" cclass="_">y</c> <wil>vandipAWa</wil> <mw>bandipAWa</mw>
+<rule conf="LIKELY" class="VARIANT">v/b</rule> <c auth="SS" cclass="_">y</c> <wil>vandIkAra</wil> <mw>bandIkAra</mw>
+<rule conf="LIKELY" class="ERROR">Ca/CE</rule> <c auth="SS" cclass="N">___</c> <wil>varAdana</wil> <mw>vErAdana</mw>
+<rule conf="LIKELY" class="ERROR">t/tt</rule> <c auth="SS" cclass="W">y</c> <wil>varRapatra</wil> <mw>varRapattra</mw>
+<rule conf="LIKELY" class="VARIANT">b/v</rule> <c auth="SS" cclass="_">y</c> <wil>varRibaDa</wil> <mw>varRivaDa</mw>
+<rule conf="LIKELY" class="VARIANT">v/b</rule> <c auth="SS" cclass="_">y it is a variant but from different roots like vfh and bfh</c> <wil>varhaRa</wil> <mw>barhaRa</mw>
+<rule conf="LIKELY" class="VARIANT">v/b</rule> <c auth="SS" cclass="_">y</c> <wil>varhaBAra</wil> <mw>barhaBAra</mw>
+<rule conf="LIKELY" class="VARIANT">v/b</rule> <c auth="SS" cclass="_">y</c> <wil>varhiHSuzman</wil> <mw>barhiHSuzman</mw>
+<rule conf="LIKELY" class="VARIANT">v/b</rule> <c auth="SS" cclass="_">y</c> <wil>varhiHzWa</wil> <mw>barhiHzWa</mw>
+<rule conf="LIKELY" class="VARIANT">v/b</rule> <c auth="SS" cclass="_">y</c> <wil>varhikusuma</wil> <mw>barhikusuma</mw>
+<rule conf="LIKELY" class="VARIANT">v/b</rule> <c auth="SS" cclass="_">y</c> <wil>varhiRa</wil> <mw>barhiRa</mw>
+<rule conf="LIKELY" class="VARIANT">v/b</rule> <c auth="SS" cclass="_">y</c> <wil>varhin</wil> <mw>barhin</mw>
+<rule conf="LIKELY" class="VARIANT">v/b</rule> <c auth="SS" cclass="_">y</c> <wil>varhipuzpa</wil> <mw>barhipuzpa</mw>
+<rule conf="LIKELY" class="VARIANT">v/b</rule> <c auth="SS" cclass="_">y</c> <wil>varhirjyotis</wil> <mw>barhirjyotis</mw>
+<rule conf="LIKELY" class="VARIANT">v/b</rule> <c auth="SS" cclass="_">y</c> <wil>varhirmuKa</wil> <mw>barhirmuKa</mw>
+<rule conf="LIKELY" class="VARIANT">v/b</rule> <c auth="SS" cclass="_">y</c> <wil>varhizkeSa</wil> <mw>barhizkeSa</mw>
+<rule conf="LIKELY" class="VARIANT">v/b</rule> <c auth="SS" cclass="_">y SS: diff words diff meanings. PMS: neither MW or Wil has the other word, some senses are the same.</c> <wil>varhizWa</wil> <mw>barhizWa</mw>
+<rule conf="LIKELY" class="VARIANT">v/b</rule> <c auth="SS" cclass="_">y</c> <wil>varhizmat</wil> <mw>barhizmat</mw>
+<rule conf="LIKELY" class="VARIANT">v/b</rule> <c auth="SS" cclass="_">y</c> <wil>varhis</wil> <mw>barhis</mw>
+<rule conf="LIKELY" class="VARIANT">v/b</rule> <c auth="SS" cclass="_">y</c> <wil>valakzagu</wil> <mw>balakzagu</mw>
+<rule conf="LIKELY" class="VARIANT">v/b</rule> <c auth="SS" cclass="_">y</c> <wil>valAkA</wil> <mw>balAkA</mw>
+<rule conf="LIKELY" class="ERROR">t/tt</rule> <c auth="SS" cclass="W">y</c> <wil>valgupatra</wil> <mw>valgupattra</mw>
+<rule conf="LIKELY" class="VARIANT">v/b</rule> <c auth="SS" cclass="_">y</c> <wil>vazkayaRI</wil> <mw>bazkayaRI</mw>
+<rule conf="LIKELY" class="VARIANT">v/b</rule> <c auth="SS" cclass="_">y</c> <wil>vastamodA</wil> <mw>bastamodA</mw>
+<rule conf="LIKELY" class="VARIANT">v/b</rule> <c auth="SS" cclass="_">y</c> <wil>vastAntrI</wil> <mw>bastAntrI</mw>
+<rule conf="LIKELY" class="VARIANT">v/b</rule> <c auth="SS" cclass="_">y</c> <wil>vahalacakzus</wil> <mw>bahalacakzus</mw>
+<rule conf="LIKELY" class="VARIANT">v/b</rule> <c auth="SS" cclass="_">y</c> <wil>vahiHsTa</wil> <mw>bahiHsTa</mw>
+<rule conf="LIKELY" class="VARIANT">v/b</rule> <c auth="SS" cclass="_">y</c> <wil>vahiraNga</wil> <mw>bahiraNga</mw>
+<rule conf="LIKELY" class="VARIANT">v/b</rule> <c auth="SS" cclass="_">y</c> <wil>vahirindriya</wil> <mw>bahirindriya</mw>
+<rule conf="LIKELY" class="VARIANT">v/b</rule> <c auth="SS" cclass="_">y</c> <wil>vahirgata</wil> <mw>bahirgata</mw>
+<rule conf="LIKELY" class="VARIANT">v/b</rule> <c auth="SS" cclass="_">y</c> <wil>vahirgamana</wil> <mw>bahirgamana</mw>
+<rule conf="LIKELY" class="VARIANT">v/b</rule> <c auth="SS" cclass="_">y</c> <wil>vahirdeSa</wil> <mw>bahirdeSa</mw>
+<rule conf="LIKELY" class="VARIANT">v/b</rule> <c auth="SS" cclass="_">y</c> <wil>vahirBUta</wil> <mw>bahirBUta</mw>
+<rule conf="LIKELY" class="VARIANT">v/b</rule> <c auth="SS" cclass="_">y</c> <wil>vahirlamba</wil> <mw>bahirlamba</mw>
+<rule conf="LIKELY" class="VARIANT">v/b</rule> <c auth="SS" cclass="_">y</c> <wil>vahiScara</wil> <mw>bahiScara</mw>
+<rule conf="LIKELY" class="VARIANT">v/b</rule> <c auth="SS" cclass="_">y</c> <wil>vahizkaraRa</wil> <mw>bahizkaraRa</mw>
+<rule conf="LIKELY" class="VARIANT">v/b</rule> <c auth="SS" cclass="_">y</c> <wil>vahizkfta</wil> <mw>bahizkfta</mw>
+<rule conf="LIKELY" class="ERROR">t/tt</rule> <c auth="SS" cclass="W">y</c> <wil>vAcikapatra</wil> <mw>vAcikapattra</mw>
+<rule conf="LIKELY" class="VARIANT">v/b</rule> <c auth="SS" cclass="_">y</c> <wil>vARanikfta</wil> <mw>bARanikfta</mw>
+<rule conf="LIKELY" class="VARIANT">v/b</rule> <c auth="SS" cclass="_">y</c> <wil>vARapARi</wil> <mw>bARapARi</mw>
+<rule conf="LIKELY" class="VARIANT">v/b</rule> <c auth="SS" cclass="_">y</c> <wil>vARapura</wil> <mw>bARapura</mw>
+<rule conf="LIKELY" class="VARIANT">v/b</rule> <c auth="SS" cclass="_">y</c> <wil>vARahan</wil> <mw>bARahan</mw>
+<rule conf="LIKELY" class="VARIANT">v/b</rule> <c auth="SS" cclass="_">y</c> <wil>vARAri</wil> <mw>bARAri</mw>
+<rule conf="LIKELY" class="VARIANT">v/b</rule> <c auth="SS" cclass="_">y</c> <wil>vARASraya</wil> <mw>bARASraya</mw>
+<rule conf="LIKELY" class="VARIANT">v/b</rule> <c auth="SS" cclass="_">y</c> <wil>vARAsana</wil> <mw>bARAsana</mw>
+<rule conf="LIKELY" class="ERROR">Ca/Cu</rule> <c auth="SS" cclass="N">MW does not have vAtAya but Wil has both words</c> <wil>vAtAya</wil> <mw>vAtAyu</mw>
+<rule conf="LIKELY" class="VARIANT">v/b</rule> <c auth="SS" cclass="_">y</c> <wil>vAdarAyaRa</wil> <mw>bAdarAyaRa</mw>
+<rule conf="LIKELY" class="VARIANT">v/b</rule> <c auth="Ss" cclass="_">y SS: Q</c> <wil>vArhata</wil> <mw>bArhata</mw>
+<rule conf="LIKELY" class="VARIANT">v/b</rule> <c auth="SS" cclass="_">y</c> <wil>vArhadraTa</wil> <mw>bArhadraTa</mw>
+<rule conf="LIKELY" class="VARIANT">v/b</rule> <c auth="SS" cclass="_">y</c> <wil>vArhaspatya</wil> <mw>bArhaspatya</mw>
+<rule conf="LIKELY" class="VARIANT">v/b</rule> <c auth="SS" cclass="_">y</c> <wil>vAzpakA</wil> <mw>bAzpakA</mw>
+<rule conf="LIKELY" class="VARIANT">v/b</rule> <c auth="SS" cclass="_">y</c> <wil>vAzpAkula</wil> <mw>bAzpAkula</mw>
+<rule conf="LIKELY" class="VARIANT">v/b</rule> <c auth="SS" cclass="_">y</c> <wil>vAzpikA</wil> <mw>bAzpikA</mw>
+<rule conf="LIKELY" class="VARIANT">v/b</rule> <c auth="SS" cclass="_">y</c> <wil>vAhyatas</wil> <mw>bAhyatas</mw>
+<rule conf="LIKELY" class="VARIANT">v/b</rule> <c auth="SS" cclass="_">y</c> <wil>vAhlika</wil> <mw>bAhlika</mw>
+<rule conf="LIKELY" class="GRAMMAR">a/am</rule> <c auth="SS" cclass="_">y</c> <wil>vikzaRa</wil> <mw>vikzaRam</mw>
+<rule conf="LIKELY" class="VARIANT">cC/C</rule> <c auth="SS" cclass="_">y</c> <wil>vicC</wil> <mw>viC</mw>
+<rule conf="LIKELY" class="VARIANT">v/b</rule> <c auth="SS" cclass="_">y</c> <wil>viqAlapada</wil> <mw>biqAlapada</mw>
+<rule conf="LIKELY" class="VARIANT">v/b</rule> <c auth="SS" cclass="_">y</c> <wil>vinducitraka</wil> <mw>binducitraka</mw>
+<rule conf="LIKELY" class="VARIANT">v/b</rule> <c auth="SS" cclass="_">y</c> <wil>vindujAla</wil> <mw>bindujAla</mw>
+<rule conf="LIKELY" class="VARIANT">v/b</rule> <c auth="SS" cclass="_">y</c> <wil>vindutantra</wil> <mw>bindutantra</mw>
+<rule conf="LIKELY" class="VARIANT">v/b</rule> <c auth="SS" cclass="_">y</c> <wil>vindureKaka</wil> <mw>bindureKaka</mw>
+<rule conf="LIKELY" class="ERROR">t/tt</rule> <c auth="SS" cclass="W">y</c> <wil>vinDapatra</wil> <mw>vinDapattra</mw>
+<rule conf="LIKELY" class="GRAMMAR">tA</rule> <c auth="SS" cclass="_">y</c> <wil>viButA</wil> <mw>viBu</mw>
+<rule conf="LIKELY" class="VARIANT">v/b</rule> <c auth="SS" cclass="_">y</c> <wil>vimbaka</wil> <mw>bimbaka</mw>
+<rule conf="LIKELY" class="VARIANT">v/b</rule> <c auth="SS" cclass="_">y</c> <wil>vimbajA</wil> <mw>bimbajA</mw>
+<rule conf="LIKELY" class="VARIANT">v/b</rule> <c auth="SS" cclass="_">y</c> <wil>vimbawa</wil> <mw>bimbawa</mw>
+<rule conf="LIKELY" class="VARIANT">v/b</rule> <c auth="SS" cclass="_">y</c> <wil>vimbAgata</wil> <mw>bimbAgata</mw>
+<rule conf="LIKELY" class="VARIANT">v/b</rule> <c auth="SS" cclass="_">y</c> <wil>vimbita</wil> <mw>bimbita</mw>
+<rule conf="LIKELY" class="VARIANT">v/b</rule> <c auth="SS" cclass="_">y</c> <wil>vimbu</wil> <mw>bimbu</mw>
+<rule conf="LIKELY" class="ERROR">Ca/Ce</rule> <c auth="PS" cclass="G">SS: Wil has both words, wrong mapping. PMS: participle: absolutive, remapped to preverb + root</c> <wil>viracya</wil> <mw>virac</mw>
+<rule conf="LIKELY" class="VARIANT">n/R</rule> <c auth="PS" cclass="W">PMS: Wilson factual error. Retroflexion required in same pada.</c> <wil>virugna</wil> <mw>virugRa</mw>
+<rule conf="LIKELY" class="VARIANT">v/b</rule> <c auth="SS" cclass="_">y</c> <wil>vilaSaya</wil> <mw>bilaSaya</mw>
+<rule conf="LIKELY" class="VARIANT">v/b</rule> <c auth="SS" cclass="_">y</c> <wil>vileSaya</wil> <mw>bileSaya</mw>
+<rule conf="LIKELY" class="VARIANT">v/b</rule> <c auth="SS" cclass="_">y</c> <wil>vilOkas</wil> <mw>bilOkas</mw>
+<rule conf="LIKELY" class="GRAMMAR">tA</rule> <c auth="SS" cclass="_">y</c> <wil>viSvAsyatA</wil> <mw>viSvAsya</mw>
+<rule conf="LIKELY" class="VARIANT">v/b</rule> <c auth="SS" cclass="_">y</c> <wil>visa</wil> <mw>bisa</mw>
+<rule conf="LIKELY" class="VARIANT">v/b</rule> <c auth="SS" cclass="_">y</c> <wil>visakaRWikA</wil> <mw>bisakaRWikA</mw>
+<rule conf="LIKELY" class="VARIANT">v/b</rule> <c auth="SS" cclass="_">y</c> <wil>visaja</wil> <mw>bisaja</mw>
+<rule conf="LIKELY" class="VARIANT">v/b</rule> <c auth="SS" cclass="_">y</c> <wil>visapuzpa</wil> <mw>bisapuzpa</mw>
+<rule conf="LIKELY" class="VARIANT">v/b</rule> <c auth="SS" cclass="_">y</c> <wil>visaprasUna</wil> <mw>bisaprasUna</mw>
+<rule conf="LIKELY" class="VARIANT">v/b</rule> <c auth="SS" cclass="_">y</c> <wil>visala</wil> <mw>bisala</mw>
+<rule conf="LIKELY" class="VARIANT">v/b</rule> <c auth="SS" cclass="_">y</c> <wil>visinI</wil> <mw>bisinI</mw>
+<rule conf="LIKELY" class="VARIANT">v/b</rule> <c auth="PS" cclass="_">y</c> <wil>vIjaka</wil> <mw>bIjaka</mw>
+<rule conf="LIKELY" class="VARIANT">v/b</rule> <c auth="PS" cclass="_">y</c> <wil>vIjakoSa</wil> <mw>bIjakoSa</mw>
+<rule conf="LIKELY" class="VARIANT">v/b</rule> <c auth="PS" cclass="_">y</c> <wil>vIjagaRita</wil> <mw>bIjagaRita</mw>
+<rule conf="LIKELY" class="VARIANT">v/b</rule> <c auth="PS" cclass="_">y</c> <wil>vIjagupti</wil> <mw>bIjagupti</mw>
+<rule conf="LIKELY" class="VARIANT">v/b</rule> <c auth="PS" cclass="_">y</c> <wil>vIjatas</wil> <mw>bIjatas</mw>
+<rule conf="LIKELY" class="VARIANT">v/b</rule> <c auth="PS" cclass="_">y</c> <wil>vIjapuzpa</wil> <mw>bIjapuzpa</mw>
+<rule conf="LIKELY" class="VARIANT">v/b</rule> <c auth="PS" cclass="_">y</c> <wil>vIjapuzpikA</wil> <mw>bIjapuzpikA</mw>
+<rule conf="LIKELY" class="VARIANT">v/b</rule> <c auth="PS" cclass="_">y</c> <wil>vIjapUra</wil> <mw>bIjapUra</mw>
+<rule conf="LIKELY" class="VARIANT">v/b</rule> <c auth="PS" cclass="_">y</c> <wil>vIjapUrRa</wil> <mw>bIjapUrRa</mw>
+<rule conf="LIKELY" class="VARIANT">v/b</rule> <c auth="PS" cclass="_">y</c> <wil>vIjaprada</wil> <mw>bIjaprada</mw>
+<rule conf="LIKELY" class="VARIANT">v/b</rule> <c auth="PS" cclass="_">y</c> <wil>vIjapraroha</wil> <mw>bIjapraroha</mw>
+<rule conf="LIKELY" class="VARIANT">v/b</rule> <c auth="PS" cclass="_">y</c> <wil>vIjamAtfkA</wil> <mw>bIjamAtfkA</mw>
+<rule conf="LIKELY" class="VARIANT">v/b</rule> <c auth="PS" cclass="_">y</c> <wil>vIjaruha</wil> <mw>bIjaruha</mw>
+<rule conf="LIKELY" class="VARIANT">v/b</rule> <c auth="PS" cclass="_">y</c> <wil>vIjasU</wil> <mw>bIjasU</mw>
+<rule conf="LIKELY" class="VARIANT">v/b</rule> <c auth="PS" cclass="_">y</c> <wil>vIjA</wil> <mw>bIjA</mw>
+<rule conf="LIKELY" class="VARIANT">v/b</rule> <c auth="PS" cclass="_">y</c> <wil>vIjAkfta</wil> <mw>bIjAkfta</mw>
+<rule conf="LIKELY" class="VARIANT">v/b</rule> <c auth="PS" cclass="_">y</c> <wil>vIjin</wil> <mw>bIjin</mw>
+<rule conf="LIKELY" class="VARIANT">v/b</rule> <c auth="PS" cclass="_">y</c> <wil>vIjotkfzwa</wil> <mw>bIjotkfzwa</mw>
+<rule conf="LIKELY" class="VARIANT">v/b</rule> <c auth="PS" cclass="_">y</c> <wil>vIjodaka</wil> <mw>bIjodaka</mw>
+<rule conf="LIKELY" class="VARIANT">v/b</rule> <c auth="SS" cclass="_">y</c> <wil>vuw</wil> <mw>buw</mw>
+<rule conf="LIKELY" class="VARIANT">v/b</rule> <c auth="SS" cclass="Q">SS: probably diff words. PMS: vuDa eliminated by root fix (deletion of final 'a'.  Wilson root vuD not found in MW; different from buD.</c> <wil>vuDa</wil> <mw>buDa</mw>
+<rule conf="LIKELY" class="VARIANT">v/b</rule> <c auth="SS" cclass="Q">SS E: busa in MW and Wil. PMS: complex, corrected in on-line form</c> <wil>vusa</wil> <mw>busa</mw>
+<rule conf="LIKELY" class="VARIANT">v/b</rule> <c auth="PS" cclass="N">SS: Q: these meanings are confusing</c> <wil>vUza</wil> <mw>bUza</mw>
+<rule conf="LIKELY" class="VARIANT">v/b</rule> <c auth="SS" cclass="_">y</c> <wil>vfMhaRa</wil> <mw>bfMhaRa</mw>
+<rule conf="LIKELY" class="VARIANT">v/b</rule> <c auth="SS" cclass="_">y</c> <wil>vfMhaRIya</wil> <mw>bfMhaRIya</mw>
+<rule conf="LIKELY" class="VARIANT">v/b</rule> <c auth="SS" cclass="_">y</c> <wil>vfMhita</wil> <mw>bfMhita</mw>
+<rule conf="LIKELY" class="ERROR">t/tt</rule> <c auth="PS" cclass="W">___</c> <wil>vfdDipatra</wil> <mw>vfdDipattra</mw>
+<rule conf="LIKELY" class="VARIANT">v/b</rule> <c auth="PS" cclass="_">y</c> <wil>vfhaccitta</wil> <mw>bfhaccitta</mw>
+<rule conf="LIKELY" class="VARIANT">v/b</rule> <c auth="PS" cclass="_">y</c> <wil>vfhacCarIra</wil> <mw>bfhacCarIra</mw>
+<rule conf="LIKELY" class="VARIANT">v/b</rule> <c auth="PS" cclass="_">y</c> <wil>vfhacCalka</wil> <mw>bfhacCalka</mw>
+<rule conf="LIKELY" class="VARIANT">v/b</rule> <c auth="PS" cclass="_">y</c> <wil>vfhajjana</wil> <mw>bfhajjana</mw>
+<rule conf="LIKELY" class="VARIANT">v/b</rule> <c auth="PS" cclass="_">y</c> <wil>vfhatikA</wil> <mw>bfhatikA</mw>
+<rule conf="LIKELY" class="VARIANT">v/b</rule> <c auth="PS" cclass="_">y</c> <wil>vfhatka</wil> <mw>bfhatka</mw>
+<rule conf="LIKELY" class="VARIANT">v/b</rule> <c auth="PS" cclass="_">y</c> <wil>vfhatkanda</wil> <mw>bfhatkanda</mw>
+<rule conf="LIKELY" class="VARIANT">v/b</rule> <c auth="PS" cclass="_">y</c> <wil>vfhatkAya</wil> <mw>bfhatkAya</mw>
+<rule conf="LIKELY" class="VARIANT">v/b</rule> <c auth="PS" cclass="_">y</c> <wil>vfhatkAlaSAka</wil> <mw>bfhatkAlaSAka</mw>
+<rule conf="LIKELY" class="VARIANT">v/b</rule> <c auth="PS" cclass="_">y</c> <wil>vfhatkASa</wil> <mw>bfhatkASa</mw>
+<rule conf="LIKELY" class="VARIANT">v/b</rule> <c auth="PS" cclass="_">y</c> <wil>vfhatkukzi</wil> <mw>bfhatkukzi</mw>
+<rule conf="LIKELY" class="VARIANT">v/b</rule> <c auth="PS" cclass="_">y</c> <wil>vfhattfRa</wil> <mw>bfhattfRa</mw>
+<rule conf="LIKELY" class="VARIANT">v/b</rule> <c auth="PS" cclass="_">y</c> <wil>vfhatpAwali</wil> <mw>bfhatpAwali</mw>
+<rule conf="LIKELY" class="VARIANT">v/b</rule> <c auth="PS" cclass="_">y</c> <wil>vfhatpAda</wil> <mw>bfhatpAda</mw>
+<rule conf="LIKELY" class="VARIANT">v/b</rule> <c auth="PS" cclass="_">y</c> <wil>vfhatpuzpa</wil> <mw>bfhatpuzpa</mw>
+<rule conf="LIKELY" class="VARIANT">v/b</rule> <c auth="PS" cclass="_">y</c> <wil>vfhadaNga</wil> <mw>bfhadaNga</mw>
+<rule conf="LIKELY" class="VARIANT">v/b</rule> <c auth="PS" cclass="_">y</c> <wil>vfhadamla</wil> <mw>bfhadamla</mw>
+<rule conf="LIKELY" class="VARIANT">v/b</rule> <c auth="PS" cclass="_">y</c> <wil>vfhadguha</wil> <mw>bfhadguha</mw>
+<rule conf="LIKELY" class="VARIANT">v/b</rule> <c auth="PS" cclass="_">y</c> <wil>vfhadgola</wil> <mw>bfhadgola</mw>
+<rule conf="LIKELY" class="VARIANT">v/b</rule> <c auth="PS" cclass="_">y</c> <wil>vfhadDala</wil> <mw>bfhadDala</mw>
+<rule conf="LIKELY" class="VARIANT">v/b</rule> <c auth="PS" cclass="_">y</c> <wil>vfhadBAnu</wil> <mw>bfhadBAnu</mw>
+<rule conf="LIKELY" class="VARIANT">v/b</rule> <c auth="PS" cclass="_">y</c> <wil>vfhadraTa</wil> <mw>bfhadraTa</mw>
+<rule conf="LIKELY" class="VARIANT">v/b</rule> <c auth="PS" cclass="_">y</c> <wil>vfhadvIja</wil> <mw>bfhadbIja</mw>
+<rule conf="LIKELY" class="VARIANT">v/b</rule> <c auth="PS" cclass="_">y</c> <wil>vfhannala</wil> <mw>bfhannala</mw>
+<rule conf="LIKELY" class="VARIANT">v/b</rule> <c auth="PS" cclass="_">y</c> <wil>vfhaspati</wil> <mw>bfhaspati</mw>
+<rule conf="LIKELY" class="VARIANT">v/b</rule> <c auth="PS" cclass="_">y</c> <wil>vfhaspaticakra</wil> <mw>bfhaspaticakra</mw>
+<rule conf="LIKELY" class="ERROR">t/tt</rule> <c auth="PS" cclass="W">y</c> <wil>veRupatrI</wil> <mw>veRupattrI</mw>
+<rule conf="LIKELY" class="ERROR">t/tt</rule> <c auth="PS" cclass="W">y</c> <wil>vetasapatra</wil> <mw>vetasapattra</mw>
+<rule conf="LIKELY" class="ERROR">Ca/Cf</rule> <c auth="PS" cclass="G">participle: ppp of causative of root 'vid'1.</c> <wil>vedita</wil> <mw>vid</mw>
+<rule conf="LIKELY" class="VARIANT">n/R</rule> <c auth="PS" cclass="W">PMS: Wilson factual error. Retroflexion required in same pada.</c> <wil>vEsArina</wil> <mw>vEsAriRa</mw>
+<rule conf="LIKELY" class="ERROR">Ca/Cf</rule> <c auth="PS" cclass="G">participle: ppp of root plus preverbs 'vi A KyA' </c> <wil>vyAKyAta</wil> <mw>vyAKyA</mw>
+<rule conf="LIKELY" class="VARIANT">v/b</rule> <c auth="PS" cclass="_">y MW 'byus' points to 'vyuz' which has several alternates including vyus</c> <wil>vyus</wil> <mw>byus</mw>
+<rule conf="LIKELY" class="GRAMMAR">tA</rule> <c auth="PS" cclass="_">y</c> <wil>SaktatA</wil> <mw>Sakta</mw>
+<rule conf="LIKELY" class="ERROR">q/w</rule> <c auth="PS" cclass="_">MW root with penultimate nasal: q/Rq</c> <wil>Saq</wil> <mw>SaRq</mw>
+<rule conf="LIKELY" class="GRAMMAR">tA</rule> <c auth="PS" cclass="_">y</c> <wil>SaRqatA</wil> <mw>SaRqa</mw>
+<rule conf="LIKELY" class="ERROR">t/tt</rule> <c auth="PS" cclass="W">y</c> <wil>Satapatra</wil> <mw>Satapattra</mw>
+<rule conf="LIKELY" class="ERROR">t/tt</rule> <c auth="PS" cclass="W">y</c> <wil>Satapatraka</wil> <mw>Satapattraka</mw>
+<rule conf="LIKELY" class="ERROR">t/tt</rule> <c auth="PS" cclass="W">___</c> <wil>SamIpatrI</wil> <mw>SamIpattrI</mw>
+<rule conf="LIKELY" class="GRAMMAR">tA</rule> <c auth="PS" cclass="_">y</c> <wil>SaralatA</wil> <mw>Sarala</mw>
+<rule conf="LIKELY" class="VARIANT">v/b</rule> <c auth="PS" cclass="_">y</c> <wil>SavarAla</wil> <mw>SabarAla</mw>
+<rule conf="LIKELY" class="VARIANT">v/b</rule> <c auth="PS" cclass="_">y</c> <wil>SavarAlaya</wil> <mw>SabarAlaya</mw>
+<rule conf="LIKELY" class="VARIANT">v/b</rule> <c auth="PS" cclass="_">y</c> <wil>Savala</wil> <mw>Sabala</mw>
+<rule conf="LIKELY" class="VARIANT">v/b</rule> <c auth="PS" cclass="_">y</c> <wil>SavalatA</wil> <mw>SabalatA</mw>
+<rule conf="LIKELY" class="VARIANT">v/b</rule> <c auth="PS" cclass="_">y</c> <wil>SavalIkfta</wil> <mw>SabalIkfta</mw>
+<rule conf="LIKELY" class="VARIANT">v/b</rule> <c auth="PS" cclass="_">y</c> <wil>SAkavAleya</wil> <mw>SAkabAleya</mw>
+<rule conf="LIKELY" class="VARIANT">v/b</rule> <c auth="PS" cclass="_">y</c> <wil>SAqvala</wil> <mw>SAqbala</mw>
+<rule conf="LIKELY" class="ERROR">t/tt</rule> <c auth="PS" cclass="W">y</c> <wil>SAtapatrakI</wil> <mw>SAtapattrakI</mw>
+<rule conf="LIKELY" class="GRAMMAR">tva</rule> <c auth="PS" cclass="V">Class 10 Root. Wilson does not recognize final 'a' as a marker.</c> <wil>SAntva</wil> <mw>SAntv</mw>
+<rule conf="LIKELY" class="VARIANT">v/b</rule> <c auth="PS" cclass="_">y</c> <wil>SAvaraBedAKya</wil> <mw>SAbaraBedAKya</mw>
+<rule conf="LIKELY" class="ERROR">t/tt</rule> <c auth="PS" cclass="W">y</c> <wil>SAsanapatra</wil> <mw>SAsanapattra</mw>
+<rule conf="LIKELY" class="VARIANT">v/b</rule> <c auth="PS" cclass="_">y</c> <wil>SigruvIja</wil> <mw>SigrubIja</mw>
+<rule conf="LIKELY" class="GRAMMAR">tA</rule> <c auth="PS" cclass="_">y</c> <wil>SitatA</wil> <mw>Sita</mw>
+<rule conf="LIKELY" class="ERROR">CA/Co</rule> <c auth="PS" cclass="N">Wilson also has 'Sirovftta'</c> <wil>SirAvftta</wil> <mw>Sirovftta</mw>
+<rule conf="LIKELY" class="VARIANT">v/b</rule> <c auth="PS" cclass="_">y</c> <wil>SivikA</wil> <mw>SibikA</mw>
+<rule conf="LIKELY" class="ERROR">t/tt</rule> <c auth="PS" cclass="W">y</c> <wil>SIrRapatra</wil> <mw>SIrRapattra</mw>
+<rule conf="LIKELY" class="VARIANT">v/b</rule> <c auth="PS" cclass="_">y</c> <wil>Sukavarha</wil> <mw>Sukabarha</mw>
+<rule conf="LIKELY" class="VARIANT">b/v</rule> <c auth="PS" cclass="_">y</c> <wil>SuktibaDU</wil> <mw>SuktivaDU</mw>
+<rule conf="LIKELY" class="VARIANT">v/b</rule> <c auth="PS" cclass="_">y</c> <wil>SuktivIja</wil> <mw>SuktibIja</mw>
+<rule conf="LIKELY" class="VARIANT">v/b</rule> <c auth="PS" cclass="_">y</c> <wil>SulvAri</wil> <mw>SulbAri</mw>
+<rule conf="LIKELY" class="VARIANT">v/b</rule> <c auth="PS" cclass="_">y</c> <wil>SElaSivira</wil> <mw>SElaSibira</mw>
+<rule conf="LIKELY" class="VARIANT">cC/C</rule> <c auth="PS" cclass="_">y</c> <wil>SokamUrcCita</wil> <mw>SokamUrCita</mw>
+<rule conf="LIKELY" class="VARIANT">v/b</rule> <c auth="PS" cclass="_">y</c> <wil>SOlvika</wil> <mw>SOlbika</mw>
+<rule conf="LIKELY" class="ERROR">Ca/Ce</rule> <c auth="PS" cclass="V">root remapped; MW has penultimate nasal : k/Nk </c> <wil>Srak</wil> <mw>SraNk</mw>
+<rule conf="LIKELY" class="ERROR">t/tt</rule> <c auth="PS" cclass="W">y</c> <wil>Svetapatra</wil> <mw>Svetapattra</mw>
+<rule conf="LIKELY" class="ERROR">t/tt</rule> <c auth="PS" cclass="W">y</c> <wil>SvetapatraraTa</wil> <mw>SvetapattraraTa</mw>
+<rule conf="LIKELY" class="VARIANT">v/b</rule> <c auth="PS" cclass="_">y</c> <wil>zaqvindu</wil> <mw>zaqbindu</mw>
+<rule conf="LIKELY" class="ERROR">t/tt</rule> <c auth="PS" cclass="W">y</c> <wil>satpatra</wil> <mw>satpattra</mw>
+<rule conf="LIKELY" class="ERROR">t/tt</rule> <c auth="PS" cclass="W">y</c> <wil>satva</wil> <mw>sattva</mw>
+<rule conf="LIKELY" class="VARIANT">b/v</rule> <c auth="PS" cclass="_">y</c> <wil>sabaDUka</wil> <mw>savaDUka</mw>
+<rule conf="LIKELY" class="GRAMMAR">a/am</rule> <c auth="PS" cclass="G">participle: ppp remaped to MW root plus preverbs sam A nI [L=234378]</c> <wil>samAnita</wil> <mw>samAnI</mw>
+<rule conf="LIKELY" class="GRAMMAR">a/am</rule> <c auth="PS" cclass="_">y</c> <wil>samUlaGAta</wil> <mw>samUlaGAtam</mw>
+<rule conf="LIKELY" class="VARIANT">cC/C</rule> <c auth="PS" cclass="_">y</c> <wil>sammUrcCana</wil> <mw>sammUrCana</mw>
+<rule conf="LIKELY" class="VARIANT">cC/C</rule> <c auth="PS" cclass="_">y</c> <wil>sammUrcCanodBava</wil> <mw>sammUrCanodBava</mw>
+<rule conf="LIKELY" class="ERROR">s/m</rule> <c auth="PS" cclass="Q">salara not found on Wilson p. 912; Etymology says 'sa' + 'lara' but the latter doesn't exist.  No likely match for any such word meaning spreading or covering in MW advanced search English beginning with 'sa'</c> <wil>salara</wil> <mw>*</mw>
+<rule conf="LIKELY" class="ERROR">t/tt</rule> <c auth="PS" cclass="W">y</c> <wil>sasatvA</wil> <mw>sasattvA</mw>
+<rule conf="LIKELY" class="ERROR">Ca/Ce</rule> <c auth="PS" cclass="N">Remapped to best MW entry</c> <wil>sasana</wil> <mw>sasa</mw>
+<rule conf="LIKELY" class="ERROR">t/tt</rule> <c auth="PS" cclass="W">y</c> <wil>sahasrapatra</wil> <mw>sahasrapattra</mw>
+<rule conf="LIKELY" class="VARIANT">v/b</rule> <c auth="PS" cclass="_">y</c> <wil>sahovala</wil> <mw>sahobala</mw>
+<rule conf="LIKELY" class="ERROR">Ca/Cu</rule> <c auth="PS" cclass="_">MW error/Wilson correct; correction report submitted on-line</c> <wil>sADiyajYa</wil> <mw>sADiyujYa</mw>
+<rule conf="LIKELY" class="GRAMMAR">tva</rule> <c auth="PS" cclass="Q">MW 1201c has both sADutA and sADutva</c> <wil>sADutva</wil> <mw>sADu</mw>
+<rule conf="LIKELY" class="ERROR">m/s</rule> <c auth="PS" cclass="N">Wilson has derivate absent in MW (237500--237504)</c> <wil>sArameya</wil> <mw>saramA</mw>
+<rule conf="LIKELY" class="ERROR">s/m</rule> <c auth="PS" cclass="V">changed mapping; Wilson has both</c> <wil>sAleya</wil> <mw>SAleya</mw>
+<rule conf="LIKELY" class="ERROR">t/tt</rule> <c auth="PS" cclass="W">y</c> <wil>sIsapatraka</wil> <mw>sIsapattraka</mw>
+<rule conf="LIKELY" class="GRAMMAR">a/am</rule> <c auth="PS" cclass="_">y</c> <wil>suniBfta</wil> <mw>suniBftam</mw>
+<rule conf="LIKELY" class="ERROR">Ca/Cu</rule> <c auth="PS" cclass="V">cf. suraNga/suruNga</c> <wil>suraNgayuj</wil> <mw>suruNgayuj</mw>
+<rule conf="LIKELY" class="ERROR">s/m</rule> <c auth="PS" cclass="N">Wilson has both, murandalA same mng. in both; surandalA may or may not be the same river.</c> <wil>surandalA</wil> <mw>murandalA</mw>
+<rule conf="LIKELY" class="VARIANT">v/b</rule> <c auth="PS" cclass="_">y</c> <wil>suraBivARa</wil> <mw>suraBibARa</mw>
+<rule conf="LIKELY" class="VARIANT">v/b</rule> <c auth="PS" cclass="_">y Wilson has both 'vala' and 'bala', but 'vala' refers to 'bala' which is more extensive</c> <wil>suhfdvala</wil> <mw>suhfdbala</mw>
+<rule conf="LIKELY" class="ERROR">VC/VrC</rule> <c auth="PS" cclass="V">Wilson has both. MDhv has the root zUrkz (sUrkz) but not zUkz (sUkz)</c> <wil>sUkzaRa</wil> <mw>sUrkzaRa</mw>
+<rule conf="LIKELY" class="ERROR">t/tt</rule> <c auth="PS" cclass="W">y</c> <wil>somapatra</wil> <mw>somapattra</mw>
+<rule conf="LIKELY" class="VARIANT">v/b</rule> <c auth="PS" cclass="_">y</c> <wil>stavakAcita</wil> <mw>stabakAcita</mw>
+<rule conf="LIKELY" class="VARIANT">v/b</rule> <c auth="PS" cclass="_">y</c> <wil>sTAlIvila</wil> <mw>sTAlIbila</mw>
+<rule conf="LIKELY" class="VARIANT">v/b</rule> <c auth="PS" cclass="_">y</c> <wil>sTAlIvilIya</wil> <mw>sTAlIbilIya</mw>
+<rule conf="LIKELY" class="ERROR">t/tt</rule> <c auth="PS" cclass="W">y</c> <wil>sTirapatra</wil> <mw>sTirapattra</mw>
+<rule conf="LIKELY" class="ERROR">t/tt</rule> <c auth="PS" cclass="W">y</c> <wil>snigDapatra</wil> <mw>snigDapattra</mw>
+<rule conf="LIKELY" class="VARIANT">n/R</rule> <c auth="PS" cclass="W">PMS: Wilson factual error. Retroflexion required in same pada.</c> <wil>spfhanIya</wil> <mw>spfhaRIya</mw>
+<rule conf="LIKELY" class="ERROR">q/w</rule> <c auth="PS" cclass="V">q/Rq penultimate in root.  Changed mapping to MW root with penultimate nasal.</c> <wil>sPaq</wil> <mw>sPaRq</mw>
+<rule conf="LIKELY" class="VARIANT">cC/C</rule> <c auth="PS" cclass="_">y</c> <wil>sPurcC</wil> <mw>sPurC</mw>
+<rule conf="LIKELY" class="VARIANT">b/v</rule> <c auth="PS" cclass="_">'svf' means something else.  MW has 'sbF' which points to 'svF' which points v.l. to 'sF'/'SF'.  Only 'svf' and 'SF' in in MDhp. the latter of which has the corresponding meaning.</c> <wil>sbf</wil> <mw>sbF</mw>
+<rule conf="LIKELY" class="ERROR">t/tt</rule> <c auth="PS" cclass="W">y</c> <wil>smaracCatra</wil> <mw>smaracCattra</mw>
+<rule conf="LIKELY" class="ERROR">Ca/CU</rule> <c auth="PS" cclass="N">syan/syana/syanay/syanaya not present in MDhV nor MW, nor Syan, etc.</c> <wil>syana</wil> <mw>*</mw>
+<rule conf="LIKELY" class="ERROR">ra/f</rule> <c auth="PS" cclass="V">remapped. MW adds penultimate nasal found in present stem to root.</c> <wil>srak</wil> <mw>sraNk</mw>
+<rule conf="LIKELY" class="ERROR">t/tt</rule> <c auth="PS" cclass="W">y</c> <wil>svacCapatra</wil> <mw>svacCapattra</mw>
+<rule conf="LIKELY" class="ERROR">t/tt</rule> <c auth="PS" cclass="W">y</c> <wil>svalpapatraka</wil> <mw>svalpapattraka</mw>
+<rule conf="LIKELY" class="ERROR">VC/VrC</rule> <c auth="PS" cclass="N">diff senses</c> <wil>hayAnanda</wil> <mw>haryAnanda</mw>
+<rule conf="LIKELY" class="VARIANT">v/b</rule> <c auth="PS" cclass="_">y</c> <wil>haravIja</wil> <mw>harabIja</mw>
+<rule conf="LIKELY" class="VARIANT">b/v</rule> <c auth="PS" cclass="_">y</c> <wil>haribAluka</wil> <mw>harivAluka</mw>
+<rule conf="LIKELY" class="VARIANT">v/b</rule> <c auth="PS" cclass="_">y</c> <wil>harivIja</wil> <mw>haribIja</mw>
+<rule conf="LIKELY" class="ERROR">Ca/Cu</rule> <c auth="PS" cclass="N"></c> <wil>havA</wil> <mw>huvA</mw>
+<rule conf="LIKELY" class="VARIANT">v/b</rule> <c auth="PS" cclass="_">y</c> <wil>hastavimba</wil> <mw>hastabimba</mw>
+<rule conf="LIKELY" class="ERROR">q/w</rule> <c auth="PS" cclass="V">remapped. MW adds penultimate nasal found in present stem to root.</c> <wil>hiq</wil> <mw>hiRq</mw>
+<rule conf="LIKELY" class="VARIANT">cC/C</rule> <c auth="PS" cclass="_">y</c> <wil>hurcC</wil> <mw>hurC</mw>
+<rule conf="LIKELY" class="VARIANT">cC/C</rule> <c auth="PS" cclass="_">y</c> <wil>hUrcCana</wil> <mw>hUrCana</mw>
+<rule conf="LIKELY" class="ERROR">t/tt</rule> <c auth="PS" cclass="W">y</c> <wil>hrasvapatraka</wil> <mw>hrasvapattraka</mw>
+<rule conf="LIKELY" class="VARIANT">cC/C</rule> <c auth="PS" cclass="_">y</c> <wil>hrIcC</wil> <mw>hrIC</mw>
+<!--  remappings of 20110816 (ejf) -->
+<rule conf="LIKELY" class="ERROR">Ca/Cu</rule> <c auth="PS" cclass="G">SS: very similar but diff words. PMS: remapped to MW root; participle: prap of causative of prAR.</c> <wil>prARayat</wil> <mw>prAR</mw>
+<rule conf="LIKELY" class="ERROR">t/tt</rule> <c auth="SS" cclass="W">y</c> <wil>aBIrupatrI</wil> <mw>aBIrupattrI</mw>
+<rule conf="LIKELY" class="ERROR">t/tt</rule> <c auth="SS" cclass="W">y</c> <wil>elApatra</wil> <mw>elApattra</mw>
+<rule conf="LIKELY" class="ERROR">t/tt</rule> <c auth="SS" cclass="W">y</c> <wil>gurupatra</wil> <mw>gurupattra</mw>
+<rule conf="LIKELY" class="ERROR">t/tt</rule> <c auth="PS" cclass="W">y</c> <wil>SyAmapatra</wil> <mw>SyAmapattra</mw>
+<rule conf="LIKELY" class="ERROR">t/tt</rule> <c auth="PS" cclass="W">y</c> <wil>sapatrAkaraRa</wil> <mw>sapattrAkaraRa</mw>
+<rule conf="LIKELY" class="ERROR">t/tt</rule> <c auth="PS" cclass="W">y</c> <wil>sapatrAkfti</wil> <mw>sapattrAkfti</mw>
+<rule conf="LIKELY" class="ERROR">t/tt</rule> <c auth="PS" cclass="W">y</c> <wil>sarapatrikA</wil> <mw>sarapattrikA</mw>
+<rule conf="LIKELY" class="ERROR">Ca/Cu</rule> <c auth="PS" cclass="W">SS: diff words,diff meanings. PMS: remapped t/tt</c> <wil>tripatra</wil> <mw>tripattra</mw>
+<rule conf="LIKELY" class="ERROR">s/m</rule> <c auth="PS" cclass="V">remapped. MW adds penultimate nasal found in present stem to root. MW[L=262731]. </c> <wil>his</wil> <mw>hiMs</mw>
+<rule conf="LIKELY" class="ERROR">m/s</rule> <c auth="PS" cclass="V">Wilson Root should be 'zam' with marker 'a' but he always puts the 'a' after final consonant; MW root: sam1</c> <wil>zam</wil> <mw>sam</mw>
+<rule conf="LIKELY" class="ERROR">Ca/Ce</rule> <c auth="PS" cclass="E">MW has correct entry too [L=250964] but not found upon ordinary search; only found with prefix search in advanced search. ejf changed mw field to sUkzmamakzika</c> <wil>sUkzmakzikA</wil> <mw>sUkzmamakzika</mw>

@@ -1,0 +1,77 @@
+EJF made corrections to either MW or Wilson databases, and changed
+the variant-edit markup accordingly, putting auth="EJF".
+
+1. wil=aNkola.  mw = aNkowa   :  mw has several variants, including
+  aNkola.  Prob. should add these to mw headwords  (DONE)
+
+2. wil=awwAlaka, mw = awwAla :  add mw headword awwAlaka
+   (DONE)
+
+4. wil= AcArabarjjita.   From the scan, it is hard to distinguish whether
+   the scan says 'bar' or 'var'.  In the etymology, as digitized, 'barjjita'
+   is seen with meaning 'abandoned'; again, the scan could read 'varjjita',
+   and this is supported by the fact that 'varjjita' is a headword with
+   meaning 'abandoned', while 'barjjita' is not a headword.
+  
+   Thus, it is possible that the wilson headword is incorrectly digitized,
+   and should be digitized as AcAravarjjita.
+   (DONE)
+
+   NOTE: SM pointed out that the scans are in fact quite likely 'barjjita'.
+   The headword was changed back to AcArabarjjita in wiltab1, and
+   the record of edit1 was replaced with the original record of edit.xml wa
+8. wil=icCAbat.  This appears to be a typo for 'icCAvat'.  Correct wiltab1.
+   (DONE)
+
+7. wil=AlagarddaM.   Not (currently) a wilson headword.  
+   Apparently, a correction to digitized Wilson was made (to Alagardda).
+
+   Alagardda  is a wilson headword.  Which corresponds in meaning (Cobra)
+   to mw 'Alagarda'.
+   NOTE:  in the xml file, there appears a correction for wilson to
+   'Alagardda'.  The html processing code is not detecting this!
+   NOTE1: EJF removed the corrected error, 
+   thus changing the edit.xml file from
+   <wil err="scan" corr="Alagardda">AlagarddaM</wil>
+ to 
+   <wil>Alagardda</wil>
+
+   NOTE: An alternate coding would have been to place 'corrected="y"' as
+   an attribute of 'rule'.
+
+------------------------------------
+3. wil=Akzoqa , mw=Akzowa : mw states = 'akzowa'.
+    under 'akzowa', mw mentions several alternate spellings,
+   which prob. should add to mw headwords.
+   akzoqa 
+   akzoqaka
+        Akzowa  (already a headword)
+   Akzoqaka
+   AKowa (already a headword)
+   NOTE:  the wilson variant is not among the new mw headwords.
+   So, no change in SM markup made by EJF.
+-----------------------------------
+These are questions for Peter:
+
+6. wil=Ayuskara , note says 'incorrect form in Wil'.  Should this be
+   corrected (to Ayuzkara) in digitized edition?
+9. wil=IrzyamAna.  Note says 'incorrect form in wilson'.  Should we correct?
+NOTE: SM marked both of these with 'cclass="W"'; Records with such markings
+can be gathered at some point for Peter's evaluation.  These two records
+need not be mentioned at this time.
+
+------------------------------------
+EJF not clear on this association made by SM.  <<====
+10. wil=parikzipaka , mw=parikzepaka .  What is the basis for association?
+  This is identified as a false form in WIlson by Boehtlingk. 
+  Further, SM discovered that a Paninian rule shows that the 'aka' suffix
+  to 'parikzip' results in the guRa of 'i' to 'e'.
+  Note:  it is possible that corrections to such forms should be 
+  made in the digitized edition; this is analogous to 6/9 above.
+  The comment could be used as a filter in such cases.
+
+------------------------------------
+Observation
+5. wil = AjYAnuvarttin  would be mw compound: AjYA and anuvarttin
+
+(this is a random observation)

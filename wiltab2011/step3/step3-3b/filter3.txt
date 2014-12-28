@@ -1,0 +1,8 @@
+<rule conf="LIKELY" class="VARIANT">b/v</rule> <c auth="SS" cclass="_">y</c> <wil err="scan" corr="araRyavAyasa">araRyabAyasa</wil> <mw>araRyavAyasa</mw>
+<rule conf="LIKELY" class="VARIANT">b/v</rule> <c auth="SS" cclass="_">y</c> <wil err="scan" corr="avaravarRa">avarabarRa</wil> <mw>avaravarRa</mw>
+<rule conf="LIKELY" class="ERROR">Ca/Cu</rule> <c auth="PS" cclass="G">SS: very similar but diff words. PMS: remapped to MW root; participle: prap of causative of prAR.</c> <wil err="scan" corr="prARayat">prARayata</wil> <mw>prAR</mw>
+<rule conf="LIKELY" class="ERROR">Ca/CU</rule> <c auth="PS" cclass="_">PMS: Alphabetic order and similar variants majjUzA/maYjUzA in other dictionaries suggests mapping is correct.</c> <wil err="scan" corr="majjUzA">majjazA</wil> <mw>majjUzA</mw>
+<rule conf="LIKELY" class="VARIANT">v/b</rule> <c auth="PS" cclass="W">y PMS: This is reduplication, not the preverb 'vi' as Wilson supposes.</c> <wil err="fac" corr="biBitsu">viBitsu</wil> <mw>biBitsu</mw>
+<rule conf="LIKELY" class="VARIANT">v/b</rule> <c auth="PS" cclass="W">y PMS: Wilson's etymology as 'Bf' preceded by the preverb 'vi' is incorrect for this reduplicated class 3 root.</c> <wil err="fac" corr="biBrat">viBrat</wil> <mw>biBrat</mw>
+<rule conf="LIKELY" class="ERROR">m/s</rule> <c auth="PS" cclass="V">Wilson Root should be 'zam' with marker 'a' but he always puts the 'a' after final consonant; MW root: sam1</c> <wil corr="zam">zama</wil> <mw>sam</mw>
+<rule conf="LIKELY" class="ERROR">s/m</rule> <c auth="PS" cclass="V">remapped. MW adds penultimate nasal found in present stem to root. MW[L=262731].  The Wilson root should not have final 'a'.</c> <wil err="fac" corr="his">hisa</wil> <mw>hiMs</mw>

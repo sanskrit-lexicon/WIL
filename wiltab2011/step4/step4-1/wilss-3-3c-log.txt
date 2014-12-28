@@ -1,0 +1,35 @@
+ERROR SKIPPING: no records in wiltab for key=apsa
+<r><rule conf="LIKELY" class="ERROR">Ca/Cu</rule> <c auth="SS" cclass="E">It's not a headword!  Continuation of previous entry apsaras.</c> <wil err="scan" corr="apsu">apsa</wil> <mw>apsu</mw></r>
+
+ERROR SKIPPING: old wilkey = avAcIna, corr wilkey = avAcIna:  both are found
+<r><rule conf="LIKELY" class="ERROR">VC/VrC</rule> <c auth="SS" cclass="E">word missing from digital MW, appears in printed text on p. 106, col. 3 bottom</c> <wil>avAcIna</wil> <mw>avAcIna</mw></r>
+
+Why is wilcorr != mwkey?:
+<r><rule conf="LIKELY" class="ERROR">Ca/Cf</rule> <c auth="SS" cclass="E">Additionally correct udB to udJ in the def.  Probably need to correct entry uYBa m. to uYJa m.</c> <wil err="scan" corr="udJa">udBa</wil> <mw>*</mw></r>
+
+Why is wilcorr != mwkey?:
+<r><rule conf="LIKELY" class="ERROR">Ca/Ce</rule> <c auth="PS" cclass="E">different words,KalanI not there in Wil scan. PMS: The etymology of the word in the definition and the alphabetic order reveal the error.</c> <wil err="typo" corr="KastanI">KalanI</wil> <mw>KelanI</mw></r>
+
+ERROR SKIPPING: old wilkey = Gaza, corr wilkey = Garza:  both are found
+<r><rule conf="LIKELY" class="ERROR">VC/VrC</rule> <c auth="PS" cclass="_">y SS: wil has Garza</c> <wil err="typo" corr="Garza">Gaza</wil> <mw>Garza</mw></r>
+
+Why is wilcorr != mwkey?:
+<r><rule conf="LIKELY" class="ERROR">Ca/Cu</rule> <c auth="PS" cclass="G">SS: very similar but diff words. PMS: remapped to MW root; participle: prap of causative of prAR.</c> <wil err="scan" corr="prARayat">prARayata</wil> <mw>prAR</mw></r>
+
+Why is wilcorr != mwkey?:
+<r><rule conf="LIKELY" class="ERROR">m/s</rule> <c auth="PS" cclass="E">SS: entry should have been mahIyas. PMS: right, but algorithm mad two substitutions instead of just one. Added attributes.</c> <wil err="typo" corr="mahIyas">mahIyam</wil> <mw>sahIyas</mw></r>
+
+Why is wilcorr != mwkey?:
+<r><rule conf="LIKELY" class="ERROR">m/s</rule> <c auth="PS" cclass="V">Wilson Root should be 'zam' with marker 'a' but he always puts the 'a' after final consonant; MW root: sam1</c> <wil corr="zam">zama</wil> <mw>sam</mw></r>
+
+ERROR SKIPPING: old wilkey = sammAda, corr wilkey = sammAda:  both are found
+<r><rule conf="LIKELY" class="ERROR">CA/Co</rule> <c auth="PS" cclass="E">MW entry missing.  MW p. 1180a has sam-mAda, but digital edition doesn't.</c> <wil>sammAda</wil> <mw>sammAda</mw></r>
+
+Why is wilcorr != mwkey?:
+<r><rule conf="LIKELY" class="ERROR">Ca/Ce</rule> <c auth="PS" cclass="E">MW has correct entry too [L=250964] but not found upon ordinary search; only found with prefix search in advanced search.</c> <wil err="typo" corr="sUkzmamakzikA">sUkzmakzikA</wil> <mw>sUkzma--makzikA</mw></r>
+
+Why is wilcorr != mwkey?:
+<r><rule conf="LIKELY" class="ERROR">s/m</rule> <c auth="PS" cclass="V">remapped. MW adds penultimate nasal found in present stem to root. MW[L=262731].  The Wilson root should not have final 'a'.</c> <wil err="fac" corr="his">hisa</wil> <mw>hiMs</mw></r>
+
+945 records read from wilSStil722PMStil946.xml
+213 records altered

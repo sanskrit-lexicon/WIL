@@ -1,0 +1,4 @@
+<c>ejf</c> <wil err="typo" corr="akovida">akovid</wil> <mw>akovida</mw>
+<c>ejf</c> <wil err="typo" corr="ahaspati">aaspati</wil> <mw>ahaHpati</mw>
+<c>ejf</c> <wil err="typo" corr="trikUwa">trikuda</wil> <mw>trikUwa</mw>
+<c>ejf</c> <wil err="typo" corr="mfd">mfw</wil> <mw>mfd</mw>

@@ -1,0 +1,64 @@
+line skipped in wiltab_mw-known-1.txt: <!--
+line skipped in wiltab_mw-known-1.txt: Was "wilson_keys_nonmw-ma-4.xml"
+line skipped in wiltab_mw-known-1.txt: Was Jim's  "wilson_nonmw_corr.txt" (2011-02-15) (aMSana-atigarhita) and Jim's "wilson_keys_nonmw.txt" (2009-10-02) (rest) Comments by Matthias
+line skipped in wiltab_mw-known-1.txt: What do we want to do with neg's etc?
+line skipped in wiltab_mw-known-1.txt: -->
+error in wiltab_mw-known-1.txt:  <!-- mw problem --><c>(MA) (k/tk) </c> <wil err="typo" corr="atyutkfzwa">atyukfzwa</wil> <mw>atyutkfzwa</mw><!-- next entry manually inserted from "wiltab_mw-ma-1.txt" -->
+error in wiltab_mw-known-1.txt:  <!-- mw problem --><c>(MA) (Sv/Sc) </c> <wil err="typo" corr="aDaScOra">aDaSvOra</wil> <mw>aDaScOra</mw><!-- MA: I had noted "MW-error". Perhaps that was a mistake. -->
+line skipped in wiltab_mw-known-1.txt: <!-- I skip all this negations (MA) -->
+error in wiltab_mw-known-1.txt:  <!-- mw problem --><c>(MA) (M/-) "M" at word-end</c> <wil corr="aBihitatva">aBihitatvaM</wil> <mw>aBihitatvaM</mw>
+error in wiltab_mw-known-1.txt:  <!-- mw problem --><c>(MA) (e/o)</c> <wil corr="amanogata">amanegata</wil> <mw>amanogata</mw>
+line skipped in wiltab_mw-known-1.txt: <!--  ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ -->
+error in wiltab_mw-known-1.txt:  <!-- wil problem --><c>(MA) wrong auto-correction: AUTO(NEGa)</c> <wil>avawaja</wil> <mw>*vawaja</mw>
+error in wiltab_mw-known-1.txt:  <!-- wil problem --><c>(MA) wrong auto-correction: AUTO(NEGa)</c> <wil>avapa</wil> <mw>*vapa</mw>
+error in wiltab_mw-known-1.txt:  <!-- wil problem --><c>(MA) correct: AUTO(SE:M/)</c> <wil>astranivAraRaM</wil> <mw>astranivAraRa</mw>
+line skipped in wiltab_mw-known-1.txt: <!--  ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ -->
+error in wiltab_mw-known-1.txt:  <!-- mw problem --><c>(MA) (Sp/Sy) </c> <wil err="typo" corr="AkfzyamARa">AkfzpamARa</wil> <mw>AkfzyamARa</mw>
+error in wiltab_mw-known-1.txt:  <!-- mw problem --><c>(MA) (tv/ttv) spelling</c> <wil>AtmatatvajYa</wil> <mw>AtmatatvajYa</mw>
+error in wiltab_mw-known-1.txt:  <!-- wil problem --><c>(MA) (b/v) </c> <wil err="typo">AtmabIra</wil> <mw>AtmavIra</mw>
+error in wiltab_mw-known-1.txt:  <!-- mw problem --><c>(MA) (st/l) </c> <wil err="scan" corr="AmUla">AmUsta</wil> <mw>AmUla</mw>
+error in wiltab_mw-known-1.txt:  <!-- mw problem --><c>(MA) MW-error: this word is missing in the digital version</c> <wil>AyatacCadA</wil> <mw err="typo"></mw>
+error in wiltab_mw-known-1.txt:  <!-- mw problem --><c>(MA) (rdD/rD) spelling after r</c> <wil>ArdDadrORika</wil> <mw>ArdDadrORika</mw>
+error in wiltab_mw-known-1.txt:  <!-- mw problem --><c>(MA) (v/b) </c> <wil>AvAlya</wil> <mw>AbAlya</mw>
+line skipped in wiltab_mw-known-1.txt: <c>(MA) (vy/ty) </c> <wil err="scan" corr="Ahfvya">Ahfvya</Wil> <mw>Ahftya</mw>
+error in wiltab_mw-known-1.txt:  <!-- wil problem --><c>(MA) is "ig" correct ? </c> <wil err="?">iga</wil> <mw>iNg</mw>
+error in wiltab_mw-known-1.txt:  <!-- mw problem --><c>(MA) (M/-) specifically: (r.M/r.)</c> <wil err="scan" corr="Irzyaka">IrzyaMka</wil> <mw>IrzyaMka</mw>
+error in wiltab_mw-known-1.txt:  <!-- mw problem --><c>(MA) (M/-) "r" + "M"</c> <wil corr="unmArgagAmin">unmArgaMgAmin</wil> <mw>unmArgaMgAmin</mw>
+44270 keys processed
+0 keys were ill-formed
+35916 keys found with no spelling change
+3482 keys found after spelling change
+4380 records not found yet 
+492 records processed as known from wiltab_mw-known-1.txt
+spelling rule AUTO(SE:M/) solved 5 problems
+spelling rule AUTO(rxx) solved 1712 problems
+spelling rule AUTO(X:NEGa) solved 9 problems
+spelling rule AUTO(SE:a$/) solved 99 problems
+spelling rule AUTO(Vtt/t) solved 72 problems
+spelling rule AUTO(SE:Ca/Ce) solved 27 problems
+spelling rule AUTO(SE:Ca/Cu) solved 48 problems
+spelling rule AUTO(X:tA) solved 23 problems
+spelling rule AUTO(N/M) solved 246 problems
+spelling rule AUTO(v/b) solved 253 problems
+spelling rule AUTO(X:NEGan) solved 5 problems
+spelling rule AUTO(rdD/rD) solved 163 problems
+spelling rule AUTO(SE:VC/VrC) solved 33 problems
+spelling rule AUTO(a/am) solved 36 problems
+spelling rule AUTO(b/v) solved 106 problems
+spelling rule AUTO(X:tva) solved 8 problems
+spelling rule AUTO(n/M) solved 260 problems
+spelling rule AUTO(SE:CA/Co) solved 26 problems
+spelling rule AUTO(SE:B/J) solved 3 problems
+spelling rule AUTO(t/tt) solved 170 problems
+spelling rule AUTO(cC/C) solved 28 problems
+spelling rule AUTO(SE:wu/du) solved 21 problems
+spelling rule AUTO(n/R) solved 21 problems
+spelling rule AUTO(Y/M) solved 57 problems
+spelling rule AUTO(SE:s/m) solved 10 problems
+spelling rule AUTO(rbB/rB) solved 9 problems
+spelling rule AUTO(ra/f) solved 7 problems
+spelling rule AUTO(q/w) solved 12 problems
+spelling rule AUTO(l/w) solved 5 problems
+spelling rule AUTO(SE:Sv/Sc) solved 3 problems
+spelling rule AUTO(SE:Ca/CE) solved 5 problems
+(nc = 3482)
