@@ -21,3 +21,4 @@ wiltabwork   Work to make use of some of the material in wiltab2011 for the purp
              corrections to the headwords of the wil.txt digitization of the Wilson Dictionary
              at http://www.sanskrit-lexicon.uni-koeln.de/.  This work begun Dec 26, 2014 by
 	     Jim Funderburk.
+alphawork    Work to look for headword spelling errors selected by alphabetical misorderings.
