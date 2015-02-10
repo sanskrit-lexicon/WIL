@@ -1,0 +1,8 @@
+<c>ejf</c> <wil err="typo" corr="akzaDUrtta">akza{??}rtta</wil> <mw>akzaDUrtta</mw>
+<c>ejf</c> <wil err="typo" corr="kASikApriya">kASikA, praya</wil> <mw>kASikApriya</mw>
+<c>ejf</c> <wil err="typo" corr="gaRAgraRI">gaRa, graRI</wil> <mw>gaRAgraRI</mw>
+<c>ejf</c> <wil err="typo" corr="tundiBa">tundiBa.</wil> <mw>tundiBa</mw>
+<c>ejf</c> <wil err="typo" corr="tundila">tundila.</wil> <mw>tundila</mw>
+<c>ejf</c> <wil err="typo" corr="vyaYjanAvftti">vyaYjanAvftti,</wil> <mw>vyaYjanAvftti</mw>
+<c>ejf</c> <wil err="typo" corr="preNKaRa">preNKa{??}</wil> <mw>preNKaRa</mw>
+<c>ejf</c> <wil err="typo" corr="preNKat">preNKa{??}</wil> <mw></mw>

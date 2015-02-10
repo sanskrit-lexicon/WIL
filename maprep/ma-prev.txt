@@ -1,0 +1,126 @@
+<c>ejf</c> <wil err="typo" corr="akzaDUrtta">akza{??}rtta</wil> <mw>akzaDUrtta</mw>
+<c>ejf</c> <wil err="typo" corr="kASikApriya">kASikA, praya</wil> <mw>kASikApriya</mw>
+<c>ejf</c> <wil err="typo" corr="gaRAgraRI">gaRa, graRI</wil> <mw>gaRAgraRI</mw>
+<c>ejf</c> <wil err="typo" corr="tundiBa">tundiBa.</wil> <mw>tundiBa</mw>
+<c>ejf</c> <wil err="typo" corr="tundila">tundila.</wil> <mw>tundila</mw>
+<c>ejf</c> <wil err="typo" corr="vyaYjanAvftti">vyaYjanAvftti,</wil> <mw>vyaYjanAvftti</mw>
+<c>ejf</c> <wil err="typo" corr="preNKaRa">preNKa{??}</wil> <mw>preNKaRa</mw>
+<c>ejf</c> <wil err="typo" corr="preNKat">preNKa{??}</wil> <mw></mw>
+<c>(MA) (M/-)</c> <wil err="scan" corr="anukramaRikA">anukraMmaRikA</wil> <mw>anukramaRikA</mw>
+<c>(MA) (M/-) "M" at word-end</c> <wil err="scan" corr="anuraYjana">anuraYjanaM</wil> <mw>anuraYjana</mw>
+<c>(MA) (M/-) "M" at word-end</c> <wil err="scan" corr="apraSasta">apraSastaM</wil> <mw>apraSasta</mw>
+<c>(MA) (M/-) "M" at word-end</c> <wil err="scan" corr="aBihitatva">aBihitatvaM</wil> <mw>aBihitatvaM</mw>
+<c>(MA) (M/-) "M" at word-end</c> <wil err="scan" corr="astranivAraRa">astranivAraRaM</wil> <mw></mw>
+<c>(MA) (M/-) "M" at word-end</c> <wil err="scan" corr="uttamarRa">uttamarRaM</wil> <mw>uttamarRa</mw>
+<c>(MA) (M/-) "r" + "M"</c> <wil err="scan" corr="unmArgagAmin">unmArgaMgAmin</wil> <mw>unmArgaMgAmin</mw>
+<c>(MA) (M/-) "M" at word-end</c> <wil err="scan" corr="upacArakaraRa">upacArakaraRaM</wil> <mw></mw>
+<c>(MA) (M/-) "M" at word-end</c> <wil err="scan" corr="upasarjana">upasarjanaM</wil> <mw></mw>
+<c>(MA) (M/-) "M" + "r'</c> <wil err="scan" corr="karRaveDa">karRaMveDa</wil> <mw></mw>
+<c>(MA) (M/-); a root; in MW under "kartr"o</c> <wil err="scan" corr="kartra">kartraM</wil> <mw></mw>
+<c>(MA) (M/-) at end of compound-member</c> <wil err="scan" corr="kulaBftyA">kulaMBftyA</wil> <mw></mw>
+<c>(MA) (M/-) at word-end</c> <wil err="scan" corr="kfzRasarpa">kfzRasarpaM</wil> <mw></mw>
+<c>(MA) (M/-)</c> <wil err="scan" corr="keSapaNkti">keSapaMNkti</wil> <mw></mw>
+<c>(MA) (M/-)</c> <wil err="scan" corr="kORqinya">kORqinyaM</wil> <mw></mw>
+<c>(MA) (M/-)</c> <wil err="scan" corr="kzudraSIrza">kzudraSIrzaM</wil> <mw></mw>
+<c>(MA) (M/-)</c> <wil err="scan" corr="cAndraka">cAndrakaM</wil> <mw></mw>
+<c>(MA) (M/-)</c> <wil err="scan" corr="duzpraDarzaRI">duzpraDarzaMRI</wil> <mw></mw>
+<c>(MA) (M/-) "" + "M"</c> <wil err="scan" corr="nirGaRwa">nirGaMRwa</wil> <mw></mw>
+<c>(MA) (M/-)</c> <wil err="scan" corr="mAkanda">mAMkanda</wil> <mw></mw>
+<c>(MA) (M/-) "M" at word-end</c> <wil err="scan" corr="varutra">varutraM</wil> <mw></mw>
+<c>(MA) (M/-) "M" at word-end</c> <wil err="scan" corr="huqukka">huqukkaM</wil> <mw></mw>
+
+<c>(MA) (a/u)</c> <wil err="scan" corr="anukaraRa">anakaraRa</wil> <mw></mw>
+<c>(MA) (m/s) wrong auto-correction: AUTO(NEGa)</c> <wil err="scan" corr="asat">amat</wil> <mw></mw>
+<c>(MA) (a/u)</c> <wil err="scan" corr="avawuja">avawaja</wil> <mw></mw>
+
+<c></c> <wil err="scan" corr="agarvva">agarrva</wil> <mw></mw>
+<c>(MA) (v/tr) ; wrong auto-correction: AUTO(NEGa)</c> <wil err="scan" corr="atrapa">avapa</wil> <mw></mw>
+<c>(MA) (e/o)</c> <wil err="scan" corr="amanogata">amanegata</wil> <mw>amanogata</mw>
+<c>(MA) (-/M) </c> <wil err="typo" corr="aDoMSuka">aDo'Suka</wil> <mw>aDoMSuka</mw>
+<c>(MA) (-/am)| printing-error (Wilson prints a virama that is wrong)?</c> <wil err="fact" corr="aDijyotizam">aDijyotiz</wil> <mw>aDijyotizam</mw>
+<c>(MA) (-/r) </c> <wil err="scan" corr="ArTika">ATika</wil> <mw>ArTika</mw>
+<c>(MA) (-/r) </c> <wil err="scan" corr="Ardranayana">Adranayana</wil> <mw>Ardranayana</mw>
+<c>(MA) (-/r) </c> <wil err="scan" corr="ArdratA">AdratA</wil> <mw>ArdratA</mw>
+<c>(MA) (-/r); and (yy/y) </c> <wil err="scan" corr="AryyarUpa">AyyarUpa</wil> <mw>AryarUpa</mw>
+<c>(MA) (A/a) input-error; AND (a/-)| input-error</c> <wil err="typo" corr="Atmavid">AtmAvida</wil> <mw>Atmavid</mw>
+<c>(MA) (A/o) </c> <wil err="scan" corr="Amozin">AmAzin</wil> <mw>Amozin</mw>
+<c>(MA) (A/o) </c> <wil err="scan" corr="agocara">agAcara</wil> <mw>agocara</mw>
+<c>(MA) (A/o) </c> <wil err="scan" corr="ajamodA">ajamAdA</wil> <mw>ajamodA</mw>
+<c>(MA) (A/o) </c> <wil err="scan" corr="akroDa">akrADa</wil> <mw>akroDa</mw>
+<c>(MA) (B/J) </c> <wil err="typo" corr="ajJala">ajBala</wil> <mw>ajJala</mw>
+<c>(MA) (B/J) </c> <wil err="typo" corr="ajJawA">ajBawA</wil> <mw>ajJawA</mw>
+<c>(MA) (G/D) </c> <wil err="typo" corr="aYjanADikA">aYjanAGikA</wil> <mw>aYjanADikA</mw>
+<c>(MA) (M/-) </c> <wil err="typo" corr="Arkzavarza">ArkzaMvarza</wil> <mw>Arkzavarza</mw>
+<c>(MA) (M/-) </c> <wil err="scan" corr="akzasUtra">akzasUtraM</wil> <mw>akzasUtra</mw>
+<c>(MA) (M/-) printing-error; and compound; and (ryy/ry) spelling after r</c> <wil err="scan" corr="agnikAryya">agnikAryyaM</wil> <mw>agnikArya</mw>
+<c>(MA) (M/-) specifically: (r.M/r.)</c> <wil err="scan" corr="Irzyaka">IrzyaMka</wil> <mw>IrzyaMka</mw>
+<c>(MA) (Sp/Sy) </c> <wil err="typo" corr="AkfzyamARa">AkfzpamARa</wil> <mw>AkfzyamARa</mw>
+<c>(MA) (Sv/Sc) </c> <wil err="typo" corr="aDaScOra">aDaSvOra</wil> <mw>aDaScOra</mw>
+<c>(MA) (Sv/Sc) </c> <wil err="typo" corr="aDaScara">aDaSvara</wil> <mw>aDaScara</mw>
+<c>(MA) (Sv/Sc) </c> <wil err="typo" corr="aNgaprAyaScitta">aNgaprAyaSvitta</wil> <mw>aNgaprAyaScitta</mw>
+<c>(MA) (a/-) </c> <wil err="scan" corr="Irkzy">Irkzya</wil> <mw>Irkzy</mw>
+<c>(MA) (a/-) </c> <wil err="scan" corr="aYj">aYja</wil> <mw>aYj</mw>
+<c>(MA) (a/-) </c> <wil err="scan" corr="ajYAnin">ajYAnina</wil> <mw>ajYAnin</mw>
+<c>(MA) (a/-) </c> <wil err="scan" corr="iK">iKa</wil> <mw>iK</mw>
+<c>(MA) (a/-) </c> <wil err="typo" corr="adriBid">adriBida</wil> <mw>adriBid</mw>
+<c>(MA) (a/-) </c> <wil err="typo" corr="anantajit">anantajita</wil> <mw>anantajit</mw>
+<c>(MA) (a/E) </c> <wil err="scan" corr="advEta">advata</wil> <mw>advEta</mw>
+<c>(MA) (a/E) </c> <wil err="scan" corr="advEtavAdin">advatavAdin</wil> <mw>advEtavAdin</mw>
+<c>(MA) (a/e) </c> <wil err="scan" corr="ASleza">ASlaza</wil> <mw>ASleza</mw>
+<c>(MA) (a/e) </c> <wil err="scan" corr="AveSika">AvaSika</wil> <mw>AveSika</mw>
+<c>(MA) (a/i) </c> <wil err="typo" corr="ADarzata">ADarzata</wil> <mw>ADarzita</mw>
+<c>(MA) (a/u) </c> <wil err="scan" corr="Akruzwa">Akrazwa</wil> <mw>Akruzwa</mw>
+<c>(MA) (a/u) </c> <wil err="scan" corr="AyuDAgAra">AyaDAgAra</wil> <mw>AyuDAgAra</mw>
+<c>(MA) (a/u) </c> <wil err="scan" corr="AyuDika">AyaDika</wil> <mw>AyuDika</mw>
+<c>(MA) (a/u) </c> <wil err="scan" corr="aDaramaDu">aDaramaDa</wil> <mw>aDaramaDu</mw>
+<c>(MA) (a/u) </c> <wil err="scan" corr="indujA">indajA</wil> <mw>indujA</mw>
+<c>(MA) (a/u) </c> <wil err="typo" corr="indukamala">indakamala</wil> <mw>indukamala</mw>
+<c>(MA) (b/v) </c> <wil err="typo" corr="AKuvizahA">AKubizahA</wil> <mw>AKuvizahA</mw>
+<c>(MA) (b/v) </c> <wil err="typo" corr="AvaraRaSakti">AbaraRaSakti</wil> <mw></mw>
+<c>(MA) (b/v) </c> <wil err="typo" corr="aNgAravallarI">aNgAraballarI</wil> <mw></mw>
+<c>(MA) (b/v) </c> <wil err="typo" corr="aNkavidyA">aNkabidyA</wil> <mw>aNkavidyA</mw>
+<c>(MA) (b/v) </c> <wil err="typo" corr="AtamvIra">AtmabIra</wil> <mw>AtmavIra</mw>
+<c>(MA) (b/v) input-error: and (rvv/rv) </c> <wil err="typo" corr="AnupUrbba">AnupUrbva</wil> <mw>AnupUrva</mw>
+<c>(MA) (b/v) input-error; and (rvv/rv) spelling after r</c> <wil err="typo" corr="atigarrvita">atigarbvita</wil> <mw>atigarvita</mw>
+<c>(MA) (bv/v) </c> <wil err="typo" corr="IrvvAru">IrbvAru</wil> <mw>IrvAru</mw>
+<c>(MA) (bv/v) </c> <wil err="typo" corr="irvvAlu">irbvAlu</wil> <mw>irvAlu</mw>
+<c>(MA) (bv/v) </c> <wil err="typo" corr="irvvAruSuktikA">irbvAruSuktikA</wil> <mw>irvAruSuktikA</mw>
+<c>(MA) (dD/dr)</c> <wil err="scan" corr="indradru">indradDu</wil> <mw>indradru</mw>
+<c>(MA) (df/wwa) </c> <wil err="typo" corr="AGawwaka">AGadfka</wil> <mw>AGawwaka</mw>
+<c>(MA) (df/wwa) </c> <wil err="typo" corr="AGawwana">AGadfna</wil> <mw>AGawwana</mw>
+<c>(MA) (e/a)| </c> <wil err="scan" corr="Adipuruza">Adipuruze</wil> <mw>Adipuruza</mw>
+<c>(MA) (e/o) </c> <wil err="typo" corr="atiSoBana">atiSeBana</wil> <mw>atiSoBana</mw>
+<c>(MA) (g/m) printing error</c> <wil err="scan" corr="Akampra">Akagpra</wil> <mw>Akampra</mw>
+<c>(MA) (g/r)</c> <wil err="scan" corr="irA">igA</wil> <mw>irA</mw>
+<c>(MA) (h/dD) ; and (rdD/rD) spelling after r</c> <wil err="typo" corr="agnivardDaka">agnivarhvaka</wil> <mw>agnivarDaka</mw>
+<c>(MA) (hr/hn) </c> <wil err="scan" corr="AhnikAcAra">AhrikAcAra</wil> <mw>AhnikAcAra</mw>
+<c>(MA) (k/tk) </c> <wil err="typo" corr="atyutkfzwa">atyukfzwa</wil> <mw>atyutkfzwa</mw>
+<c>(MA) (n/b) </c> <wil err="scan" corr="ArabDa">AranDa</wil> <mw>ArabDa</mw>
+<c>(MA) (n/m) </c> <wil err="scan" corr="akftrima">akftrina</wil> <mw>akftrima</mw>
+<c>(MA) (ntv/ntr) </c> <wil err="typo" corr="aDoyantra">aDoyantva</wil> <mw>aDoyantra</mw>
+<c>(MA) (o/A) </c> <wil err="scan" corr="AjYopaka">AjYopaka</wil> <mw>AjYApaka</mw>
+<c>(MA) (rbv/rv) </c> <wil err="typo" corr="Aptagarbba">Aptagarbva</wil> <mw>Aptagarva</mw>
+<c>(MA) (rdd/rd) spelling after "r"; and (M/-) </c> <wil err="scan" corr="Alagardda">AlagarddaM</wil> <mw>Alagarda</mw>
+<c>(MA) (rtt/rtv) </c> <wil err="fact" corr="Artvijya">Arttijya</wil> <mw>Artvijya</mw>
+<c>(MA) (s/m) </c> <wil err="typo" corr="Anamra">Anasra</wil> <mw>Anamra</mw>
+<c>(MA) (s/m) </c> <wil err="typo" corr="aDamaBftaka">aDasaBftaka</wil> <mw>aDamaBftaka</mw>
+<c>(MA) (st/l) </c> <wil err="scan" corr="AmUla">AmUsta</wil> <mw>AmUla</mw>
+<c>(MA) (t/nt) </c> <wil err="typo" corr="anantaka">anataka</wil> <mw>anantaka</mw>
+<c>(MA) (v/t) </c> <wil err="scan" corr="anaBimata">anaBimava</wil> <mw>anaBimata</mw>
+<c>(MA) (v/tr) </c> <wil err="typo" corr="atraBavat">avaBavat</wil> <mw>atraBavat</mw>
+<c>(MA) (v/y) </c> <wil err="typo" corr="anapAyin">anapAvin</wil> <mw>anapAyin</mw>
+<c>(MA) (va/rve) </c> <wil err="scan" corr="AntarveSmika">AntavaSmika</wil> <mw>AntarveSmika</mw>
+<c>(MA) (vy/ty) </c> <wil err="scan" corr="Ahfvya">Ahfvya</wil> <mw>Ahftya</mw>
+<c>(MA) (w/d) </c> <wil err="typo" corr="AnakawunduBi">AnakawunduBi</wil> <mw>AnakadunduBi</mw>
+<c>(MA) (w/d) </c> <wil err="typo" corr="aduzwa">awuzwa</wil> <mw>aduzwa</mw>
+<c>(MA) (w/d) </c> <wil err="typo" corr="akzavid">akzaviw</wil> <mw>akzavid</mw>
+<c>(MA) (w/d) </c> <wil err="typo" corr="atiduzkara">atiwuzkara</wil> <mw>atiduzkara</mw>
+<c>(MA) (w/d) input-error; and (rdD/rD) spelling</c> <wil err="typo" corr="aNkuSadurdDara">aNkuSawurdDara</wil> <mw>aNkuSadurDara</mw>
+<c>(MA) (wv/wc) </c> <wil err="scan" corr="iwcara">iwvara</wil> <mw>iwcara</mw>
+<c>(MA) (y/T) </c> <wil err="typo" corr="agnimanTa">agnimanya</wil> <mw>agnimanTa</mw>
+<c>(MA) (y/p) </c> <wil err="typo" corr="akfpa">akfya</wil> <mw>akfpa</mw>
+<c>(MA) (z/D) </c> <wil err="typo" corr="agnID">agnIz</wil> <mw>agnID</mw>
+<c>(MA) G parti.; and (df/ww) input-error</c> <wil err="typo" corr="AGawwita">AGadfita</wil> <mw></mw>
+<c>(MA) not in MW; and error (w/d) (d + danda looks like w) </c> <wil err="typo" corr="akovid">akoviw</wil> <mw></mw>
+<c>(MA) unreadable in Wilson scan ( ejf prob agarva) </c> <wil err="typo" corr="agarrva">agarYva</wil> <mw>agarva</mw>
+<c>(MA)?(-/r) </c> <wil err="fact" corr="akarkkaSa">akakkaSa</wil> <mw>akarkaSa</mw>

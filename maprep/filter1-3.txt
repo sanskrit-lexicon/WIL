@@ -1,0 +1,233 @@
+----- filter1.txt ----
+<rule conf="LIKELY" class="ERROR">Ca/Cu</rule> <c auth="SS" cclass="_">y</c> <wil>anakampA</wil> <mw>anukampA</mw>
+<rule conf="LIKELY" class="ERROR">Ca/Ce</rule> <c auth="SS" cclass="_">y</c> <wil>anaqamUka</wil> <mw>aneqamUka</mw>
+<rule conf="LIKELY" class="ERROR">VC/VrC</rule> <c auth="SS" cclass="_">y</c> <wil>anilocita</wil> <mw>anirlocita</mw>
+<rule conf="LIKELY" class="ERROR">VC/VrC</rule> <c auth="SS" cclass="_">y</c> <wil>aniloqita</wil> <mw>anirloqita</mw>
+<rule conf="LIKELY" class="ERROR">CA/Co</rule> <c auth="SS" cclass="_">y</c> <wil>annakAzWaka</wil> <mw>annakozWaka</mw>
+<rule conf="LIKELY" class="ERROR">B/J</rule> <c auth="SS" cclass="_">y</c> <wil>aparavojBita</wil> <mw>aparavojJita</mw>
+<rule conf="LIKELY" class="ERROR">t/tt</rule> <c auth="SS" cclass="_">y</c> <wil>aBIrupatrI</wil> <mw>aBIrupattrI</mw>
+<rule conf="LIKELY" class="ERROR">Ca/Cu</rule> <c auth="SS" cclass="_">y</c> <wil err="scan" corr="aByupagamita">aByapagamita</wil> <mw>aByupagamita</mw>
+<rule conf="LIKELY" class="ERROR">Ca/Cu</rule> <c auth="SS" cclass="_">y</c> <wil>amAnazya</wil> <mw>amAnuzya</mw>
+<rule conf="LIKELY" class="ERROR">wu/du</rule> <c auth="SS" cclass="_">y alphabetic order confirms</c> <wil corr="arizwaduzwaDI" err="scan">arizwawuzwaDI</wil> <mw>arizwaduzwaDI</mw>
+<rule conf="LIKELY" class="ERROR">CA/Co</rule> <c auth="SS" cclass="_">y</c> <wil>arSAroga</wil> <mw>arSoroga</mw>
+<rule conf="LIKELY" class="ERROR">Ca/Cu</rule> <c auth="SS" cclass="_">y</c> <wil err="scan" corr="astuta">astata</wil> <mw>astuta</mw>
+<rule conf="LIKELY" class="ERROR">VC/VrC</rule> <c auth="SS" cclass="_">y</c> <wil err="scan" corr="asTisamarpaRa">asTisamapaRa</wil> <mw>asTisamarpaRa</mw>
+<rule conf="LIKELY" class="ERROR">Ca/Cu</rule> <c auth="SS" cclass="_">y</c> <wil err="scan" corr="asPuwaPala">asPawaPala</wil> <mw>asPuwaPala</mw>
+<rule conf="LIKELY" class="ERROR">t/tt</rule> <c auth="SS" cclass="_">y</c> <wil>ahicCatra</wil> <mw>ahicCattra</mw>
+<rule conf="LIKELY" class="ERROR">m/s</rule> <c auth="PS" cclass="_">y</c> <wil>AmeDa</wil> <mw>AseDa</mw>
+<rule conf="LIKELY" class="ERROR">Ca/Cu</rule> <c auth="SS" cclass="_">y Wilson states that the suffix is 'u' and alphabetizes as such, not as 'a'.</c> <wil err="scan" corr="Ipsu">Ipsa</wil> <mw>Ipsu</mw>
+<rule conf="LIKELY" class="ERROR">Ca/Cu</rule> <c auth="SS" cclass="_">y</c> <wil err="scan" corr="utkuYcitA">utkaYcitA</wil> <mw>utkuYcitA</mw>
+<rule conf="LIKELY" class="ERROR">s/m</rule> <c auth="SS" cclass="_">y</c> <wil corr="uttIram" err="scan">uttIras</wil> <mw>uttIram</mw>
+<rule conf="LIKELY" class="ERROR">s/m</rule> <c auth="SS" cclass="_">y</c> <wil>unnasra</wil> <mw>unnamra</mw>
+<rule conf="LIKELY" class="ERROR">wu/du</rule> <c auth="SS" cclass="_">y</c> <wil>upapAwuka</wil> <mw>upapAduka</mw>
+<rule conf="LIKELY" class="ERROR">CA/Co</rule> <c auth="SS" cclass="_">y</c> <wil>uzRAdaka</wil> <mw>uzRodaka</mw>
+<rule conf="LIKELY" class="ERROR">CA/Co</rule> <c auth="SS" cclass="_">y</c> <wil>ekayAni</wil> <mw>ekayoni</mw>
+<rule conf="LIKELY" class="ERROR">t/tt</rule> <c auth="SS" cclass="_">y</c> <wil>elApatra</wil> <mw>elApattra</mw>
+<rule conf="LIKELY" class="ERROR">CA/Co</rule> <c auth="SS" cclass="_">y</c> <wil>kaNkarAla</wil> <mw>kaNkarola</mw>
+<rule conf="LIKELY" class="ERROR">Ca/Cu</rule> <c auth="SS" cclass="_">y</c> <wil>kawaBadra</wil> <mw>kawuBadra</mw>
+<rule conf="LIKELY" class="ERROR">wu/du</rule> <c auth="SS" cclass="_">y</c> <wil err="typo">kawuzRa</wil> <mw>kaduzRa</mw>
+<rule conf="LIKELY" class="ERROR">VC/VrC</rule> <c auth="SS" cclass="_">y</c> <wil err="scan">kaRagUTa</wil> <mw>karRagUTa</mw>
+<rule conf="LIKELY" class="ERROR">CA/Co</rule> <c auth="SS" cclass="_">y</c> <wil err="scan">kattAya</wil> <mw>kattoya</mw>
+<rule conf="LIKELY" class="ERROR">VC/VrC</rule> <c auth="SS" cclass="_">y</c> <wil err="scan">kadawa</wil> <mw>kardawa</mw>
+<rule conf="LIKELY" class="ERROR">m/s</rule> <c auth="SS" cclass="_">y</c> <wil err="typo">karinAmikA</wil> <mw>karinAsikA</mw>
+<rule conf="LIKELY" class="ERROR">Ca/Ce</rule> <c auth="SS" cclass="_">y</c> <wil err="scan">kalikIrRa</wil> <mw>kelikIrRa</mw>
+<rule conf="LIKELY" class="ERROR">Ca/Ce</rule> <c auth="SS" cclass="_">y</c> <wil err="scan">kaSAvamarzaRa</wil> <mw>keSAvamarzaRa</mw>
+<rule conf="LIKELY" class="ERROR">CA/Co</rule> <c auth="SS" cclass="_">y alphabetic order tells</c> <wil err="scan">kANkzAru</wil> <mw>kANkzoru</mw>
+<rule conf="LIKELY" class="ERROR">CA/Co</rule> <c auth="SS" cclass="_">y alphabetic order and the definition's reference "see..." tell</c> <wil>kAwISa</wil> <mw>kowISa</mw>
+<rule conf="LIKELY" class="ERROR">VC/VrC</rule> <c auth="SS" cclass="_">y</c> <wil err="scan">kApAsanAsikA</wil> <mw>kArpAsanAsikA</mw>
+<rule conf="LIKELY" class="ERROR">CA/Co</rule> <c auth="SS" cclass="_">y</c> <wil err="scan">kAmApahata</wil> <mw>kAmopahata</mw>
+<rule conf="LIKELY" class="ERROR">Ca/Ce</rule> <c auth="SS" cclass="_">y</c> <wil err="scan">kArakahatu</wil> <mw>kArakahetu</mw>
+<rule conf="LIKELY" class="ERROR">m/s</rule> <c auth="SS" cclass="_">y</c> <wil err="typo">kArttikotmava</wil> <mw>kArttikotsava</mw>
+<rule conf="LIKELY" class="ERROR">Ca/CU</rule> <c auth="SS" cclass="_">y</c> <wil err="scan">kAlakastarI</wil> <mw>kAlakastUrI</mw>
+<rule conf="LIKELY" class="ERROR">Ca/Ce</rule> <c auth="SS" cclass="_">y</c> <wil err="scan">kAlanamiripu</wil> <mw>kAlanemiripu</mw>
+<rule conf="LIKELY" class="ERROR">Ca/Ce</rule> <c auth="SS" cclass="_">y</c> <wil err="scan">kAlamaSikA</wil> <mw>kAlameSikA</mw>
+<rule conf="LIKELY" class="ERROR">Ca/Cu</rule> <c auth="SS" cclass="_">y</c> <wil err="scan">kAzWadra</wil> <mw>kAzWadru</mw>
+<rule conf="LIKELY" class="ERROR">Ca/Cu</rule> <c auth="SS" cclass="_">y</c> <wil err="scan">kuNkamAruRa</wil> <mw>kuNkumAruRa</mw>
+<rule conf="LIKELY" class="ERROR">Ca/Cu</rule> <c auth="SS" cclass="_">y also in the definition in this entry correct kumudDatI to kumudvatI</c> <wil err="scan">kumadinI</wil> <mw>kumudinI</mw>
+<rule conf="LIKELY" class="ERROR">Ca/Cu</rule> <c auth="SS" cclass="_">y</c> <wil err="scan">kUlamadruja</wil> <mw>kUlamudruja</mw>
+<rule conf="LIKELY" class="ERROR">Ca/Ce</rule> <c auth="SS" cclass="_">y</c> <wil err="scan">kfSAnuratas</wil> <mw>kfSAnuretas</mw>
+<rule conf="LIKELY" class="ERROR">m/s</rule> <c auth="PS" cclass="_">y affix 'Sasi'. MW kowiSa also has another meaning</c> <wil err="scan">kowiSam</wil> <mw>kowiSas</mw>
+<rule conf="LIKELY" class="ERROR">B/J</rule> <c auth="SS" cclass="_">y</c> <wil err="typo">kroDojBita</wil> <mw>kroDojJita</mw>
+<rule conf="LIKELY" class="ERROR">Ca/Cu</rule> <c auth="SS" cclass="_">y also correct in the definition: 'kzat' to 'kzut' and 'kza' to 'kzu'</c> <wil err="scan">kzat</wil> <mw>kzut</mw>
+<rule conf="LIKELY" class="ERROR">m/s</rule> <c auth="PS" cclass="_">y Also correct the content of the parens after "mfn.", i.e. correct "-jaH -jAH jaM" to "jAH jAH jaH"!</c> <wil err="scan">kzatatejam</wil> <mw>kzatatejas</mw>
+<rule conf="LIKELY" class="ERROR">Ca/Cu</rule> <c auth="PS" cclass="_">y</c> <wil err="typo">kzavaTa</wil> <mw>kzavaTu</mw>
+<rule conf="LIKELY" class="ERROR">m/s</rule> <c auth="SS" cclass="_">y</c> <wil>KaRqaSam</wil> <mw>KaRqaSas</mw>
+<rule conf="LIKELY" class="ERROR">m/s</rule> <c auth="SS" cclass="_">y</c> <wil>KaraRam</wil> <mw>KaraRas</mw>
+<rule conf="LIKELY" class="ERROR">VC/VrC</rule> <c auth="PS" cclass="_">y</c> <wil err="scan">gaBiRI</wil> <mw>garBiRI</mw>
+<rule conf="LIKELY" class="ERROR">CA/Co</rule> <c auth="SS" cclass="_">y</c> <wil>garBapAzaRa</wil> <mw>garBapozaRa</mw>
+<rule conf="LIKELY" class="ERROR">Ca/Ce</rule> <c auth="PS" cclass="_">y [SS: wil shows both possibilities] PMS: affix is Qak = 'eya'</c> <wil err="scan">gANgawaya</wil> <mw>gANgaweya</mw>
+<rule conf="LIKELY" class="ERROR">Ca/Cu</rule> <c auth="SS" cclass="_">y</c> <wil>guRAnaroDa</wil> <mw>guRAnuroDa</mw>
+<rule conf="LIKELY" class="ERROR">t/tt</rule> <c auth="SS" cclass="_">y</c> <wil>gurupatra</wil> <mw>gurupattra</mw>
+<rule conf="LIKELY" class="ERROR">CA/Co</rule> <c auth="SS" cclass="_">y</c> <wil>gfhApakaraRa</wil> <mw>gfhopakaraRa</mw>
+<rule conf="LIKELY" class="ERROR">Ca/CU</rule> <c auth="SS" cclass="_">y</c> <wil err="scan">goDamasamBava</wil> <mw>goDUmasamBava</mw>
+<rule conf="LIKELY" class="ERROR">Ca/Cu</rule> <c auth="SS" cclass="_">y</c> <wil>gopawA</wil> <mw>gopuwA</mw>
+<rule conf="LIKELY" class="ERROR">Ca/Cu</rule> <c auth="SS" cclass="_">y</c> <wil>gopawika</wil> <mw>gopuwika</mw>
+<rule conf="LIKELY" class="ERROR">Ca/CU</rule> <c auth="SS" cclass="_">y</c> <wil err="scan">GarRana</wil> <mw>GUrRana</mw>
+<rule conf="LIKELY" class="ERROR">VC/VrC</rule> <c auth="PS" cclass="_">y SS: wil has Garza</c> <wil err="typo" corr="Garza">Gaza</wil> <mw>Garza</mw>
+<rule conf="LIKELY" class="ERROR">m/s</rule> <c auth="PS" cclass="_">y PMS: Wilson has n. kzuH, m. kzuH, and E. (etymology) cakzus 'eye'.</c> <wil>cAracakzum</wil> <mw>cAracakzus</mw>
+<rule conf="LIKELY" class="ERROR">m/s</rule> <c auth="SS" cclass="_">y</c> <wil err="scan">citramena</wil> <mw>citrasena</mw>
+<rule conf="LIKELY" class="ERROR">q/w</rule> <c auth="PS" cclass="_">y SS: from scan doesn't look like error. PMS: yes, error</c> <wil err="typo" corr="ciraRwI">ciraRQI</wil> <mw>ciraRwI</mw>
+<rule conf="LIKELY" class="ERROR">m/s</rule> <c auth="SS" cclass="_">y</c> <wil>jalamarpiRI</wil> <mw>jalasarpiRI</mw>
+<rule conf="LIKELY" class="ERROR">VC/VrC</rule> <c auth="SS" cclass="_">y</c> <wil err="scan">jYAnadapaRa</wil> <mw>jYAnadarpaRa</mw>
+<rule conf="LIKELY" class="ERROR">m/s</rule> <c auth="SS" cclass="_">y consistent with alpha error</c> <wil>tejam</wil> <mw>tejas</mw>
+<rule conf="LIKELY" class="ERROR">m/s</rule> <c auth="SS" cclass="_">y</c> <wil err="typo">daRqadAma</wil> <mw>daRqadAsa</mw>
+<rule conf="LIKELY" class="ERROR">t/tt</rule> <c auth="PS" cclass="_">y SS: W. PMS: E, since the formation is dad-tvA it should have double 'tt'; Wilson's form is wrong; but no proof that it's not a scan problem, i.e. correct alphabetic order in either spelling.</c> <wil err="scan">datvA</wil> <mw>dattvA</mw>
+<rule conf="LIKELY" class="ERROR">wu/du</rule> <c auth="SS" cclass="_">y PMS: alphabetic order shows it's a 'd'</c> <wil err="typo">darwura</wil> <mw>dardura</mw>
+<rule conf="LIKELY" class="ERROR">Ca/Ce</rule> <c auth="SS" cclass="_">y</c> <wil err="scan">davayoni</wil> <mw>devayoni</mw>
+<rule conf="LIKELY" class="ERROR">m/s</rule> <c auth="SS" cclass="_">y SS: both probably mean tooth-armour meaning lip but MW meaning is not ceertain. PMS: check the references --> daSanacCada; moreover the etymology in Wilson shows clearly that it is daSana + vAsas.</c> <wil>daSanavAsam</wil> <mw>daSanavAsas</mw>
+<rule conf="LIKELY" class="ERROR">CA/Co</rule> <c auth="SS" cclass="_">y</c> <wil err="scan">dAhalavatI</wil> <mw>dohalavatI</mw>
+<rule conf="LIKELY" class="ERROR">VC/VrC</rule> <c auth="SS" cclass="_">y</c> <wil err="scan">dIGakIla</wil> <mw>dIrGakIla</mw>
+<rule conf="LIKELY" class="ERROR">VC/VrC</rule> <c auth="SS" cclass="_">y</c> <wil err="scan">dIGajaNGa</wil> <mw>dIrGajaNGa</mw>
+<rule conf="LIKELY" class="ERROR">VC/VrC</rule> <c auth="SS" cclass="_">y</c> <wil err="scan">dIGAyuDa</wil> <mw>dIrGAyuDa</mw>
+<rule conf="LIKELY" class="ERROR">Sv/Sc</rule> <c auth="SS" cclass="_">y</c> <wil>dfQaniSvaya</wil> <mw>dfQaniScaya</mw>
+<rule conf="LIKELY" class="ERROR">wu/du</rule> <c auth="SS" cclass="_">y</c> <wil err="typo">dowulyamAna</wil> <mw>dodulyamAna</mw>
+<rule conf="LIKELY" class="ERROR">m/s</rule> <c auth="SS" cclass="_">y</c> <wil>dom</wil> <mw>dos</mw>
+<rule conf="LIKELY" class="ERROR">Ca/CU</rule> <c auth="SS" cclass="_">y</c> <wil err="scan">dyatakara</wil> <mw>dyUtakara</mw>
+<rule conf="LIKELY" class="ERROR">Ca/CU</rule> <c auth="SS" cclass="_">y</c> <wil err="scan">dyatakAra</wil> <mw>dyUtakAra</mw>
+<rule conf="LIKELY" class="ERROR">m/s</rule> <c auth="SS" cclass="_">y</c> <wil err="scan">dvijamevaka</wil> <mw>dvijasevaka</mw>
+<rule conf="LIKELY" class="ERROR">Ca/CU</rule> <c auth="SS" cclass="_">y</c> <wil err="scan">DanacCa</wil> <mw>DanacCU</mw>
+<rule conf="LIKELY" class="ERROR">Ca/CU</rule> <c auth="SS" cclass="_">y</c> <wil err="scan">DapANga</wil> <mw>DUpANga</mw>
+<rule conf="LIKELY" class="ERROR">Ca/CU</rule> <c auth="SS" cclass="_">y</c> <wil err="scan">DamapraBA</wil> <mw>DUmapraBA</mw>
+<rule conf="LIKELY" class="ERROR">Ca/CE</rule> <c auth="SS" cclass="_">y</c> <wil err="scan">nazaDa</wil> <mw>nEzaDa</mw>
+<rule conf="LIKELY" class="ERROR">VC/VrC</rule> <c auth="SS" cclass="_">y</c> <wil err="scan">nigranTa</wil> <mw>nirgranTa</mw>
+<rule conf="LIKELY" class="ERROR">Ca/CU</rule> <c auth="PS" cclass="_">y</c> <wil err="typo">nijuhnazu</wil> <mw>nijuhnUzu</mw>
+<rule conf="LIKELY" class="ERROR">VC/VrC</rule> <c auth="SS" cclass="_">y</c> <wil err="scan">nivyapekza</wil> <mw>nirvyapekza</mw>
+<rule conf="LIKELY" class="ERROR">B/J</rule> <c auth="SS" cclass="_">y</c> <wil err="scan">nIlaBiRwI</wil> <mw>nIlaJiRwI</mw>
+<rule conf="LIKELY" class="ERROR">m/s</rule> <c auth="PS" cclass="_">y PMS: m. (-DAH) and E. affix = asi confirms error.</c> <wil err="scan">noDam</wil> <mw>noDas</mw>
+<rule conf="LIKELY" class="ERROR">Ca/CU</rule> <c auth="SS" cclass="_">y</c> <wil err="scan">nyanatA</wil> <mw>nyUnatA</mw>
+<rule conf="LIKELY" class="ERROR">VC/VrC</rule> <c auth="SS" cclass="_">y</c> <wil err="scan">pAzata</wil> <mw>pArzata</mw>
+<rule conf="LIKELY" class="ERROR">m/s</rule> <c auth="PS" cclass="_">y SS: Wil states the two options. PMS: The lexical identifier m. (saH) and etymology gosa in definition confirm the error.</c> <wil err="scan">piRqagoma</wil> <mw>piRqagosa</mw>
+<rule conf="LIKELY" class="ERROR">Sv/Sc</rule> <c auth="SS" cclass="_">y</c> <wil err="typo">puMSvalI</wil> <mw>puMScalI</mw>
+<rule conf="LIKELY" class="ERROR">Ca/CU</rule> <c auth="SS" cclass="_">y</c> <wil>pupazat</wil> <mw>pupUzat</mw>
+<rule conf="LIKELY" class="ERROR">Ca/CU</rule> <c auth="SS" cclass="_">y according to definition</c> <wil>pEYjaza</wil> <mw>pEYjUza</mw>
+<rule conf="LIKELY" class="ERROR">wu/du</rule> <c auth="SS" cclass="_">y</c> <wil err="scan">pratipAwuka</wil> <mw>pratipAduka</mw>
+<rule conf="LIKELY" class="ERROR">m/s</rule> <c auth="SS" cclass="_">y</c> <wil err="scan">praTIyam</wil> <mw>praTIyas</mw>
+<rule conf="LIKELY" class="ERROR">VC/VrC</rule> <c auth="SS" cclass="_">y</c> <wil err="scan">pradaSaka</wil> <mw>pradarSaka</mw>
+<rule conf="LIKELY" class="ERROR">wu/du</rule> <c auth="SS" cclass="_">y</c> <wil err="typo">prAwurBAva</wil> <mw>prAdurBAva</mw>
+<rule conf="LIKELY" class="ERROR">wu/du</rule> <c auth="SS" cclass="_">y</c> <wil err="typo">prAwuzkfta</wil> <mw>prAduzkfta</mw>
+<rule conf="LIKELY" class="ERROR">wu/du</rule> <c auth="SS" cclass="_">y</c> <wil err="typo">prAntawurga</wil> <mw>prAntadurga</mw>
+<rule conf="LIKELY" class="ERROR">Sv/Sc</rule> <c auth="PS" cclass="_">y SS: but Wil not in alpha order. PMS: Alphabetic order confirms error mapping.</c> <wil>prAyaSvitta</wil> <mw>prAyaScitta</mw>
+<rule conf="LIKELY" class="ERROR">wu/du</rule> <c auth="SS" cclass="_">y</c> <wil err="typo">bahuwugDa</wil> <mw>bahudugDa</mw>
+<rule conf="LIKELY" class="ERROR">wu/du</rule> <c auth="SS" cclass="_">y</c> <wil err="typo">bahuwugDikA</wil> <mw>bahudugDikA</mw>
+<rule conf="LIKELY" class="ERROR">m/s</rule> <c auth="SS" cclass="_">y</c> <wil err="scan">budDimahAya</wil> <mw>budDisahAya</mw>
+<rule conf="LIKELY" class="ERROR">Ca/CU</rule> <c auth="SS" cclass="_">y</c> <wil err="scan">BatagaRa</wil> <mw>BUtagaRa</mw>
+<rule conf="LIKELY" class="ERROR">Ca/CU</rule> <c auth="SS" cclass="_">y</c> <wil err="scan">Bazayitavya</wil> <mw>BUzayitavya</mw>
+<rule conf="LIKELY" class="ERROR">Ca/Ce</rule> <c auth="SS" cclass="_">y</c> <wil err="scan">BImasana</wil> <mw>BImasena</mw>
+<rule conf="LIKELY" class="ERROR">CA/Co</rule> <c auth="SS" cclass="_">y</c> <wil>madAtkawa</wil> <mw>madotkawa</mw>
+<rule conf="LIKELY" class="ERROR">Ca/Cu</rule> <c auth="SS" cclass="_">y</c> <wil>mUtraSakra</wil> <mw>mUtraSukra</mw>
+<rule conf="LIKELY" class="ERROR">Ca/Cu</rule> <c auth="SS" cclass="_">y</c> <wil err="typo">yakzarAwparI</wil> <mw>yakzarAwpurI</mw>
+<rule conf="LIKELY" class="ERROR">Ca/CU</rule> <c auth="SS" cclass="_">y</c> <wil err="scan">yajYaBami</wil> <mw>yajYaBUmi</mw>
+<rule conf="LIKELY" class="ERROR">wu/du</rule> <c auth="PS" cclass="_">y SS: Q, Wil has yadu and is correct also acc to alpha, but scan looks like yawu. you have to perhaps change the Wil entry. PMS: Definition has YADU in it.</c> <wil err="scan">yawu</wil> <mw>yadu</mw>
+<rule conf="LIKELY" class="ERROR">wu/du</rule> <c auth="PS" cclass="_">y SS: Q, same as above</c> <wil>yawunATa</wil> <mw>yadunATa</mw>
+<rule conf="LIKELY" class="ERROR">VC/VrC</rule> <c auth="SS" cclass="_">y</c> <wil>yATATika</wil> <mw>yATArTika</mw>
+<rule conf="LIKELY" class="ERROR">CA/Co</rule> <c auth="SS" cclass="_">y</c> <wil err="scan">yAni</wil> <mw>yoni</mw>
+<rule conf="LIKELY" class="ERROR">CA/Co</rule> <c auth="SS" cclass="_">y</c> <wil err="scan">rasAtpatti</wil> <mw>rasotpatti</mw>
+<rule conf="LIKELY" class="ERROR">VC/VrC</rule> <c auth="SS" cclass="_">y</c> <wil err="scan">rAgacURa</wil> <mw>rAgacUrRa</mw>
+<rule conf="LIKELY" class="ERROR">CA/Co</rule> <c auth="SS" cclass="_">y</c> <wil err="scan">romAdBeda</wil> <mw>romodBeda</mw>
+<rule conf="LIKELY" class="ERROR">Ca/CE</rule> <c auth="PS" cclass="_">y PMS: etymology shows derivation from vik..., alphabetic order confirms missing 'E'.</c> <wil err="scan">vakaNkata</wil> <mw>vEkaNkata</mw>
+<rule conf="LIKELY" class="ERROR">Ca/CE</rule> <c auth="SS" cclass="_">y</c> <wil err="scan">vakAlika</wil> <mw>vEkAlika</mw>
+<rule conf="LIKELY" class="ERROR">VC/VrC</rule> <c auth="SS" cclass="_">y</c> <wil err="scan">vaRajyezWa</wil> <mw>varRajyezWa</mw>
+<rule conf="LIKELY" class="ERROR">VC/VrC</rule> <c auth="SS" cclass="_">y</c> <wil>vazaka</wil> <mw>varzaka</mw>
+<rule conf="LIKELY" class="ERROR">CA/Co</rule> <c auth="SS" cclass="_">y</c> <wil err="scan">vArava</wil> <mw>vorava</mw>
+<rule conf="LIKELY" class="ERROR">q/w</rule> <c auth="SS" cclass="_">y SS: Q, Wil is right, wrong entry. the mapping is wrong because of the entry. PMS: add "y" and corr=.</c> <wil err="typo" corr="vArikaRwaka">vArikaRqaka</wil> <mw>vArikaRwaka</mw>
+<rule conf="LIKELY" class="ERROR">Ca/Cu</rule> <c auth="SS" cclass="_">y</c> <wil>vArdDazi</wil> <mw>vArdDuzi</mw>
+<rule conf="LIKELY" class="ERROR">Ca/Ce</rule> <c auth="PS" cclass="_">y SS: vague in scan</c> <wil err="scan">vikzapa</wil> <mw>vikzepa</mw>
+<rule conf="LIKELY" class="ERROR">Ca/Ce</rule> <c auth="SS" cclass="_">y</c> <wil err="scan">vijYaya</wil> <mw>vijYeya</mw>
+<rule conf="LIKELY" class="ERROR">wu/du</rule> <c auth="PS" cclass="_">y SS: Q, typo due to unclear scan</c> <wil err="typo">vipawudDAra</wil> <mw>vipadudDAra</mw>
+<rule conf="LIKELY" class="ERROR">wu/du</rule> <c auth="PS" cclass="_">y SS: Q, typo due to unclear scan</c> <wil err="typo">viprawuzwa</wil> <mw>vipraduzwa</mw>
+<rule conf="LIKELY" class="ERROR">wu/du</rule> <c auth="PS" cclass="_">y SS: Q, typo due to unclear scan</c> <wil err="typo">viprawuzwaBAva</wil> <mw>vipraduzwaBAva</mw>
+<rule conf="LIKELY" class="ERROR">s/m</rule> <c auth="SS" cclass="_">y SS: Wil scan is right</c> <wil err="typo" corr="vipralumpaka">vipraluspaka</wil> <mw>vipralumpaka</mw>
+<rule conf="LIKELY" class="ERROR">CA/Co</rule> <c auth="SS" cclass="_">y</c> <wil err="scan">viprAzita</wil> <mw>viprozita</mw>
+<rule conf="LIKELY" class="ERROR">Ca/Ce</rule> <c auth="SS" cclass="_">y</c> <wil err="scan">vivacanIya</wil> <mw>vivecanIya</mw>
+<rule conf="LIKELY" class="ERROR">m/s</rule> <c auth="PS" cclass="_">y</c> <wil>viSvaretam</wil> <mw>viSvaretas</mw>
+<rule conf="LIKELY" class="ERROR">m/s</rule> <c auth="PS" cclass="_">y</c> <wil>vizwaraSravam</wil> <mw>vizwaraSravas</mw>
+<rule conf="LIKELY" class="ERROR">m/s</rule> <c auth="SS" cclass="_">y</c> <wil>vihAyam</wil> <mw>vihAyas</mw>
+<rule conf="LIKELY" class="ERROR">Ca/CE</rule> <c auth="PS" cclass="_">y</c> <wil>SarIyaka</wil> <mw>SErIyaka</mw>
+<rule conf="LIKELY" class="ERROR">VC/VrC</rule> <c auth="PS" cclass="_">y</c> <wil>SAkarIya</wil> <mw>SArkarIya</mw>
+<rule conf="LIKELY" class="ERROR">wu/du</rule> <c auth="PS" cclass="_">y</c> <wil>SuklawugDa</wil> <mw>SukladugDa</mw>
+<rule conf="LIKELY" class="ERROR">Ca/Cu</rule> <c auth="PS" cclass="_">y</c> <wil>SuSravas</wil> <mw>SuSruvas</mw>
+<rule conf="LIKELY" class="ERROR">t/tt</rule> <c auth="PS" cclass="_">y</c> <wil>SyAmapatra</wil> <mw>SyAmapattra</mw>
+<rule conf="LIKELY" class="ERROR">VC/VrC</rule> <c auth="PS" cclass="_">y</c> <wil err="scan">saMhaza</wil> <mw>saMharza</mw>
+<rule conf="LIKELY" class="ERROR">m/s</rule> <c auth="PS" cclass="_">y</c> <wil>saDim</wil> <mw>saDis</mw>
+<rule conf="LIKELY" class="ERROR">t/tt</rule> <c auth="PS" cclass="_">y</c> <wil>sapatrAkaraRa</wil> <mw>sapattrAkaraRa</mw>
+<rule conf="LIKELY" class="ERROR">t/tt</rule> <c auth="PS" cclass="_">y</c> <wil>sapatrAkfti</wil> <mw>sapattrAkfti</mw>
+<rule conf="LIKELY" class="ERROR">wu/du</rule> <c auth="PS" cclass="_">y</c> <wil>samawuHKa</wil> <mw>samaduHKa</mw>
+<rule conf="LIKELY" class="ERROR">wu/du</rule> <c auth="PS" cclass="_">y</c> <wil>samantawugDA</wil> <mw>samantadugDA</mw>
+<rule conf="LIKELY" class="ERROR">t/tt</rule> <c auth="PS" cclass="_">y</c> <wil>sarapatrikA</wil> <mw>sarapattrikA</mw>
+<rule conf="LIKELY" class="ERROR">t/tt</rule> <c auth="PS" cclass="_">y</c> <wil>sarpasatrin</wil> <mw>sarpasattrin</mw>
+<rule conf="LIKELY" class="ERROR">m/s</rule> <c auth="PS" cclass="_">y</c> <wil>savAsam</wil> <mw>savAsas</mw>
+<rule conf="LIKELY" class="ERROR">m/s</rule> <c auth="PS" cclass="_">y</c> <wil>sucirAyum</wil> <mw>sucirAyus</mw>
+<rule conf="LIKELY" class="ERROR">m/s</rule> <c auth="PS" cclass="_">y</c> <wil>suzupmu</wil> <mw>suzupsu</mw>
+<rule conf="LIKELY" class="ERROR">m/s</rule> <c auth="PS" cclass="_">y</c> <wil>hatOjam</wil> <mw>hatOjas</mw>
+<rule conf="LIKELY" class="ERROR">wu/du</rule> <c auth="PS" cclass="_">y</c> <wil>hemawugDa</wil> <mw>hemadugDa</mw>
+<rule conf="LIKELY" class="ERROR">wu/du</rule> <c auth="PS" cclass="_">y</c> <wil>hemawugDaka</wil> <mw>hemadugDaka</mw>
+------- filter2.txt -----
+<rule conf="LIKELY" class="GRAMMAR">NEGa</rule> <c auth="PS" cclass="E">___</c> <wil err="scan" corr="anuga">anaga</wil> <mw>anuga</mw>
+<rule conf="LIKELY" class="ERROR">Ca/Cu</rule> <c auth="SS" cclass="E">___</c> <wil err="scan" corr="anutarzaRa">anatarzaRa</wil> <mw>anutarzaRa</mw>
+<rule conf="LIKELY" class="ERROR">Ca/Cu</rule> <c auth="SS" cclass="E">___</c> <wil err="scan" corr="anupaBukta">anapaBukta</wil> <mw>anupaBukta</mw>
+<rule conf="LIKELY" class="VARIANT">v/b</rule> <c auth="SS" cclass="E">___</c> <wil err="scan" corr="anAlamba">anAlamva</wil> <mw>anAlamba</mw>
+<rule conf="LIKELY" class="VARIANT">v/b</rule> <c auth="SS" cclass="E"></c> <wil err="scan" corr="antarlamba">antarlamva</wil> <mw>antarlamba</mw>
+<rule conf="LIKELY" class="VARIANT">b/v</rule> <c auth="SS" cclass="E">___</c> <wil err="scan" corr="apasalavi">apasalabi</wil> <mw>apasalavi</mw>
+<rule conf="LIKELY" class="GRAMMAR">NEGa</rule> <c auth="SS" cclass="E">wilson may have a factual error since 'api' and 'tu' are separate words</c> <wil>apitu</wil> <mw>*</mw>
+<rule conf="LIKELY" class="VARIANT">v/b</rule> <c auth="SS" cclass="E">___</c> <wil err="scan" corr="apekzAbudDi">apekzAvudDi</wil> <mw>apekzAbudDi</mw>
+<rule conf="LIKELY" class="VARIANT">v/b</rule> <c auth="SS" cclass="E">incorrect alphabetic order</c> <wil corr="aBisambanDa" err="scan">aBisamvanDa</wil> <mw>aBisambanDa</mw>
+<rule conf="LIKELY" class="VARIANT">v/b</rule> <c auth="SS" cclass="E">word is alphabetically in the wrong place in Wil</c> <wil err="fac" corr="ayaTAbalam">ayaTAvalam</wil> <mw>ayaTAbalam</mw>
+<rule conf="LIKELY" class="VARIANT">b/v</rule> <c auth="PS" cclass="E">SS: y</c> <wil err="scan" corr="avaravrata">avarabrata</wil> <mw>avaravrata</mw>
+<rule conf="LIKELY" class="VARIANT">b/v</rule> <c auth="SS" cclass="E">___</c> <wil err="scan" corr="avivikta">avibikta</wil> <mw>avivikta</mw>
+<rule conf="LIKELY" class="VARIANT">b/v</rule> <c auth="SS" cclass="E">___</c> <wil err="scan" corr="utpavana">utpabana</wil> <mw>utpavana</mw>
+<rule conf="LIKELY" class="ERROR">Ca/Cf</rule> <c auth="SS" cclass="E">Additionally correct udB to udJ in the def.  Probably need to correct entry uYBa m. to uYJa m.</c> <wil err="scan" corr="udJa">udBa</wil> <mw>*</mw>
+<rule conf="LIKELY" class="VARIANT">v/b</rule> <c auth="PS" cclass="E">b not v because alphabetized before B</c> <wil err="scan" corr="udbanDana">udvanDana</wil> <mw>udbanDana</mw>
+<rule conf="LIKELY" class="VARIANT">v/b</rule> <c auth="PS" cclass="E">b not v because alphabetized before B</c> <wil err="scan" corr="udbAhu">udvAhu</wil> <mw>udbAhu</mw>
+<rule conf="LIKELY" class="VARIANT">v/b</rule> <c auth="PS" cclass="E">b not v because alphabetized before B</c> <wil err="scan" corr="udbudDa">udvudDa</wil> <mw>udbudDa</mw>
+<rule conf="LIKELY" class="VARIANT">v/b</rule> <c auth="PS" cclass="E">b not v because alphabetized before B</c> <wil err="scan" corr="udboDa">udvoDa</wil> <mw>udboDa</mw>
+<rule conf="LIKELY" class="VARIANT">v/b</rule> <c auth="PS" cclass="E">b not v because alphabetized before B</c> <wil err="scan" corr="udboDaka">udvoDaka</wil> <mw>udboDaka</mw>
+<rule conf="LIKELY" class="VARIANT">v/b</rule> <c auth="PS" cclass="E">b not v because alphabetized before B</c> <wil err="scan" corr="udboDana">udvoDana</wil> <mw>udboDana</mw>
+<rule conf="LIKELY" class="ERROR">Ca/CU</rule> <c auth="SS" cclass="E">y</c> <wil err="typo">karRajalakA</wil> <mw>karRajalUkA</mw>
+<rule conf="LIKELY" class="ERROR">m/s</rule> <c auth="SS" cclass="E">y also correct 'muta' to 'suta' in the definition</c> <wil err="typo">karRImuta</wil> <mw>karRIsuta</mw>
+<rule conf="LIKELY" class="VARIANT">b/v</rule> <c auth="PS" cclass="E">y but Wilson has kitava not kitaba and compounds with kEtava</c> <wil corr="kEtava" err="scan">kEtaba</wil> <mw>kEtava</mw>
+<rule conf="LIKELY" class="ERROR">Ca/Ce</rule> <c auth="PS" cclass="E">different words,KalanI not there in Wil scan. PMS: The etymology of the word in the definition and the alphabetic order reveal the error. ejf changed mw element to KastanI</c> <wil err="typo" corr="KastanI">KalanI</wil> <mw>KastanI</mw>
+<rule conf="LIKELY" class="VARIANT">b/v</rule> <c auth="PS" cclass="E">Wilson has vAr  = water, not bAr</c> <wil err="scan" corr="caRakAmlavAr">caRakAmlabAr</wil> <mw>caRakAmlavAr</mw>
+<rule conf="LIKELY" class="VARIANT">b/v</rule> <c auth="PS" cclass="E">alpha order according to 'va' but looks like 'ba'</c> <wil err="scan" corr="cintAvat">cintAbat</wil> <mw>cintAvat</mw>
+<rule conf="LIKELY" class="ERROR">Ca/Cu</rule> <c auth="PS" cclass="E">SS: diff words,diff meanings. PMS: revise mapping t/tt likely error</c> <wil err="typo" corr="tittira">titira</wil> <mw>tittira</mw>
+<rule conf="LIKELY" class="ERROR">Ca/Cu</rule> <c auth="PS" cclass="E">SS: diff words,diff meanings. PMS: remapped t/tt</c> <wil>tripatra</wil> <mw>tripattra</mw>
+<rule conf="LIKELY" class="VARIANT">b/v</rule> <c auth="PS" cclass="E">SS: could be V but likely to be scan error. PMS: Alphabetic order shows error.</c> <wil err="scan" corr="dAvika">dAbika</wil> <mw>dAvika</mw>
+<rule conf="LIKELY" class="VARIANT">b/v</rule> <c auth="SS" cclass="E">alpha order determines error</c> <wil err="scan">DIbara</wil> <mw>DIvara</mw>
+<rule conf="LIKELY" class="VARIANT">b/v</rule> <c auth="PS" cclass="E">SS: yes, but can be E going by Wilson's definition. PMS: error because Wilson doesn't have BAbana, only BAvana as it also appears in the etymology of nyagBAbana.</c> <wil err="scan">nyagBAbana</wil> <mw>nyagBAvana</mw>
+<rule conf="LIKELY" class="VARIANT">b/v</rule> <c auth="SS" cclass="E">SS: probably scan error. PMS: Wilson has root vA, not bA; added attribute in wil element.</c> <wil err="scan">paRaba</wil> <mw>paRava</mw>
+<rule conf="LIKELY" class="VARIANT">b/v</rule> <c auth="PS" cclass="E">SS: likely, but ballaBa does not mean friend in Wil, vallaBa means friend. PMS: Wilson has vallaBa, not ballaBa as separate entry, so compound element should be taken as the same, given that there is no alphabetic order difference to determine otherwise.</c> <wil err="scan">padminIballaBa</wil> <mw>padminIvallaBa</mw>
+<rule conf="LIKELY" class="VARIANT">b/v</rule> <c auth="SS" cclass="E">due to unclear scan. PMS: added attribute to wil element.</c> <wil err="scan">pOraba</wil> <mw>pOrava</mw>
+<rule conf="LIKELY" class="VARIANT">b/v</rule> <c auth="SS" cclass="E">alpha shows</c> <wil err="scan">maYjubaktra</wil> <mw>maYjuvaktra</mw>
+<rule conf="LIKELY" class="VARIANT">b/v</rule> <c auth="PS" cclass="E">SS: Q, data entry error in Wil</c> <wil err="typo" corr="mativiBrama">matibiBrama</wil> <mw>mativiBrama</mw>
+<rule conf="LIKELY" class="ERROR">m/s</rule> <c auth="PS" cclass="E">SS: Q. PMS: 'ww' mistaken for 'df'</c> <wil err="typo" corr="mawwaka">madfka</wil> <mw>mawwaka</mw>
+<rule conf="LIKELY" class="ERROR">m/s</rule> <c auth="PS" cclass="E">SS: Q, should not be mapped to this</c> <wil err="scan" corr="meDa">maDa</wil> <mw>meDa</mw>
+<rule conf="LIKELY" class="VARIANT">b/v</rule> <c auth="PS" cclass="E">SS: scan error. PMS: added attributes</c> <wil err="scan" corr="mantravat">mantrabat</wil> <mw>mantravat</mw>
+<rule conf="LIKELY" class="VARIANT">b/v</rule> <c auth="PS" cclass="E">SS: scan or typo. PMS: added attributes, alphabetic order reveals proper reading = v</c> <wil err="typo" corr="manvantara">manbantara</wil> <mw>manvantara</mw>
+<rule conf="LIKELY" class="VARIANT">v/b</rule> <c auth="PS" cclass="E">SS: unclear scan. PMS: alpha order and etymology in definition tell it's baddha</c> <wil err="typo" corr="marudbadDa">marudvadDa</wil> <mw>marudbadDa</mw>
+<rule conf="LIKELY" class="ERROR">m/s</rule> <c auth="PS" cclass="E">SS: entry should have been mahIyas. PMS: right, but algorithm mad two substitutions instead of just one. Added attributes.</c> <wil err="typo" corr="mahIyas">mahIyam</wil> <mw>sahIyas</mw>
+<rule conf="LIKELY" class="ERROR">m/s</rule> <c auth="PS" cclass="E">SS: Q, different but miw not in scan. PMS: alphabetic order shows correct, remapped.</c> <wil err="typo" corr="mid">miw</wil> <mw>mid</mw>
+<rule conf="LIKELY" class="VARIANT">b/v</rule> <c auth="SS" cclass="E">___</c> <wil>rasABinibeSa</wil> <mw>rasABiniveSa</mw>
+<rule conf="LIKELY" class="VARIANT">b/v</rule> <c auth="SS" cclass="E">___</c> <wil err="scan">rAjabAhya</wil> <mw>rAjavAhya</mw>
+<rule conf="LIKELY" class="VARIANT">b/v</rule> <c auth="SS" cclass="E">english meaning determines mADavI is correct</c> <wil err="scan">latAmADabI</wil> <mw>latAmADavI</mw>
+<rule conf="LIKELY" class="ERROR">VC/VrC</rule> <c auth="SS" cclass="E">SS: wrong mapping, varRi in both. PMS: "Ca/Ce" alphabetic order reveals.</c> <wil err="scan" corr="veRi">vaRi</wil> <mw>veRi</mw>
+<rule conf="LIKELY" class="ERROR">VC/VrC</rule> <c auth="SS" cclass="E">SS: diff words. PMS: alphabetic order reveals error.</c> <wil err="typo" corr="vanra">vatra</wil> <mw>vanra</mw>
+<rule conf="LIKELY" class="VARIANT">b/v</rule> <c auth="SS" cclass="E">definition includes v spelling and deva is recognised by Wil, deba is not</c> <wil err="scan">vAsudeba</wil> <mw>vAsudeva</mw>
+<rule conf="LIKELY" class="VARIANT">b/v</rule> <c auth="PS" cclass="E">___</c> <wil err="scan" corr="vedavacana">vedabacana</wil> <mw>vedavacana</mw>
+<rule conf="LIKELY" class="VARIANT">v/b</rule> <c auth="PS" cclass="E">___</c> <wil err="scan" corr="SakAbda">SakAvda</wil> <mw>SakAbda</mw>
+<rule conf="LIKELY" class="ERROR">CA/Co</rule> <c auth="PS" cclass="E">G/D</c> <wil err="scan" corr="SataDAra">SataGAra</wil> <mw>SataDAra</mw>
+<rule conf="LIKELY" class="VARIANT">b/v</rule> <c auth="PS" cclass="E">Wilson does not have 'bihita' but has 'vihita'</c> <wil err="scan" corr="Srutismftivihita">Srutismftibihita</wil> <mw>Srutismftivihita</mw>
+<rule conf="LIKELY" class="ERROR">Ca/Cu</rule> <c auth="PS" cclass="E">B/m. MW sanAmaka (H3B)</c> <wil err="typo" corr="sanAmaka">sanABaka</wil> <mw>sanAmaka</mw>
+<rule conf="LIKELY" class="GRAMMAR">tva</rule> <c auth="PS" cclass="E">MW separately lists 'sapatnI'</c> <wil err="typo" corr="sapatna">sapatva</wil> <mw>sapatna</mw>
+<rule conf="LIKELY" class="VARIANT">b/v</rule> <c auth="PS" cclass="E">yes but alphabetic order is ambiguous, Wilson has 'vrata' not 'brata' and neither 'anuvrata' nor 'anubrata'</c> <wil err="scan" corr="samanuvrata">samanubrata</wil> <mw>samanuvrata</mw>
+<rule conf="LIKELY" class="VARIANT">v/b</rule> <c auth="PS" cclass="E">Wilson has 'ambara' not 'amvara'</c> <wil err="scan" corr="samudrAmbarA">samudrAmvarA</wil> <mw>samudrAmbarA</mw>
+<rule conf="LIKELY" class="VARIANT">b/v</rule> <c auth="PS" cclass="E">___</c> <wil err="scan" corr="sikatAvat">sikatAbat</wil> <mw>sikatAvat</mw>
+<rule conf="LIKELY" class="ERROR">Ca/Ce</rule> <c auth="PS" cclass="E">MW has correct entry too [L=250964] but not found upon ordinary search; only found with prefix search in advanced search. ejf changed mw field to sUkzmamakzika</c> <wil err="typo" corr="sUkzmamakzikA">sUkzmakzikA</wil> <mw>sUkzmamakzika</mw>
+<rule conf="LIKELY" class="ERROR">Ca/Cu</rule> <c auth="PS" cclass="E">Delete final 'a' from Wilson entry, since final marker is 'f'.  MW has 'hruq' or 'hrUq' so should add 'hrUq'. ejf added 'hrUq' to MW digital.</c> <wil err="fac" corr="hrUq">hrUqa</wil> <mw>hrUq</mw>
+----- filter3.txt ---
+<rule conf="LIKELY" class="VARIANT">b/v</rule> <c auth="SS" cclass="_">y</c> <wil err="scan" corr="araRyavAyasa">araRyabAyasa</wil> <mw>araRyavAyasa</mw>
+<rule conf="LIKELY" class="VARIANT">b/v</rule> <c auth="SS" cclass="_">y</c> <wil err="scan" corr="avaravarRa">avarabarRa</wil> <mw>avaravarRa</mw>
+<rule conf="LIKELY" class="ERROR">Ca/Cu</rule> <c auth="PS" cclass="G">SS: very similar but diff words. PMS: remapped to MW root; participle: prap of causative of prAR.</c> <wil err="scan" corr="prARayat">prARayata</wil> <mw>prAR</mw>
+<rule conf="LIKELY" class="ERROR">Ca/CU</rule> <c auth="PS" cclass="_">PMS: Alphabetic order and similar variants majjUzA/maYjUzA in other dictionaries suggests mapping is correct.</c> <wil err="scan" corr="majjUzA">majjazA</wil> <mw>majjUzA</mw>
+<rule conf="LIKELY" class="VARIANT">v/b</rule> <c auth="PS" cclass="W">y PMS: This is reduplication, not the preverb 'vi' as Wilson supposes.</c> <wil err="fac" corr="biBitsu">viBitsu</wil> <mw>biBitsu</mw>
+<rule conf="LIKELY" class="VARIANT">v/b</rule> <c auth="PS" cclass="W">y PMS: Wilson's etymology as 'Bf' preceded by the preverb 'vi' is incorrect for this reduplicated class 3 root.</c> <wil err="fac" corr="biBrat">viBrat</wil> <mw>biBrat</mw>
+<rule conf="LIKELY" class="ERROR">m/s</rule> <c auth="PS" cclass="V">Wilson Root should be 'zam' with marker 'a' but he always puts the 'a' after final consonant; MW root: sam1</c> <wil corr="zam">zama</wil> <mw>sam</mw>
+<rule conf="LIKELY" class="ERROR">s/m</rule> <c auth="PS" cclass="V">remapped. MW adds penultimate nasal found in present stem to root. MW[L=262731].  The Wilson root should not have final 'a'.</c> <wil err="fac" corr="his">hisa</wil> <mw>hiMs</mw>

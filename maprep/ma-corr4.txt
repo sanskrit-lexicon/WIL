@@ -1,0 +1,30 @@
+<c>(MA) (M/-)</c> <wil err="scan" corr="anukramaRikA">anukraMmaRikA</wil> <mw>anukramaRikA</mw>
+<c>(MA) (M/-) "M" at word-end</c> <wil err="scan" corr="anuraYjana">anuraYjanaM</wil> <mw>anuraYjana</mw>
+<c>(MA) (M/-) "M" at word-end</c> <wil err="scan" corr="apraSasta">apraSastaM</wil> <mw>apraSasta</mw>
+<c>(MA) (M/-) "M" at word-end</c> <wil err="scan" corr="aBihitatva">aBihitatvaM</wil> <mw>aBihitatvaM</mw>
+<c>(MA) (M/-) "M" at word-end</c> <wil err="scan" corr="astranivAraRa">astranivAraRaM</wil> <mw></mw>
+<c>(MA) (M/-) "M" at word-end</c> <wil err="scan" corr="uttamarRa">uttamarRaM</wil> <mw>uttamarRa</mw>
+<c>(MA) (M/-) "r" + "M"</c> <wil err="scan" corr="unmArgagAmin">unmArgaMgAmin</wil> <mw>unmArgaMgAmin</mw>
+<c>(MA) (M/-) "M" at word-end</c> <wil err="scan" corr="upacArakaraRa">upacArakaraRaM</wil> <mw></mw>
+<c>(MA) (M/-) "M" at word-end</c> <wil err="scan" corr="upasarjana">upasarjanaM</wil> <mw></mw>
+<c>(MA) (M/-) "M" + "r'</c> <wil err="scan" corr="karRaveDa">karRaMveDa</wil> <mw></mw>
+<c>(MA) (M/-); a root; in MW under "kartr"o</c> <wil err="scan" corr="kartra">kartraM</wil> <mw></mw>
+<c>(MA) (M/-) at end of compound-member</c> <wil err="scan" corr="kulaBftyA">kulaMBftyA</wil> <mw></mw>
+<c>(MA) (M/-) at word-end</c> <wil err="scan" corr="kfzRasarpa">kfzRasarpaM</wil> <mw></mw>
+<c>(MA) (M/-)</c> <wil err="scan" corr="keSapaNkti">keSapaMNkti</wil> <mw></mw>
+<c>(MA) (M/-)</c> <wil err="scan" corr="kORqinya">kORqinyaM</wil> <mw></mw>
+<c>(MA) (M/-)</c> <wil err="scan" corr="kzudraSIrza">kzudraSIrzaM</wil> <mw></mw>
+<c>(MA) (M/-)</c> <wil err="scan" corr="cAndraka">cAndrakaM</wil> <mw></mw>
+<c>(MA) (M/-)</c> <wil err="scan" corr="duzpraDarzaRI">duzpraDarzaMRI</wil> <mw></mw>
+<c>(MA) (M/-) "" + "M"</c> <wil err="scan" corr="nirGaRwa">nirGaMRwa</wil> <mw></mw>
+<c>(MA) (M/-)</c> <wil err="scan" corr="mAkanda">mAMkanda</wil> <mw></mw>
+<c>(MA) (M/-) "M" at word-end</c> <wil err="scan" corr="varutra">varutraM</wil> <mw></mw>
+<c>(MA) (M/-) "M" at word-end</c> <wil err="scan" corr="huqukka">huqukkaM</wil> <mw></mw>
+
+<c>(MA) (a/u)</c> <wil err="scan" corr="anukaraRa">anakaraRa</wil> <mw></mw>
+<c>(MA) (m/s) wrong auto-correction: AUTO(NEGa)</c> <wil err="scan" corr="asat">amat</wil> <mw></mw>
+<c>(MA) (a/u)</c> <wil err="scan" corr="avawuja">avawaja</wil> <mw></mw>
+
+<c></c> <wil err="scan" corr="agarvva">agarrva</wil> <mw></mw>
+<c>(MA) (v/tr) ; wrong auto-correction: AUTO(NEGa)</c> <wil err="scan" corr="atrapa">avapa</wil> <mw></mw>
+<c>(MA) (e/o)</c> <wil err="scan" corr="amanogata">amanegata</wil> <mw>amanogata</mw>

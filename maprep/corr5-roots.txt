@@ -1,0 +1,163 @@
+<c>SP-ROOT</c> <wil err="scan" corr="prI">prI(Na)prIN</wil> <mw>prI</mw>
+<c>SP-ROOT</c> <wil err="scan" corr="pru">pru(Na)pruNa</wil> <mw>pru</mw>
+<c>SP-ROOT</c> <wil err="scan" corr="plu">plu(Na)pluN</wil> <mw>plu</mw>
+<c>SP-ROOT</c> <wil err="scan" corr="plus">plusa(ira)plusira</wil> <mw>plus</mw>
+<c>SP-ROOT</c> <wil err="scan" corr="plev">pleva(f)plevf</wil> <mw>plev</mw>
+<c>SP-ROOT</c> <wil err="scan" corr="bAq">bAqa(f)bAqf</wil> <mw>bAq</mw>
+<c>SP-ROOT</c> <wil err="scan" corr="bAD">bADa(f)bADf</wil> <mw>bAD</mw>
+<c>SP-ROOT</c> <wil err="scan" corr="bAh">bAha(f)bAhf</wil> <mw>bAh</mw>
+<c>SP-ROOT</c> <wil err="scan" corr="bid">bida(i)bidi</wil> <mw>bid</mw>
+<c>SP-ROOT</c> <wil err="scan" corr="bis">bis(ira)bisira</wil> <mw>bis</mw>
+<c>SP-ROOT</c> <wil err="scan" corr="bud">buda(u, ira)ubudir</wil> <mw>bud</mw>
+<c>SP-ROOT</c> <wil err="scan" corr="buD">buDa(O)ObuDa</wil> <mw>buD</mw>
+<c>SP-ROOT</c> <wil err="scan" corr="bund">bunda(u, ira)ubundir</wil> <mw>bund</mw>
+<c>SP-ROOT</c> <wil err="scan" corr="bunD">bunDa(u, ir)u bunD</wil> <mw>bunD</mw>
+<c>SP-ROOT</c> <wil err="scan" corr="brU">brU(Ya)brUY</wil> <mw>brU</mw>
+<c>SP-ROOT</c> <wil err="scan" corr="BaYj">BaYja(o, O) oBaYj</wil> <mw>BaYj</mw>
+<c>SP-ROOT</c> <wil err="scan" corr="Baq">Baqa(i)Baqi</wil> <mw>BaRq</mw>
+<c>SP-ROOT</c> <wil err="scan" corr="Bad">Bada(i)Badi</wil> <mw>Band</mw>
+<c>SP-ROOT</c> <wil err="scan" corr="BAz">BAza(f)BAzf</wil> <mw>BAz</mw>
+<c>SP-ROOT</c> <wil err="scan" corr="BAs">BAsa(f)BAsf</wil> <mw>BAs</mw>
+<c>SP-ROOT</c> <wil err="scan" corr="BI">BI(Yi)YiBI</wil> <mw>BI</mw>
+<c>SP-ROOT</c> <wil err="scan" corr="Buq">Buqa(i)Buqi</wil> <mw>BuRq</mw>
+<c>SP-ROOT</c> <wil err="scan" corr="Bf">Bf(Y) BfY</wil> <mw>Bf</mw>
+<c>SP-ROOT</c> <wil err="scan" corr="Bfj">Bfja(I)BfjI</wil> <mw>Bfj</mw>
+<c>SP-ROOT</c> <wil err="scan" corr="BfS">BfSa(ir, u,) ir Bf</wil> <mw>BfS</mw>
+<c>SP-ROOT</c> <wil err="scan" corr="Bez">Beza(f)Bezf</wil> <mw>Bez</mw>
+<c>SP-ROOT</c> <wil err="scan" corr="BraMS">BraMSa(u,)BraMSu</wil> <mw>BraMS</mw>
+<c>SP-ROOT</c> <wil err="scan" corr="BraMs">BraMsa(u,)BraMsu</wil> <mw>BraMs</mw>
+<c>SP-ROOT</c> <wil err="scan" corr="Bram">Brama(u,)Bramu</wil> <mw>Bram</mw>
+<c>SP-ROOT</c> <wil err="scan" corr="BraS">BraSa(u,)BraSu</wil> <mw>BraS</mw>
+<c>SP-ROOT</c> <wil err="scan" corr="BrAj">BrAja(wu, f,) wuBr</wil> <mw>BrAj</mw>
+<c>SP-ROOT</c> <wil err="scan" corr="BrAS">BrASa(wu, f,)wuBrA</wil> <mw>BrAS</mw>
+<c>SP-ROOT</c> <wil err="scan" corr="Brej">Breja(f)Brejf</wil> <mw>Brej</mw>
+<c>SP-ROOT</c> <wil err="scan" corr="Brez">Breza(f)Brezf</wil> <mw>Brez</mw>
+<c>SP-ROOT</c> <wil err="scan" corr="BlAS">BlASa(wu f)wu BlAS</wil> <mw>BlAS</mw>
+<c>SP-ROOT</c> <wil err="scan" corr="Blez">Bleza(f)Blezf</wil> <mw>Blez</mw>
+<c>SP-ROOT</c> <wil err="scan" corr="mag">maga(i)</wil> <mw>maNg</mw>
+<c>SP-ROOT</c> <wil err="scan" corr="maG">maGa(i)maGi</wil> <mw>maNG</mw>
+<c>SP-ROOT</c> <wil err="scan" corr="maYc">maYca(u,)maYcu</wil> <mw>maYc</mw>
+<c>SP-ROOT</c> <wil err="scan" corr="maq">maqa(i)maqi</wil> <mw>maRq</mw>
+<c>SP-ROOT</c> <wil err="scan" corr="maT">maTa(e,)maTe</wil> <mw>maT</mw>
+<c>SP-ROOT</c> <wil err="scan" corr="mas">masa(ira, I) ir masI</wil> <mw>mas</mw>
+<c>SP-ROOT</c> <wil err="scan" corr="mAq">mAqa(f)mAqf</wil> <mw>mAq</mw>
+<c>SP-ROOT</c> <wil err="scan" corr="mAh">mAha(u, or f) mAhu</wil> <mw>mAh</mw>
+<c>SP-ROOT</c> <wil err="scan" corr="mi">mi(qu Y,) qumiY</wil> <mw>mi</mw>
+<c>SP-ROOT</c> <wil err="scan" corr="miT">miTa(f,) miTf</wil> <mw>miT</mw>
+<c>SP-ROOT</c> <wil err="scan" corr="miv">miva(i)mivi</wil> <mw>minv</mw>
+<c>SP-ROOT</c> <wil err="scan" corr="mih">miha(O)mihO</wil> <mw>mih</mw>
+<c>SP-ROOT</c> <wil err="scan" corr="mIm">mIma(f)mImf</wil> <mw>mIm</mw>
+<c>SP-ROOT</c> <wil err="scan" corr="muc">muca(lf O) O muclf</wil> <mw>muc</mw>
+<c>SP-ROOT</c> <wil err="scan" corr="muW">muWa(i)muWi</wil> <mw>muRW</mw>
+<c>SP-ROOT</c> <wil err="scan" corr="murcC">murcCa(A,)murcCA</wil> <mw>murC</mw>
+<c>SP-ROOT</c> <wil err="scan" corr="murv">murva(I)murvvI</wil> <mw>murv</mw>
+<c>SP-ROOT</c> <wil err="scan" corr="mus">musa(ira)musira</wil> <mw>mus</mw>
+<c>SP-ROOT</c> <wil err="scan" corr="mf">mf(mf)</wil> <mw>mf</mw>
+<c>SP-ROOT</c> <wil err="scan" corr="mfj">mfja(U)mfjU</wil> <mw>mfj</mw>
+<c>SP-ROOT</c> <wil err="scan" corr="mfD">mfDa(u)mfDu</wil> <mw>mfD</mw>
+<c>SP-ROOT</c> <wil err="scan" corr="mfS">mfSa(O)mfSO</wil> <mw>mfS</mw>
+<c>SP-ROOT</c> <wil err="scan" corr="mew">mewa(f)medf</wil> <mw>mew</mw>
+<c>SP-ROOT</c> <wil err="scan" corr="meT">meTa(f)meTf</wil> <mw>meT</mw>
+<c>SP-ROOT</c> <wil err="scan" corr="med">meda(f)medf</wil> <mw>med</mw>
+<c>SP-ROOT</c> <wil err="scan" corr="meD">meDa(f,)meDf</wil> <mw>meD</mw>
+<c>SP-ROOT</c> <wil err="scan" corr="mep">mepa(f)mepf</wil> <mw>mep</mw>
+<c>SP-ROOT</c> <wil err="scan" corr="mev">meva(f)mevf</wil> <mw>mev</mw>
+<c>SP-ROOT</c> <wil err="scan" corr="mruc">mruca(u,)mrucu</wil> <mw>mruc</mw>
+<c>SP-ROOT</c> <wil err="scan" corr="mruMc">mruMca(u,)mruYca</wil> <mw>mruYc</mw>
+<c>SP-ROOT</c> <wil err="scan" corr="mrew">mrewa(f,)mredf</wil> <mw>mrew</mw>
+<c>SP-ROOT</c> <wil err="scan" corr="mreq">mreqa(f,)meqf</wil> <mw>mreq</mw>
+<c>SP-ROOT</c> <wil err="scan" corr="mluc">mluca(u,)mlucu</wil> <mw>mluc</mw>
+<c>SP-ROOT</c> <wil err="scan" corr="mluYc">mluYca(u,)mluYcu</wil> <mw>mluYc</mw>
+<c>SP-ROOT</c> <wil err="scan" corr="mlew">mlewa(f,)mledf</wil> <mw>mlew</mw>
+<c>SP-ROOT</c> <wil err="scan" corr="mlev">mleva(f,)mlevf</wil> <mw>mlev</mw>
+<c>SP-ROOT</c> <wil err="scan" corr="yat">yata(I)yatI</wil> <mw>yat</mw>
+<c>SP-ROOT</c> <wil err="scan" corr="yatr">yatra(i,)yatri</wil> <mw>yantr</mw>
+<c>SP-ROOT</c> <wil err="scan" corr="yaB">yaBa(O)yaBO</wil> <mw>yaB</mw>
+<c>SP-ROOT</c> <wil err="scan" corr="yas">yasa(ira u) ir yasu</wil> <mw>yas</mw>
+<c>SP-ROOT</c> <wil err="scan" corr="yAc">yAca(du,f)duyAhf</wil> <mw>yAc</mw>
+<c>SP-ROOT</c> <wil err="scan" corr="yuNg">yuga(i)yugi</wil> <mw>yuNg</mw>
+<c>SP-ROOT</c> <wil err="scan" corr="yuj">yuja(O)yujO</wil> <mw>yuj</mw>
+<c>SP-ROOT</c> <wil err="scan" corr="yuD">yuDa(O)</wil> <mw>yuD</mw>
+<c>SP-ROOT</c> <wil err="scan" corr="yez">yeza(f)yezf</wil> <mw>yez</mw>
+<c>SP-ROOT</c> <wil err="scan" corr="yOw">yOwa(f,)yOdf</wil> <mw>yOw</mw>
+<c>SP-ROOT</c> <wil err="scan" corr="raG">raGa(i)raGi</wil> <mw>raG</mw>
+<c>SP-ROOT</c> <wil err="scan" corr="raD">raDa(lf u</wil> <mw>raD</mw>
+<c>SP-ROOT</c> <wil err="scan" corr="raP">raPa(i)raPi</wil> <mw>raP</mw>
+<c>SP-ROOT</c> <wil err="scan" corr="rab">raba(i)rabi</wil> <mw>ramb</mw>
+<c>SP-ROOT</c> <wil err="scan" corr="raB">raBa(O)O raBa</wil> <mw>raB</mw>
+<c>SP-ROOT</c> <wil err="scan" corr="ram">rama(O, u) Oramu</wil> <mw>ram</mw>
+<c>SP-ROOT</c> <wil err="scan" corr="rAK">rAKa(f)rAKf</wil> <mw>rAK</mw>
+<c>SP-ROOT</c> <wil err="scan" corr="rud">ruda(ira)rudira</wil> <mw>rud</mw>
+<c>SP-ROOT</c> <wil err="scan" corr="ruh">ruha(Yi O) YiOruha</wil> <mw>ruh</mw>
+<c>SP-ROOT</c> <wil err="scan" corr="rek">reka(f,)rekf</wil> <mw>rek</mw>
+<c>SP-ROOT</c> <wil err="scan" corr="rej">reja(f,)rejf</wil> <mw>rej</mw>
+<c>SP-ROOT</c> <wil err="scan" corr="rew">rewa(f)redf</wil> <mw>rew</mw>
+<c>SP-ROOT</c> <wil err="scan" corr="rep">repa(f)repf</wil> <mw>rep</mw>
+<c>SP-ROOT</c> <wil err="scan" corr="rev">reva(f)revf</wil> <mw>rev</mw>
+<c>SP-ROOT</c> <wil err="scan" corr="rez">reza(f)rezf</wil> <mw>rez</mw>
+<c>SP-ROOT</c> <wil err="scan" corr="roq">roqa(f)roqf</wil> <mw>roq</mw>
+<c>SP-ROOT</c> <wil err="scan" corr="rOw">rOwa(f)rOdf</wil> <mw>rOw</mw>
+<c>SP-ROOT</c> <wil err="scan" corr="rOq">rOqa(f)rOqf</wil> <mw>rOq</mw>
+<c>SP-ROOT</c> <wil err="scan" corr="lag">laga(e,)lage</wil> <mw>lag</mw>
+<c>SP-ROOT</c> <wil err="scan" corr="lap">lapa(f)lapf</wil> <mw>lap</mw>
+<c>SP-ROOT</c> <wil err="scan" corr="lab">laba(i)labi</wil> <mw>lamb</mw>
+<c>SP-ROOT</c> <wil err="scan" corr="laB">laBa(qu aza)qulaBa</wil> <mw>laB</mw>
+<c>SP-ROOT</c> <wil err="scan" corr="lAK">lAKa(f)lARvf</wil> <mw>lAK</mw>
+<c>SP-ROOT</c> <wil err="scan" corr="lAG">lAGa(f)lAGf</wil> <mw>lAG</mw>
+<c>SP-ROOT</c> <wil err="scan" corr="lAcC">lAcCa(i)lAcCi</wil> <mw>lAYC</mw>
+<c>SP-ROOT</c> <wil err="scan" corr="lig">liga(i)ligi</wil> <mw>liNg</mw>
+<c>SP-ROOT</c> <wil err="scan" corr="lip">lipa(Yi O)Yi Olipa</wil> <mw>lip</mw>
+<c>SP-ROOT</c> <wil err="scan" corr="liS">liSa(O)liSO</wil> <mw>liS</mw>
+<c>SP-ROOT</c> <wil err="scan" corr="luc">luca(i)luci</wil> <mw>luYc</mw>
+<c>SP-ROOT</c> <wil err="scan" corr="luw">luwa(lf)luwlf</wil> <mw>luw</mw>
+<c>SP-ROOT</c> <wil err="scan" corr="luT">luTa(i)luTi</wil> <mw>lunT</mw>
+<c>SP-ROOT</c> <wil err="scan" corr="lub">luba(i)lubi</wil> <mw>lumb</mw>
+<c>SP-ROOT</c> <wil err="scan" corr="lU">lU(lU)</wil> <mw>lU</mw>
+<c>SP-ROOT</c> <wil err="scan" corr="lep">lepa(f)lepf</wil> <mw>lep</mw>
+<c>SP-ROOT</c> <wil err="scan" corr="lER">lERa(f)lERf</wil> <mw>lER</mw>
+<c>SP-ROOT</c> <wil err="scan" corr="lok">loka(f)lokf</wil> <mw>lok</mw>
+<c>SP-ROOT</c> <wil err="scan" corr="loc">loca(f)locf</wil> <mw>loc</mw>
+<c>SP-ROOT</c> <wil err="scan" corr="low">lowa(f)lodf</wil> <mw>low</mw>
+<c>SP-ROOT</c> <wil err="scan" corr="loq">loqa(f)loqf</wil> <mw>loq</mw>
+<c>SP-ROOT</c> <wil err="scan" corr="vak">vaka(i)vaki</wil> <mw>vak</mw>
+<c>SP-ROOT</c> <wil err="scan" corr="vag">vaga(i)vagi</wil> <mw>vaNg</mw>
+<c>SP-ROOT</c> <wil err="scan" corr="vaG">vaGa(i)vaGi</wil> <mw>vaNG</mw>
+<c>SP-ROOT</c> <wil err="scan" corr="vac">vaca(O)Ovaca</wil> <mw>vac</mw>
+<c>SP-ROOT</c> <wil err="scan" corr="vaYc">vaYca(u)vaYca</wil> <mw>vaYc</mw>
+<c>SP-ROOT</c> <wil err="scan" corr="vaq">vaqa(i)vaqi</wil> <mw>vaRq</mw>
+<c>SP-ROOT</c> <wil err="scan" corr="vaR">vaRa(f)vaRf</wil> <mw>vaR</mw>
+<c>SP-ROOT</c> <wil err="scan" corr="vap">vapa(qu)quvapa</wil> <mw>vap</mw>
+<c>SP-ROOT</c> <wil err="scan" corr="vam">vama(wu u)wuvamu</wil> <mw>vam</mw>
+<c>SP-ROOT</c> <wil err="scan" corr="vas">vasa(O)Ovasa</wil> <mw>vas</mw>
+<c>SP-ROOT</c> <wil err="scan" corr="vAkz">vAkza(i)vAkzi</wil> <mw>vANkz</mw>
+<c>SP-ROOT</c> <wil err="scan" corr="vAcC">vAcCa(i)vAcCi</wil> <mw>vAYC</mw>
+<c>SP-ROOT</c> <wil err="scan" corr="vAq">vAqa(f)vAqf</wil> <mw>vAq</mw>
+<c>SP-ROOT</c> <wil err="scan" corr="vAvft">vAvfta(u)</wil> <mw>vAvft</mw>
+<c>SP-ROOT</c> <wil err="scan" corr="vAS">vASa(f)vASf</wil> <mw>vAS</mw>
+<c>SP-ROOT</c> <wil err="scan" corr="vAh">vAha(f)vAhf</wil> <mw>vAh</mw>
+<c>SP-ROOT</c> <wil err="scan" corr="vic">vica(Oira)O vicir</wil> <mw>vic</mw>
+<c>SP-ROOT</c> <wil err="scan" corr="vij">vija(O ira)O vijir</wil> <mw>vij</mw>
+<c>SP-ROOT</c> <wil err="scan" corr="viT">viTa(f)viTf</wil> <mw>viT</mw>
+<c>SP-ROOT</c> <wil err="scan" corr="vfj">vfja(I)vfjI</wil> <mw>vfj</mw>
+<c>SP-ROOT</c> <wil err="scan" corr="vraSc">vraSca(o u)ovraScu</wil> <mw>vraSc</mw>
+<c>SP-ROOT</c> <wil err="scan" corr="SOw">SOqa(f)SOqf</wil> <mw>SOw</mw>
+<c>SP-ROOT</c> <wil err="scan" corr="ban">bana(banu)</wil> <mw>ban</mw>
+<c>SP-ROOT</c> <wil err="scan" corr="bahi">bahi(i)bahi</wil> <mw>bahi</mw>
+<c>SP-ROOT</c> <wil err="scan" corr="Biw">Biw(ira)Bidir</wil> <mw>Biw</mw>
+<c>SP-ROOT</c> <wil err="scan" corr="Brasj">Brasja(O)OBrasja</wil> <mw>Brasj</mw>
+<c>SP-ROOT</c> <wil err="scan" corr="matr">matra(i,)matri</wil> <mw>matr</mw>
+<c>SP-ROOT</c> <wil err="scan" corr="masj">masja(wu o)wumasjo</wil> <mw>masj</mw>
+<c>SP-ROOT</c> <wil err="scan" corr="mAkz">mAkza(i)mAkzi</wil> <mw>mAkz</mw>
+<c>SP-ROOT</c> <wil err="scan" corr="mAT">mATa(i)mATi</wil> <mw>mAT</mw>
+<c>SP-ROOT</c> <wil err="scan" corr="muT (spelled as munT)">muTa(i,)muTi</wil> <mw>muT (spelled as munT)</mw>
+<c>SP-ROOT</c> <wil err="scan" corr="meqf">meqf(f)meqf</wil> <mw>meqf</mw>
+<c>SP-ROOT</c> <wil err="scan" corr="meb">meba(f)mebf</wil> <mw>meb</mw>
+<c>SP-ROOT</c> <wil err="scan" corr="mleq">mleqa(f,)mleqf</wil> <mw>mleq</mw>
+<c>SP-ROOT</c> <wil err="scan" corr="rav">rava(i)ravi</wil> <mw>rav</mw>
+<c>SP-ROOT</c> <wil err="scan" corr="reb">reba(f)rebf</wil> <mw>reb</mw>
+<c>SP-ROOT</c> <wil err="scan" corr="reB">reBa(f)reBf</wil> <mw>reB</mw>
+<c>SP-ROOT</c> <wil err="scan" corr="lasj">lasja(o I)olasjI</wil> <mw>lasj</mw>
+<c>SP-ROOT</c> <wil err="scan" corr="luj">luja(i)luji</wil> <mw>luj</mw>
+<c>SP-ROOT</c> <wil err="scan" corr="vAD">vADa(f)vADf</wil> <mw>vAD</mw>
+<c>SP-ROOT</c> <wil err="scan" corr="vyus">vyusa(ira)vyusira</wil> <mw>vyus</mw>
+<c>SP-ROOT</c> <wil err="scan" corr="vyo">vyo(Ya)vyeY(vyayati</wil> <mw>vyo</mw>

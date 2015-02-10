@@ -1,0 +1,6 @@
+OK<c>(MA) (-/am)| printing-error (Wilson prints a virama that is wrong)?</c> <wil err="fact" corr="aDijyotiza">aDijyotiz</wil> <mw>aDijyotizam</mw>
+ok <c>(MA) (-/M) </c> <wil err="typo" corr="aDo'MSuka">aDo'Suka</wil> <mw>aDoMSuka</mw>
+ok <c>(MA) (a/-) </c> <wil err="scan" corr="IK">IKa</wil> <mw>IK</mw>
+ok <c>(MA) (a/-) </c> <wil err="scan" corr="Ij">Ija</wil> <mw>Ij</mw>
+ok <c>(MA) (M/-)</c> <wil corr="nUtanatva">nUtanatvaM</wil> <mw>*</mw>
+<c>(MA) (M/-)</c> <wil corr="pOnaHpunya">pOnaHpunyaM</wil> <mw>*</mw>

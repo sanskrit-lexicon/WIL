@@ -1,0 +1,25 @@
+ban: Wilson slp key=bana(banu)	PMS:corr="ban" type="factual" variant="van". Note he states "preferebly written vana", which indicates that a. he was deliberate in leaving off virama, b. he recognized that 'b' should properly be 'v' here.
+bahi: Wilson slp key=bahi(i)bahi	PMS: corr="bah" (i)=marker, bahi=root cum marker.
+Biw: Wilson slp key=Biw(ira)Bidir	PMS:corr="Bid" type="typo"; correct "ira" to "ir" type="print" (everywhere this occurs in parenthesis)
+Brasj: Wilson slp key=Brasja(O)OBrasja	PMS: corr="Brasj", correct (O) to (a), correct "OBrasja" to "Brasja"; find the root in MW under our normalized form: "Brajj"
+matr: Wilson slp key=matra(i,)matri	PMS: corr="matr", correct (i,) to (i), find in MW under "mantr"
+masj: Wilson slp key=masja(wu o)wumasjo	PMS: corr="masj", find in MW under our normalized form: majj
+mAkz: Wilson slp key=mAkza(i)mAkzi	PMS: corr="mAkz" find in MW under "mANkz"
+mAT: Wilson slp key=mATa(i)mATi	corr="mAT", find in MW and MDhV under "mAnT"
+muT (spelled as munT): Wilson slp key=muTa(i,)muTi	PMS: corr="muW", correct (i,) to (i), correct "mUTi" to "muWi", find in MW under "muRW"
+meqf: Wilson slp key=meqf(f)meqf	PMS: corr="meq"
+meb: Wilson slp key=meba(f)mebf
+mleq: Wilson slp key=mleqa(f,)mleqf
+rav: Wilson slp key=rava(i)ravi
+reb: Wilson slp key=reba(f)rebf
+reB: Wilson slp key=reBa(f)reBf
+lasj: Wilson slp key=lasja(o I)olasjI	PMS: use our normalized form: lajj
+luj: Wilson slp key=luja(i)luji
+vAD: Wilson slp key=vADa(f)vADf
+vyus: Wilson slp key=vyusa(ira)vyusira	PMS: corr="vyus", correct "ira" to "ir"
+vyo: Wilson slp key=vyo(Ya)vyeY(vyayati	PMS: corr="vye", correct "(Ya)" to "(Y)", in "vyeY(vyayati" move "(vyayati" out of the root cum marker since it is the 3sa pre.
+PMS: The rest are fixed correctly by you in left magin.
+
+163 keys processed
+143 keys identified as roots
+20 keys not identified as roots 
