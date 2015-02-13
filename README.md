@@ -16,8 +16,8 @@ Wilson Sanskrit-English Dictionary. Based on Cologne digitization. Work pertaini
              material is from the University of Cologne Sanskrit-Lexicon
              web site.  
              All rights reserved other than those granted under the Creative Commons Attribution
-             Non-Commercial Share Alike license (3.0) available in [full]
-             (http://creativecommons.org/licenses/by-nc-sa/3.0/legalcode), and in [summary]
+             Non-Commercial Share Alike license (3.0) available in <span>[full]
+             (http://creativecommons.org/licenses/by-nc-sa/3.0/legalcode)</span>, and in [summary]
              (http://creativecommons.org/licenses/by-nc-sa/3.0/) . Permission is
              granted to build upon this work non-commercially, as long as credit is explicitly
              acknowledged exactly as described herein and derivative work is distributed under the
