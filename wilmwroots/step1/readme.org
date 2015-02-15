@@ -92,11 +92,12 @@ prefixed form.  (e.g., under 'i': with ... <s>aDi</s>... r. 2nd cl. ()<s>aDyeti<
 
 python wil_mw.py wil_rdot.txt verb_step0a.txt corr6-roots.txt wil_mw.txt wil_mw_prob.txt
 
-10414 records read from verb_step0a.txt
-1283 records read from verb_step0a.txt
-1756 records read from wil_rdot.txt
-1473 lines written to wil_mw.txt
-283 lines written to wil_mw_prob.txt
+|Count | description |
+|10414 |records read from verb_step0a.txt|
+|1283 |records read from verb_step0a.txt|
+|1756 |records read from wil_rdot.txt|
+|1473 |lines written to wil_mw.txt|
+|283 |lines written to wil_mw_prob.txt|
 
 ** Note 0: 
  wil_mw_prob.txt contains each of the cases where there is a Wilson root
