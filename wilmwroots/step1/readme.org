@@ -136,44 +136,30 @@ WARNING: For wilkey=skaBa, mwkey(skaB) != dcorr6(skamB)
   These need to be understood.
 
 |#|Data|
-|1 |step0a record=amb:14390:<H1>:V::<vlex type="root"></vlex> <vlex>cl.1 P.</vlex> <vlex>cl.1 A1.</vlex>
-   
-  Matches > 1 Wilson key: aba, amba |
+|1 |step0a record=amb:14390:<H1>:V::<vlex type="root"></vlex> <vlex>cl.1 P.</vlex> <vlex>cl.1 A1.</vlex>|Matches > 1 Wilson key: aba, amba |
 
-|2 |step0a record=kak:41405:<H1>:V::<vlex type="root"></vlex> <vlex>cl.1 A1.</vlex>
-   Matches > 1 Wilson key: kaka, kakka |
+|2 |step0a record=kak:41405:<H1>:V::<vlex type="root"></vlex> <vlex>cl.1 A1.</vlex>| Matches > 1 Wilson key: kaka, kakka |
 
-|3 |step0a record=kaK:41598:<H1>:V::<vlex type="root"></vlex> <vlex>cl.1 P.</vlex>
-   Matches > 1 Wilson key: kakKa, kakKa, kaKa |
+|3 |step0a record=kaK:41598:<H1>:V::<vlex type="root"></vlex> <vlex>cl.1 P.</vlex>|Matches > 1 Wilson key: kakKa, kakKa, kaKa |
 
-|4 |step0a record=Karb:61559:<H1>:V::<vlex type="root"></vlex> <vlex>cl.1 P.</vlex>
-   Matches > 1 Wilson key: Karba, Karba |
+|4 |step0a record=Karb:61559:<H1>:V::<vlex type="root"></vlex> <vlex>cl.1 P.</vlex>|Matches > 1 Wilson key: Karba, Karba |
 
-|5 |step0a record=Gur:69819:<H1>:V::<vlex type="root"></vlex> <vlex>cl.6 P.</vlex> <vlex>A1.</vlex>
-   Matches > 1 Wilson key: Gura, Gura |
+|5 |step0a record=Gur:69819:<H1>:V::<vlex type="root"></vlex> <vlex>cl.6 P.</vlex> <vlex>A1.</vlex>|Matches > 1 Wilson key: Gura, Gura |
 
-|6 |step0a record=carc:72401:<H1>:V::<vlex type="root"></vlex> <vlex>cl.1.</vlex> <vlex>cl.10.</vlex> <vlex>A1.</vlex>
-   Matches > 1 Wilson key: carca, carcca |
+|6 |step0a record=carc:72401:<H1>:V::<vlex type="root"></vlex> <vlex>cl.1.</vlex> <vlex>cl.10.</vlex> <vlex>A1.</vlex>| Matches > 1 Wilson key: carca, carcca |
 
-|7 |step0a record=cuww:74559:<H1>:V::<vlex type="root"></vlex> <vlex>cl.10.</vlex>
-   Matches > 1 Wilson key: cuwwa, cuwwa| 
+|7 |step0a record=cuww:74559:<H1>:V::<vlex type="root"></vlex> <vlex>cl.10.</vlex>| Matches > 1 Wilson key: cuwwa, cuwwa| 
 
-|8 |step0a record=dimB:92219:<H1>:V::<vlex type="root"></vlex> <vlex>cl.10 A1.</vlex> <vlex>P.</vlex>
-   Matches > 1 Wilson key: diBa, dimBa |
+|8 |step0a record=dimB:92219:<H1>:V::<vlex type="root"></vlex> <vlex>cl.10 A1.</vlex> <vlex>P.</vlex>| Matches > 1 Wilson key: diBa, dimBa |
 
-|9 |step0a record=banD:142512:<H1>:V::<vlex type="root"></vlex> <vlex>cl.9 P.</vlex> <vlex>A1.</vlex> <vlex>cl.1 P.</vlex> <vlex>A1.</vlex> <vlex>cl.4 P.</vlex> <vlex>P.</vlex> <vlex>A1.</vlex> <vlex>P.</vlex>
-   Matches > 1 Wilson key: baDa, banDa |
+|9 |step0a record=banD:142512:<H1>:V::<vlex type="root"></vlex> <vlex>cl.9 P.</vlex> <vlex>A1.</vlex> <vlex>cl.1 P.</vlex> <vlex>A1.</vlex> <vlex>cl.4 P.</vlex> <vlex>P.</vlex> <vlex>A1.</vlex> <vlex>P.</vlex>| Matches > 1 Wilson key: baDa, banDa |
 
-|10 |step0a record=riK:177953:<H1>:V::<vlex type="root"></vlex> <vlex>cl.1 P.</vlex> <vlex>cl.6 P.</vlex>
-   Matches > 1 Wilson key: riKa, riKa| 
+|10 |step0a record=riK:177953:<H1>:V::<vlex type="root"></vlex> <vlex>cl.1 P.</vlex> <vlex>cl.6 P.</vlex>|Matches > 1 Wilson key: riKa, riKa| 
 
-|11 |step0a record=skand:254077:<H1>:V::<vlex type="root"></vlex> <vlex>cl.1 P.</vlex> <vlex>A1.</vlex>
-   Matches > 1 Wilson key: skada, skanda |
+|11 |step0a record=skand:254077:<H1>:V::<vlex type="root"></vlex> <vlex>cl.1 P.</vlex> <vlex>A1.</vlex>| Matches > 1 Wilson key: skada, skanda |
 
-|12 |step0a record=stf:254842:<H1>:V::<vlex type="root"></vlex> <vlex>cl.5.9.</vlex> <vlex>P. A1.</vlex> <vlex>A1.</vlex> <vlex>cl.9 P. A1.</vlex> <vlex>cl.5. P. A1.</vlex> <vlex>P.</vlex>
-   Matches > 1 Wilson key: stf, stf |
+|12 |step0a record=stf:254842:<H1>:V::<vlex type="root"></vlex> <vlex>cl.5.9.</vlex> <vlex>P. A1.</vlex> <vlex>A1.</vlex> <vlex>cl.9 P. A1.</vlex> <vlex>cl.5. P. A1.</vlex> <vlex>P.</vlex>| Matches > 1 Wilson key: stf, stf |
 
-|13 |step0a record=sPurj:257014.1:<H1>:V::<vlex type="root"></vlex>
-   Matches > 1 Wilson key: sPurjja, sPurjja |
+|13 |step0a record=sPurj:257014.1:<H1>:V::<vlex type="root"></vlex>| Matches > 1 Wilson key: sPurjja, sPurjja |
 
 
