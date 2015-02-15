@@ -21,6 +21,13 @@ Working documents from a project to correlate headwords from
              acknowledged exactly as described herein and derivative work is distributed under the
              same license.
 
+maprep
+------
+
+Further working documents from Ahlborn/Scharf (2011) regarding correspondence between headwords for
+Wilson and Monier-Williams dictionaries.
+corr6-roots.txt provides this correspondence for about 1200 roots.
+
 wiltabwork
 ----------
 
@@ -32,4 +39,9 @@ Work to make use of some of the material in wiltab2011 for the purpose of genera
 alphawork
 ---------
 
-Work to look for headword spelling errors selected by alphabetical misorderings.
+Work regarding  headword spelling errors selected by alphabetical misorderings.
+
+wilmwroots
+----------
+
+(Begun Feb 2015). Continues work on the correspondence between Wilson and Monier-Williams roots.

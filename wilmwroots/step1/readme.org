@@ -1,0 +1,175 @@
+
+Feb 14. 2014
+Wil/wilmwroots/step1
+
+* Purpose
+The material of this repository represents a first step in a study
+of the correspondence between the Sanskrit verbal roots as presented in 
+the Wilson dictionary and in the Monier-Williams (1899) dictionary. 
+The study uses the digitial representation of these 
+dictionaries at the University of Cologne Sanskrit-Lexicon.
+
+In this step, the basis for comparison is the spelling of the headwords.
+We will see that a few simple differences in spelling conventions 
+can be used to provide a first approximation to correspondences between
+entries for roots in the two dictionaries.
+
+This first step also points out cases of Wilson roots where none of the simple
+spelling convention differences provides a correspondence. For about 60 of 
+these, prior work by Ahlborn and Scharf assert a correspondence, and for about
+230 of these no correspondence has yet been determined.  
+
+The main task of the next step will be to examine individually the unmatched 
+Wilson roots, with an aim to completing the correspondence. It is 
+believed that many of these may be resolved by (a) correcting
+digitization errors in Wilson headword spellings and (b) adding verb markup to
+records of Monier-Williams.  There are also a few internal inconsistencies
+(such as multiple Wilson headwords corresponding to one MW headword) which
+need to be examined and resolved.  Lastly, new correspondence principles
+need to be discovered to explain those unexplained by such 'errors', and to
+identify which (if any) of the Wilson roots have no correspondent in MW.
+
+
+It is anticipated that, after completing the correspondences between roots
+in Wilson and MW based primarily upon spelling differences,  a further
+examination of the correspondence will take into account 
+class and definitional information.
+
+
+* input data
+** wil.xml 
+  from wilxml.zip at http://www.sanskrit-lexicon.uni-koeln.de/scans/WILScan/2014/web/webtc/download.html
+  The Wilson roots are drawn from this digitization of the Wilson 
+  Sanskrit-English Dictionary.
+** verb_step0a.txt 
+ from  https://github.com/funderburkjim/MWvlex/tree/master/step0
+ This contains summary information for the roots in the Monier-Williams
+ Sanskrit-English Dictionary
+
+** corr6-roots.txt 
+ from  https://github.com/sanskrit-lexicon/WIL/tree/master/maprep
+ This contains the a correspondence between some Wilson roots and MW roots 
+ developed by Matthias Ahlborn and Peter Scharf in 2011.
+
+* wil_rdot.txt 
+python wil_rdot.py wil.xml wil_rdot.txt 
+
+Depends on wil.xml.
+Wilson seems to indicate roots with  'r.'.
+Use this to select records from wil.xml:
+1756 cases
+
+Exclude a few (7) cases where 'r.' occurs in etymology after 'E.'
+
+Next was the first try, but it doesn't remove the 'r. after E.'-cases
+grep '\Wr[.]\W' wil.xml > wil_rdot.txt
+
+
+* wil_rdot_key1_ne_key2.txt
+python wil_rdot_key1_ne_key2.py wil_rdot.txt wil_rdot_key1_ne_key2.txt
+
+For most of these, key1 and key2 are identical.
+However, for 160 of these, key1 and key2 are different.
+ (wil_rdot_key1_ne_key2.txt)
+Not sure how to interpret these 160; in particular, do we have a
+'correct' key1 for these?
+
+* 'cl.' in wil_rdot (observation)
+In 1690 cases in wil_rdot.txt, there is 'cl.'
+ In 352 of these cases, there is more than one 'r. X cl.'
+In 70 cases there is 'cls.' (e.g. sku, r. 9th and 5th cls.)
+In 3 cases (oKa, yuga, sawa) there is 'cl' rather than 'cl.'
+
+Wilson does not list prefixed verbs;  he discusses the prefixed forms of
+a root under the root headword.  There are 200 roots that have 
+'[Ww]ith +<s>' - For these roots, prefixed forms are discussed.  Not sure
+if all roots with prefixed forms are thus identified.
+In 28 cases (such as under aYca, i), a 'r. X cl' appears after the
+prefixed form.  (e.g., under 'i': with ... <s>aDi</s>... r. 2nd cl. ()<s>aDyeti</s>)
+
+
+* wil_mw.txt and wil_mw_prob.txt
+
+python wil_mw.py wil_rdot.txt verb_step0a.txt corr6-roots.txt wil_mw.txt wil_mw_prob.txt
+
+10414 records read from verb_step0a.txt
+1283 records read from verb_step0a.txt
+1756 records read from wil_rdot.txt
+1473 lines written to wil_mw.txt
+283 lines written to wil_mw_prob.txt
+
+** Note 0: 
+ wil_mw_prob.txt contains each of the cases where there is a Wilson root
+with no matching MW root.  For each case, there is a case number, the
+root spelling (key1), and the underlying Wilson record.
+
+** Note 1: 
+  Tabulation of reasons for matching:
+  In description, X = wilson root, Y = matching MW root
+None        283   X not matched  (wil_mw_prob.txt has list)
+ROOT        185   X = Y
+SPa-ROOT   1166   X = Ya
+SPa-ROOT-r   22   X' = Ya  where X' removes a doubled consonant after 'r'
+SPb-ROOT     24   X = Z+a  Y = Z+aya
+SPc-ROOT     14   X' = Ya  where  X' replaces 'cC' with 'C'
+SPma-ROOT    62   X and Y not matched by above, but are matched in corr6-roots.txt
+
+** TODO Note 2: 
+kurda matches kurd by Corr6, but kurd is not in step0a verbs
+dfmPa matches dfmP by Corr6, but dfmP is not in step0a verbs
+These two cases can likely be 'solved' by adding markup to MW
+
+** TODO Note 3: 
+corr6-roots gives different answer for mw in a few cases
+
+WARNING: For wilkey=jala, mwkey(jala) != dcorr6(jal)
+WARNING: For wilkey=Dana, mwkey(Dana) != dcorr6(Dan)
+WARNING: For wilkey=Pulla, mwkey(Pulla) != dcorr6(Pull)
+WARNING: For wilkey=laGa, mwkey(laGaya) != dcorr6(laNG)
+WARNING: For wilkey=skaBa, mwkey(skaB) != dcorr6(skamB)
+
+** TODO Note 4: 
+  Some step0a verbs are made to correspond to multiple wilson verbs.
+  These need to be understood.
+1 step0a record=amb:14390:<H1>:V::<vlex type="root"></vlex> <vlex>cl.1 P.</vlex> <vlex>cl.1 A1.</vlex>
+   Matches > 1 Wilson key: aba, amba 
+
+2 step0a record=kak:41405:<H1>:V::<vlex type="root"></vlex> <vlex>cl.1 A1.</vlex>
+   Matches > 1 Wilson key: kaka, kakka 
+
+3 step0a record=kaK:41598:<H1>:V::<vlex type="root"></vlex> <vlex>cl.1 P.</vlex>
+   Matches > 1 Wilson key: kakKa, kakKa, kaKa 
+
+4 step0a record=Karb:61559:<H1>:V::<vlex type="root"></vlex> <vlex>cl.1 P.</vlex>
+   Matches > 1 Wilson key: Karba, Karba 
+
+5 step0a record=Gur:69819:<H1>:V::<vlex type="root"></vlex> <vlex>cl.6 P.</vlex> <vlex>A1.</vlex>
+   Matches > 1 Wilson key: Gura, Gura 
+
+6 step0a record=carc:72401:<H1>:V::<vlex type="root"></vlex> <vlex>cl.1.</vlex> <vlex>cl.10.</vlex> <vlex>A1.</vlex>
+   Matches > 1 Wilson key: carca, carcca 
+
+7 step0a record=cuww:74559:<H1>:V::<vlex type="root"></vlex> <vlex>cl.10.</vlex>
+   Matches > 1 Wilson key: cuwwa, cuwwa 
+
+8 step0a record=dimB:92219:<H1>:V::<vlex type="root"></vlex> <vlex>cl.10 A1.</vlex> <vlex>P.</vlex>
+   Matches > 1 Wilson key: diBa, dimBa 
+
+9 step0a record=banD:142512:<H1>:V::<vlex type="root"></vlex> <vlex>cl.9 P.</vlex> <vlex>A1.</vlex> <vlex>cl.1 P.</vlex> <vlex>A1.</vlex> <vlex>cl.4 P.</vlex> <vlex>P.</vlex> <vlex>A1.</vlex> <vlex>P.</vlex>
+   Matches > 1 Wilson key: baDa, banDa 
+
+10 step0a record=riK:177953:<H1>:V::<vlex type="root"></vlex> <vlex>cl.1 P.</vlex> <vlex>cl.6 P.</vlex>
+   Matches > 1 Wilson key: riKa, riKa 
+
+11 step0a record=skand:254077:<H1>:V::<vlex type="root"></vlex> <vlex>cl.1 P.</vlex> <vlex>A1.</vlex>
+   Matches > 1 Wilson key: skada, skanda 
+
+12 step0a record=stf:254842:<H1>:V::<vlex type="root"></vlex> <vlex>cl.5.9.</vlex> <vlex>P. A1.</vlex> <vlex>A1.</vlex> <vlex>cl.9 P. A1.</vlex> <vlex>cl.5. P. A1.</vlex> <vlex>P.</vlex>
+   Matches > 1 Wilson key: stf, stf 
+
+13 step0a record=sPurj:257014.1:<H1>:V::<vlex type="root"></vlex>
+   Matches > 1 Wilson key: sPurjja, sPurjja 
+
+
+
+* THE END

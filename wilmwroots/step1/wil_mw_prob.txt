@@ -1,0 +1,849 @@
+001 AcCa
+<H1><h><key1>AcCa</key1><key2>AcCa</key2></h><body>.<s>AcCa</s>¦ r. 1st cl. (<s>i.</s>) <s>AcCi</s> (<s>AYCati</s>) To lengthen or stretch.</body><tail><L>5140</L><pc>107</pc></tail></H1>
+
+002 iBa
+<H1><h><key1>iBa</key1><key2>iBa</key2></h><body>.<s>iBa</s>¦ r. 10th cl. (<s>i</s>) <s>iBi</s> (<s>imBayate</s>) To collect or accumulate.</body><tail><L>6358</L><pc>133</pc></tail></H1>
+
+003 iva
+<H1><h><key1>iva</key1><key2>iva</key2></h><body>.<s>iva</s>¦ r. 1st cl. (<s>i</s>) <s>ivi</s> (<s>iMvati</s>)<br/>²1 To pervade.<br/>²2 (According to some,) to please.<br/>²3 To be satisfied.</body><tail><L>6400</L><pc>134</pc></tail></H1>
+
+004 uYJa
+<H1><h><key1>uYJa</key1><key2>uYJa</key2></h><body>.<s>uYJa</s>¦ r. 6th cl. (<s>uYJati</s>) To quit or abandon. This is some. times read <s>udB.</s> With <s>pra,</s> to escape or avoid.</body><tail><L>6665</L><pc>139</pc></tail></H1>
+
+005 udga
+<H1><h><key1>udga</key1><key2>udga</key2></h><body>.<s>udga</s>¦ r. 6th cl. (<s>udgati</s>) To cast off or quit.</body><tail><L>7054</L><pc>147</pc></tail></H1>
+
+006 udja
+<H1><h><key1>udja</key1><key2>udja</key2></h><body>.<s>udja</s>¦ r. 6th cl. (<s>ujjati</s>) To be straight: see <s>ujja.</s></body><tail><L>7086</L><pc>148</pc></tail></H1>
+
+007 udJa
+<H1><h><key1>udJa</key1><key2>udJa</key2></h><body>.<s>udJa</s>¦ r. 6th cl. See <s>uYJa.</s></body><tail><L>7087</L><pc>148</pc></tail></H1>
+
+008 uvja
+<H1><h><key1>uvja</key1><key2>uvja</key2></h><body>.<s>uvja</s>¦ r. 6th cl. (<s>uvjati</s>) To be straight: see <s>ubja.</s></body><tail><L>7800</L><pc>164</pc></tail></H1>
+
+009 fkza
+<H1><h><key1>fkza</key1><key2>fkza</key2></h><body>.<s>fkza</s>¦ r. 5th cl. (<s>fkzRoti</s>) To kill, to hurt or seek to hurt.</body><tail><L>7972</L><pc>167</pc></tail></H1>
+
+010 kakva
+<H1><h><key1>kakva</key1><key2>kakva</key2></h><body>.<s>kakva</s>¦ r. 1st cl. (<s>kakvati</s>) To laugh.</body><tail><L>8485</L><pc>178</pc></tail></H1>
+
+011 karGa
+<H1><h><key1>karGa</key1><key2>karGa</key2></h><body>.<s>karGa</s>¦ r. 1st cl. (<s>karGati</s>) To go, to move.</body><tail><L>9263</L><pc>195</pc></tail></H1>
+
+012 kAkza
+<H1><h><key1>kAkza</key1><key2>kAkza</key2></h><body>.<s>kAkza</s>¦ r. 1st cl. (<s>i</s>) <s>kAkzi</s> (<s>kAMkzati</s>) To desire; it is most frequently used with <s>AN</s> prefixed, in the same sense.</body><tail><L>9796</L><pc>207</pc></tail></H1>
+
+013 kudra
+<H1><h><key1>kudra</key1><key2>kudra</key2></h><body>.<s>kudra</s>¦ r. 10th cl. (<s>i</s>) <s>kudri</s> (<s>kuMdrayati</s>) To speak falsely, to lie: some read this root <s>kudf.</s></body><tail><L>10745</L><pc>229</pc></tail></H1>
+
+014 kumAla
+<H1><h><key1>kumAla</key1><key2>kumAla</key2></h><body>.<s>kumAla</s>¦ r. 10th cl. (<s>kumAlayati</s>) To play as a child, &amp;c.: see <s>kumAra.</s></body><tail><L>10808</L><pc>230</pc></tail></H1>
+
+015 kUna
+<H1><h><key1>kUna</key1><key2>kUna</key2></h><body>.<s>kUna</s>¦ r. 10th cl. (<s>kUnayati</s>) To contract or close.</body><tail><L>11199</L><pc>239</pc></tail></H1>
+
+016 kfba
+<H1><h><key1>kfba</key1><key2>kfba</key2></h><body>.<s>kfba</s>¦ r. 1st cl. or 5th cl. (<s>i,</s>) <s>kfvi</s> (<s>kfRoti</s>)<br/>²1 To kill, to hurt or injure in any way.<br/>²2 To act, to do.<br/>²3 To go, to move.<br/>²4 To be in pain.</body><tail><L>11427</L><pc>244</pc></tail></H1>
+
+017 kfvi
+<H1><h><key1>kfvi</key1><key2>kfvi</key2></h><body>.<s>kfvi</s>¦ r. 5th cl. (<s>kfviRIti</s>) To want to hurt or kill.</body><tail><L>11444</L><pc>244</pc></tail></H1>
+
+018 krunTa
+<H1><h><key1>krunTa</key1><key2>krunTa</key2></h><body>.<s>krunTa</s>¦ r. 9th cl. (<s>kruTnAti</s>)<br/>²1 To be connected with, to cling or adhere to.<br/>²2 To be distressed, to suffer pain.</body><tail><L>12058</L><pc>258</pc></tail></H1>
+
+019 klapa
+<H1><h><key1>klapa</key1><key2>klapa</key2></h><body>.<s>klapa</s>¦ r. 10th cl. (<s>klApayati</s>) To speak, to speak barbarously.</body><tail><L>12121</L><pc>259</pc></tail></H1>
+
+020 klIva
+<H1><h><key1>klIva</key1><key2>klIva</key2></h><body>.<s>klIva</s>¦ (<s>f</s>) <s>klIbf</s> r. 1st cl. (<s>klIvate</s>)<br/>²1 To be impotent.<br/>²2 To be timid or modest.</body><tail><L>12145</L><pc>260</pc></tail></H1>
+
+021 kvela
+<H1><h><key1>kvela</key1><key2>kvela</key2></h><body>.<s>kvela</s>¦ r. 1st cl. (<s>U</s>) <s>kvelU</s> (<s>kvelati</s>) To shake or move.</body><tail><L>12176</L><pc>260</pc></tail></H1>
+
+022 kzida
+<H1><h><key1>kzida</key1><key2>kzida</key2></h><body>.<s>kzida</s>¦ r. 1st cl. (<s>kzedati</s>) To utter an inarticulate sound, to moan as in grief.</body><tail><L>12336</L><pc>264</pc></tail></H1>
+
+023 kzeqa
+<H1><h><key1>kzeqa</key1><key2>kzeqa</key2></h><body>.<s>kzeqa</s>¦ r. 10th cl. (<s>kzeqayati</s>) To eat.</body><tail><L>12484</L><pc>267</pc></tail></H1>
+
+024 KakKa
+<H1><h><key1>KakKa</key1><key2>KakKa</key2></h><body>.<s>KakKa</s>¦ r. 1st cl. (<s>KakKati</s>) To laugh, to laugh at or deride; also <s>kaKa.</s></body><tail><L>12561</L><pc>268</pc></tail></H1>
+
+025 KardDa
+<H1><h><key1>KardDa</key1><key2>KardDa</key2></h><body>.<s>KardDa</s>¦ r. 1st cl. (<s>KarGati</s>) To go, to move.</body><tail><L>12754</L><pc>272</pc></tail></H1>
+
+026 KUrda
+<H1><h><key1>KUrda</key1><key2>KUrda</key2></h><body>.<s>KUrda</s>¦ r. 1st cl. (<s>KUrdate</s>) To play: see <s>Kurda.</s></body><tail><L>12883</L><pc>274</pc></tail></H1>
+
+027 gagGa
+<H1><h><key1>gagGa</key1><key2>gagGa</key2></h><body>.<s>gagGa</s>¦ r. 1st cl. (<s>gagGati</s>) To laugh, to laugh at or deride: see <s>GagGa.</s></body><tail><L>12942</L><pc>275</pc></tail></H1>
+
+028 garGa
+<H1><h><key1>garGa</key1><key2>garGa</key2></h><body>.<s>garGa</s>¦ r. 1st cl. (<s>garGati</s>) To go or move.</body><tail><L>13294</L><pc>284</pc></tail></H1>
+
+029 garDa
+<H1><h><key1>garDa</key1><key2>garDa</key2></h><body>.<s>garDa</s>¦ r. 10th cl. (<s>garDayati</s>) To desire or covet: see <s>gfDa.</s></body><tail><L>13316</L><pc>284</pc></tail></H1>
+
+030 galha
+<H1><h><key1>galha</key1><key2>galha</key2></h><body>.<s>galha</s>¦ r. 1st cl. (<s>galhate</s>) To blame, to censure or despise: see <s>garha.</s></body><tail><L>13401</L><pc>286</pc></tail></H1>
+
+031 gudra
+<H1><h><key1>gudra</key1><key2>gudra</key2></h><body>.<s>gudra</s>¦ r. 10th cl. (<s>i</s>) <s>gudri</s> (<s>guMdrayati</s>) To lie, to speak falsely.</body><tail><L>13700</L><pc>293</pc></tail></H1>
+
+032 gU
+<H1><h><key1>gU</key1><key2>gU</key2></h><body>.<s>gU</s>¦ (<s>o</s>) <s>ogU</s> r. 6th cl. (<s>guvati</s>) To void by stool; also with a short vowel, <s>gu.</s> [Page295]</body><tail><L>13782</L><pc>294</pc></tail></H1>
+
+033 Gaza
+<H1><h><key1>Gaza</key1><key2>Gaza</key2></h><body>.<s>Gaza</s>¦ (<s>i</s>) <s>Gazi</s> r. 1st cl. (<s>GaMzate</s>) To render handsome or brilliant.</body><tail><L>14429</L><pc>309</pc></tail></H1>
+
+034 GiRa
+<H1><h><key1>GiRa</key1><key2>GiRa</key2></h><body>.<s>GiRa</s>¦ r. 1st cl. (<s>i</s>) <s>GiRi</s> (<s>GiRRate</s>) To take, to seize or accept.</body><tail><L>14452</L><pc>310</pc></tail></H1>
+
+035 Gora
+<H1><h><key1>Gora</key1><key2>Gora</key2></h><body>.<s>Gora</s>¦ r. 1st cl. (<s>Gorati</s>) To go as a horse.</body><tail><L>14526</L><pc>311</pc></tail></H1>
+
+036 cIb
+<H1><h><key1>cIb</key1><key2>cIb</key2></h><body>.<s>cIb</s>¦ (<s>f</s>) <s>cIvf</s> r. 1st cl. (<s>cIbati</s>) To take: see <s>cIva.</s></body><tail><L>15322</L><pc>329</pc></tail></H1>
+
+037 cIya
+<H1><h><key1>cIya</key1><key2>cIya</key2></h><body>.<s>cIya</s>¦ (<s>f</s>) <s>cIyf</s> r. 1st cl. (<s>cIyati-te</s>)<br/>²1 To take, to receive.<br/>²2 To wear.</body><tail><L>15324</L><pc>329</pc></tail></H1>
+
+038 culla
+<H1><h><key1>culla</key1><key2>culla</key2></h><body>.<s>culla</s>¦ r. 1st cl. (<s>cullati</s>)<br/>²1 To manifest one's meaning.<br/>²2 To dally, to wanton or coquet.</body><tail><L>15375</L><pc>330</pc></tail></H1>
+
+039 cella
+<H1><h><key1>cella</key1><key2>cella</key2></h><body>.<s>cella</s>¦ r. 1st cl. (<s>cellati</s>)<br/>²1 To think.<br/>²2 To go: this root is not usually admitted: see <s>cela.</s></body><tail><L>15442</L><pc>331</pc></tail></H1>
+
+040 Carda
+<H1><h><key1>Carda</key1><key2>Carda</key2></h><body>.<s>Carda</s>¦ r. 10th cl. (<s>Cardayati</s>) To vomit, to be sick.</body><tail><L>15558</L><pc>334</pc></tail></H1>
+
+041 Carza
+<H1><h><key1>Carza</key1><key2>Carza</key2></h><body>.<s>Carza</s>¦ r. 1st cl. (<s>Carzati-te</s>) To kill, to wound, to hurt.</body><tail><L>15565</L><pc>334</pc></tail></H1>
+
+042 Ceda
+<H1><h><key1>Ceda</key1><key2>Ceda</key2></h><body>.<s>Ceda</s>¦ r. 10th cl. (<s>Cedayati</s>) To cut, to cover, to divide, but especially into two parts.</body><tail><L>15660</L><pc>336</pc></tail></H1>
+
+043 java
+<H1><h><key1>java</key1><key2>java</key2></h><body>.<s>java</s>¦ (<s>i</s>) <s>javi</s> r. 10th. cl. (<s>jaMvayati</s>) To shine.</body><tail><L>16141</L><pc>346</pc></tail></H1>
+
+044 jiva
+<H1><h><key1>jiva</key1><key2>jiva</key2></h><body>.<s>jiva</s>¦ (<s>i</s>) <s>jivi</s> r. 1st cl. (<s>jimvati</s>)<br/>²1 To please, to delight or charm.<br/>²2 To be pleased or charmed.<br/>²3 To loose.</body><tail><L>16335</L><pc>350</pc></tail></H1>
+
+045 jivi
+<H1><h><key1>jivi</key1><key2>jivi</key2></h><body>.<s>jivi</s>¦ r. 5th cl. (<s>jivinoti</s>) To seek to hurt or kill.</body><tail><L>16337</L><pc>350</pc></tail></H1>
+
+046 ju
+<H1><h><key1>ju</key1><key2>ju</key2></h><body>.<s>ju</s>¦ r. 1st cl. (<s>javati</s>)<br/>²1 To go or move.<br/>²2 To move quickly, to go rapidly. (<s>Na</s>) <s>juN</s> r. 1st cl. (<s>javate</s>) To go or move.</body><tail><L>16443</L><pc>353</pc></tail></H1>
+
+047 jurva
+<H1><h><key1>jurva</key1><key2>jurva</key2></h><body>.<s>jurva</s>¦ (<s>i</s>) <s>jurvI</s> r. 1st cl. (<s>jurvati</s>) To hurt or kill.</body><tail><L>16457</L><pc>353</pc></tail></H1>
+
+048 jYapa
+<H1><h><key1>jYapa</key1><key2>jYapa</key2></h><body>.<s>jYapa</s>¦ r. 10th cl. (<s>jYApayati</s>)<br/>²1 To know.<br/>²2 To cause to be known: see <s>jYA.</s><br/>²3 To whet or sharpen.<br/>²4 To beat.<br/>²5 To please.</body><tail><L>16517</L><pc>354</pc></tail></H1>
+
+049 jrI
+<H1><h><key1>jrI</key1><key2>jrI</key2></h><body>.<s>jrI</s>¦ r. 1st cl. (<s>jriRAti</s>) r. 1st and 10th cls. (<s>jrayati-jrAyayati</s>) To grow old, to be or become old or decayed.</body><tail><L>16608</L><pc>356</pc></tail></H1>
+
+050 Jarja
+<H1><h><key1>Jarja</key1><key2>Jarja</key2></h><body>.<s>Jarja</s>¦ r. 6th cl. (<s>Jarjati</s>)<br/>²1 To say, to speak.<br/>²2 To censure, to blame.</body><tail><L>16656</L><pc>357</pc></tail></H1>
+
+051 qiba
+<H1><h><key1>qiba</key1><key2>qiba</key2></h><body>.<s>qiba</s>¦ r. 10th cl. (<s>i</s>) <s>qibi</s> (<s>qimbayati</s>) To cast, to throw.</body><tail><L>16779</L><pc>360</pc></tail></H1>
+
+052 qiBa
+<H1><h><key1>qiBa</key1><key2>qiBa</key2></h><body>.<s>qiBa</s>¦ (<s>i</s>) <s>qiBi</s> r. 1st and 10th cls. (<s>qimBati</s> and <s>qimBayati-te</s>) To collect, to heap together.</body><tail><L>16780</L><pc>360</pc></tail></H1>
+
+053 Rakza
+<H1><h><key1>Rakza</key1><key2>Rakza</key2></h><body>.<s>Rakza</s>¦ r. 1st cl. (<s>nakzati,</s> or with <s>pra</s> prefixed <s>praRakzati</s>) To go, to move, to approach.</body><tail><L>16814</L><pc>361</pc></tail></H1>
+
+054 RaKa
+<H1><h><key1>RaKa</key1><key2>RaKa</key2></h><body>.<s>RaKa</s>¦ r. 1st cl. (<s>naKati</s>) also (<s>i</s>) <s>RaKi</s> r. 1st cl. (<s>naMKati</s>) To go, to move; also <s>naKa.</s></body><tail><L>16815</L><pc>361</pc></tail></H1>
+
+055 Rawa
+<H1><h><key1>Rawa</key1><key2>Rawa</key2></h><body>.<s>Rawa</s>¦ r. 1st cl. (<s>nawati praRawati</s>)<br/>²1 To dance.<br/>²2 To dance as an actor, to gesticulate, to act; also <s>nawa.</s><br/>²3 To hurt.</body><tail><L>16816</L><pc>361</pc></tail></H1>
+
+056 Rada
+<H1><h><key1>Rada</key1><key2>Rada</key2></h><body>.<s>Rada</s>¦ r. 1st cl. (<s>nadati praRadati</s>) To sound inarticulately, to roar as a river or a wild beast, to ring as a bell, &amp;c. r. 10th cl. (<s>nAdayati</s>)<br/>²1 To speak or tell, to shine.</body><tail><L>16817</L><pc>361</pc></tail></H1>
+
+057 RaBa
+<H1><h><key1>RaBa</key1><key2>RaBa</key2></h><body>.<s>RaBa</s>¦ r. 1st cl. (<s>naBate praRaBate</s>) 4th cl. (<s>naByati</s>) and 9th cl. (<s>naBnAti</s>)<br/>²1 To kill, to injure.<br/>²2 To be annihilated, to cease to be.</body><tail><L>16818</L><pc>361</pc></tail></H1>
+
+058 Rama
+<H1><h><key1>Rama</key1><key2>Rama</key2></h><body>.<s>Rama</s>¦ r. 1st cl. (<s>namati</s>)<br/>²1 To salute with reverence or respect.<br/>²2 To bow or bend, to bow down in homage or worship.<br/>²3 To sound. With <s>ava</s> or <s>AN</s> or <s>sam</s> prefixed, To bend down, to decline. With <s>pra,</s> To bow, to salute. With <s>ut,</s> To lift up, to raise, to make straight or erect.</body><tail><L>16819</L><pc>361</pc></tail></H1>
+
+059 Raya
+<H1><h><key1>Raya</key1><key2>Raya</key2></h><body>.<s>Raya</s>¦ r. 1st cl. (<s>nayate praRayate</s>)<br/>²1 To go, to move or approach.<br/>²2 To preserve, to protect, to defend.</body><tail><L>16820</L><pc>361</pc></tail></H1>
+
+060 Rarda
+<H1><h><key1>Rarda</key1><key2>Rarda</key2></h><body>.<s>Rarda</s>¦ r. 1st cl. (<s>nardati praRardati</s>) To sound; also <s>narda.</s></body><tail><L>16821</L><pc>361</pc></tail></H1>
+
+061 Rala
+<H1><h><key1>Rala</key1><key2>Rala</key2></h><body>.<s>Rala</s>¦ r. 1st cl. (<s>nalati praRalati</s>)<br/>²1 To smell.<br/>²2 To bind.</body><tail><L>16822</L><pc>361</pc></tail></H1>
+
+062 RaSa
+<H1><h><key1>RaSa</key1><key2>RaSa</key2></h><body>.<s>RaSa</s>¦ r. 4th cl. (<s>U</s>) <s>RaSU</s> (<s>naSyati</s>) To disappear, to cease to be, to perish, to be annihilated.</body><tail><L>16823</L><pc>361</pc></tail></H1>
+
+063 Rasa
+<H1><h><key1>Rasa</key1><key2>Rasa</key2></h><body>.<s>Rasa</s>¦ r. 1st cl. (<s>nasate praRasate</s>)<br/>²1 To be crooked, (literally or metaphorically.)<br/>²2 To bend, to make curved or crooked.</body><tail><L>16824</L><pc>361</pc></tail></H1>
+
+064 Raha
+<H1><h><key1>Raha</key1><key2>Raha</key2></h><body>.<s>Raha</s>¦ r. 4th cl. (<s>O</s>) <s>Onaha</s> (<s>nahyati nahyate</s>) To bind, to tie. With <s>saBa</s> prefixed, (<s>sannAhati</s>) To arm, to put on mail or military accoutrements.</body><tail><L>16825</L><pc>361</pc></tail></H1>
+
+065 RAsa
+<H1><h><key1>RAsa</key1><key2>RAsa</key2></h><body>.<s>RAsa</s>¦ (<s>f</s>) <s>RAsf</s> r. 1st cl. (<s>nAsate praRAsate</s>) To sound in a particular manner, to snore.</body><tail><L>16826</L><pc>361</pc></tail></H1>
+
+066 Rikza
+<H1><h><key1>Rikza</key1><key2>Rikza</key2></h><body>.<s>Rikza</s>¦ r. 1st cl. (<s>nikzati praRikzati</s>) To kill: the change of the <s>Ra</s> after a preposition is optional in the derivatives of this root.</body><tail><L>16827</L><pc>361</pc></tail></H1>
+
+067 Rija
+<H1><h><key1>Rija</key1><key2>Rija</key2></h><body>.<s>Rija</s>¦ (<s>i</s>) <s>Riji</s> r. 2nd cl. (<s>niMkte praRiMkte</s>) To cleanse, (<s>O, ira</s>) <s>ORijira</s> r. 3rd cl. (<s>nenekti nenikte</s>)<br/>²1 To nurture, to cherish or maintain.<br/>²2 To purify, to cleanse.</body><tail><L>16828</L><pc>361</pc></tail></H1>
+
+068 Rida
+<H1><h><key1>Rida</key1><key2>Rida</key2></h><body>.<s>Rida</s>¦ (<s>i</s>) <s>Ridi</s> r. 1st cl. (<s>nindati-te praRindati</s>) also (<s>f</s>) <s>Ridf</s> r. 1st cl. (<s>nedati-te praRedati</s>)<br/>²1 To abuse, to censure, to reproach, to reprove or revile, to despise or condemn, &amp;c. (The second root means also)<br/>²2 To approach, to come near. The change of <s>Ra</s> after a preposition is optional in the derivatives of the first of these roots.</body><tail><L>16829</L><pc>361</pc></tail></H1>
+
+069 Rila
+<H1><h><key1>Rila</key1><key2>Rila</key2></h><body>.<s>Rila</s>¦ r. 6th cl. (<s>nilati</s>)<br/>²1 To misunderstand, to comprehend ill or imperfectly.<br/>²2 To be thick or impenetrable.</body><tail><L>16830</L><pc>361</pc></tail></H1>
+
+070 Riva
+<H1><h><key1>Riva</key1><key2>Riva</key2></h><body>.<s>Riva</s>¦ (<s>i</s>) <s>Rivi</s> r. 1st cl. (<s>ninvati praRinvati</s>) To wet, to moisten, to sprinkle.</body><tail><L>16831</L><pc>361</pc></tail></H1>
+
+071 RiSa
+<H1><h><key1>RiSa</key1><key2>RiSa</key2></h><body>.<s>RiSa</s>¦ r. 1st cl. (<s>neSati praReSati</s>) To meditate profoundly.</body><tail><L>16832</L><pc>361</pc></tail></H1>
+
+072 Riza
+<H1><h><key1>Riza</key1><key2>Riza</key2></h><body>.<s>Riza</s>¦ r. 1st cl. (<s>u</s>) <s>Rizu</s> (<s>nezati</s>) To sprinkle, to shed as water.</body><tail><L>16833</L><pc>361</pc></tail></H1>
+
+073 Risa
+<H1><h><key1>Risa</key1><key2>Risa</key2></h><body>.<s>Risa</s>¦ (<s>i</s>) <s>Risi</s> r. 2nd cl. (<s>niMste praRiMste</s>) To kiss: the change of <s>Ra</s> after a preposition is optional in the derivatives.</body><tail><L>16834</L><pc>361</pc></tail></H1>
+
+074 RI
+<H1><h><key1>RI</key1><key2>RI</key2></h><body>.<s>RI</s>¦ (<s>Ya</s>) <s>RIY</s> r. 1st cl. (<s>nayati-te</s>)<br/>²1 To conduct, to drive or guide, to cause progressive conveyance.<br/>²2 To obtain, to get. The root is inflected as the deponent verb, implying.<br/>²1 <i>Instruction,</i> as <s>nayate SAstre</s> he instructs in the <i>Sa4stra;</i><br/>²2 <i>Worshipping,</i> <s>vizRuMnayate</s> he worships VISHN'U; also with prepositions in the sense of;<br/>²1 <i>Paying,</i> <s>Bftyamupanayate</s> he pays the hire;<br/>²2 <i>Paying as a debt,</i> <s>fRamvinayate</s> he discharges the debt;<br/>²3 <i>Casting or lifting up,</i> <s>daRqamunnayate</s> he lifts up the stick;<br/>²4 <i>Giving,</i> <s>dravyambinayate</s> he gives the things; and<br/>²5 <i>Brahmanical Investiture,</i> <s>puttramupanayate</s> he invests his son with the thread: it is also deponent, governing an incorporeal object existing in the agent, as <s>kroDamvinayate</s> he suppresses wrath; if the object is not in the agent the verb is active, as <s>guroHktoDamvinayati</s> he appeases his teacher's anger; as also if the object is corporal, as <s>gaRqaM vinayati</s> he turns away the cheek. The root occurs with many prefixes, and in a great variety of meanings;<br/>²1 With <s>anu,</s> ^a To ask, to entreat. ^b To make like or resembling.<br/>²c To favour.<br/>²2 With <s>ap,</s> ^a To take away, to remove. ^b To attract.<br/>²3 With <s>aBi,</s><br/>²3 To indicate by signs. ^b To be kind or civil to.<br/>²4 With <s>AN,</s> To bring.<br/>²5 With <s>ut,</s> To raise up.<br/>²6 With <s>upa,</s> To approach, to go near to, (see also above.)<br/>²7 With <s>dur,</s> To act or behave wickedly.<br/>²8 With <s>nir,</s> ^a To get or obtain. ^b To ascertain, to determine.<br/>²9 With <s>pari,</s> ^a To marry. ^b To take cognizance of.<br/>²10 With <s>pra,</s><br/>²a To punish. ^b To love.<br/>²11 With <s>vi,</s> ^a To take away, to make remote or distant. ^b To be humble or modest.<br/>²12 With <s>vi</s> and <s>apa,</s> To remove, to dispel, to disperse.<br/>²13 With <s>vi</s> and <s>nir,</s> To decide by law.<br/>²14 With <s>sam,</s> ^a To collect. ^b To discharge.<br/>²15 With <s>san</s> and <s>anu,</s> To intreat.<br/>²16 With <s>sama</s> and <s>AN,</s> To assemble, to collect, &amp;c.</body><tail><L>16835</L><pc>361</pc></tail></H1>
+
+075 RIla
+<H1><h><key1>RIla</key1><key2>RIla</key2></h><body>.<s>RIla</s>¦ r. 1st cl. (<s>nIlati praRIlati</s>)<br/>²1 To be blue.<br/>²2 To make or dye blue.</body><tail><L>16836</L><pc>361</pc></tail></H1>
+
+076 RIva
+<H1><h><key1>RIva</key1><key2>RIva</key2></h><body>.<s>RIva</s>¦ r. 1st cl. (<s>nIvati praRIbati</s>) To be large or corpulent.</body><tail><L>16837</L><pc>361</pc></tail></H1>
+
+077 Ru
+<H1><h><key1>Ru</key1><key2>Ru</key2></h><body>.<s>Ru</s>¦ r. 3rd cl. (<s>nOti praROti</s>) To praise. With <s>AN</s> prefixed (<s>Anute</s>) To utter a cry of regret. r. 6th cl. (<s>navati</s>) To praise.</body><tail><L>16838</L><pc>361</pc></tail></H1>
+
+078 Ruda
+<H1><h><key1>Ruda</key1><key2>Ruda</key2></h><body>.<s>Ruda</s>¦ r. 6th cl. (<s>O</s>) <s>ORuda</s> (<s>nudati nudate</s>)<br/>²1 To cast, to command, to direct, to throw or send; the act of ordering being considered analogous to that of throwing.<br/>²2 To go or proceed. With <s>apa,</s> To remove. With <s>nir,</s><br/>²1 To throw out.<br/>²2 To confess, to acknowledge. With <s>vi,</s> To be happy. With <s>saM</s> in the causal To drive, (as horses.)</body><tail><L>16839</L><pc>361</pc></tail></H1>
+
+079 RU
+<H1><h><key1>RU</key1><key2>RU</key2></h><body>.<s>RU</s>¦ r. 6th cl. (<s>nubati</s>) To praise; also <s>Ra.</s></body><tail><L>16840</L><pc>361</pc></tail></H1>
+
+080 Reda
+<H1><h><key1>Reda</key1><key2>Reda</key2></h><body>.<s>Reda</s>¦ (<s>f</s>) <s>Redf</s> r. 1st cl. (<s>nedati-te</s>)<br/>²1 To censure, to despise.<br/>²2 To approach or come near: see <s>Rida.</s></body><tail><L>16841</L><pc>361</pc></tail></H1>
+
+081 Reza
+<H1><h><key1>Reza</key1><key2>Reza</key2></h><body>.<s>Reza</s>¦ (<s>f</s>) <s>Rezf</s> r. 1st cl. (<s>nezate</s>) To go, to move or approach. [Page362] <H/><s>ta</s></body><tail><L>16842</L><pc>361</pc></tail></H1>
+
+082 tatra
+<H1><h><key1>tatra</key1><key2>tatra</key2></h><body>.<s>tatra</s>¦ (<s>i</s>) <s>tatri</s> r. 10th cl. (<s>tantrayati</s>)<br/>²1 To spread, to extend or expand.<br/>²2 To nourish or support a family, &amp;c.</body><tail><L>16918</L><pc>363</pc></tail></H1>
+
+083 tUra
+<H1><h><key1>tUra</key1><key2>tUra</key2></h><body>.<s>tUra</s>¦ (<s>I</s>) <s>tUrI</s> r. 4th cl. (<s>tUryyate</s>) To go quick, to make haste.<br/>²2 To kill, to hurt or injure.</body><tail><L>17756</L><pc>382</pc></tail></H1>
+
+084 tOka
+<H1><h><key1>tOka</key1><key2>tOka</key2></h><body>.<s>tOka</s>¦ (<s>f</s>) <s>tOkf</s> r. 1st cl. (<s>tOkate</s>) To go or move.</body><tail><L>17947</L><pc>386</pc></tail></H1>
+
+085 trA
+<H1><h><key1>trA</key1><key2>trA</key2></h><body>.<s>trA</s>¦ r. 2nd cl. (<s>trAti</s>) To preserve, &amp;c.: see <s>trE.</s></body><tail><L>18014</L><pc>388</pc></tail></H1>
+
+086 triKa
+<H1><h><key1>triKa</key1><key2>triKa</key2></h><body>.<s>triKa</s>¦ (<s>i</s>) <s>triKi</s> r. 1st cl. (<s>triNGati</s>) To go, to move or approach.</body><tail><L>18043</L><pc>388</pc></tail></H1>
+
+087 truPa
+<H1><h><key1>truPa</key1><key2>truPa</key2></h><body>.<s>truPa</s>¦ r. 1st cl. (<s>troPati</s>) To hurt, to kill or injure; also <s>tuPa, tumPa,</s> &amp;c.</body><tail><L>18194</L><pc>392</pc></tail></H1>
+
+088 trumpa
+<H1><h><key1>trumpa</key1><key2>trumpa</key2></h><body>.<s>trumpa</s>¦ r. 1st cl. (<s>trumpati</s>) To hurt or injure: see <s>tupa, tumpa,</s> &amp;c.</body><tail><L>18195</L><pc>392</pc></tail></H1>
+
+089 trumPa
+<H1><h><key1>trumPa</key1><key2>trumPa</key2></h><body>.<s>trumPa</s>¦ r. 1st cl. (<s>trumPati</s>) To kill or injure; also <s>truPa,</s> &amp;c.</body><tail><L>18196</L><pc>392</pc></tail></H1>
+
+090 TuDa
+<H1><h><key1>TuDa</key1><key2>TuDa</key2></h><body>.<s>TuDa</s>¦ r. 4th cl. (<s>TuDyati-te</s>) To become pure.</body><tail><L>18308</L><pc>394</pc></tail></H1>
+
+091 daridrA
+<H1><h><key1>daridrA</key1><key2>daridrA</key2></h><body>.<s>daridrA</s>¦ r. 2nd cl. (<s>daridrAti</s>) 3rd <i>plu.</i> (<s>daridrati</s>) To be poor or needy.</body><tail><L>18591</L><pc>400</pc></tail></H1>
+
+092 daSa
+<H1><h><key1>daSa</key1><key2>daSa</key2></h><body>.<s>daSa</s>¦ (<s>i</s>) <s>daSi</s> r. 1st and 10th cls. (<s>daSati daMSayati</s>)<br/>²1 To bite or sting.<br/>²2 To arm, to put on armour.<br/>²3 To see. r. 10th cl. (<s>daMSayate</s>) To shine. With <s>upa,</s> to be in trouble, to be reduced in circumstances, With <s>sam,</s> to pinch, to nip, to bite.</body><tail><L>18669</L><pc>402</pc></tail></H1>
+
+093 durbba
+<H1><h><key1>durbba</key1><key2>durbba</key2></h><body>.<s>durbba</s>¦ r. 1st cl. (<s>I</s>) <s>durbbI</s> (<s>dUrbvati</s>) To hurt, to injure, to wound, to kill, &amp;c.</body><tail><L>19337</L><pc>416</pc></tail></H1>
+
+094 dfmpa
+<H1><h><key1>dfmpa</key1><key2>dfmpa</key2></h><body>.<s>dfmpa</s>¦ r. 6th cl. (<s>dfmpati</s>) To inflict pain, to torture.</body><tail><L>19540</L><pc>420</pc></tail></H1>
+
+095 drAkza
+<H1><h><key1>drAkza</key1><key2>drAkza</key2></h><body>.<s>drAkza</s>¦ (<s>i</s>) <s>drAkzi</s> r. 1st cl. (<s>drANkzati</s>)<br/>²1 To croke, to caw, &amp;c. as a bird.<br/>²2 To desire, to wish or long for.</body><tail><L>19966</L><pc>429</pc></tail></H1>
+
+096 Diva
+<H1><h><key1>Diva</key1><key2>Diva</key2></h><body>.<s>Diva</s>¦ (<s>i,</s>) <s>Divi</s> r. 1st and 5th cl. (<s>Dinoti</s>)<br/>²1 To please, to satisfy.<br/>²2 To be pleased or satisfied.<br/>²3 To go or approach: this verb takes <s>u,</s> and substitutes <s>a</s> for the final, whence its unusual form for the first class, in the instance given.</body><tail><L>20635</L><pc>444</pc></tail></H1>
+
+097 DUkza
+<H1><h><key1>DUkza</key1><key2>DUkza</key2></h><body>.<s>DUkza</s>¦ r. 1st cl. (<s>DUkzate</s>)<br/>²1 To live.<br/>²2 To kindle.<br/>²3 To be distrest.</body><tail><L>20690</L><pc>445</pc></tail></H1>
+
+098 DmAkza
+<H1><h><key1>DmAkza</key1><key2>DmAkza</key2></h><body>.<s>DmAkza</s>¦ (<s>i</s>) <s>DmAkzi</s> r. 1st cl. (<s>DmAMkzati</s>)<br/>²1 To desire.<br/>²2 To crow or caw: see <s>DrAkza</s> and <s>DvAkza.</s></body><tail><L>20815</L><pc>448</pc></tail></H1>
+
+099 DrAkza
+<H1><h><key1>DrAkza</key1><key2>DrAkza</key2></h><body>.<s>DrAkza</s>¦ (<s>i</s>) <s>DrAkzi</s> r. 1st cl. (<s>DrAMkzati</s>)<br/>²1 To utter the sound of birds, or to crow, caw, &amp;c.<br/>²2 To desire: see <s>DvAkza.</s></body><tail><L>20836</L><pc>448</pc></tail></H1>
+
+100 DrU
+<H1><h><key1>DrU</key1><key2>DrU</key2></h><body>.<s>DrU</s>¦ r. 6th cl. (<s>Druvati</s>)<br/>²1 To be firm, to stand fast.<br/>²2 To go or move.</body><tail><L>20848</L><pc>449</pc></tail></H1>
+
+101 DvAkza
+<H1><h><key1>DvAkza</key1><key2>DvAkza</key2></h><body>.<s>DvAkza</s>¦ (<s>i</s>) <s>DvAkzi</s> r. 1st cl. (<s>DvAMkzati</s>)<br/>²1 To utter a cry peculiar to birds, as to croke, caw, &amp;c.<br/>²2 To desire.</body><tail><L>20880</L><pc>449</pc></tail></H1>
+
+102 nf
+<H1><h><key1>nf</key1><key2>nf</key2></h><body>.<s>nf</s>¦ r. 1st cl. (<s>narati</s>) 5th cl. (<s>nfRAti</s>) To lead, to conduct, to guide, physically or morally.</body><tail><L>22529</L><pc>486</pc></tail></H1>
+
+103 piva
+<H1><h><key1>piva</key1><key2>piva</key2></h><body>.<s>piva</s>¦ (<s>i,</s>) <s>pivi</s> r. 1st cl. (<s>pinvate</s>) To sprinkle, to wet or moisten.</body><tail><L>24822</L><pc>537</pc></tail></H1>
+
+104 puzpa
+<H1><h><key1>puzpa</key1><key2>puzpa</key2></h><body>.<s>puzpa</s>¦ r. 4th. cl. (<s>puzpati</s>) To flower, to blossom.</body><tail><L>25215</L><pc>546</pc></tail></H1>
+
+105 pUra
+<H1><h><key1>pUra</key1><key2>pUra</key2></h><body>.<s>pUra</s>¦ r. 4th cl. (<s>I</s>) <s>pUrI</s> (<s>pUryyate</s>)<br/>²1 To satisfy.<br/>²2 To fill.<br/>²3 To be satisfied.<br/>²4 To be full. r. 10th cl. (<s>pUrayati</s>) To satisfy.</body><tail><L>25366</L><pc>549</pc></tail></H1>
+
+106 pUrRa
+<H1><h><key1>pUrRa</key1><key2>pUrRa</key2></h><body>.<s>pUrRa</s>¦ r. 10th cl. (<s>pUrRayati</s>) To accumulate, to collect or heap together.</body><tail><L>25376</L><pc>549</pc></tail></H1>
+
+107 pUrvva
+<H1><h><key1>pUrvva</key1><key2>pUrvva</key2></h><body>.<s>pUrvva</s>¦ r. 1st cl. (<s>pUrvvati</s>) To fill. 10th cl. (<s>pUrvvayati</s>)<br/>²1 To dwell.<br/>²2 To invite: the root is written either <s>pUrvba</s> or <s>pUrvva.</s></body><tail><L>25392</L><pc>549</pc></tail></H1>
+
+108 Pvala
+<H1><h><key1>Pvala</key1><key2>Pvala</key2></h><body>.<s>Pvala</s>¦ r. 1st cl. (<s>Pvalati</s>) To live. <H/><s>ba</s></body><tail><L>27539</L><pc>597</pc></tail></H1>
+
+109 baWa
+<H1><h><key1>baWa</key1><key2>baWa</key2></h><body>.<s>baWa</s>¦ r. 1st cl. (<s>baWati</s>) To be large, powerful, or able: better also <s>vaWa.</s></body><tail><L>27544</L><pc>597</pc></tail></H1>
+
+110 bana
+<H1><h><key1>bana</key1><key2>bana(banu)</key2></h><body>.<s>bana(banu)</s>¦ r. 8th cl. (<s>banute</s>) To ask or beg, preferably written <s>vana.</s></body><tail><L>27598</L><pc>598</pc></tail></H1>
+
+111 baBra
+<H1><h><key1>baBra</key1><key2>baBra</key2></h><body>.<s>baBra</s>¦ r. 1st cl. (<s>baBrati</s>) To go; also <s>vaBra.</s></body><tail><L>27625</L><pc>599</pc></tail></H1>
+
+112 bahi
+<H1><h><key1>bahi</key1><key2>bahi(i)bahi</key2></h><body>.<s>bahi(i)bahi</s>¦ r. 1st cl. (<s>vaMhate</s>) To grow or increase; also <s>vahi,</s> but upon inferior authority.</body><tail><L>27717</L><pc>601</pc></tail></H1>
+
+113 bahla
+<H1><h><key1>bahla</key1><key2>bahla</key2></h><body>.<s>bahla</s>¦ r. 1st cl. (<s>bahlate</s>)<br/>²1 To be pre-eminent or excellent, (also <s>vahla,</s> but less usually.)<br/>²2 To speak or tell.<br/>²3 To kill or hurt.<br/>²4 To cover, to spread.<br/>²5 To give, (also <s>bahla</s> in these five senses, and more accurately.)<br/>²6 To remember. r. 10th cl. (<s>bahlayati</s>) To shine.</body><tail><L>27798</L><pc>603</pc></tail></H1>
+
+114 bF
+<H1><h><key1>bF</key1><key2>bF</key2></h><body>.<s>bF</s>¦ r. 9th cl. (<s>bfRAti</s>)<br/>²1 To choose or select.<br/>²2 To support or nourish; also in the first sense, <s>vF</s> more usually.</body><tail><L>27961</L><pc>606</pc></tail></H1>
+
+115 byuza
+<H1><h><key1>byuza</key1><key2>byuza</key2></h><body>.<s>byuza</s>¦ r. 4th cl. (<s>byuzyati</s>) To burn.</body><tail><L>27976</L><pc>606</pc></tail></H1>
+
+116 Baqa
+<H1><h><key1>Baqa</key1><key2>Baqa(i)Baqi</key2></h><body>.<s>Baqa(i)Baqi</s>¦ r. 1st cl. (<s>BaRqate</s>)<br/>²1 To rally, to deride or treat with merriment.<br/>²2 To jest, to joke.<br/>²3 To speak.<br/>²4 To upbraid, to reprove. r. 1st and 10th cls. (<s>BaRqati BaRqayati</s>) To do an auspicious act.</body><tail><L>28180</L><pc>611</pc></tail></H1>
+
+117 Bada
+<H1><h><key1>Bada</key1><key2>Bada(i)Badi</key2></h><body>.<s>Bada(i)Badi</s>¦ r. 1st and 10th cls. (<s>Bandati-te Bandayati</s>)<br/>²1 To do an auspicious act.<br/>²2 To be happy, well, prosperous, &amp;c.<br/>²3 To shine.</body><tail><L>28196</L><pc>612</pc></tail></H1>
+
+118 BAja
+<H1><h><key1>BAja</key1><key2>BAja</key2></h><body>.<s>BAja</s>¦ r. 10th cl. (<s>BAjayati</s>) To divide, to separate; it is usually employed with <s>bi</s> prefixed, especially in a legal sense, as to divide or portion an inheritance.</body><tail><L>28402</L><pc>616</pc></tail></H1>
+
+119 Bila
+<H1><h><key1>Bila</key1><key2>Bila</key2></h><body>.<s>Bila</s>¦ r. 10th cl. (<s>Bilayati</s>) To divide or separate.</body><tail><L>28584</L><pc>620</pc></tail></H1>
+
+120 Buqa
+<H1><h><key1>Buqa</key1><key2>Buqa(i)Buqi</key2></h><body>.<s>Buqa(i)Buqi</s>¦ r. 1st cl. (<s>BuRqate</s>) To support, to maintain.</body><tail><L>28660</L><pc>622</pc></tail></H1>
+
+121 Brasja
+<H1><h><key1>Brasja</key1><key2>Brasja(O)OBrasja</key2></h><body>.<s>Brasja(O)OBrasja</s>¦ r. 6th cl. (<s>Brajjati-te</s>) To broil or fry.</body><tail><L>28977</L><pc>629</pc></tail></H1>
+
+122 maga
+<H1><h><key1>maga</key1><key2>maga(i)</key2></h><body>.<s>maga(i)</s>¦ r. 1st cl. (<s>maMgati</s>) To go, to move.</body><tail><L>29062</L><pc>631</pc></tail></H1>
+
+123 maGa
+<H1><h><key1>maGa</key1><key2>maGa(i)maGi</key2></h><body>.<s>maGa(i)maGi</s>¦ r. 1st cl. (<s>maMGate</s>)<br/>²1 To go, to move.<br/>²2 To begin moving.<br/>²3 To begin.<br/>²4 To move swiftly.<br/>²5 To blame.<br/>²6 To game.<br/>²7 To cheat, to be addicted to dishonest practices. (<s>maMGati</s>) To decorate, to adorn.</body><tail><L>29066</L><pc>631</pc></tail></H1>
+
+124 maqa
+<H1><h><key1>maqa</key1><key2>maqa(i)maqi</key2></h><body>.<s>maqa(i)maqi</s>¦ r. 1st cl. (<s>maRqate</s>)<br/>²1 To divide, to separate.<br/>²2 To surround, to encompass. r. 1st and 10th cls. (<s>maRqati maRqayati</s>) To adorn, to grace, to decorate. r. 10th cl. (<s>maRqayati</s>) To gladden, to rejoice, to make happy.</body><tail><L>29137</L><pc>633</pc></tail></H1>
+
+125 matra
+<H1><h><key1>matra</key1><key2>matra(i,)matri</key2></h><body>.<s>matra(i,)matri</s>¦ r. 1st and 10th cls. (<s>mantrati mantrayati</s>) To speak privately, to counsel or advise. With <s>AN,</s> To address or salute. With <s>ni,</s> To invite.</body><tail><L>29221</L><pc>635</pc></tail></H1>
+
+126 masja
+<H1><h><key1>masja</key1><key2>masja(wu o)wumasjo</key2></h><body>.<s>masja(wu o)wumasjo</s>¦ r. 6th cl. (<s>majjati</s>)<br/>²1 To immerse, to sink or plunge in water.<br/>²2 To purify by washing or bathing.</body><tail><L>29793</L><pc>648</pc></tail></H1>
+
+127 mAkza
+<H1><h><key1>mAkza</key1><key2>mAkza(i)mAkzi</key2></h><body>.<s>mAkza(i)mAkzi</s>¦ r. 1st cl. (<s>mAMkzati</s>) To desire.</body><tail><L>30091</L><pc>654</pc></tail></H1>
+
+128 mATa
+<H1><h><key1>mATa</key1><key2>mATa(i)mATi</key2></h><body>.<s>mATa(i)mATi</s>¦ r. 1st cl. (<s>mAMTati</s>) To hurt or kill, to afflict, to suffer pain.</body><tail><L>30158</L><pc>656</pc></tail></H1>
+
+129 miva
+<H1><h><key1>miva</key1><key2>miva(i)mivi</key2></h><body>.<s>miva(i)mivi</s>¦ r. 1st cl. (<s>minvati</s>)<br/>²1 To sprinkle or moisten.<br/>²2 (According to some authorities,) To serve, to gratify by service.</body><tail><L>30403</L><pc>662</pc></tail></H1>
+
+130 misra
+<H1><h><key1>misra</key1><key2>misra</key2></h><body>.<s>misra</s>¦ r. 10th cl. (<s>misrayati</s>) To mix, to mingle or join.</body><tail><L>30420</L><pc>662</pc></tail></H1>
+
+131 muWa
+<H1><h><key1>muWa</key1><key2>muWa(i)muWi</key2></h><body>.<s>muWa(i)muWi</s>¦ r. 1st cl. (<s>muMWati</s>)<br/>²1 To guard, to protect, to defend or cherish.<br/>²2 To fly, to run away.</body><tail><L>30539</L><pc>665</pc></tail></H1>
+
+132 muTa
+<H1><h><key1>muTa</key1><key2>muTa(i,)muTi</key2></h><body>.<s>muTa(i,)muTi</s>¦ r. 1st cl. (<s>munTati</s>)<br/>²1 To hurt or kill.<br/>²2 To suffer pain.</body><tail><L>30556</L><pc>665</pc></tail></H1>
+
+133 mula
+<H1><h><key1>mula</key1><key2>mula</key2></h><body>.<s>mula</s>¦ r. 10th cl. (<s>molayati</s>) To plant: more usually <s>mUla.</s></body><tail><L>30609</L><pc>666</pc></tail></H1>
+
+134 meqf
+<H1><h><key1>meqf</key1><key2>meqf(f)meqf</key2></h><body>.<s>meqf(f)meqf</s>¦ r. 1st. cl. (<s>meqati</s>) To be mad.</body><tail><L>30944</L><pc>673</pc></tail></H1>
+
+135 meba
+<H1><h><key1>meba</key1><key2>meba(f)mebf</key2></h><body>.<s>meba(f)mebf</s>¦ r. 1st cl. (<s>mebate</s>) To serve.</body><tail><L>30984</L><pc>674</pc></tail></H1>
+
+136 mraca
+<H1><h><key1>mraca</key1><key2>mraca</key2></h><body>.<s>mraca</s>¦ r. 1st cl. (<s>mracati</s>) To go, to move.</body><tail><L>31094</L><pc>676</pc></tail></H1>
+
+137 mruMca
+<H1><h><key1>mruMca</key1><key2>mruMca(u,)mruYca</key2></h><body>.<s>mruMca(u,)mruYca</s>¦ r. 1st cl. (<s>mruYcati</s>) To go, to move. [Page677]</body><tail><L>31102</L><pc>676</pc></tail></H1>
+
+138 mleqa
+<H1><h><key1>mleqa</key1><key2>mleqa(f,)mleqf</key2></h><body>.<s>mleqa(f,)mleqf</s>¦ r. 1st cl. (<s>mleqati</s>) To be mad.</body><tail><L>31125</L><pc>677</pc></tail></H1>
+
+139 yatra
+<H1><h><key1>yatra</key1><key2>yatra(i,)yatri</key2></h><body>.<s>yatra(i,)yatri</s>¦ r. 1st and 10th cls. (<s>yantrati yantrayati</s>) To confine, to restrain, to subdue or regulate: the root may also be written <s>yantra.</s></body><tail><L>31225</L><pc>679</pc></tail></H1>
+
+140 yuga
+<H1><h><key1>yuga</key1><key2>yuga(i)yugi</key2></h><body>.<s>yuga(i)yugi</s>¦ r. 1st cl (<s>yaMgati</s>) To except, to abandon.</body><tail><L>31476</L><pc>686</pc></tail></H1>
+
+141 raba
+<H1><h><key1>raba</key1><key2>raba(i)rabi</key2></h><body>.<s>raba(i)rabi</s>¦ r. 1st cl. (<s>raMbate</s>)<br/>²1 To sound.<br/>²2 To go.</body><tail><L>31934</L><pc>696</pc></tail></H1>
+
+142 rava
+<H1><h><key1>rava</key1><key2>rava(i)ravi</key2></h><body>.<s>rava(i)ravi</s>¦ r. 1st cl. (<s>rambati</s>) To go, to move.</body><tail><L>31964</L><pc>697</pc></tail></H1>
+
+143 rASa
+<H1><h><key1>rASa</key1><key2>rASa</key2></h><body>.<s>rASa</s>¦ (<s>f,</s>) <s>rASf</s> r. 1st and 4th cls. (<s>rASate rASyate</s>) To sound. [Page705]</body><tail><L>32289</L><pc>704</pc></tail></H1>
+
+144 riva
+<H1><h><key1>riva</key1><key2>riva</key2></h><body>.<s>riva</s>¦ (<s>i</s>) <s>rivi</s> r. 1st cl. (<s>riRvati</s>) To go, to move.</body><tail><L>32354</L><pc>706</pc></tail></H1>
+
+145 laba
+<H1><h><key1>laba</key1><key2>laba(i)labi</key2></h><body>.<s>laba(i)labi</s>¦ r. 1st cl. (<s>laMbate</s>)<br/>²1 To sound.<br/>²2 To fall or tumble, to be prostrate. With <s>aba</s> prefixed,<br/>²1 To hold, to support.<br/>²2 To hang from or on, to depend from.<br/>²3 To rest upon.<br/>²4 To hang with the head downwards. With <s>AN,</s> To trust in, to depend on. With <s>vi,</s> To delay, to detain.</body><tail><L>32781</L><pc>716</pc></tail></H1>
+
+146 larvva
+<H1><h><key1>larvva</key1><key2>larvva</key2></h><body>.<s>larvva</s>¦ r. 1st cl. (<s>larvati</s>) To go, to move.</body><tail><L>32819</L><pc>717</pc></tail></H1>
+
+147 lasja
+<H1><h><key1>lasja</key1><key2>lasja(o I)olasjI</key2></h><body>.<s>lasja(o I)olasjI</s>¦ r. 6th cl. (<s>lajjate</s>) To be modest or ashamed.</body><tail><L>32866</L><pc>718</pc></tail></H1>
+
+148 lAcCa
+<H1><h><key1>lAcCa</key1><key2>lAcCa(i)lAcCi</key2></h><body>.<s>lAcCa(i)lAcCi</s>¦ r. 1st cl. (<s>lAYCati</s>) To mark.</body><tail><L>32892</L><pc>719</pc></tail></H1>
+
+149 liga
+<H1><h><key1>liga</key1><key2>liga(i)ligi</key2></h><body>.<s>liga(i)ligi</s>¦ r. 1st cl. (<s>liNgati</s>) To go, to move. r. 1st and 10th cls. (<s>liNgati liNgayati</s>) To paint, to variegate. With <s>AN</s> prefixed, To embrace.</body><tail><L>32947</L><pc>720</pc></tail></H1>
+
+150 luca
+<H1><h><key1>luca</key1><key2>luca(i)luci</key2></h><body>.<s>luca(i)luci</s>¦ r. r. 1st cl. (<s>luYcati</s>)<br/>²1 To cut.<br/>²2 To pare or peel.</body><tail><L>32998</L><pc>721</pc></tail></H1>
+
+151 luja
+<H1><h><key1>luja</key1><key2>luja(i)luji</key2></h><body>.<s>luja(i)luji</s>¦ r. 10th cl. (<s>luYjayati</s>)<br/>²1 To give.<br/>²2 To injure.<br/>²3 To be strong.<br/>²4 To dwell.<br/>²5 To shine.</body><tail><L>33001</L><pc>721</pc></tail></H1>
+
+152 luTa
+<H1><h><key1>luTa</key1><key2>luTa(i)luTi</key2></h><body>.<s>luTa(i)luTi</s>¦ r. 1st cl. (<s>lunTati</s>)<br/>²1 To hurt, to injure, to wound or kill.<br/>²2 To afflict.<br/>²3 To suffer pain or affliction.</body><tail><L>33018</L><pc>722</pc></tail></H1>
+
+153 luba
+<H1><h><key1>luba</key1><key2>luba(i)lubi</key2></h><body>.<s>luba(i)lubi</s>¦ r. 1st and 10th cls. (<s>lumbati lumbayati</s>) To hurt, to pain, to afflict or torment. r. 10th cl. (<s>lumbayati</s>) To disappear.</body><tail><L>33024</L><pc>722</pc></tail></H1>
+
+154 lfYca
+<H1><h><key1>lfYca</key1><key2>lfYca</key2></h><body>.<s>lfYca</s>¦ r. 1st cl. (<s>lfYcati</s>) To put away.</body><tail><L>33043</L><pc>722</pc></tail></H1>
+
+155 vaga
+<H1><h><key1>vaga</key1><key2>vaga(i)vagi</key2></h><body>.<s>vaga(i)vagi</s>¦ r. 1st cl. (<s>vaMgati</s>)<br/>²1 To go.<br/>²2 To go lamely, to limp.</body><tail><L>33331</L><pc>729</pc></tail></H1>
+
+156 vaGa
+<H1><h><key1>vaGa</key1><key2>vaGa(i)vaGi</key2></h><body>.<s>vaGa(i)vaGi</s>¦ r. 1st cl. (<s>vaMGate</s>)<br/>²1 To go.<br/>²2 To blame or censure.<br/>²3 To begin.<br/>²4 To begin moving.<br/>²5 To move swiftly.</body><tail><L>33334</L><pc>729</pc></tail></H1>
+
+157 vaqa
+<H1><h><key1>vaqa</key1><key2>vaqa(i)vaqi</key2></h><body>.<s>vaqa(i)vaqi</s>¦ r. 1st cl. (<s>vaRqate</s>)<br/>²1 To partition, to share or divide.<br/>²2 To surround or encompass.<br/>²3 To cover: in the first sense it is sometimes read as a root of the 10th cl. (<s>vaMqayati.</s>)</body><tail><L>33425</L><pc>731</pc></tail></H1>
+
+158 vara
+<H1><h><key1>vara</key1><key2>vara</key2></h><body>.<s>vara</s>¦ r. 10th cl. (<s>varayati</s>) To desire, to obtain, to covet or ask.</body><tail><L>33627</L><pc>735</pc></tail></H1>
+
+159 varGa
+<H1><h><key1>varGa</key1><key2>varGa</key2></h><body>.<s>varGa</s>¦ r. 1st cl. (<s>varGati</s>) To go.</body><tail><L>33715</L><pc>737</pc></tail></H1>
+
+160 varza
+<H1><h><key1>varza</key1><key2>varza</key2></h><body>.<s>varza</s>¦ r. 1st cl. (<s>-varzati</s>) To be wet.</body><tail><L>33828</L><pc>740</pc></tail></H1>
+
+161 vAkza
+<H1><h><key1>vAkza</key1><key2>vAkza(i)vAkzi</key2></h><body>.<s>vAkza(i)vAkzi</s>¦ r. 10th cl. (<s>vANkzati</s>) To desire.</body><tail><L>34148</L><pc>746</pc></tail></H1>
+
+162 vAcCa
+<H1><h><key1>vAcCa</key1><key2>vAcCa(i)vAcCi</key2></h><body>.<s>vAcCa(i)vAcCi</s>¦ r. 1st cl. (<s>vAcCati</s>) To wish or desire.</body><tail><L>34206</L><pc>747</pc></tail></H1>
+
+163 vADa
+<H1><h><key1>vADa</key1><key2>vADa(f)vADf</key2></h><body>.<s>vADa(f)vADf</s>¦ r. 1st cl. (<s>vADate</s>) To distress, to give pain: more correctly <s>bAGa.</s></body><tail><L>34362</L><pc>751</pc></tail></H1>
+
+164 vIBa
+<H1><h><key1>vIBa</key1><key2>vIBa</key2></h><body>.<s>vIBa</s>¦ (<s>f</s>) <s>vIBf</s> r. 1st cl. (<s>vIBate</s>) To praise; also read <s>cIBf</s> q. v.</body><tail><L>36358</L><pc>798</pc></tail></H1>
+
+165 vuDa
+<H1><h><key1>vuDa</key1><key2>vuDa</key2></h><body>.<s>vuDa</s>¦ (<s>i</s>) <s>buDi</s> r. 10th cl. (<s>vunDayati</s>) To injure, to hurt, to kill.</body><tail><L>36405</L><pc>799</pc></tail></H1>
+
+166 vusa
+<H1><h><key1>vusa</key1><key2>vusa</key2></h><body>.<s>vusa</s>¦ r. 4th cl. (<s>vusyati</s>) To throw or cast off; also <s>vusa.</s></body><tail><L>36406</L><pc>799</pc></tail></H1>
+
+167 vUza
+<H1><h><key1>vUza</key1><key2>vUza</key2></h><body>.<s>vUza</s>¦ r. 10th cl. (<s>vUzayati</s>) To kill, to hurt or injure.</body><tail><L>36407</L><pc>799</pc></tail></H1>
+
+168 vfca
+<H1><h><key1>vfca</key1><key2>vfca</key2></h><body>.<s>vfca</s>¦ (<s>I</s>) <s>vfcI</s> r. 7th cl. (<s>vfRakti</s>)<br/>²1 To cover.<br/>²2 To quit, to abandon, to shun or avoid.</body><tail><L>36457</L><pc>800</pc></tail></H1>
+
+169 veTa
+<H1><h><key1>veTa</key1><key2>veTa</key2></h><body>.<s>veTa</s>¦ (<s>f</s>) <s>veTf</s> r. 1st cl. (<s>veTate</s>) To ask or beg.</body><tail><L>36690</L><pc>806</pc></tail></H1>
+
+170 vyusa
+<H1><h><key1>vyusa</key1><key2>vyusa(ira)vyusira</key2></h><body>.<s>vyusa(ira)vyusira</s>¦ r. 4th cl. (<s>vyusyati</s>) To leave, to abandon.</body><tail><L>37315</L><pc>821</pc></tail></H1>
+
+171 vrIsa
+<H1><h><key1>vrIsa</key1><key2>vrIsa</key2></h><body>.<s>vrIsa</s>¦ r. 1st and 10th cls. (<s>vrIsati vrIsayati</s>) To hurt or injure, to kill or wound. [Page823]</body><tail><L>37391</L><pc>822</pc></tail></H1>
+
+172 vlekza
+<H1><h><key1>vlekza</key1><key2>vlekza</key2></h><body>.<s>vlekza</s>¦ r. 10th cl. (<s>vlekzayati</s>) To see. <H/><s>Sa</s></body><tail><L>37405</L><pc>823</pc></tail></H1>
+
+173 SarGa
+<H1><h><key1>SarGa</key1><key2>SarGa</key2></h><body>.<s>SarGa</s>¦ r. 1st cl. (<s>SarGati</s>) To wound or kill.</body><tail><L>37845</L><pc>833</pc></tail></H1>
+
+174 Sasta
+<H1><h><key1>Sasta</key1><key2>Sasta</key2></h><body>.<s>Sasta</s>¦ (<s>i</s>) <s>Sasti</s> r. 2nd cl. (<s>SaMsti</s>) To sleep, (peculiar to the <i>Ve4das.</i>)</body><tail><L>37939</L><pc>835</pc></tail></H1>
+
+175 SAntva
+<H1><h><key1>SAntva</key1><key2>SAntva</key2></h><body>.<s>SAntva</s>¦ r. 10th cl. (<s>SAntvayati</s>) To console, to comfort.</body><tail><L>38079</L><pc>838</pc></tail></H1>
+
+176 SAra
+<H1><h><key1>SAra</key1><key2>SAra</key2></h><body>.<s>SAra</s>¦ r. 10th cl. (<s>SArayati</s>)<br/>²1 To be weak.<br/>²2 To weaken.</body><tail><L>38104</L><pc>838</pc></tail></H1>
+
+177 SuRa
+<H1><h><key1>SuRa</key1><key2>SuRa</key2></h><body>.<s>SuRa</s>¦ r. 6th cl. (<s>SuRati</s>) To go.</body><tail><L>38653</L><pc>851</pc></tail></H1>
+
+178 Sura
+<H1><h><key1>Sura</key1><key2>Sura</key2></h><body>.<s>Sura</s>¦ (<s>I</s>) <s>SurI</s> r. 4th cl. (<s>SUryyate</s>)<br/>²1 To hurt, to kill.<br/>²2 To be stupid or insensible; also <s>SUra.</s></body><tail><L>38727</L><pc>853</pc></tail></H1>
+
+179 SOqa
+<H1><h><key1>SOqa</key1><key2>SOqa(f)SOqf</key2></h><body>.<s>SOqa(f)SOqf</s>¦ r. 1st cl. (<s>SOqati</s>) To be proud.</body><tail><L>39024</L><pc>859</pc></tail></H1>
+
+180 SvF
+<H1><h><key1>SvF</key1><key2>SvF</key2></h><body>.<s>SvF</s>¦ r. 9th cl. (<s>SvfRAti</s>) To hurt, to injure, to wound or kill.</body><tail><L>39395</L><pc>868</pc></tail></H1>
+
+181 zaga
+<H1><h><key1>zaga</key1><key2>zaga</key2></h><body>.<s>zaga</s>¦ (<s>e</s>) <s>zage</s> r. 1st cl. (<s>sagati</s>) To cover: also written <s>saga.</s></body><tail><L>39451</L><pc>869</pc></tail></H1>
+
+182 zaGa
+<H1><h><key1>zaGa</key1><key2>zaGa</key2></h><body>.<s>zaGa</s>¦ r. 5th cl. (<s>saGnoti</s>) To hurt or kill: also <s>saGa.</s></body><tail><L>39452</L><pc>869</pc></tail></H1>
+
+183 zaca
+<H1><h><key1>zaca</key1><key2>zaca</key2></h><body>.<s>zaca</s>¦ r. 1st cl. (<s>sacate</s>)<br/>²1 To wet, to moisten, to sprinkle.<br/>²2 To serve, to gratify by service. (<s>sacati</s>)<br/>²1 To be connected.<br/>²2 To understand thoroughly.</body><tail><L>39453</L><pc>869</pc></tail></H1>
+
+184 zaYca
+<H1><h><key1>zaYca</key1><key2>zaYca</key2></h><body>.<s>zaYca</s>¦ r. 1st cl. (<s>saYcati</s>) To go.</body><tail><L>39454</L><pc>869</pc></tail></H1>
+
+185 zaYja
+<H1><h><key1>zaYja</key1><key2>zaYja</key2></h><body>.<s>zaYja</s>¦ r. 1st cl. (<s>zajati</s>) To embrace, to cling or adhere to, to be in contact or connexion with. With <s>ava</s> prefixed, to hand down from, to be suspended. With <s>vi</s> and <s>AN,</s> to struggle together. With <s>AN,</s> to be attached or devoted to. (<s>u</s>) <s>zaYju</s> r. 1st cl. (<s>saYjati-te</s>) To go.</body><tail><L>39455</L><pc>869</pc></tail></H1>
+
+186 zawa
+<H1><h><key1>zawa</key1><key2>zawa</key2></h><body>.<s>zawa</s>¦ r. 1st cl. (<s>zawati</s>) To be a part or portion.</body><tail><L>39456</L><pc>869</pc></tail></H1>
+
+187 zaRa
+<H1><h><key1>zaRa</key1><key2>zaRa</key2></h><body>.<s>zaRa</s>¦ (<s>u</s>) <s>zaRu</s> r. 8th cl. (<s>sanoti sanute</s>)<br/>²1 To give.<br/>²2 To serve or honor; also written <s>zana.</s></body><tail><L>39491</L><pc>870</pc></tail></H1>
+
+188 zada
+<H1><h><key1>zada</key1><key2>zada</key2></h><body>.<s>zada</s>¦ (<s>O X</s>) <s>Ozawx</s> r. 1st and 6th cls. (<s>sIdati</s>)<br/>²1 To wither, to wane, to perish gradually.<br/>²2 To be low-spirited, to despond, to be weary or distressed, to lack energy.<br/>²3 To break or destroy.<br/>²4 To go or move. With <s>AN</s> prefixed, <s>Azax</s> r. 1st and 10th cls. (<s>AsAdati AsAdayati</s>)<br/>²1 To go.<br/>²2 To assail, to encounter. With <s>ava</s> prefixed,<br/>²1 To be exhausted or languid.<br/>²2 To finish. With <s>AN,</s> To obtain, to attain, to reach or arrive at. With <s>ut,</s><br/>²1 To ascend.<br/>²2 To destroy. With <s>upa,</s> To approach. With <s>ni,</s><br/>²1 To sit in or on.<br/>²2 To stand.<br/>²3 To protect. With <s>pra,</s><br/>²1 To be propitious to, to favour or be pleased with.<br/>²2 To please or propitiate.<br/>²3 To purify.<br/>²4 To smile. With <s>vi,</s> To be languid or sorrowful. With <s>sam,</s><br/>²1 To attain.<br/>²2 To be in company or society with.</body><tail><L>39499</L><pc>870</pc></tail></H1>
+
+189 zaDa
+<H1><h><key1>zaDa</key1><key2>zaDa</key2></h><body>.<s>zaDa</s>¦ r. 5th cl. (<s>zaDnoti</s>) To wish to hurt or kill.</body><tail><L>39500</L><pc>870</pc></tail></H1>
+
+190 zana
+<H1><h><key1>zana</key1><key2>zana</key2></h><body>.<s>zana</s>¦ (<s>u</s>) <s>zanu</s> r. 8th cl. (<s>sanoti sanute</s>) To give; also <s>zaRa.</s></body><tail><L>39501</L><pc>870</pc></tail></H1>
+
+191 zapa
+<H1><h><key1>zapa</key1><key2>zapa</key2></h><body>.<s>zapa</s>¦ r. 1st cl. (<s>sapati</s>)<br/>²1 To be connected.<br/>²2 To understand thoroughly.</body><tail><L>39502</L><pc>870</pc></tail></H1>
+
+192 zama
+<H1><h><key1>zama</key1><key2>zama</key2></h><body>.<s>zama</s>¦ r. 1st cl. (<s>samati</s>)<br/>²1 To be unconfused.<br/>²2 To be confused. r. 10th cl. (<s>samayati</s>) To perplex or distress.</body><tail><L>39503</L><pc>870</pc></tail></H1>
+
+193 zamba
+<H1><h><key1>zamba</key1><key2>zamba</key2></h><body>.<s>zamba</s>¦ r. 1st cl. (<s>sambati</s>) To go, to move. r. 10th cl. (<s>sambayati</s>) To unite, to join, to collect or assemble together; also read <s>samba.</s></body><tail><L>39504</L><pc>870</pc></tail></H1>
+
+194 zarjja
+<H1><h><key1>zarjja</key1><key2>zarjja</key2></h><body>.<s>zarjja</s>¦ r. 1st cl. (<s>sarjjati</s>) To earn, to acquire.</body><tail><L>39505</L><pc>870</pc></tail></H1>
+
+195 zarDa
+<H1><h><key1>zarDa</key1><key2>zarDa</key2></h><body>.<s>zarDa</s>¦ r. 1st cl. (<s>sardDati</s>)<br/>²1 To go.</body><tail><L>39506</L><pc>870</pc></tail></H1>
+
+196 zarva
+<H1><h><key1>zarva</key1><key2>zarva</key2></h><body>.<s>zarva</s>¦ r. 1st cl. (<s>sarvati</s>)<br/>²1 To go, to move.<br/>²2 To injure, to hurt.</body><tail><L>39507</L><pc>870</pc></tail></H1>
+
+197 zala
+<H1><h><key1>zala</key1><key2>zala</key2></h><body>.<s>zala</s>¦ r. 1st cl. (<s>salati</s>)<br/>²1 To go, to move.<br/>²2 To shake.</body><tail><L>39509</L><pc>870</pc></tail></H1>
+
+198 zasa
+<H1><h><key1>zasa</key1><key2>zasa</key2></h><body>.<s>zasa</s>¦ r. 2nd cl. (<s>sasti</s>) To sleep.</body><tail><L>39524</L><pc>870</pc></tail></H1>
+
+199 zasja
+<H1><h><key1>zasja</key1><key2>zasja</key2></h><body>.<s>zasja</s>¦ r. 1st cl. (<s>sajjati</s>) To move, to go.</body><tail><L>39525</L><pc>870</pc></tail></H1>
+
+200 zasti
+<H1><h><key1>zasti</key1><key2>zasti</key2></h><body>.<s>zasti</s>¦ r. 2nd cl. (<s>sali</s>) To sleep, (this is not universally considered to be a root.)</body><tail><L>39526</L><pc>870</pc></tail></H1>
+
+201 zaha
+<H1><h><key1>zaha</key1><key2>zaha</key2></h><body>.<s>zaha</s>¦ r. 1st cl. (<s>sahate</s>) r. 4th cl. (<s>sahyati</s>) 1st and 10th cls. (<s>sahati sAhayati.</s>)<br/>²1 To bear, to endure, to suffer or support, to forbear, to have patience.<br/>²2 To be content or satisfied.<br/>²3 To be able. With <s>ut</s> prefixed,<br/>²1 To make effort or exertion, to persevere, to energize.<br/>²2 To be happy or delighted. With <s>pra,</s> To be violent. With <s>bi,</s> To determine. [Page871]</body><tail><L>39527</L><pc>870</pc></tail></H1>
+
+202 zADa
+<H1><h><key1>zADa</key1><key2>zADa</key2></h><body>.<s>zADa</s>¦ (<s>u</s>) <s>sADu</s> r. 4th cl. (<s>sADyati</s>)<br/>²1 To effect, to accomplish or complete.<br/>²2 To succeed; also <s>sADa.</s></body><tail><L>39535</L><pc>871</pc></tail></H1>
+
+203 zAntva
+<H1><h><key1>zAntva</key1><key2>zAntva</key2></h><body>.<s>zAntva</s>¦ r. 10th cl. (<s>sAntvayati</s>) To console, to comfort; also <s>sAntva.</s></body><tail><L>39536</L><pc>871</pc></tail></H1>
+
+204 zi
+<H1><h><key1>zi</key1><key2>zi</key2></h><body>.<s>zi</s>¦ (<s>Y</s>) <s>ziY</s> r. 5th cl. (<s>sinoti sinute</s>) r. 9th cl. (<s>sinAtisinIte</s>) To tie, to bind. With <s>aDi</s> and <s>ava</s> prefixed, To accomplish. With <s>vi</s> and <s>ava,</s> To transact as business. With <s>vi,</s> To be an object or purpose.</body><tail><L>39538</L><pc>871</pc></tail></H1>
+
+205 zica
+<H1><h><key1>zica</key1><key2>zica</key2></h><body>.<s>zica</s>¦ (<s>O</s>) <s>zicA</s> r. 6th cl. (<s>siYcati-te</s>) To sprinkle. With <s>aBi</s> prefixed,<br/>²1 To anoint, to initiate.<br/>²2 To sprinkle.</body><tail><L>39539</L><pc>871</pc></tail></H1>
+
+206 ziwa
+<H1><h><key1>ziwa</key1><key2>ziwa</key2></h><body>.<s>ziwa</s>¦ r. 1st cl. (<s>siwati</s>) To disregard, to contemn, to despise, to treat with disrespect.</body><tail><L>39540</L><pc>871</pc></tail></H1>
+
+207 ziDa
+<H1><h><key1>ziDa</key1><key2>ziDa</key2></h><body>.<s>ziDa</s>¦ r. 1st cl. (<s>seDati</s>) To go. (<s>U</s>) <s>ziDU</s> r. 1st cl. (<s>seDati</s>)<br/>²1 To command, to order.<br/>²2 To ordain, especially with respect to holy observances.<br/>²2 To do an auspicious act. or one indicating good fortune. (<s>u</s>) <s>ziDa</s> r. 4th cl. (<s>siDyati</s>)<br/>²1 To succeed, to effect fully or completely.<br/>²2 To complete a series of mystical observances by which supernatural powers are attained, to be an adept, to be initiated.<br/>²2 To be perfect, to be finished or accomplished.<br/>²4 To be right or cortect. With <s>ni</s> or <s>prati</s> prefixed, (<s>nizeDati pratizeDati</s>) To prevent, to prohibit. With <s>pra,</s> To be celebrated or notorious.</body><tail><L>39542</L><pc>871</pc></tail></H1>
+
+208 ziBa
+<H1><h><key1>ziBa</key1><key2>ziBa</key2></h><body>.<s>ziBa</s>¦ (<s>u</s>) <s>ziBu</s> r. 1st cl. (<s>seBati</s>)<br/>²1 To hurt or kill.<br/>²2 To speak.<br/>²3 To shine.</body><tail><L>39543</L><pc>871</pc></tail></H1>
+
+209 zimBa
+<H1><h><key1>zimBa</key1><key2>zimBa</key2></h><body>.<s>zimBa</s>¦ (<s>u</s>) <s>zimBu</s> r. 1st cl. (<s>simBati</s>)<br/>²1 To hurt or kill.<br/>²2 To speak.<br/>²3 To shine.</body><tail><L>39544</L><pc>871</pc></tail></H1>
+
+210 zila
+<H1><h><key1>zila</key1><key2>zila</key2></h><body>.<s>zila</s>¦ r. 6th cl. (<s>silati</s>) To glean: more usually <s>sila.</s></body><tail><L>39545</L><pc>871</pc></tail></H1>
+
+211 ziva
+<H1><h><key1>ziva</key1><key2>ziva</key2></h><body>.<s>ziva</s>¦ (<s>u</s>) <s>zivu</s> r. 4th cl. (<s>sIvyati</s>)<br/>²1 To sew, to stitch.<br/>²3 To sow, as seed.</body><tail><L>39546</L><pc>871</pc></tail></H1>
+
+212 zu
+<H1><h><key1>zu</key1><key2>zu</key2></h><body>.<s>zu</s>¦ r. 2nd cl. (<s>sOti</s>)<br/>²1 To bear, to bring forth.<br/>²2 To possess power or supremacy. (<s>Ya</s>) <s>zuY</s> r. 5th cl. (<s>sunoti sunute</s>)<br/>²1 To bathe, preparatory to a sacrifice.<br/>²2 To distil, to extract a spirit.<br/>²3 To churn, to stir or agitate.<br/>²4 To pain. With <s>aBi,</s><br/>²1 To sprinkle.<br/>²2 To bathe. With <s>pra,</s> To bear or bring forth.</body><tail><L>39547</L><pc>871</pc></tail></H1>
+
+213 zuwwa
+<H1><h><key1>zuwwa</key1><key2>zuwwa</key2></h><body>.<s>zuwwa</s>¦ r. 10th cl. (<s>zuwwayati</s>)<br/>²1 To disregard, to despise.<br/>²2 To be small or shallow.</body><tail><L>39548</L><pc>871</pc></tail></H1>
+
+214 zuBa
+<H1><h><key1>zuBa</key1><key2>zuBa</key2></h><body>.<s>zuBa</s>¦ r. 1st cl. (<s>soBati</s>) r. 6th cl. (<s>suBati</s>)<br/>²1 To speak.<br/>²2 To shine.<br/>²3 To hurt or kill.</body><tail><L>39549</L><pc>871</pc></tail></H1>
+
+215 zumBa
+<H1><h><key1>zumBa</key1><key2>zumBa</key2></h><body>.<s>zumBa</s>¦ r. 1st and 6th cls. (<s>sumBati</s>)<br/>²1 To speak.<br/>²2 To shine.<br/>²3 To be beautiful.<br/>²4 To hurt or kill.</body><tail><L>39550</L><pc>871</pc></tail></H1>
+
+216 zura
+<H1><h><key1>zura</key1><key2>zura</key2></h><body>.<s>zura</s>¦ r. 6th cl. (<s>surati</s>)<br/>²1 To possess supreme or superhuman power.<br/>²2 To shine.</body><tail><L>39551</L><pc>871</pc></tail></H1>
+
+217 zuha
+<H1><h><key1>zuha</key1><key2>zuha</key2></h><body>.<s>zuha</s>¦ r. 4th cl. (<s>suhyati</s>)<br/>²1 To bear, to endure.<br/>²2 To be content or satisfied.<br/>²3 To be able.</body><tail><L>39552</L><pc>871</pc></tail></H1>
+
+218 zU
+<H1><h><key1>zU</key1><key2>zU</key2></h><body>.<s>zU</s>¦ (<s>Na</s>) <s>zUN</s> r. 2nd cl. (<s>sUte</s>) r. 4th cl. (<s>sUyate</s>)<br/>²1 To bear a child, to bring forth.<br/>²2 To produce in general. r. 6th cl. (<s>suvati</s>) To direct, to send, to throw or cast.</body><tail><L>39553</L><pc>871</pc></tail></H1>
+
+219 zUda
+<H1><h><key1>zUda</key1><key2>zUda</key2></h><body>.<s>zUda</s>¦ r. 1st cl. (<s>sUdate</s>) r. 10th cl. (<s>sUdayati</s>)<br/>²1 To leak, to drop, to flow, to distil.<br/>²2 To deposit, to place.<br/>²3 To hurt, to wound, to kill or attempt to kill.<br/>²4 To promise.<br/>²5 (In the causal form,) To hallow, to make holy or pure.</body><tail><L>39555</L><pc>871</pc></tail></H1>
+
+220 zUra
+<H1><h><key1>zUra</key1><key2>zUra</key2></h><body>.<s>zUra</s>¦ (<s>I</s>) <s>zUrI</s> r. 4th cl. (<s>sUryyate</s>)<br/>²1 To be stopped or fixed.<br/>²2 To hurt or kill.</body><tail><L>39556</L><pc>871</pc></tail></H1>
+
+221 zUrkza
+<H1><h><key1>zUrkza</key1><key2>zUrkza</key2></h><body>.<s>zUrkza</s>¦ r. 1st cl. (<s>sUrkzati</s>)<br/>²1 To respect, to regard, to treat with reverence or respect.<br/>²2 To disregard, to disrespect.</body><tail><L>39557</L><pc>871</pc></tail></H1>
+
+222 zUrkzya
+<H1><h><key1>zUrkzya</key1><key2>zUrkzya</key2></h><body>.<s>zUrkzya</s>¦ r. 1st cl. (<s>sUrkzyati</s>)<br/>²1 To envy, to be impatient of another's rise.<br/>²2 To be intolerant or impatient of another's faults.<br/>²3 To disregard or contemn.</body><tail><L>39558</L><pc>871</pc></tail></H1>
+
+223 zUza
+<H1><h><key1>zUza</key1><key2>zUza</key2></h><body>.<s>zUza</s>¦ r. 1st cl. (<s>sUzati</s>) To bring forth, to bear; also <s>sUza.</s></body><tail><L>39559</L><pc>871</pc></tail></H1>
+
+224 zwaBa
+<H1><h><key1>zwaBa</key1><key2>zwaBa</key2></h><body>.<s>zwaBa</s>¦ (<s>u</s>) <s>zfBu</s> r. 1st cl. (<s>sarBati</s>) To hurt or kill.</body><tail><L>39560</L><pc>871</pc></tail></H1>
+
+225 zfmBa
+<H1><h><key1>zfmBa</key1><key2>zfmBa</key2></h><body>.<s>zfmBa</s>¦ (<s>u</s>) <s>zfmBu</s> r. 1st cl. (<s>sfmBati</s>) To hurt or kill.</body><tail><L>39561</L><pc>871</pc></tail></H1>
+
+226 zeka
+<H1><h><key1>zeka</key1><key2>zeka</key2></h><body>.<s>zeka</s>¦ (<s>f</s>) <s>zekf</s> r. 1st cl. (<s>sekate</s>) To go, to move; preferably <s>seka.</s></body><tail><L>39562</L><pc>871</pc></tail></H1>
+
+227 zela
+<H1><h><key1>zela</key1><key2>zela</key2></h><body>.<s>zela</s>¦ (<s>x</s>) <s>zex</s> r. 1st cl. (<s>selati</s>) To go, to move; also <s>Sela,</s> and <s>sela.</s></body><tail><L>39563</L><pc>871</pc></tail></H1>
+
+228 zeva
+<H1><h><key1>zeva</key1><key2>zeva</key2></h><body>.<s>zeva</s>¦ (<s>f</s>) <s>zevf</s> r. 1st cl. (<s>sevati-te</s>)<br/>²1 To serve, to gratify by service.<br/>²2 To rely or depend on.<br/>²3 To worship.<br/>²4 To follow, to practise, to be addicted to.</body><tail><L>39564</L><pc>871</pc></tail></H1>
+
+229 zE
+<H1><h><key1>zE</key1><key2>zE</key2></h><body>.<s>zE</s>¦ r. 1st cl. (<s>sAyati</s>) To waste, to wane or decline.</body><tail><L>39565</L><pc>871</pc></tail></H1>
+
+230 zo
+<H1><h><key1>zo</key1><key2>zo</key2></h><body>.<s>zo</s>¦ r. 4th cl. (<s>syati</s>)<br/>²1 To destroy, to put an end to.<br/>²2 To be destroyed, to perish.</body><tail><L>39566</L><pc>871</pc></tail></H1>
+
+231 zwaka
+<H1><h><key1>zwaka</key1><key2>zwaka</key2></h><body>.<s>zwaka</s>¦ r. 1st cl. (<s>stakati</s>) To resist or oppose.</body><tail><L>39578</L><pc>871</pc></tail></H1>
+
+232 zwaga
+<H1><h><key1>zwaga</key1><key2>zwaga</key2></h><body>.<s>zwaga</s>¦ (<s>e</s>) <s>zwage</s> r. 1st cl. (<s>stagati</s>) To cover. [Page872]</body><tail><L>39579</L><pc>871</pc></tail></H1>
+
+233 zwana
+<H1><h><key1>zwana</key1><key2>zwana</key2></h><body>.<s>zwana</s>¦ r. 1st cl. (<s>stanati</s>) To sound.</body><tail><L>39580</L><pc>872</pc></tail></H1>
+
+234 zwaBa
+<H1><h><key1>zwaBa</key1><key2>zwaBa</key2></h><body>.<s>zwaBa</s>¦ (<s>i</s>) <s>zwaBi</s> r. 1st cl. (<s>stamBate</s>)<br/>²1 To stop or hinder, to oppose, to impede, to resist or prevent.<br/>²2 To be stupid or dull, to be inanimate or insensible.<br/>²3 To be fixed as a post.<br/>²4 To be astounded or stupefied.<br/>²5 To be paralysed.</body><tail><L>39581</L><pc>872</pc></tail></H1>
+
+235 zwama
+<H1><h><key1>zwama</key1><key2>zwama</key2></h><body>.<s>zwama</s>¦ r. 1st. cl. (<s>stamati</s>)<br/>²1 To be confused.<br/>²2 To be clear or unconfused. r. 10th cl. (<s>stamayati</s>) To confuse or annoy.</body><tail><L>39582</L><pc>872</pc></tail></H1>
+
+236 zwiDa
+<H1><h><key1>zwiDa</key1><key2>zwiDa</key2></h><body>.<s>zwiDa</s>¦ r. 5th cl. (<s>stiDrute</s>) To assail, to assault, to attack.</body><tail><L>39583</L><pc>872</pc></tail></H1>
+
+237 zwipa
+<H1><h><key1>zwipa</key1><key2>zwipa</key2></h><body>.<s>zwipa</s>¦ (<s>f</s>) <s>zwipf</s> r. 1st cl. (<s>stepate</s>)<br/>²1 To ooze, to drop, to distil.<br/>²2 To sprinkle.</body><tail><L>39584</L><pc>872</pc></tail></H1>
+
+238 zwIma
+<H1><h><key1>zwIma</key1><key2>zwIma</key2></h><body>.<s>zwIma</s>¦ r. 4th cl. (<s>stImyati</s>) To be wet or moist, to reek, to steam.</body><tail><L>39585</L><pc>872</pc></tail></H1>
+
+239 zwu
+<H1><h><key1>zwu</key1><key2>zwu</key2></h><body>.<s>zwu</s>¦ (<s>Ya</s>) <s>zwuY</s> r. 2nd cl. (<s>stOti</s> or <s>stute stavIti</s> or <s>stavIte</s>)<br/>²1 To praise, to eulogise.<br/>²2 To hymn, to worship with praises.</body><tail><L>39586</L><pc>872</pc></tail></H1>
+
+240 zwuca
+<H1><h><key1>zwuca</key1><key2>zwuca</key2></h><body>.<s>zwuca</s>¦ r. 1st cl. (<s>stocate</s>) To be clear, to be bright, to be pellucid.</body><tail><L>39587</L><pc>872</pc></tail></H1>
+
+241 zwupa
+<H1><h><key1>zwupa</key1><key2>zwupa</key2></h><body>.<s>zwupa</s>¦ r. 10th cl. (<s>stopayati</s>) To heap up.</body><tail><L>39588</L><pc>872</pc></tail></H1>
+
+242 zwuBa
+<H1><h><key1>zwuBa</key1><key2>zwuBa</key2></h><body>.<s>zwuBa</s>¦ (<s>u</s>) <s>zwuBu</s> r. 1st cl. (<s>stoBati</s>)<br/>²1 To stop, to hinder.<br/>²2 To be stupid or dull.</body><tail><L>39589</L><pc>872</pc></tail></H1>
+
+243 zwUpa
+<H1><h><key1>zwUpa</key1><key2>zwUpa</key2></h><body>.<s>zwUpa</s>¦ r. 10th cl. (<s>stUpayati</s>) To heap together, to pile up, to collect into a heap; also <s>stUpa.</s></body><tail><L>39590</L><pc>872</pc></tail></H1>
+
+244 zwfkza
+<H1><h><key1>zwfkza</key1><key2>zwfkza</key2></h><body>.<s>zwfkza</s>¦ r. 1st cl. (<s>stfkzati</s>) To go, to move.</body><tail><L>39591</L><pc>872</pc></tail></H1>
+
+245 zwfha
+<H1><h><key1>zwfha</key1><key2>zwfha</key2></h><body>.<s>zwfha</s>¦ (<s>u</s>) <s>zwfhu</s> r. 6th cl. (<s>zwfhati</s>) To hurt or kill; also <s>stfha,</s> and <s>zwfha.</s></body><tail><L>39592</L><pc>872</pc></tail></H1>
+
+246 zwFha
+<H1><h><key1>zwFha</key1><key2>zwFha</key2></h><body>.<s>zwFha</s>¦ (<s>U</s>) <s>zwFhU</s> r. 6th cl. (<s>stfhati</s>) To hurt or kill.</body><tail><L>39593</L><pc>872</pc></tail></H1>
+
+247 zwepa
+<H1><h><key1>zwepa</key1><key2>zwepa</key2></h><body>.<s>zwepa</s>¦ (<s>f</s>) <s>zwepf</s> r. 1st cl. (<s>stepate</s>)<br/>²1 To leak, to flow, to distil or drop.<br/>²2 To sprinkle.</body><tail><L>39594</L><pc>872</pc></tail></H1>
+
+248 zwE
+<H1><h><key1>zwE</key1><key2>zwE</key2></h><body>.<s>zwE</s>¦ r. 1st cl. (<s>stAyati</s>) To surround, to encompass.</body><tail><L>39595</L><pc>872</pc></tail></H1>
+
+249 zwyO
+<H1><h><key1>zwyO</key1><key2>zwyO</key2></h><body>.<s>zwyO</s>¦ r. 1st cl. (<s>styAyati</s>)<br/>²1 To sound.<br/>²2 To crowd or swarm.<br/>²3 To envelope.</body><tail><L>39597</L><pc>872</pc></tail></H1>
+
+250 zWaga
+<H1><h><key1>zWaga</key1><key2>zWaga</key2></h><body>.<s>zWaga</s>¦ (<s>e</s>) <s>zWage</s> r. 1st cl. (<s>sTagati</s>) To cover.</body><tail><L>39598</L><pc>872</pc></tail></H1>
+
+251 zWala
+<H1><h><key1>zWala</key1><key2>zWala</key2></h><body>.<s>zWala</s>¦ r. 1st cl. (<s>sTalati</s>)<br/>²1 To stand.<br/>²2 To be firm.</body><tail><L>39599</L><pc>872</pc></tail></H1>
+
+252 zWasa
+<H1><h><key1>zWasa</key1><key2>zWasa</key2></h><body>.<s>zWasa</s>¦ (<s>u</s>) <s>zWasu</s> r. 4th cl. (<s>sTasyati</s>) To dwell in, to inhabit.</body><tail><L>39600</L><pc>872</pc></tail></H1>
+
+253 zWA
+<H1><h><key1>zWA</key1><key2>zWA</key2></h><body>.<s>zWA</s>¦ r. 1st cl. (<s>tizWati</s>)<br/>²1 To stand, to stop, to be still, to refrain from moving.<br/>²2 To abide, to stay, to be. (<s>tizWate</s>)<br/>²1 To apply or refer to, as an umpire or judge.<br/>²2 To indicate or reveal one's thoughts to another. With <s>aDi</s> prefixed, (<s>aDitizWati</s>)<br/>²1 To excel, to surpass, to overcome.<br/>²2 To sit or stand upon or over.<br/>²3 To be placed or preside over. With <s>anu</s> (<s>anutizWati</s>)<br/>²1 To practise as a duty, to obey or follow as a law.<br/>²2 To apply or adhere to. With <s>ava</s> (<s>avatizWati-te</s>)<br/>²1 To stay or stand.<br/>²2 To attend upon. With <s>AN</s> (<s>AtizWate</s>)<br/>²1 To affirm or assert.<br/>²2 To apply; (<s>AtizWati</s>)<br/>²1 To ascend, to mount.<br/>²2 To promise or engage. With <s>ut</s> (<s>uttizWate</s>)<br/>²1 To seek for, to endeavour to obtain; (<s>uttizWati</s>) To get up, to rise as from a seat, &amp;c. With <s>upa</s> (<s>upatizWati-te</s>)<br/>²1 To propitiate (as a deity.)<br/>²2 To praise or hymn, to worship, to adore.<br/>²3 To embrace.<br/>²4 To treat in a friendly manner, to form a friendship or connexion with.<br/>²5 To pass or lie along or near to, that is, as a path or road.<br/>²6 To arrive at or near; (<s>upatizWate</s>) To hope to gain or acquire. With <s>ni</s> (<s>nitizWate</s>) To be established. With <s>pari</s> and <s>ava</s> (<s>paryyavatizWate</s>) To be stationary or immovable. With <s>pra</s> (<s>pratizWate</s>)<br/>²1 To set off, to go forth, to depart.<br/>²2 To go to. With <s>pra</s> and <s>ut</s> (<s>prottizWati</s>) To get up, to rise. With <s>prati,</s> (<s>pratitizWati</s>) To be erected for holy purposes, to be sacred or consecrated. With <s>vi</s> (<s>vitizWate</s>)<br/>²1 To stand apart, to be separated.<br/>²2 To stay or be. With <s>vi</s> and <s>ava</s> (<s>vyavatizWate</s>) To decree, to pronounce. With <s>sam</s> (<s>santizWate</s>)<br/>²1 To be well.<br/>²2 To be close to or together.<br/>²3 To be of the same inclinations or opinions, to conform, to agree.<br/>²4 To be completed or finished. With <s>sama</s> and <s>AN</s> (<s>samAtizWate</s>) To perform, to be engaged in. With <s>sama</s> and <s>ut</s> (<s>samuttizWati</s>) To rise or get up. With <s>sama</s> and <s>pra,</s> To go forth or on a journey. With <s>pra</s> in the causal (<s>prasTApayati</s>) To send.</body><tail><L>39601</L><pc>872</pc></tail></H1>
+
+254 zRasa
+<H1><h><key1>zRasa</key1><key2>zRasa</key2></h><body>.<s>zRasa</s>¦ (<s>u</s>) <s>zRasu</s> r. 4th cl. (<s>snasyati</s>) To eject from the mouth, to spit.</body><tail><L>39607</L><pc>872</pc></tail></H1>
+
+255 zRA
+<H1><h><key1>zRA</key1><key2>zRA</key2></h><body>.<s>zRA</s>¦ r. 2nd cl. (<s>snAti</s>) To bathe, to purify by ablution.</body><tail><L>39608</L><pc>872</pc></tail></H1>
+
+256 zRiha
+<H1><h><key1>zRiha</key1><key2>zRiha</key2></h><body>.<s>zRiha</s>¦ (<s>x U</s>) r. 4th cl. (<s>snihyati</s>) To bear affection to, love, to regard, to be kind to or pleased with. r. 10th. cl. (<s>snehayati</s>) To be unctuous, to be bland or greasy.</body><tail><L>39609</L><pc>872</pc></tail></H1>
+
+257 zRu
+<H1><h><key1>zRu</key1><key2>zRu</key2></h><body>.<s>zRu</s>¦ r. 2nd cl. (<s>zROti</s>) To distil, to drop, to ooze or leak.</body><tail><L>39610</L><pc>872</pc></tail></H1>
+
+258 zRuca
+<H1><h><key1>zRuca</key1><key2>zRuca</key2></h><body>.<s>zRuca</s>¦ r. 1st cl. (<s>snocate</s>) To be clear or pellucid.</body><tail><L>39611</L><pc>872</pc></tail></H1>
+
+259 zRusa
+<H1><h><key1>zRusa</key1><key2>zRusa</key2></h><body>.<s>zRusa</s>¦ (<s>u</s>) <s>zRusu</s> r. 4th cl. (<s>snusyati</s>)<br/>²1 To eat.<br/>²2 To take.<br/>²3 To disappear.<br/>²4 To eject from the mouth.</body><tail><L>39612</L><pc>872</pc></tail></H1>
+
+260 zRuha
+<H1><h><key1>zRuha</key1><key2>zRuha</key2></h><body>.<s>zRuha</s>¦ (<s>x U</s>) r. 4th cl. (<s>snuhyati</s>) To be sick, to retch, to throw up, to vomit.</body><tail><L>39613</L><pc>872</pc></tail></H1>
+
+261 zRE
+<H1><h><key1>zRE</key1><key2>zRE</key2></h><body>.<s>zRE</s>¦ r. 1st cl. (<s>snAyati</s>) To surround, to encompass.</body><tail><L>39614</L><pc>872</pc></tail></H1>
+
+262 zmi
+<H1><h><key1>zmi</key1><key2>zmi</key2></h><body>.<s>zmi</s>¦ r. 1st cl. (<s>smayate</s>) To smile. r. 10th cl. (<s>snAyayate</s>) To disrespect: with <s>vi</s> prefixed, to surprise or astonish.</body><tail><L>39615</L><pc>872</pc></tail></H1>
+
+263 zvaYja
+<H1><h><key1>zvaYja</key1><key2>zvaYja</key2></h><body>.<s>zvaYja</s>¦ r. 1st cl. (<s>svajate</s>) To embrace.</body><tail><L>39617</L><pc>872</pc></tail></H1>
+
+264 zvada
+<H1><h><key1>zvada</key1><key2>zvada</key2></h><body>.<s>zvada</s>¦ r. 1st cl. (<s>svadate</s>) r. 10th cl. (<s>svAdayati</s>)<br/>²1 To taste.<br/>²2 To be pleasing.<br/>²3 To cover; also <s>svAda.</s></body><tail><L>39618</L><pc>872</pc></tail></H1>
+
+265 zvapa
+<H1><h><key1>zvapa</key1><key2>zvapa</key2></h><body>.<s>zvapa</s>¦ (<s>Yi O</s>) <s>YizvapO</s> r. 2nd cl. (<s>svapiti</s>) To sleep.</body><tail><L>39619</L><pc>872</pc></tail></H1>
+
+266 zvartta
+<H1><h><key1>zvartta</key1><key2>zvartta</key2></h><body>.<s>zvartta</s>¦ r. 10th cl. (<s>zvarttayati</s>)<br/>²1 To go, to move.<br/>²2 To be wretched or distressed.</body><tail><L>39620</L><pc>872</pc></tail></H1>
+
+267 zvida
+<H1><h><key1>zvida</key1><key2>zvida</key2></h><body>.<s>zvida</s>¦ (<s>Yi A</s>) <s>YizvidA</s> r. 1st cl. (<s>svedate</s>) r. 4th cl. (<s>svidyati</s>)<br/>²1 To perspire, to sweat.<br/>²2 To be greasy or unctuous.<br/>²3 To be fascinated, to be tempted or deluded.<br/>²4 To quit, to yield. <H/><s>sa</s></body><tail><L>39622</L><pc>872</pc></tail></H1>
+
+268 saNketa
+<H1><h><key1>saNketa</key1><key2>saNketa</key2></h><body>.<s>saNketa</s>¦ r. 10th cl. (<s>saNketayati</s>)<br/>²1 To call or invite.<br/>²2 To counsel or advise.<br/>²3 To fix or appoint a time.</body><tail><L>39925</L><pc>880</pc></tail></H1>
+
+269 saNgrAma
+<H1><h><key1>saNgrAma</key1><key2>saNgrAma</key2></h><body>.<s>saNgrAma</s>¦ r. 10th cl. (<s>saNgrAmayati-te</s>)<br/>²1 To fight.<br/>²2 To make war. [Page882]</body><tail><L>39975</L><pc>881</pc></tail></H1>
+
+270 stfMha
+<H1><h><key1>stfMha</key1><key2>stfMha</key2></h><body>.<s>stfMha</s>¦ r. 6th cl. (<s>stfMhati</s>) To hurt, to injure, to kill.</body><tail><L>43016</L><pc>950</pc></tail></H1>
+
+271 spardDa
+<H1><h><key1>spardDa</key1><key2>spardDa</key2></h><body>.<s>spardDa</s>¦ r. 1st cl. (<s>spardDate</s>) To vie, to envy, to desire another's reduction.</body><tail><L>43292</L><pc>956</pc></tail></H1>
+
+272 sparSa
+<H1><h><key1>sparSa</key1><key2>sparSa</key2></h><body>.<s>sparSa</s>¦ r. 10th cl. (<s>sparSayati</s>)<br/>²1 To take.<br/>²2 To unite, to join.</body><tail><L>43298</L><pc>956</pc></tail></H1>
+
+273 sbf
+<H1><h><key1>sbf</key1><key2>sbf</key2></h><body>.<s>sbf</s>¦ r. 9th cl. (<s>sbfRAti-sbfRIte</s>) To hurt, to kill.</body><tail><L>43410</L><pc>958</pc></tail></H1>
+
+274 syana
+<H1><h><key1>syana</key1><key2>syana</key2></h><body>.<s>syana</s>¦ r. 10th cl. (<s>syanayate</s>) To think, to consider, to reflect.</body><tail><L>43469</L><pc>959</pc></tail></H1>
+
+275 svaWa
+<H1><h><key1>svaWa</key1><key2>svaWa</key2></h><body>.<s>svaWa</s>¦ r. 10th cl. (<s>svaWayati</s>)<br/>²1 To finish.<br/>²2 To leave unfinished.</body><tail><L>43564</L><pc>961</pc></tail></H1>
+
+276 svartta
+<H1><h><key1>svartta</key1><key2>svartta</key2></h><body>.<s>svartta</s>¦ r. 10th cl. (<s>svarttayati</s>) To be miserable or distrest.</body><tail><L>43710</L><pc>964</pc></tail></H1>
+
+277 svava
+<H1><h><key1>svava</key1><key2>svava</key2></h><body>.<s>svava</s>¦ r. 1st cl. (<s>svavati</s>) To revile, to abuse.</body><tail><L>43728</L><pc>964</pc></tail></H1>
+
+278 svaska
+<H1><h><key1>svaska</key1><key2>svaska</key2></h><body>.<s>svaska</s>¦ r. 1st cl. (<s>svaskate</s>) To go, more generally read <s>zvazka.</s></body><tail><L>43738</L><pc>964</pc></tail></H1>
+
+279 svF
+<H1><h><key1>svF</key1><key2>svF</key2></h><body>.<s>svF</s>¦ r. 9th cl. (<s>svfRAti-svfRIte</s>) To hurt, to kill.</body><tail><L>43827</L><pc>966</pc></tail></H1>
+
+280 hiva
+<H1><h><key1>hiva</key1><key2>hiva</key2></h><body>.<s>hiva</s>¦ (<s>i</s>) <s>hivi</s> r. 1st cl. (<s>hivvati</s>)<br/>²1 To be satisfied.<br/>²2 To satisfy or please.</body><tail><L>44312</L><pc>976</pc></tail></H1>
+
+281 hisa
+<H1><h><key1>hisa</key1><key2>hisa</key2></h><body>.<s>hisa</s>¦ (<s>i</s>) <s>hisi</s> r. 1st and 10th cls. (<s>hiMsati hiMsayati</s>) and 7th cl. (<s>hinasti</s>) To hurt, to injure, to do any thing tending to the prejudice of another in word, thought, or deed.</body><tail><L>44313</L><pc>976</pc></tail></H1>
+
+282 hrapa
+<H1><h><key1>hrapa</key1><key2>hrapa</key2></h><body>.<s>hrapa</s>¦ r. 10th cl. (<s>hrApayati</s>) To speak.</body><tail><L>44524</L><pc>981</pc></tail></H1>
+
+283 hroqa
+<H1><h><key1>hroqa</key1><key2>hroqa</key2></h><body>.<s>hroqa</s>¦ (<s>f</s>) <s>hroqf</s> r. 1st cl. (<s>hroqati</s>) To go, to move.</body><tail><L>44563</L><pc>981</pc></tail></H1>
+
