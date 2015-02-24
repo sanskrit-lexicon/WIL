@@ -1,0 +1,114 @@
+
+Feb 24. 2014
+Wil/wilmwroots/step2
+
+* Purpose
+To continue the Wilson-MW root correspondence project begun in step1.
+Several changes to Wilson and MW have been made, and extended rules are used
+by wil_mw.py to correspond Wilson and MW roots.
+The primary outputs are wil_mw.txt and wil_mw_prob.txt.
+As a result of these extensions and additions to MW markup, 
+a correspondence to some MW root has been asserted for all but 35 of the Wilson
+roots.  By contrast, step1 left 283 Wilson roots unmatched.
+
+* Extended rules
+wil_mw.py in step2 contains the rules by which a Wilson root is matched to a
+root in MW.
+These rules extend the rules of wil_mw.py in step1.
+These rules are listed in the correspondences shown in wil_mw.txt.
+Here is a list of the rules, with  codes, a count of occurrence in wil_mw.txt, 
+and a brief description.
+
+|code| count| description|
+
+|ROOT | 191|Wilson = MW |
+|z-ROOT | 13|After replacing initial 'z' with 's', Wilson = MW |
+|R-ROOT | 3|After replacing initial 'R' with 'n', Wilson = MW |
+|SPa-ROOT | 1211|Wilson = MW + a        |
+|z-SPa-ROOT | 62|After replacing initial 'z' with 's', Wilson = MW + a |
+|R-SPa-ROOT | 24|After replacing initial 'R' with 'n', Wilson = MW + a |
+|SPa-ROOT-r | 23|After replacing 'rxx' by 'rx', Wilson = MW + a  |
+|SPa-ROOT-rdD | 1|After replacing 'rdD' by 'rD', Wilson = MW + a   |
+|SPa-ROOT-nasal | 98|After inserting nasal before final consonants, Wilson = MW + a |
+|saN-SPa-ROOT | 1|After replacing initial 'saN' with 'saM', Wilson = MW + a |
+|SPa-ROOT-sj | 3|After replacing 'sj' with 'jj', Wilson = MW + a |
+|SPb-ROOT | 25|After replacing final 'a' with 'aya', Wilson = MW |
+|saN-SPb-ROOT | 1|After replacing initial 'saN' with 'saM' and final 'a' with 'aya', Wilson = MW|
+|SPb-ROOT-nasal | 1|After replacing final 'a' with 'aya' and inserting a nasal, Wilson = MW |
+|SPc-ROOT | 14|After replacing 'cC' with 'C', Wilson = MW + a |
+|SPc-ROOT-nasal | 3|After inserting nasal before final consonants and replacing 'cC' with 'C', Wilson = MW + a |
+|Causal | 6| Wilson root is a causal stem of MW root |
+|Intensive | 1|Wilson root is an intensive stem of MW root |
+|Likely | 25| |No rule, but Wilson root very likely matches MW root|
+|Probable | 15|No rule, but Wilson root probably matches MW root |
+|None | 35| Unmatched. See wil_mw_prob.txt  |
+
+
+* input data
+** wil.xml (revised 2/19/2015)
+  from wilxml.zip at http://www.sanskrit-lexicon.uni-koeln.de/scans/WILScan/2014/web/webtc/download.html
+  The Wilson roots are drawn from this digitization of the Wilson 
+  Sanskrit-English Dictionary.
+** verb_step0a.txt (revised 2/19/2015)
+ from  https://github.com/funderburkjim/MWvlex/tree/master/step0
+ This contains summary information for the roots in the Monier-Williams
+ Sanskrit-English Dictionary
+
+** corr6-roots.txt 
+ from  https://github.com/sanskrit-lexicon/WIL/tree/master/maprep
+ This contains the a correspondence between some Wilson roots and MW roots 
+ developed by Matthias Ahlborn and Peter Scharf in 2011.
+
+* wil_rdot.txt 
+python wil_rdot.py wil.xml wil_rdot.txt 
+
+Depends on wil.xml.
+Wilson seems to indicate roots with  'r.'.
+Use this to select records from wil.xml:
+1756 cases
+
+* other roots
+There are some other roots,
+ eg sautra root 'asta'. 
+
+* wil_rdot_key1_ne_key2.txt
+python wil_rdot_key1_ne_key2.py wil_rdot.txt wil_rdot_key1_ne_key2.txt
+
+For most of these, key1 and key2 are identical.
+However, for 160 of these, key1 and key2 are different.
+ (wil_rdot_key1_ne_key2.txt)
+Not sure how to interpret these 160; in particular, do we have a
+'correct' key1 for these?
+
+* 'cl.' in wil_rdot (observation)
+In 1690 cases in wil_rdot.txt, there is 'cl.'
+ In 352 of these cases, there is more than one 'r. X cl.'
+In 70 cases there is 'cls.' (e.g. sku, r. 9th and 5th cls.)
+In 3 cases (oKa, yuga, sawa) there is 'cl' rather than 'cl.'
+
+Wilson does not list prefixed verbs;  he discusses the prefixed forms of
+a root under the root headword.  There are 200 roots that have 
+'[Ww]ith +<s>' - For these roots, prefixed forms are discussed.  Not sure
+if all roots with prefixed forms are thus identified.
+In 28 cases (such as under aYca, i), a 'r. X cl' appears after the
+prefixed form.  (e.g., under 'i': with ... <s>aDi</s>... r. 2nd cl. ()<s>aDyeti</s>)
+
+
+* wil_mw.txt and wil_mw_prob.txt (first run)
+
+python wil_mw.py wil_rdot.txt verb_step0a.txt corr6-roots.txt wil_mw.txt wil_mw_prob.txt
+
+In a first run, no changes were made to the 'simple rules of matching'; the
+corrections to Wilson and additions to MW resulted in 44 additional matches.
+
+* redo.sh
+This script (or redo.bat for windows computers) recreates outputs from
+updated versions of wil.xml and verb_step0a.txt.
+
+python wil_rdot.py wil.xml wil_rdot.txt 
+python wil_rdot_key1_ne_key2.py wil_rdot.txt wil_rdot_key1_ne_key2.txt
+python wil_mw.py wil_rdot.txt verb_step0a.txt corr6-roots.txt wil_mw.txt wil_mw_prob.txt > wil_mw_log.txt
+
+
+
+* THE END

@@ -1,0 +1,150 @@
+Cases that are ok:
+
+01 aba,amba <-> amb  OK
+aba:  r. 1st cl. with an indicatory i, abi (aMbate) To sound.
+amba: r. 1st cl. (aMbati) To move, to go.
+amb : cl.1 P. ambati, to go L.  ; cl.1 A1. ambate, to sound L. 
+
+06 carca, carcca <-> carc  OK
+
+carca: r. 1st and 6th cls. (carcati) 1 To speak or say. 2 To abuse, to reprove, to censure or condemn. 3 To injure or hurt. 4 To inquire. r. 10th cl. (cartrayati) To read over, to peruse carefully, to study; also read carccaM.
+carcca:  r. 1st and 10th cls. (carccate carccayate) 1 To speak, to tell. 2 To reprove. 3 To study: see carca.
+carc: cl.1. °cati, to abuse, censure, menace Dhātup.  xvii, 67  ; to injure, xxviii, 17 : cl.10. °cayati, to repeat a word (in reciting the veda, esp. while adding iti) RPrāt.  xv, 10 and 12 to talk over, discuss Hcar.  vii  ; (also A1. Vop. ) to study Dhātup.  xxxiii, 38.
+
+08 diBa, dimBa <-> dimB  ok
+
+diBa:  (i) diBi r. 10th cl. (dimBayati) To order, to direct.
+dimBa: r. 10th cl. (dimBati) 1 To command, to direct. 2 To collect.
+  NOTE: dimBati is not consistent with 10th cl.
+dimB: cl.10 A1. dimBayate id. P. °ti, to order, direct id.
+
+* Cases that are resolved after an error correction
+
+07 cuwwa, cuwwa <-> cuww  
+
+cuwwa: r. 10th cl. (cuwwayati) 1 To become small, low or shallow, as a river, &c. 2 To collect.
+
+cuwwa:  r. 1st cl. (cuwwati) 1 To hint one's meaning. 2 To dally, to wanton, to coquet, &c. 3 To act.   THIS IS MIS-SPELLED: cuqqa 
+
+cuww: cl.10. wwayati, to become small, xxxii, 24  ; cf. √puww.
+
+12 stf, stf  <-> stf   
+```
+stf: (stf,) r. 5th cl. (stfRoti stfRute) To cover, to clothe, to spread on or over, to strew. With vi prefixed.
+1 To spread widely, to extend.
+2 To be diffuse or prolix.
+
+stf: (stf) r. 9th cl. (stfRAti stfRIte) To clothe, to cover, to spread on or over: see stf.   NOTE:  
+stf: (or stF). cl.5.9. P. A1. (Dhātup.  xxvii, 6 ; xxxi, 14) stfRoti, stfRute or stfRAti, stfRIte 
+to spread, spread out or about, strew, scatter
+```
+NOTE: The 2nd 'stf' in Wilson should be corrected (typo) to 'stF'.
+
+
+
+13 sPurjja, sPurjja <-> sPurj  OK after spelling correction
+
+sPurjja: r. 1st cl. (sPurjjati) To thunder: more properly sPUrjja.
+
+sPurjja: (o A) osPUrjjA r. 1st cl. (sPUrjjati) To thunder. 
+   SPELLING ERROR: sPUrjja
+
+sPurj:  sPurC » √sPUrC,sPUrj.
+
+
+* -----------------------------------------------------------------
+* Other cases
+02 kaka, kakka <-> kak   ADD MW root markup to kakk (DONE in mwupdate)
+kaka:  r. 1st cl. (kakate)
+1 To be proud.
+3 To be unsteady.
+4 To be thirsty. (i) kaki (kaMkate) To go.
+
+kakka:  r. 1st cl. (kakkati) To laugh.
+
+kak : cl.1 A1. kakate, cakake, kakitA, &c , to be unsteady  ; to be proud  ; to wish Dhātup.  iv, 16.
+
+03 kakKa, kakKa, kaKa  <-> kaK  ? Add MW markup to kakK (DONE in mwupdate)
+
+kakKa: r. 1st cl. (kakKati) To laugh. to laugh, at or deride: see kaKa.
+ (p. 177-2, after kaka, and out of alph. order)
+kakKa: (e) r. 1st cl. (kakKati) To laugh, to laugh at, to deride.
+
+kaKa r. r. 1st cl. (e) kaKe (kaKati) To laugh, to laugh at or deride; also kakKa and KakKa q. v.
+
+kaK: cl.1 P. kaKati, cakAKa, kaKitA, &c , to laugh, laugh at or deride: Caus. kaKayati, to cause to laugh Dhātup.  v, 6 ; xix, 22 ; 
+
+04 Karba, Karba <-> Karb  ?
+Karba:  r. 10th cl. (Karbvati) To go or move.
+        Out of order (after  karu). 
+        The text may actually be 'KarGa' (Yates has KarGa), which would be
+        proper alphabetical order.  Could this be an error that Wilson forgot
+        to remove and that Yates copied?
+
+Karba: r. 1st cl. (KarbaMti) To go, to move to or towards.
+    KarbaMti is error, should be Karbati.
+
+Karb : cl.1 P. °bati, to go or move. Dhātup.  xi, 27 ; 
+
+
+05 Gura, Gura <-> Gur  ?
+Gura: r. 6th cl. (Gurati)
+1 To be frightful or terrible.
+2 To sound.
+Gura: (I) GurI r. 4th cl. (Guryyate)    
+1 To be ignorant.
+2 To inquire.
+
+Gur: cl.6 P. °rati (aor. aGorIt ; pf. 3. pl. juGurur ; A1. juGure), to cry frightfully, frighten with cries Bhaṭṭ.  xiv f. (cf. Gora.)
+
+
+09 baDa, banDa <-> banD
+baDa: r. 1st cl. (bIBatsate)
+1 To bind or tie.
+2 To hate, to despise, to loath.
+3 To suffer change or affection of the mind. r. 1st and 10th cls. (baDati bADayati)
+1 To tie, to bind.
+2 To kill.
+
+banDa: r. 9th cl. (baDnAti) r. 10th cl. (banDayati) To bind or tie; with AN prefixed, To loosen, to let loose. 
+
+banD:cl.9 P. (Dhātup.  xxxi, 37) baDnAti (rarely A1. baDnIte ; cl.1 P. A1. banDati, °te MBh.  ; cl.4 P. baDyati Hariv.  [and much more]), to bind, tie, fix, fasten, chain, fetter [and much more]
+
+vaD: (also written baD ; cf. √ bAD ; properly only used in the aor. and Prec. tenses avaDIt and °Dizwa ; vaDyAt and vaDizIzwa Pāṇ.  2-4, 42 &c ; vi, 62 ; the other tenses being supplied by √ han ; cf. Dhātup.  xxiv, 2 ; but in Ved. and ep. poetry also pres. vaDati ; Pot. vaDet ; fut. vaDizyati, °te ; other Ved. forms are aor. avaDIm, vahIm Subj. vaDizaH ; baDIH TĀr.  ; Prec. baDyAsam, °suH AV. ), to strike, slay, kill, murder, defeat, destroy RV.  &c &c : Pass. vaDyate, °ti (aor. avaDi), to be slain or killed MBh.  Kāv.  &c : Caus. vaDayati, to kill, slay MBh. 
+
+baD: baD, baDya, even in Vedic texts sometimes = vaD,vaDya.
+ NOTE: MW add markup to baD <vlex type="root"></vlex>
+
+10 riKa, riKa <-> riK
+
+riKa: r. 1st cl. (riKati) To go, to move.
+
+riKa: (i) riKi r. 1st cl. (riMKati) To go, to move.
+
+riK: cl.1 P. reKati, to go, move Dhātup.  v, 33 Vop.  (cf. √ riNK)  ; 
+cl.6 P. riKati, to scratch, scrape (cf. A- √riK and √ liK).
+
+Also: 
+riNK: (cf. prec.) cl.1 P. (Dhātup.  v, 33 Vop. ) riNKati to go, move, crawl (said of young children) BhP.   ; 
+to go or advance slowly Cat. 
+
+11 skada, skanda <-> skand
+skada: (i) skadi r. 1st. cl. (skandate)
+1 To leap, to jump.
+2 To inundate.
+2 To lift up.
+3 To shed or spill.
+
+skanda: (ira) skandira r. 1st cl. (skandati)
+1 To go, to move.
+2 To be dry or arid.
+3 To effuse or emit. With ava prefixed, To assail, to assault.
+
+skand: (cf. skanD and skund) cl.1 P. (Dhātup.  xxiii, 10) skandati 
+to leap, jump, hop, dart, spring, spurt out, be spilt or effused (esp. said of semen) 
+(A1.) to emit seminal fluid VP.   ; 
+to leap upon, cover (said of animals) TBr.  ṠBr.   ; 
+to drop, fall down, perish, be lost 
+Caus. skandayati: to pour out, effuse, shed, spill, emit (esp. seminal fluid) 
+
+

@@ -1,0 +1,289 @@
+10476 records read from verb_step0a.txt
+1283 records read from corr6-roots.txt
+1756 records read from wil_rdot.txt
+WARNING: For wilkey=kakKa, mwkey(kakK) != dcorr6(kaK)
+WARNING: For wilkey=kakka, mwkey(kakk) != dcorr6(kak)
+WARNING: For wilkey=kakKa, mwkey(kakK) != dcorr6(kaK)
+WARNING: For wilkey=jala, mwkey(jala) != dcorr6(jal)
+WARNING: For wilkey=Dana, mwkey(Dana) != dcorr6(Dan)
+WARNING: For wilkey=nida, mwkey(nid) != dcorr6(nind)
+WARNING: For wilkey=Pulla, mwkey(Pulla) != dcorr6(Pull)
+WARNING: For wilkey=baDa, mwkey(baD) != dcorr6(banD)
+WARNING: For wilkey=laGa, mwkey(laGaya) != dcorr6(laNG)
+WARNING: For wilkey=skaBa, mwkey(skaB) != dcorr6(skamB)
+1721 lines written to wil_mw.txt
+35 lines written to wil_mw_prob.txt
+1 step0a record=amb:14390:<H1>:V::<vlex type="root"></vlex> <vlex>cl.1 P.</vlex> <vlex>cl.1 A1.</vlex>
+   Matches > 1 Wilson key: aba, amba 
+
+2 step0a record=ujJ:30600:<H1>:V::<vlex type="root"></vlex> <vlex>cl.6 P.</vlex>
+   Matches > 1 Wilson key: uYJa, udJa 
+
+3 step0a record=ubj:37050:<H1>:V::<vlex type="root"></vlex> <vlex>cl.6 P.</vlex>
+   Matches > 1 Wilson key: ubja, uvja 
+
+4 step0a record=kakK:41510:<H1>:V::<vlex type="root"></vlex>
+   Matches > 1 Wilson key: kakKa, kakKa 
+
+5 step0a record=kUR:53919:<H1>:V::<vlex type="root"></vlex> <vlex>cl.1.</vlex> <vlex>P. A1.</vlex>
+   Matches > 1 Wilson key: kURa, kUna 
+
+6 step0a record=kfv:55008:<H1>:V::<vlex type="root"></vlex>
+   Matches > 1 Wilson key: kfba, kfvi 
+
+7 step0a record=kzvid:60655:<H1>:V::<vlex type="root"></vlex>
+   Matches > 1 Wilson key: kzida, kzvida 
+
+8 step0a record=Karb:61559:<H1>:V::<vlex type="root"></vlex> <vlex>cl.1 P.</vlex>
+   Matches > 1 Wilson key: Karba, Karba 
+
+9 step0a record=gfD:66434:<H1>:V::<vlex type="root"></vlex> <vlex>cl.4 P.</vlex> <vlex>P.</vlex> <vlex>A1.</vlex>
+   Matches > 1 Wilson key: garDa, gfDa 
+
+10 step0a record=Gur:69819:<H1>:V::<vlex type="root"></vlex> <vlex>cl.6 P.</vlex> <vlex>A1.</vlex>
+   Matches > 1 Wilson key: Gura, Gura 
+
+11 step0a record=carc:72401:<H1>:V::<vlex type="root"></vlex> <vlex>cl.1.</vlex> <vlex>cl.10.</vlex> <vlex>A1.</vlex>
+   Matches > 1 Wilson key: carca, carcca 
+
+12 step0a record=Cid:75907:<H1>:V::<vlex type="root"></vlex> <vlex>cl.7.</vlex> <vlex>cl.9.</vlex> <vlex>A1.</vlex>
+   Matches > 1 Wilson key: Cida, Ceda 
+
+13 step0a record=Cfd:76102:<H1>:V::<vlex type="root"></vlex> <vlex>cl.7.</vlex> <vlex>P. A1.</vlex> <vlex>cl.1.</vlex> <vlex>A1.</vlex>
+   Matches > 1 Wilson key: Carda, Cfda 
+
+14 step0a record=jYA:80318:<H1>:V::<vlex type="root"></vlex> <vlex>cl.9 P.</vlex> <vlex>A1.</vlex> <vlex>cl.3.</vlex> <vlex>A1.</vlex> <vlex>A1.</vlex> <vlex>A1.</vlex> <vlex>P.</vlex>
+   Matches > 1 Wilson key: jYapa, jYA 
+
+15 step0a record=qip:81417:<H1>:V::<vlex type="root"></vlex> <vlex>cl.10 A1.</vlex> <vlex>cl.4.6.10.</vlex> <vlex>P.</vlex> <vlex>A1.</vlex>
+   Matches > 1 Wilson key: qipa, qiba 
+
+16 step0a record=tur:85972:<H1>:V::<vlex type="root"></vlex> <vlex>cl.6.</vlex> <vlex>A1.</vlex> <vlex>cl.4.</vlex> <vlex>A1.</vlex> <vlex>cl.3.</vlex>
+   Matches > 1 Wilson key: tura, tUra 
+
+17 step0a record=daMS:89230:<H1>:V::<vlex type="root"></vlex> <vlex>cl.1.10.</vlex> <vlex>P.</vlex> <vlex>cl.1 P.</vlex> <vlex>cl.10.A1.</vlex>
+   Matches > 1 Wilson key: daMSa, daSa 
+
+18 step0a record=daMS:89231:<H1>:V::<vlex type="root"></vlex> <vlex>cl.1.</vlex> <vlex>cl.6.</vlex> <vlex>A1.</vlex> <vlex>cl.1.</vlex>
+   Matches > 1 Wilson key: daMSa, daSa 
+
+19 step0a record=dimB:92219:<H1>:V::<vlex type="root"></vlex> <vlex>cl.10 A1.</vlex> <vlex>P.</vlex>
+   Matches > 1 Wilson key: diBa, dimBa 
+
+20 step0a record=drA:97755:<H1>:V::<vlex type="root"></vlex> <vlex>cl.2 P.</vlex> <vlex>A1.</vlex>
+   Matches > 1 Wilson key: daridrA, drA 
+
+21 step0a record=drA:98000.1:<H1>:V::<vlex type="root"></vlex> <vlex>cl.1 P. A1.</vlex> <vlex>cl.2 P.</vlex>
+   Matches > 1 Wilson key: daridrA, drA 
+
+22 step0a record=Dukz:101393:<H1>:V::<vlex type="root"></vlex> <vlex>cl.1 A1.</vlex>
+   Matches > 1 Wilson key: Dukza, DUkza 
+
+23 step0a record=Dru:102279:<H1>:V::<vlex type="root"></vlex> <vlex>cl.6 P.</vlex> <vlex>cl.1 P.</vlex>
+   Matches > 1 Wilson key: Dru, DrU 
+
+24 step0a record=naK:102937:<H1>:V::<vlex type="root"></vlex> <vlex>cl.4.1.</vlex> <vlex>P.</vlex>
+   Matches > 1 Wilson key: RaKa, naKa 
+
+25 step0a record=naw:103176:<H1>:V::<vlex type="root"></vlex> <vlex>cl.1.</vlex> <vlex>P.</vlex>
+   Matches > 1 Wilson key: Rawa, nawa 
+
+26 step0a record=nad:103308:<H1>:V::<vlex type="root"></vlex> <vlex>cl.1 P.</vlex>
+   Matches > 1 Wilson key: Rada, nada 
+
+27 step0a record=nam:103825:<H1>:V::<vlex type="root"></vlex> <vlex>cl.1 P.</vlex> <vlex>A1.</vlex> <vlex>P.</vlex> <vlex>A1.</vlex> <vlex>P.</vlex> <vlex>A1.</vlex>
+   Matches > 1 Wilson key: Rama, nama 
+
+28 step0a record=nay:103919:<H1>:V::<vlex type="root"></vlex> <vlex>cl.1 A1.</vlex>
+   Matches > 1 Wilson key: Raya, naya 
+
+29 step0a record=nard:104307:<H1>:V::<vlex type="root"></vlex> <vlex>cl.1 P.</vlex>
+   Matches > 1 Wilson key: Rarda, nardda 
+
+30 step0a record=nal:104379:<H1>:V::<vlex type="root"></vlex> <vlex>cl.1 P.</vlex> <vlex>cl.10 P.</vlex>
+   Matches > 1 Wilson key: Rala, nala 
+
+31 step0a record=nah:104854:<H1>:V::<vlex type="root"></vlex> <vlex>cl.4 P. A1.</vlex> <vlex>A1.</vlex> <vlex>A1.</vlex>
+   Matches > 1 Wilson key: Raha, naha 
+
+32 step0a record=nikz:107972:<H1>:V::<vlex type="root"></vlex> <vlex>cl.1 P.</vlex>
+   Matches > 1 Wilson key: Rikza, nikza 
+
+33 step0a record=nid:108451:<H1>:V::<vlex type="root"></vlex>
+   Matches > 1 Wilson key: Rida, nida 
+
+34 step0a record=niz:110652:<H1>:V::<vlex type="root"></vlex> <vlex>cl.1 P.</vlex>
+   Matches > 1 Wilson key: Riza, niza 
+
+35 step0a record=Baj:147598:<H1>:V::<vlex type="root"></vlex> <vlex>cl.1 P. A1.</vlex> <vlex>P.</vlex> <vlex>A1.</vlex> <vlex>P.</vlex> <vlex>A1.</vlex> <vlex>A1.</vlex> <vlex>A1.</vlex> <vlex>A1.</vlex> <vlex>P.</vlex> <vlex>A1.</vlex> <vlex>P.</vlex>
+   Matches > 1 Wilson key: Baja, BAja 
+
+36 step0a record=yantr:170247:<H1>:V::<vlex type="root"></vlex> <vlex type="hwalt">Nom.</vlex> <vlex>cl.10 P.</vlex> <vlex>cl.1 P.</vlex>
+   Matches > 1 Wilson key: yatra, yantra 
+
+37 step0a record=ramb:175239:<H1>:V::<vlex type="root"></vlex> <vlex>cl.1 A1.</vlex>
+   Matches > 1 Wilson key: raba, rava 
+
+38 step0a record=ramb:175240:<H1>:V::<vlex type="root"></vlex> <vlex>cl.1 A1.</vlex> <vlex>cl.1 P.</vlex>
+   Matches > 1 Wilson key: raba, rava 
+
+39 step0a record=riK:177953:<H1>:V::<vlex type="root"></vlex> <vlex>cl.1 P.</vlex> <vlex>cl.6 P.</vlex>
+   Matches > 1 Wilson key: riKa, riKa 
+
+40 step0a record=van:185710:<H1>:V::<vlex type="root"></vlex> <vlex>cl.1 P.</vlex> <vlex>cl.8 P. A1.</vlex>
+   Matches > 1 Wilson key: bana, vana 
+
+41 step0a record=vf:203978:<H1>:V::<vlex type="root"></vlex> <vlex>cl.5.9.1.</vlex> <vlex>P. A1.</vlex> <vlex>cl.5.</vlex> <vlex>cl.9.</vlex> <vlex>cl.1.</vlex> <vlex>A1.</vlex>
+   Matches > 1 Wilson key: vara, vf 
+
+42 step0a record=vf:204040:<H1>:V::<vlex type="root"></vlex> <vlex>cl.5.9. P. A1.</vlex>
+   Matches > 1 Wilson key: vara, vf 
+
+43 step0a record=vfj:204309:<H1>:V::<vlex type="root"></vlex> <vlex>cl.1.7.</vlex> <vlex>P.</vlex> <vlex>cl.2 A1.</vlex> <vlex>A1.</vlex> <vlex>A1.</vlex>
+   Matches > 1 Wilson key: vfca, vfja 
+
+44 step0a record=vfz:204858:<H1>:V::<vlex type="root"></vlex> <vlex>cl.1 P.</vlex> <vlex>A1.</vlex> <vlex>P.</vlex> <vlex>P.</vlex> <vlex>A1.</vlex> <vlex>A1.</vlex> <vlex>A1.</vlex>
+   Matches > 1 Wilson key: varza, vfza 
+
+45 step0a record=vyuz:210272:<H1>:V::<vlex type="root"></vlex> <vlex>cl.4 P.</vlex> <vlex>cl.10 P.</vlex>
+   Matches > 1 Wilson key: byuza, vyuza 
+
+46 step0a record=SUr:220262:<H1>:V::<vlex type="root"></vlex> <vlex>cl.4 A1.</vlex> <vlex>cl.10 A1.</vlex> <vlex type="hwalt">Nom.</vlex>
+   Matches > 1 Wilson key: Sura, SUra 
+
+47 step0a record=sUr:220262.1:<H1>:V::<vlex type="root"></vlex> <vlex>cl.4 A1.</vlex> <vlex>cl.10 A1.</vlex> <vlex type="hwalt">Nom.</vlex>
+   Matches > 1 Wilson key: zUra, sUra 
+
+48 step0a record=saYj:229217:<H1>:V::<vlex type="root"></vlex> <vlex>cl.1 P.</vlex>
+   Matches > 1 Wilson key: zaYja, saYja 
+
+49 step0a record=saYj:229218:<H1>:V::<vlex type="root"></vlex> <vlex>cl.1 P.</vlex> <vlex>A1.</vlex>
+   Matches > 1 Wilson key: zaYja, saYja 
+
+50 step0a record=saw:229447:<H1>:V::<vlex type="root"></vlex> <vlex>cl.1 P.</vlex> <vlex>cl.10.</vlex>
+   Matches > 1 Wilson key: zawa, sawa 
+
+51 step0a record=san:231023:<H1>:V::<vlex type="root"></vlex> <vlex>cl.1 P.</vlex> <vlex>cl.8. P. A1.</vlex> <vlex>A1.</vlex> <vlex>A1.</vlex> <vlex>A1.</vlex>
+   Matches > 1 Wilson key: zaRa, zana 
+
+52 step0a record=samb:236744:<H1>:V::<vlex type="root"></vlex>
+   Matches > 1 Wilson key: zamba, samba 
+
+53 step0a record=sarj:237906:<H1>:V::<vlex type="root"></vlex> <vlex>cl.1 P.</vlex>
+   Matches > 1 Wilson key: zarjja, sarjja 
+
+54 step0a record=sarj:237907:<H1>:V::<vlex type="root"></vlex> <vlex>cl.1 P.</vlex>
+   Matches > 1 Wilson key: zarjja, sarjja 
+
+55 step0a record=sas:239787:<H1>:V::<vlex type="root"></vlex> <vlex>cl.2 P.</vlex>
+   Matches > 1 Wilson key: zasa, zasti, sasa 
+
+56 step0a record=sAD:241500:<H1>:V::<vlex type="root"></vlex> <vlex>cl.1 P. A1.</vlex> <vlex>cl.4.</vlex> <vlex>cl.5.</vlex>
+   Matches > 1 Wilson key: zADa, sADa 
+
+57 step0a record=sAntv:241986:<H1>:V::<vlex type="root"></vlex> <vlex>cl.10 P. A1.</vlex> <vlex type="hwalt">Nom.</vlex>
+   Matches > 1 Wilson key: zAntva, sAntva 
+
+58 step0a record=su:245236:<H1>:V::<vlex type="root"></vlex> <vlex>cl.1 P. A1.</vlex>
+   Matches > 1 Wilson key: zu, su 
+
+59 step0a record=su:245237:<H1>:V::<vlex type="root"></vlex> <vlex>cl.1.2.</vlex> <vlex>P.</vlex>
+   Matches > 1 Wilson key: zu, su 
+
+60 step0a record=su:245241:<H1>:V::<vlex type="root"></vlex> <vlex>cl.5 P. A1.</vlex> <vlex>A1.</vlex>
+   Matches > 1 Wilson key: zu, su 
+
+61 step0a record=su:245287:<H1>:V::<vlex type="root"></vlex> <vlex></vlex>
+   Matches > 1 Wilson key: zu, su 
+
+62 step0a record=suww:246351:<H1>:V::<vlex type="root"></vlex> <vlex>cl.10 P.</vlex>
+   Matches > 1 Wilson key: zuwwa, suwwa 
+
+63 step0a record=sur:249254:<H1>:V::<vlex type="root"></vlex> <vlex type="hwalt">Nom.</vlex> <vlex>cl.6 P.</vlex> <vlex>cl.10 P.</vlex>
+   Matches > 1 Wilson key: zura, sura 
+
+64 step0a record=sUrkzy:251816.1:<H1>:V::<vlex type="root"></vlex> <vlex>cl.1 P.</vlex>
+   Matches > 1 Wilson key: zUrkzya, sUrkzya 
+
+65 step0a record=sUz:251832:<H1>:V::<vlex type="root"></vlex> <vlex>cl.1 P.</vlex>
+   Matches > 1 Wilson key: zUza, sUza 
+
+66 step0a record=sek:252045:<H1>:V::<vlex type="root"></vlex> <vlex>cl.1 A1.</vlex>
+   Matches > 1 Wilson key: zeka, seka 
+
+67 step0a record=sel:252253:<H1>:V::<vlex type="root"></vlex>
+   Matches > 1 Wilson key: zela, sela 
+
+68 step0a record=sev:252262:<H1>:V::<vlex type="root"></vlex> <vlex>cl.1 A1.</vlex>
+   Matches > 1 Wilson key: zeva, seva 
+
+69 step0a record=sE:252381:<H1>:V::<vlex type="root"></vlex> <vlex>cl.1 P.</vlex>
+   Matches > 1 Wilson key: zE, sE 
+
+70 step0a record=skand:254077:<H1>:V::<vlex type="root"></vlex> <vlex>cl.1 P.</vlex> <vlex>A1.</vlex>
+   Matches > 1 Wilson key: skada, skanda 
+
+71 step0a record=stan:254307:<H1>:V::<vlex type="root"></vlex> <vlex>cl.1 P.</vlex>
+   Matches > 1 Wilson key: zwana, stana 
+
+72 step0a record=stUp:254826:<H1>:V::<vlex type="root"></vlex> <vlex>cl.4.10.</vlex> <vlex>P.</vlex>
+   Matches > 1 Wilson key: zwupa, zwUpa, stUpa 
+
+73 step0a record=stfkz:254868:<H1>:V::<vlex type="root"></vlex> <vlex>cl.1 P.</vlex>
+   Matches > 1 Wilson key: zwfkza, stfkza 
+
+74 step0a record=stfh:254870:<H1>:V::<vlex type="root"></vlex> <vlex>cl.6 P.</vlex>
+   Matches > 1 Wilson key: zwfha, stfMha, stfha 
+
+75 step0a record=stFh:254870.1:<H1>:V::<vlex type="root"></vlex> <vlex>cl.6 P.</vlex>
+   Matches > 1 Wilson key: zwFha, stFha 
+
+76 step0a record=step:254882:<H1>:V::<vlex type="root"></vlex> <vlex>cl.1 A1.</vlex> <vlex>cl.10 P.</vlex>
+   Matches > 1 Wilson key: zwepa, stepa 
+
+77 step0a record=styE:254911:<H1>:V::<vlex type="root"></vlex> <vlex>cl.1 P.</vlex> <vlex>cl.1 A1.</vlex>
+   Matches > 1 Wilson key: zwyE, styE 
+
+78 step0a record=sTag:255154:<H1>:V::<vlex type="root"></vlex> <vlex>cl.1 P.</vlex>
+   Matches > 1 Wilson key: zwaga, zWaga, sTaga 
+
+79 step0a record=sTal:255204:<H1>:V::<vlex type="root"></vlex> <vlex>cl.1 P.</vlex>
+   Matches > 1 Wilson key: zWala, sTala 
+
+80 step0a record=smi:257075:<H1>:V::<vlex type="root"></vlex> <vlex>cl.1 A1.</vlex> <vlex>A1.</vlex>
+   Matches > 1 Wilson key: zmi, smi 
+
+81 step0a record=svad:258787:<H1>:V::<vlex type="root"></vlex> <vlex>cl.1 A1.</vlex> <vlex>P.</vlex> <vlex>P.</vlex> <vlex>P. A1.</vlex>
+   Matches > 1 Wilson key: zvada, svada 
+
+82 step0a record=svart:259408:<H1>:V::<vlex type="root"></vlex>
+   Matches > 1 Wilson key: zvartta, svartta 
+
+83 step0a record=svF:260011:<H1>:V::<vlex type="root"></vlex>
+   Matches > 1 Wilson key: SvF, svF 
+
+84 step0a record=hruq:264809:<H1>:V::<vlex type="root"></vlex> <vlex>cl.1 P.</vlex> <vlex>A1.</vlex>
+   Matches > 1 Wilson key: hruqa, hroqa 
+
+Tabulation of reasons for matching
+SPa-ROOT-rdD 1
+saN-SPb-ROOT 1
+None 35
+SPa-ROOT-nasal 98
+SPa-ROOT-sj 3
+Probable 15
+ROOT 191
+z-ROOT 13
+R-SPa-ROOT 24
+Intensive 1
+Likely 25
+SPa-ROOT 1211
+saN-SPa-ROOT 1
+SPc-ROOT-nasal 3
+z-SPa-ROOT 62
+SPc-ROOT 14
+SPb-ROOT 25
+SPa-ROOT-r 23
+Causal 6
+SPb-ROOT-nasal 1
+R-ROOT 3
