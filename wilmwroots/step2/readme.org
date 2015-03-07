@@ -45,7 +45,7 @@ and a brief description.
 
 
 * input data
-** wil.xml (revised 2/19/2015)
+** wil.xml (revised 3/06/2015)
   from wilxml.zip at http://www.sanskrit-lexicon.uni-koeln.de/scans/WILScan/2014/web/webtc/download.html
   The Wilson roots are drawn from this digitization of the Wilson 
   Sanskrit-English Dictionary.
