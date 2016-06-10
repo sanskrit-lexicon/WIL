@@ -50,7 +50,8 @@ class and definitional information.
  from  https://github.com/sanskrit-lexicon/WIL/tree/master/maprep
  This contains the a correspondence between some Wilson roots and MW roots 
  developed by Matthias Ahlborn and Peter Scharf in 2011.
-
+ NOTE: (June 9, 2016) This is identical to file maprep/corr6-roots.txt,
+  and also to file wiltab2011/step2roots/otherkeys/roots.txt.
 * wil_rdot.txt 
 python wil_rdot.py wil.xml wil_rdot.txt 
 

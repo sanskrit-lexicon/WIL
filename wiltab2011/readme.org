@@ -50,19 +50,140 @@ b. Spelling differences between wilson and MW should be reconciled.
 * step2 (Feb 19, 2011)
 ** wiltab_dump.txt
 php wiltab_dump.php wiltab_dump.txt > wiltab_dump_log.txt
-
+ This reads the 'wiltab' mysql table at Cologne (the digitization of the
+  Wilson dictionary), and prints the headword 'key' to output file
+  wiltab_dump.txt.  In this digitization, the headword is spelled with
+  the Harvard-Kyoto transliteration, and the program prints the headword
+  in two spellings: the given HK spelling as first field, and the
+  corresponding SLP1 spelling as the second field. The fields are
+  tab-delimited.
 The log file has 'bad' keys (slp : hk)
 ** sh wiltab_mw.sh
+This scripts runs the following php program:
+php wiltab_mw.php  wiltab_dump.txt  known.txt   wiltab_mw.txt regexp.txt ../../../mwxml/mw.xml > wiltab_mw.log
 
+files wiltab_dump.txt (see above), known.txt (currently empty) and regexp.txt
+ are inputs.  File wiltab_mw.txt is output.
+The purpose of known.txt is to allow for corrections; however, since this
+file is currently empty, the program details regarding its structure and
+usage will be not be disussed further in this comment.
+The regexp.txt file delineates several (33) rules describing systematic
+spelling differences between Wilson and Monier-Williams.
+
+The output file (wiltab_mw.txt) currently ignores Wilson headwords whose
+spelling appears as a headword in Monier-Williams.  It prints a record
+only for the problematic Wilson headwords.  This record has one of two forms:
+(a) A rule from regexp.txt, when applied to the Wilson spelling, yields
+    a headword in MW. In this case the output is
+    <c>AUTO(RULE NAME)</c> <wil>[orig Wilson spelling]</wil> <mw>[MW spelling]</mw
+(b) No rule leads from the Wilson spelling to the MW spelling.
+    <c></c> <wil>[orig Wilson spelling]</wil> <mw>[orig Wilson spelling]</mw>
+
+When this program is run currently (June 9, 2016),
+ there are 8321 records in the output wiltab_mw.txt.  
+ By contrast, the original similar examination yielded 8699 records;
+ For possible future analysis, this previous result is in file
+ prev_wiltab_mw.txt.
+Note 1:  This current June 9, 2016 run uses an OLD version of wiltab_dump.txt.
+ If further work is done, it should be done with a revised wiltab_dump.txt.
+Note 2:  Computational note. This run took a long time (approx. 1 hour). This
+ is a surprisingly long time.
 * step2roots
 ** badkeys
-php roots.php wilson_dproots.txt roots.txt spelling.txt > temp
+php roots.php wilson_dproots.txt roots.txt spelling.txt > roots_log.txt
+ The output files are roots.txt and roots_log.txt.
+ wilson_dproots.txt and spelling.txt are input files. These files were
+  constructed elsewhere, by some process not known for sure.
+ Also, the monier-williams dictionary is an input.
+ wilson_dproots.txt: this has 163 lines. Each line represents one headword
+  from Wilson, which refers to a root and whose spelling in the text uses
+  a dhatupatha spelling (i.e., with anubandhas); all of the spellings have
+  a parenthesis.
+  Each line has two spellings separated by ' : '; the first is SLP1 and 
+  second is HK.
+  Note1: By examining the current wil.xml, there are 162 cases where the <key2>
+  element contains a parenthesis.  Thus, this is almost certainly the
+  source of the wilson_dproots.txt cases.
+  Note2: Consider the root 'gam' (to go). In Wilson, this is spelled 'gama',
+   where the final 'a' is also an anubandha used in dhatapatha spellings.
+   The wilson_dproots.txt file does not contain such cases.
+
+ spelling.txt  Contains pairs of spellings X:Y.  See discussion of 
+  program roots.php for semantics.
+
+Discussion of roots.php
+ The program reads wilson_dproots.txt a line at a time, and only uses the
+  slp1 spelling, which it puts in variable $slp.
+  It assumes the this spelling has the form 'X(Y', and puts the X into
+  variable $root0.  In case $root0 has the form 'Za'. it drops the 'a' and
+  puts the resulting spelling 'Z' into variable $root1 (if X does not end in
+  'a', then $root1 is same as $root0).
+  Finally, it checks if the spelling Z:W occurs in the spelling.txt file;
+  if so it puts the spelings W into variable $root; otherwise, $root has
+  the spelling Z.
+ Now, the MW dictionary is consulted for the headword spelling in $root.
+  And, moreover, if $root is found as a headword, the corresponding xml record
+  for this headword in MW is examined for the presence of markup 
+  `<vlex type="root">`, which is the way roots are identified in the 
+  digitization of MW.
+  If '$root' is not found as a root in MW, a message 'Wilson slp key=$slp'
+    is written to the roots_log.txt file.
+  if '$root' is found as a root in MW,  then a record is written to the
+   roots.txt file of the form
+   `<c>SP-ROOT</c> <wil>$slp</wil> <mw>$root</mw>`, giving the original
+   dhatupatha spelling of the root ($slp) and the corresponding mw spelling
+   ($root).
+
+The result of the roots.php program is that 143 of the 163 original records
+  in wilson_dproots.txt have a corresponding MW spelling as a root in roots.txt.
+  20 case (written to roots_log.txt) have no such correspondence.
+
 ** otherkeys
 php dumproots.php ../../step2/wiltab_dump.txt dumproots.txt
 find records identifiable as roots ( <body>.*? r[.] )
 
+The dumproots program examines each of the headwords from wiltab_dump.txt.
+As originally written, it uses the hk-spelling of the key to find the
+corresponding record in the MySql file 'wiltab' for Wilson (this at Cologne),
+and searches for the regular expression `<body.*? r[.]`; the presence of
+such a matching string is taken as evidence that the headword is a root in
+Wilson.  If the headword from wiltab_dump.txt is found to be a root, the
+corresponding original line (hk-spelling + TAB + slp1-spelling) of 
+wiltab_dump.txt is written to dumproots.txt.
+
+The original result was that 1585 roots were so written to dumproots.txt.
 
 php roots.php dumproots.txt roots.txt spelling.txt > roots_log.txt
+This program tries to find correspondences between the list of roots in
+dumproots.txt and roots in MW.
+It reads the SLP1 spelling of a root in dumproots.txt into variable $slp.
+Variable $root0 has same value $slp.
+If the spelling ends in 'a' (i.e., has form Xa), it puts X into variable
+$root1; otherwise $root1 is the same as $root0.  
+Now, it looks for the spelling $root = $root1 as a headword in MW; for any MW
+ matches thus found, it checks if either `<vlex type="root">` is part of
+ the MW record (indicating a standard root), or if `<vlex>Nom.<\/vlex>` is
+ found (indicating a Denominative root in MW).
+If $root1 is thus found as a root in MW, a record is written to the output.
+ This record has one of two forms, depending on whether the spelling dropped
+ an 'a' or not.
+ If it dropped an 'a' (i.e., Wilson had 'a' as an anubandha in the spelling),
+ `<c>SPa-ROOT</c> <wil>$slp</wil> <mw>$root</mw>`
+ If the spelling didn't drop an 'a', the record is
+ `<c>ROOT</c> <wil>$slp</wil> <mw>$root</mw>`.
+If $root1 is not found as a root in MW,  the spelling.txt file is 
+ consulted to see if there is an alternate spelling.  If there is an
+ alternate spelling, and if that alternate spelling matches a root in MW,
+ then a record
+ `<c>SPb-ROOT</c> <wil>$slp</wil> <mw>$root</mw>`
+ is written to roots.txt
+Otherwise, a message is written to the log file roots_log.txt, indicating
+ that the Wilson root could not be found as an MW root.
+
+The results are that of 1585 Wilson roots identified (in dumproots.txt),
+ 1283 of them were confirmed as MW roots (in roots.txt).
+
+
 ** mdp
  PMS pointed out some problems with the 'dp' element in wiltab,
  and suggested correlation with Madhaviya DP.  This work is in 
