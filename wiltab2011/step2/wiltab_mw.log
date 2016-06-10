@@ -1,37 +1,125 @@
+193909 keys from ../../../mwxml/mw.xml
+at record 500
+at record 1000
+at record 1500
+at record 2000
+at record 2500
+at record 3000
+at record 3500
+at record 4000
+at record 4500
+at record 5000
+at record 5500
+at record 6000
+at record 6500
+at record 7000
+at record 7500
+at record 8000
+at record 8500
+at record 9000
+at record 9500
+at record 10000
+at record 10500
+at record 11000
+at record 11500
+at record 12000
+at record 12500
+at record 13000
+at record 13500
+at record 14000
+at record 14500
+at record 15000
+at record 15500
+at record 16000
+at record 16500
+at record 17000
+at record 17500
+at record 18000
+at record 18500
+at record 19000
+at record 19500
+at record 20000
+at record 20500
+at record 21000
+at record 21500
+at record 22000
+at record 22500
+at record 23000
+at record 23500
+at record 24000
+at record 24500
+at record 25000
+at record 25500
+at record 26000
+at record 26500
+at record 27000
+at record 27500
+at record 28000
+at record 28500
+at record 29000
+at record 29500
+at record 30000
+at record 30500
+at record 31000
+at record 31500
+at record 32000
+at record 32500
+at record 33000
+at record 33500
+at record 34000
+at record 34500
+at record 35000
+at record 35500
+at record 36000
+at record 36500
+at record 37000
+at record 37500
+at record 38000
+at record 38500
+at record 39000
+at record 39500
+at record 40000
+at record 40500
+at record 41000
+at record 41500
+at record 42000
+at record 42500
+at record 43000
+at record 43500
 43746 keys processed
 0 keys were ill-formed
-35047 keys found with no spelling change
-4175 keys found after spelling change
-4524 records not found yet 
-spelling rule AUTO(SE:M/) solved 32 problems
+35425 keys found with no spelling change
+4209 keys found after spelling change
+4112 records not found yet 
+spelling rule AUTO(SE:M/) solved 33 problems
 spelling rule AUTO(b/v) solved 120 problems
-spelling rule AUTO(rxx) solved 1710 problems
-spelling rule AUTO(X:NEGa) solved 155 problems
-spelling rule AUTO(X:tva) solved 12 problems
-spelling rule AUTO(v/b) solved 264 problems
-spelling rule AUTO(q/w) solved 20 problems
+spelling rule AUTO(rxx) solved 1741 problems
+spelling rule AUTO(X:NEGa) solved 148 problems
+spelling rule AUTO(X:tva) solved 11 problems
+spelling rule AUTO(v/b) solved 267 problems
 spelling rule AUTO(n/R) solved 27 problems
-spelling rule AUTO(N/M) solved 250 problems
-spelling rule AUTO(X:tA) solved 26 problems
-spelling rule AUTO(SE:Ca/Cu) solved 50 problems
-spelling rule AUTO(rdD/rD) solved 172 problems
-spelling rule AUTO(n/M) solved 265 problems
-spelling rule AUTO(l/w) solved 8 problems
-spelling rule AUTO(SE:a$/) solved 526 problems
+spelling rule AUTO(N/M) solved 257 problems
+spelling rule AUTO(X:tA) solved 22 problems
+spelling rule AUTO(SE:Ca/Cu) solved 48 problems
+spelling rule AUTO(rdD/rD) solved 173 problems
+spelling rule AUTO(n/M) solved 268 problems
+spelling rule AUTO(SE:a$/) solved 535 problems
 spelling rule AUTO(t/tt) solved 177 problems
+spelling rule AUTO(q/w) solved 19 problems
 spelling rule AUTO(ra/f) solved 10 problems
 spelling rule AUTO(Y/M) solved 58 problems
-spelling rule AUTO(Vtt/t) solved 73 problems
-spelling rule AUTO(a/am) solved 49 problems
-spelling rule AUTO(SE:Ca/Ce) solved 26 problems
-spelling rule AUTO(X:NEGan) solved 14 problems
-spelling rule AUTO(SE:VC/VrC) solved 33 problems
-spelling rule AUTO(SE:CA/Co) solved 25 problems
+spelling rule AUTO(Vtt/t) solved 75 problems
+spelling rule AUTO(a/am) solved 47 problems
+spelling rule AUTO(SE:Ca/Ce) solved 25 problems
+spelling rule AUTO(X:NEGan) solved 13 problems
+spelling rule AUTO(SE:VC/VrC) solved 31 problems
+spelling rule AUTO(SE:CA/Co) solved 24 problems
 spelling rule AUTO(SE:B/J) solved 3 problems
 spelling rule AUTO(cC/C) solved 14 problems
 spelling rule AUTO(SE:wu/du) solved 22 problems
-spelling rule AUTO(SE:s/m) solved 17 problems
+spelling rule AUTO(SE:s/m) solved 18 problems
 spelling rule AUTO(rbB/rB) solved 9 problems
+spelling rule AUTO(l/w) solved 7 problems
 spelling rule AUTO(SE:Sv/Sc) solved 3 problems
-spelling rule AUTO(SE:Ca/CE) solved 5 problems
-(nc = 4175)
+spelling rule AUTO(SE:Ca/CE) solved 4 problems
+(nc = 4209)

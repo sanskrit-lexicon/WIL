@@ -3,10 +3,8 @@ error_reporting(E_ALL ^ E_NOTICE); // all errors except 'PHP Notice:'
 /**
 #wiltab_mw.php
 # 02-21-2011
-#reads file like wiltab_dump.txt (hk\tslp)
-#if the slp1 matches a mw key, 
-# write the line to wiltab_keys_mw.txt
-# else write to wiltab_keys_nonmw.txt
+See section 'step2roots/badkeys' in wiltab2011/readme.org
+
 */
 
 $filein = $argv[1];

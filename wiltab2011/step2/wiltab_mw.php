@@ -7,15 +7,27 @@ error_reporting(E_ALL ^ E_NOTICE); // all errors except 'PHP Notice:'
 #if the slp1 matches a mw key, 
 # write the line to wiltab_keys_mw.txt
 # else write to wiltab_keys_nonmw.txt
+# 06-09-2016
+  The program assumes that the Monier-Williams dictionary is available
+  as a MySql database; this was the case when the program was written to
+  run on the Cologne sanskrit-lexicon site in 2011.
+  This MW database was only used to find if a given spelling existed as
+  a headword of MW.
+  In this revision, we instead generate an associative array of MW keys from
+  a text file.  This list can come from various places. We use a downloaded
+  version of mw.xml. And we read in the path to this file (which is NOT
+  in this repository) from an additional input to the program.
 */
 
 $filein = $argv[1];
 $filecorr = $argv[2];
 $fileout1 = $argv[3];
 $fileregexp = $argv[4];
+$filemw = $argv[5];
 $fpin = fopen($filein,"r") or die("Can't open $filein\n");
 $fpout1 = fopen($fileout1,"w") or die("Can't open $fileout1\n");
 
+/* This is not required
 $dir = dirname(__FILE__); //directory containing this php file
  $dirdocs = preg_replace('/docs\/.*$/','docs/',$dir);
  $dirphp = $dirdocs . 'php/';
@@ -25,8 +37,11 @@ $link = sanskrit_connect_mysql();
 if (! $link) {
  die('mysql connection error: ' . mysql_error());
 }
+*/
 $corr_hash = init_corrections($filecorr);
-init_regexparr($fileregexp);
+init_regexparr($fileregexp); // initialize global variable $regexparr
+init_mw($filemw); // initialize global variable $mwkeys
+
 $rulecount_hash = array();
 $more= 1;
 $dbg=0; #0 for no dbg, 1 for dbg
@@ -42,7 +57,9 @@ $nkey=0;
   $x = fgets($fpin);
   $x = trim($x);
   if ($x == ''){continue;}
-  list($wilkey,$slp1,$nwilkey)=preg_split('/\t/',$x);
+  //list($wilkey,$slp1,$nwilkey)=preg_split('/\t/',$x);
+  list($wilkey,$slp1)=preg_split('/\t/',$x);
+  //print "working on $slp1\n";
   $slp1a = preg_replace('/[^a-zA-Z]/','',$slp1);
   if ($slp1a != $slp1) {
      echo "ill-formed key: $slp1\n";
@@ -50,6 +67,8 @@ $nkey=0;
      continue;
   }
   $nkey++;
+  //if ($nkey == 100) {print "DEBUG quit @ record $nkey\n"; break;}
+  if (($nkey % 500) == 0) {print "at record $nkey\n";}
   // if there is a correction, process it
   $corr = $corr_hash[$slp1];
   if ($corr) {
@@ -85,13 +104,13 @@ $nkey=0;
 //   fwrite($fpout,"$wilkey\t$slp1\t$mwkey\t$nwilkey\n");
    }else {
     $nspellchg++;
-    fwrite($fpout1,"<c>$rule</c> <wil>$slp1</wil> <mw>$mwkey</mw>\n");
+    fwrite($fpout1,"$nkey <c>$rule</c> <wil>$slp1</wil> <mw>$mwkey</mw>\n");
     $rulecount_hash[$rule]++;
     $nauto++;
    }
   }else {
    $notfound++;
-   fwrite($fpout1,"<c></c> <wil>$slp1</wil> <mw>$slp1</mw>\n");   
+   fwrite($fpout1,"$nkey <c></c> <wil>$slp1</wil> <mw>$slp1</mw>\n");   
   }
 }
 fclose($fpin);
@@ -138,6 +157,11 @@ global $regexparr;
     return array('',''); // failure
 }
 function find_mwkey_basic($slp) {
+global $mwkeys;
+ return array_key_exists($slp,$mwkeys);
+}
+
+function unused_mysql_find_mwkey_basic($slp) {
     $table = 'monier';
     $sql = "select `key`,`data` from `$table` where `key`='$slp'";
     $result=mysql_query($sql) or die('mysql query failed $table: ' . mysql_error());
@@ -190,6 +214,20 @@ $typearr["LOOP"]=true;
  }
 fclose($fpin);
 }
+function init_mw($filein){
+global $mwkeys;
+$mwkeys = array();
+$fpin = fopen($filein,"r") or die("Can't open $filein\n");
+ while (!feof($fpin)) {
+  $x = fgets($fpin);
+  if (preg_match('|<key1>(.*?)</key1>|',$x,$matches)) {
+   $key1 = $matches[1];
+   $mwkeys[$key1]=True;
+  }
+ }
+fclose($fpin);
+ print count($mwkeys) . " keys from $filein\n";
+}
 function replace_each($m,$r,$x) {
 // returns an array of strings based on input string $x.
 // $m is a regexp, $r is replacement
@@ -212,4 +250,5 @@ function replace_each($m,$r,$x) {
  }
  return $ans;
 }
+
 ?>
