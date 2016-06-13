@@ -1,0 +1,12 @@
+12c12
+< aJja	aYja
+---
+> aJj	aYj
+50c50
+< ikha	iKa
+---
+> ikh	iK
+66c66
+< IrkSya	Irkzya
+---
+> IrkSy	Irkzy

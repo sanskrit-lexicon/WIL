@@ -183,6 +183,24 @@ Otherwise, a message is written to the log file roots_log.txt, indicating
 The results are that of 1585 Wilson roots identified (in dumproots.txt),
  1283 of them were confirmed as MW roots (in roots.txt).
 
+** otherkeys_revised (June 13, 2016)
+In the otherkeys_revised folder.
+The file 'wiltab2011.txt' is the Wilson database file as it existed in 2011.
+php wiltab_dump_keys.php wiltab2011.txt wiltab_dump_keys.txt > wiltab_dump_keys_bad.txt
+  The 'bad' keys are those with non-alphabetical characters.
+  There is a relatively small number (about 90) records where there is a 
+  difference. For possible reference, the following 'diff' was made for
+  these.
+  diff -w wiltab_dump_keys.txt ../../step2/wiltab_dump.txt > wiltab_dump_keys.diff.txt
+
+Now, dumproots program uses wiltab2011 and wiltab_dump_keys to filter on the
+ roots.
+php dumproots.php wiltab_dump_keys.txt wiltab2011.txt dumproots.txt
+
+1585 records are identified as roots.
+This is the same number of records as previously reported, but there are
+three individual differences.
+ diff -w dumproots.txt ../otherkeys/dumproots.txt > dumproots_diff.txt
 
 ** mdp
  PMS pointed out some problems with the 'dp' element in wiltab,

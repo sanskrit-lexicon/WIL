@@ -1,0 +1,178 @@
+akza{??}rtta : akSa{??}rtta
+aDo'Suka : adho'zuka
+kASikA, praya : kAzikA, praya
+gaRa, graRI : gaNa, graNI
+tundiBa. : tundibha.
+tundila. : tundila.
+naBo'mbupa : nabho'mbupa
+prI(Na)prIN : prI(Ga)prIG
+pru(Na)pruNa : pru(Ga)pruGa
+preNKa{??} : preGkha{??}
+preNKa{??} : preGkha{??}
+plu(Na)pluN : plu(Ga)pluG
+plusa(ira)plusira : plusa(ira)plusira
+pleva(f)plevf : pleva(R)plevR
+bana(banu) : bana(banu)
+bahi(i)bahi : bahi(i)bahi
+bAqa(f)bAqf : bADa(R)bADR
+bADa(f)bADf : bAdha(R)bAdhR
+bAha(f)bAhf : bAha(R)bAhR
+bida(i)bidi : bida(i)bidi
+bis(ira)bisira : bis(ira)bisira
+buda(u, ira)ubudir : buda(u, ira)ubudir
+buDa(O)ObuDa : budha(au)aubudha
+bunda(u, ira)ubundir : bunda(u, ira)ubundir
+bunDa(u, ir)u bunDir : bundha(u, ir)u bundhir
+brU(Ya)brUY : brU(Ja)brUJ
+BaYja(o, O) oBaYjO : bhaJja(o, au) obhaJjau
+Baqa(i)Baqi : bhaDa(i)bhaDi
+Bada(i)Badi : bhada(i)bhadi
+BAza(f)BAzf : bhASa(R)bhASR
+BAsa(f)BAsf : bhAsa(R)bhAsR
+Biw(ira)Bidir : bhiT(ira)bhidir
+BI(Yi)YiBI : bhI(Ji)JibhI
+Buqa(i)Buqi : bhuDa(i)bhuDi
+Bf(Y) BfY : bhR(J) bhRJ
+Bfja(I)BfjI : bhRja(I)bhRjI
+BfSa(ir, u,) ir BfSu : bhRza(ir, u,) ir bhRzu
+Beza(f)Bezf : bheSa(R)bheSR
+BraMSa(u,)BraMSu : bhraMza(u,)bhraMzu
+BraMsa(u,)BraMsu : bhraMsa(u,)bhraMsu
+Brama(u,)Bramu : bhrama(u,)bhramu
+BraSa(u,)BraSu : bhraza(u,)bhrazu
+Brasja(O)OBrasja : bhrasja(au)aubhrasja
+BrAja(wu, f,) wuBrAjf : bhrAja(Tu, R,) TubhrAjR
+BrASa(wu, f,)wuBrASf : bhrAza(Tu, R,)TubhrAzR
+Breja(f)Brejf : bhreja(R)bhrejR
+Breza(f)Brezf : bhreSa(R)bhreSR
+BlASa(wu f)wu BlASf : bhlAza(Tu R)Tu bhlAzR
+Bleza(f)Blezf : bhleSa(R)bhleSR
+maga(i) : maga(i)
+maGa(i)maGi : magha(i)maghi
+maYca(u,)maYcu : maJca(u,)maJcu
+maqa(i)maqi : maDa(i)maDi
+matra(i,)matri : matra(i,)matri
+maTa(e,)maTe : matha(e,)mathe
+mandaBAgya. : mandabhAgya.
+masa(ira, I) ir masI : masa(ira, I) ir masI
+masja(wu o)wumasjo : masja(Tu o)Tumasjo
+mAkza(i)mAkzi : mAkSa(i)mAkSi
+mAqa(f)mAqf : mADa(R)mADR
+mATa(i)mATi : mAtha(i)mAthi
+mAha(u, or f) mAhu : mAha(u, or R) mAhu
+mi(qu Y,) qumiY : mi(Du J,) DumiJ
+miTa(f,) miTf : mitha(R,) mithR
+miva(i)mivi : miva(i)mivi
+miha(O)mihO : miha(au)mihau
+mIma(f)mImf : mIma(R)mImR
+muca(lf O) O muclf : muca(lR au) au muclR
+muWa(i)muWi : muTha(i)muThi
+muTa(i,)muTi : mutha(i,)muthi
+murcCa(A,)murcCA : murccha(A,)murcchA
+murva(I)murvvI : murva(I)murvvI
+musa(ira)musira : musa(ira)musira
+mf(mf) : mR(mR)
+mfja(U)mfjU : mRja(U)mRjU
+mfDa(u)mfDu : mRdha(u)mRdhu
+mfSa(O)mfSO : mRza(au)mRzau
+mewa(f)medf : meTa(R)medR
+meqf(f)meqf : meDR(R)meDR
+meTa(f)meTf : metha(R)methR
+meda(f)medf : meda(R)medR
+medo'rvvuda : medo'rvvuda
+meDa(f,)meDf : medha(R,)medhR
+mepa(f)mepf : mepa(R)mepR
+meba(f)mebf : meba(R)mebR
+meva(f)mevf : meva(R)mevR
+mruca(u,)mrucu : mruca(u,)mrucu
+mruMca(u,)mruYca : mruMca(u,)mruJca
+mrewa(f,)mredf : mreTa(R,)mredR
+mreqa(f,)meqf : mreDa(R,)meDR
+mluca(u,)mlucu : mluca(u,)mlucu
+mluYca(u,)mluYcu : mluJca(u,)mluJcu
+mlewa(f,)mledf : mleTa(R,)mledR
+mleqa(f,)mleqf : mleDa(R,)mleDR
+mleva(f,)mlevf : mleva(R,)mlevR
+yata(I)yatI : yata(I)yatI
+yatra(i,)yatri : yatra(i,)yatri
+yaBa(O)yaBO : yabha(au)yabhau
+yasa(ira u) ir yasu : yasa(ira u) ir yasu
+yAca (du, f) duyAhf : yAca (du, R) duyAhR
+yuga(i)yugi : yuga(i)yugi
+yuja(O)yujO : yuja(au)yujau
+yuDa(O) : yudha(au)
+yeza(f)yezf : yeSa(R)yeSR
+yOwa(f,)yOdf : yauTa(R,)yaudR
+raGa(i)raGi : ragha(i)raghi
+raDa(lf u : radha(lR u
+raPa(i)raPi : rapha(i)raphi
+raba(i)rabi : raba(i)rabi
+raBa(O)O raBa : rabha(au)au rabha
+rama(O, u) Oramu : rama(au, u) auramu
+rava(i)ravi : rava(i)ravi
+rAKa(f)rAKf : rAkha(R)rAkhR
+ruda(ira)rudira : ruda(ira)rudira
+ruha(Yi O) YiOruha : ruha(Ji au) Jiauruha
+reka(f,)rekf : reka(R,)rekR
+reja(f,)rejf : reja(R,)rejR
+rewa(f)redf : reTa(R)redR
+repa(f)repf : repa(R)repR
+reba(f)rebf : reba(R)rebR
+reBa(f)reBf : rebha(R)rebhR
+reva(f)revf : reva(R)revR
+reza(f)rezf : reSa(R)reSR
+roqa(f)roqf : roDa(R)roDR
+rOwa(f)rOdf : rauTa(R)raudR
+rOqa(f)rOqf : rauDa(R)rauDR
+laga(e,)lage : laga(e,)lage
+lapa(f)lapf : lapa(R)lapR
+laba(i)labi : laba(i)labi
+laBa(qu aza)qulaBaz : labha(Du aSa)DulabhaS
+lasja(o I)olasjI : lasja(o I)olasjI
+lAKa(f)lARvf : lAkha(R)lANvR
+lAGa(f)lAGf : lAgha(R)lAghR
+lAcCa(i)lAcCi : lAccha(i)lAcchi
+liga(i)ligi : liga(i)ligi
+lipa(Yi O)Yi Olipa : lipa(Ji au)Ji aulipa
+liSa(O)liSO : liza(au)lizau
+luca(i)luci : luca(i)luci
+luja(i)luji : luja(i)luji
+luwa(lf)luwlf : luTa(lR)luTlR
+luTa(i)luTi : lutha(i)luthi
+luba(i)lubi : luba(i)lubi
+lU(lU) : lU(lU)
+lepa(f)lepf : lepa(R)lepR
+lERa(f)lERf : laiNa(R)laiNR
+loka(f)lokf : loka(R)lokR
+loca(f)locf : loca(R)locR
+lowa(f)lodf : loTa(R)lodR
+loqa(f)loqf : loDa(R)loDR
+vaka(i)vaki : vaka(i)vaki
+vakavratika, : vakavratika,
+vaga(i)vagi : vaga(i)vagi
+vaGa(i)vaGi : vagha(i)vaghi
+vaca(O)Ovaca : vaca(au)auvaca
+vaYca(u)vaYca : vaJca(u)vaJca
+vaqa(i)vaqi : vaDa(i)vaDi
+vaRa(f)vaRf : vaNa(R)vaNR
+vapa(qu)quvapa : vapa(Du)Duvapa
+vama(wu u)wuvamu : vama(Tu u)Tuvamu
+vasa(O)Ovasa : vasa(au)auvasa
+vAkza(i)vAkzi : vAkSa(i)vAkSi
+vAcCa(i)vAcCi : vAccha(i)vAcchi
+vAqa(f)vAqf : vADa(R)vADR
+vADa(f)vADf : vAdha(R)vAdhR
+vAvfta(u) : vAvRta(u)
+vASa(f)vASf : vAza(R)vAzR
+vAha(f)vAhf : vAha(R)vAhR
+vica(Oira)O vicir : vica(auira)au vicir
+vija(O ira)O vijira : vija(au ira)au vijira
+viTa(f)viTf : vitha(R)vithR
+vfja(I)vfjI : vRja(I)vRjI
+vyaYjanAvftti, : vyaJjanAvRtti,
+vyusa(ira)vyusira : vyusa(ira)vyusira
+vyo(Ya)vyeY(vyayati : vyo(Ja)vyeJ(vyayati
+vraSca(o u)ovraScu : vrazca(o u)ovrazcu
+SOqa(f)SOqf : zauDa(R)zauDR
+43745 keys read
+176 bad keys

@@ -1,0 +1,360 @@
+43d42
+< akakkaza	akakkaSa
+53a53
+> akarkkaza	akarkkaSa
+97c97,98
+< akRtrina	akftrina
+---
+> akRtrima	akftrima
+> akRpa	akfpa
+99d99
+< akRya	akfya
+104c104
+< akoviT	akoviw
+---
+> akovid	akovid
+110d109
+< akrAdha	akrADa
+114a114
+> akrodha	akroDa
+161,162c161,162
+< akSaviT	akzaviw
+< akSasUtraM	akzasUtraM
+---
+> akSavid	akzavid
+> akSasUtra	akzasUtra
+215c215
+< agarJva	agarYva
+---
+> agarrva	agarrva
+219d218
+< agAcara	agAcara
+236a236
+> agocara	agocara
+244c244
+< agnikAryyaM	agnikAryyaM
+---
+> agnikAryya	agnikAryya
+275c275
+< agnimanya	agnimanya
+---
+> agnimantha	agnimanTa
+283a284
+> agnivarddhaka	agnivardDaka
+285d285
+< agnivarhvaka	agnivarhvaka
+306a307
+> agnIdh	agnID
+309d309
+< agnIS	agnIz
+382d381
+< aGkabidyA	aNkabidyA
+384a384
+> aGkavidyA	aNkavidyA
+393c393
+< aGkuzaTurddhara	aNkuSawurdDara
+---
+> aGkuzadurddhara	aNkuSadurdDara
+415c415
+< aGgaprAyazvitta	aNgaprAyaSvitta
+---
+> aGgaprAyazcitta	aNgaprAyaScitta
+444d443
+< aGgAraballarI	aNgAraballarI
+445a445
+> aGgAravallarI	aNgAravallarI
+535d534
+< ajamAdA	ajamAdA
+536a536
+> ajamodA	ajamodA
+574a575,576
+> ajjhaTA	ajJawA
+> ajjhala	ajJala
+581c583
+< ajJAnina	ajYAnina
+---
+> ajJAnin	ajYAnin
+583,584d584
+< ajbhaTA	ajBawA
+< ajbhala	ajBala
+590c590
+< aJja	aYja
+---
+> aJj	aYj
+593c593
+< aJjanAghikA	aYjanAGikA
+---
+> aJjanAdhikA	aYjanADikA
+617d616
+< aTuSTa	awuzwa
+691c690
+< atigarbvita	atigarbvita
+---
+> atigarrvita	atigarrvita
+703d701
+< atiTuSkara	atiwuzkara
+719a718
+> atiduSkara	atiduzkara
+784c783
+< atizebhana	atiSeBana
+---
+> atizobhana	atiSoBana
+851d849
+< atyukRSTa	atyukfzwa
+854a853
+> atyutkRSTa	atyutkfzwa
+856a856
+> atrabhavat	atraBavat
+899a900
+> aduSTa	aduzwa
+931c932
+< adribhida	adriBida
+---
+> adribhid	adriBid
+940,941d940
+< advata	advata
+< advatavAdin	advatavAdin
+946a946,947
+> advaita	advEta
+> advaitavAdin	advEtavAdin
+954a956
+> adhamabhRtaka	aDamaBftaka
+961c963
+< adharamadha	aDaramaDa
+---
+> adharamadhu	aDaramaDu
+978,979c980,981
+< adhazvara	aDaSvara
+< adhazvaura	aDaSvOra
+---
+> adhazcara	aDaScara
+> adhazcaura	aDaScOra
+981d982
+< adhasabhRtaka	aDasaBftaka
+1011c1012
+< adhijyotiS	aDijyotiz
+---
+> adhijyotiSam	aDijyotizam
+1071a1073
+> adhoMzuka	aDoMSuka
+1088c1090
+< adhoyantva	aDoyantva
+---
+> adhoyantra	aDoyantra
+1171d1172
+< anataka	anataka
+1191a1193
+> anantaka	anantaka
+1193c1195
+< anantajita	anantajita
+---
+> anantajit	anantajit
+1233c1235
+< anapAvin	anapAvin
+---
+> anapAyin	anapAyin
+1240c1242
+< anabhimava	anaBimava
+---
+> anabhimata	anaBimata
+3749d3750
+< avabhavat	avaBavat
+4878d4878
+< Akagpra	Akagpra
+4880a4881
+> Akampra	Akampra
+4949c4950
+< AkRSpamANa	AkfzpamARa
+---
+> AkRSyamANa	AkfzyamARa
+4957d4957
+< AkraSTa	Akrazwa
+4963a4964
+> AkruSTa	Akruzwa
+5002d5002
+< AkhubiSahA	AKubizahA
+5004a5005
+> AkhuviSahA	AKuvizahA
+5048,5050c5049,5051
+< AghadRita	AGadfita
+< AghadRka	AGadfka
+< AghadRna	AGadfna
+---
+> AghaTTaka	AGawwaka
+> AghaTTana	AGawwana
+> AghaTTita	AGawwita
+5185a5187
+> AtamvIra	AtamvIra
+5226d5227
+< AtmabIra	AtmabIra
+5240a5242
+> Atmavid	Atmavid
+5261d5262
+< AtmAvida	AtmAvida
+5275d5275
+< Athika	ATika
+5329,5330d5328
+< AdratA	AdratA
+< Adranayana	Adranayana
+5397a5396
+> Anamra	Anamra
+5402d5400
+< Anasra	Anasra
+5415c5413
+< AnupUrbva	AnupUrbva
+---
+> AnupUrbba	AnupUrbba
+5433c5431
+< Antavazmika	AntavaSmika
+---
+> Antarvezmika	AntarveSmika
+5491c5489
+< Aptagarbva	Aptagarbva
+---
+> Aptagarbba	Aptagarbba
+5517d5514
+< AbaraNazakti	AbaraRaSakti
+5575d5571
+< AmASin	AmAzin
+5587c5583
+< AmUsta	AmUsta
+---
+> AmUla	AmUla
+5594a5591
+> AmoSin	Amozin
+5628,5629d5624
+< AyadhAgAra	AyaDAgAra
+< Ayadhika	AyaDika
+5647a5643,5644
+> AyudhAgAra	AyuDAgAra
+> Ayudhika	AyuDika
+5664d5660
+< AyyarUpa	AyyarUpa
+5680c5676
+< Arandha	AranDa
+---
+> Arabdha	ArabDa
+5718c5714
+< ArkSaMvarSa	ArkzaMvarza
+---
+> ArkSavarSa	Arkzavarza
+5731d5726
+< Arttijya	Arttijya
+5732a5728,5729
+> Artvijya	Artvijya
+> Arthika	ArTika
+5740a5738,5739
+> ArdratA	ArdratA
+> Ardranayana	Ardranayana
+5749a5749
+> AryyarUpa	AryyarUpa
+5764c5764
+< AlagarddaM	AlagarddaM
+---
+> Alagardda	Alagardda
+5825a5826
+> AvaraNazakti	AvaraRaSakti
+5835d5835
+< Avazika	AvaSika
+5888a5889
+> Avezika	AveSika
+5959d5959
+< AzlaSa	ASlaza
+5960a5961
+> AzleSa	ASleza
+6106c6107
+< AhrikAcAra	AhrikAcAra
+---
+> AhnikAcAra	AhnikAcAra
+6149c6150
+< ikha	iKa
+---
+> ikh	iK
+6151d6151
+< igA	igA
+6172c6172
+< iTvara	iwvara
+---
+> iTcara	iwcara
+6216,6217d6215
+< indakamala	indakamala
+< indajA	indajA
+6226a6225
+> indukamala	indukamala
+6230a6230
+> indujA	indujA
+6257c6257
+< indraddhu	indradDu
+---
+> indradru	indradru
+6325a6326
+> irA	irA
+6334,6335d6334
+< irbvAruzuktikA	irbvAruSuktikA
+< irbvAlu	irbvAlu
+6336a6336,6337
+> irvvAruzuktikA	irvvAruSuktikA
+> irvvAlu	irvvAlu
+6417,6418c6418
+< IrkSya	Irkzya
+< IrbvAru	IrbvAru
+---
+> IrkSy	Irkzy
+6420a6421
+> IrvvAru	IrvvAru
+6425c6426
+< IrSyaMka	IrzyaMka
+---
+> IrSyaka	Irzyaka
+12284c12285
+< kSudrANDamatsyasaGghAta	kzudrARqamatsyasaNGAta
+---
+> kSudrANDamatsyasaGgh	kzudrARqamatsyasaNG
+14290c14291
+< ghRtAcIgarmbhasambhavA	GftAcIgarmBasamBavA
+---
+> ghRtAcIgarmbhasambha	GftAcIgarmBasamBa
+15487c15488
+< jaghanyaguNavRttistha	jaGanyaguRavfttisTa
+---
+> jaghanyaguNavRttisth	jaGanyaguRavfttisT
+18024c18025
+< dakSAdhvaradhvaMzakRt	dakzADvaraDvaMSakft
+---
+> dakSAdhvaradhvaMzakR	dakzADvaraDvaMSakf
+19733c19734
+< dvAtriMzallakSaNopeta	dvAtriMSallakzaRopeta
+---
+> dvAtriMzallakSaNopet	dvAtriMSallakzaRopet
+20144c20145
+< dharmmAdharmmaparIkSA	DarmmADarmmaparIkzA
+---
+> dharmmAdharmmaparIkS	DarmmADarmmaparIkz
+22910c22911
+< paradhanAsvAdanasukha	paraDanAsvAdanasuKa
+---
+> paradhanAsvAdanasukh	paraDanAsvAdanasuK
+25654c25655
+< pratipattiparAMGmukha	pratipattiparAMNmuKa
+---
+> pratipattiparAMGmukh	pratipattiparAMNmuK
+33192c33193
+< varSAmbhaHpAraNAvrata	varzAmBaHpAraRAvrata
+---
+> varSAmbhaHpAraNAvrat	varzAmBaHpAraRAvrat
+33425c33426
+< vahirdvAraprakoSThaka	vahirdvAraprakozWaka
+---
+> vahirdvAraprakoSThak	vahirdvAraprakozWak
+38416c38417
+< zrIkaNThapadalAJchana	SrIkaRWapadalAYCana
+---
+> zrIkaNThapadalAJchan	SrIkaRWapadalAYCan
+38480c38481
+< zrutAdhyayanasampanna	SrutADyayanasampanna
+---
+> zrutAdhyayanasampann	SrutADyayanasampann
+39564c39565
+< sandhivigrahAdhikArin	sanDivigrahADikArin
+---
+> sandhivigrahAdhikAri	sanDivigrahADikAri
