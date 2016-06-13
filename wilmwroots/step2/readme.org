@@ -1,6 +1,7 @@
 
 Feb 24. 2014
 Wil/wilmwroots/step2
+Revised June 13, 2016.
 
 * Purpose
 To continue the Wilson-MW root correspondence project begun in step1.
@@ -67,7 +68,12 @@ Wilson seems to indicate roots with  'r.'.
 Use this to select records from wil.xml:
 1756 cases
 
-* other roots
+* rdot_vs_dumproots
+Compare wil_rdot.txt to the dumproots.txt file of wiltab2011 
+We use the 'revised' otherkeys, since that way we know exactly what the
+inputs are.
+python rdot_vs_dumproots.py wil_rdot.txt ../../wiltab2011/step2roots/otherkeys_revised/dumproots.txt rdot_vs_dumproots.txt
+* TODO other roots
 There are some other roots,
  eg sautra root 'asta'. 
 
@@ -96,10 +102,47 @@ prefixed form.  (e.g., under 'i': with ... <s>aDi</s>... r. 2nd cl. ()<s>aDyeti<
 
 * wil_mw.txt and wil_mw_prob.txt (first run)
 
-python wil_mw.py wil_rdot.txt verb_step0a.txt corr6-roots.txt wil_mw.txt wil_mw_prob.txt
+python wil_mw.py wil_rdot.txt verb_step0a.txt wil_mw.txt wil_mw_prob.txt > wil_mw_log.txt
+NOTE: corr6_roots.txt is from the wiltab2011 work.  It is not used in this
+analysis.
 
-In a first run, no changes were made to the 'simple rules of matching'; the
-corrections to Wilson and additions to MW resulted in 44 additional matches.
+The main output of this analysis is wil_mw.txt. It contains 1721 
+correspondences to MW roots out of the 1756 identified roots in wil_rdot.txt.
+The 35 (= 1756 - 1721) unanalyzed cases are in wil_mw_prob.txt.
+Each of the 1721 analyses contains three parts: a 'method code', the
+wilson spelling of the root, and the corresponding MW spelling of the root.
+For instance,
+<c>SPa-ROOT</c> <wil>aMSa</wil> <mw>aMS</mw>
+indictes that Wilson's aMSa root corresponds to MW's aMS root, with 
+reason 'SPa-ROOT', which means that to get the MW spelling, the final 'a' of
+the Wilson spelling is dropped.
+The MW roots are from the file wil_mw.txt.
+
+** Tabulation of reasons for matches (or None if no match)
+From wil_mw_log.txt, we have :
+Tabulation of reasons for matching
+SPa-ROOT-rdD 1
+saN-SPb-ROOT 1
+SPa-ROOT-nasal 98
+SPa-ROOT-sj 3
+Probable 15
+ROOT 191
+z-ROOT 13
+R-SPa-ROOT 24
+Intensive 1
+Likely 25
+SPa-ROOT 1212
+saN-SPa-ROOT 1
+SPc-ROOT-nasal 3
+z-SPa-ROOT 62
+SPc-ROOT 14
+None 35
+SPb-ROOT 24
+SPa-ROOT-r 23
+Causal 6
+SPb-ROOT-nasal 1
+R-ROOT 3
+
 
 * redo.sh
 This script (or redo.bat for windows computers) recreates outputs from

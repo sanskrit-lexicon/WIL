@@ -12,6 +12,12 @@
 
   Note: corr6-roots is used as a 'last resort':  it has some correspondences
     developed by Matthias and Peter in 2011.
+ June 13, 2016.  There are in fact instances of this 'last resort' being
+    taken.
+ Thus, we remove 'corr6-roots.txt' from the inputs of the program. The usage is
+ now
+
+ python wil_mw.py ../wil_rdot.txt ../verb_step0a.txt wil_mw.txt wil_mw_prob.txt
 
   TODO:  
    1. use only cases of verb_step0a.txt where type=V or N
@@ -32,16 +38,6 @@ class Counter(dict):
    if not (x in self.d):
     self.d[x]=0
    self.d[x] = self.d[x] + 1
-
-class Corr6(object):
- def __init__(self,line):
-  line = line.rstrip('\r\n')
-  m = re.search(r'^<c>(.*?)</c> *<wil>(.*?)</wil> *<mw>(.*?)</mw>',line)
-  if not m:
-   print "Problem with",line
-   exit(1)
-  (self.c,self.wil,self.mw) = (m.group(1),m.group(2),m.group(3))
-  self.used = False 
 
 
 class Step0a(object):
@@ -87,7 +83,7 @@ def mw_nasal(c):
  else:
   return ''
 
-def match_simple(wilkey,step0dict,dcorr6):
+def match_simple(wilkey,step0dict):
  """match returns a pair (reason,mwkey)
     where mwkey is the MW verb associated with wilkey,
     and reason is a string indicating the method of association.
@@ -116,27 +112,27 @@ def match_simple(wilkey,step0dict,dcorr6):
  # return failure
  return (None,None)
 
-def match(wilkey,step0dict,dcorr6):
+def match(wilkey,step0dict):
  """match returns a pair (reason,mwkey)
     where mwkey is the MW verb associated with wilkey,
     and reason is a string indicating the method of association.
     If no match is found, reason is None and mwkey is None
  """
- (reason,mwkey) = match_simple(wilkey,step0dict,dcorr6)
+ (reason,mwkey) = match_simple(wilkey,step0dict)
  if reason:
   return (reason,mwkey)
 
  # WIlson usually doubles consonants after 'r'
  wilkey1 = re.sub(r'[r](.)\1',r'r\1',wilkey)
  if wilkey1 != wilkey: 
-  (reason1,mwkey) = match_simple(wilkey1,step0dict,dcorr6)
+  (reason1,mwkey) = match_simple(wilkey1,step0dict)
   if reason1:
    reason = '%s-r'%reason1
    return (reason,mwkey)
  # similarly for rdD <-> rD
  if 'rdD' in wilkey:
   wilkey1 = re.sub(r'rdD',r'rD',wilkey)
-  (reason1,mwkey) = match_simple(wilkey1,step0dict,dcorr6)
+  (reason1,mwkey) = match_simple(wilkey1,step0dict)
   if reason1:
    reason = '%s-rdD'%reason1
    return (reason,mwkey)
@@ -144,7 +140,7 @@ def match(wilkey,step0dict,dcorr6):
  # Feb 21, 2015 if wilkey has 'sj', try 'jj' in MW
  if 'sj' in wilkey:
   wilkey1 = re.sub(r'sj',r'jj',wilkey)
-  (reason1,mwkey) = match_simple(wilkey1,step0dict,dcorr6)
+  (reason1,mwkey) = match_simple(wilkey1,step0dict)
   if reason1:
    reason = '%s-sj'%reason1
    return (reason,mwkey)
@@ -162,14 +158,14 @@ def match(wilkey,step0dict,dcorr6):
    wilkey1 = re.sub(r'^z','s',wilkey)
    if 'rtt' in wilkey1: # zvartta -> svartta -> svarta. Feb 21, 2015
     wilkey1 = re.sub(r'rtt','rt',wilkey1)
-  (reason1,mwkey) = match_simple(wilkey1,step0dict,dcorr6)
+  (reason1,mwkey) = match_simple(wilkey1,step0dict)
   if reason1:
    reason = 'z-%s'%reason1
    return (reason,mwkey)
  # Feb 21. saN <-> saM
  if wilkey.startswith('saN'):
   wilkey1 = re.sub(r'^saN','saM',wilkey)
-  (reason1,mwkey) = match_simple(wilkey1,step0dict,dcorr6)
+  (reason1,mwkey) = match_simple(wilkey1,step0dict)
   if reason1:
    reason = 'saN-%s'%reason1
    return (reason,mwkey)
@@ -179,7 +175,7 @@ def match(wilkey,step0dict,dcorr6):
  #   try search with that 'R' replaced by 'n'
  if wilkey.startswith('R'):
   wilkey1 = re.sub(r'^R','n',wilkey)
-  (reason1,mwkey) = match_simple(wilkey1,step0dict,dcorr6)
+  (reason1,mwkey) = match_simple(wilkey1,step0dict)
   if reason1:
    reason = 'R-%s' % reason1
    return (reason,mwkey)
@@ -193,7 +189,7 @@ def match(wilkey,step0dict,dcorr6):
   cons = m.group(2)
   nasal = mw_nasal(cons[0]) # find corresponding nasal used by MW.
   wilkey2 = "%s%s%s%s" %(start,nasal,cons,'a') # key with inserted nasal
-  (reason1,mwkey) = match_simple(wilkey2,step0dict,dcorr6)
+  (reason1,mwkey) = match_simple(wilkey2,step0dict)
   if reason1:
    reason = '%s-nasal' % reason1
    return (reason,mwkey)
@@ -275,18 +271,9 @@ def match(wilkey,step0dict,dcorr6):
    return (reason,mwkey)
 
 
- # Try dcorr6
- if wilkey in dcorr6:
-  mwkey = dcorr6[wilkey]
-  ans = ('SPma-ROOT',mwkey)
-  # check that mwkey is in step0dict:
-  if not (mwkey in step0dict):
-   print wilkey,'matches',mwkey,'by Corr6, but',mwkey,'is not in step0a verbs'
-  return ans
- # no luck
  return (None,None)
 
-def main(filein,filein1,filein2,fileout,fileout1):
+def main(filein,filein1,fileout,fileout1):
  # read verb_step0a.txt into array of records
  with codecs.open(filein1,'r') as f:
   step0arecs= [Step0a(line) for line in f]
@@ -295,10 +282,6 @@ def main(filein,filein1,filein2,fileout,fileout1):
  # F3b 23, 2015. Leave
  #step0arecs = [x for x in step0arecs if (x.type in ['V','N'])]
  #print len(step0arecs)," V,N records retained from step0a"
- # read corr6_roots.txt into array of records
- with codecs.open(filein2,'r') as f:
-  corr6recs= [Corr6(line) for line in f]
- print len(corr6recs),"records read from",filein2
 
  # read wil_rdot.txt into array of records
  with codecs.open(filein,'r','utf-8') as f:
@@ -314,14 +297,6 @@ def main(filein,filein1,filein2,fileout,fileout1):
   if key not in d:
    d[key]=[]
   d[key].append(r)
- # make dictionary from corr6recs
- # with the key
- dcorr6 = {}
- for r in corr6recs:
-  wilkey = r.wil
-  if key in dcorr6:
-   print "corr6 unexpected duplicate wilkey",wilkey
-  dcorr6[wilkey]=r.mw
 
  # generate output
  f = codecs.open(fileout,"w","utf-8")
@@ -332,7 +307,7 @@ def main(filein,filein1,filein2,fileout,fileout1):
  reason_counter=Counter()
  for wilrec in wilrecs:
   wilkey = wilrec.wilkey
-  (reason,mwkey) = match(wilkey,d,dcorr6)
+  (reason,mwkey) = match(wilkey,d)
   reason_counter.update([reason])
   if reason:
    out = "<c>%s</c> <wil>%s</wil> <mw>%s</mw>" %(reason,wilkey,mwkey)
@@ -342,11 +317,6 @@ def main(filein,filein1,filein2,fileout,fileout1):
    if mwkey in d:
     for step0arec in d[mwkey]:
      step0arec.wilused.append(wilkey)
-   # Feb 14, 2015. Check if dcorr6 gives same answer where applicable
-   if wilkey in dcorr6:
-    mwkey1=dcorr6[wilkey]
-    if mwkey != mwkey1:
-     print "WARNING: For wilkey=%s, mwkey(%s) != dcorr6(%s)"%(wilkey,mwkey,mwkey1)
   else:
    nout1 = nout1 + 1
    out = "%03d %s" %(nout1,wilkey)
@@ -372,7 +342,6 @@ def main(filein,filein1,filein2,fileout,fileout1):
 if __name__=="__main__":
  filein = sys.argv[1] # wil_rdot.txt
  filein1 = sys.argv[2] #verb_step0a.txt
- filein2 = sys.argv[3] # corr6-roots.txt
- fileout = sys.argv[4] # matched
- fileout1 = sys.argv[5] # not found
- main(filein,filein1,filein2,fileout,fileout1)
+ fileout = sys.argv[3] # matched
+ fileout1 = sys.argv[4] # not found
+ main(filein,filein1,fileout,fileout1)

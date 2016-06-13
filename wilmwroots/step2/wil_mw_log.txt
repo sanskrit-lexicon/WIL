@@ -1,16 +1,5 @@
 10476 records read from verb_step0a.txt
-1283 records read from corr6-roots.txt
 1756 records read from wil_rdot.txt
-WARNING: For wilkey=kakKa, mwkey(kakK) != dcorr6(kaK)
-WARNING: For wilkey=kakka, mwkey(kakk) != dcorr6(kak)
-WARNING: For wilkey=kakKa, mwkey(kakK) != dcorr6(kaK)
-WARNING: For wilkey=jala, mwkey(jala) != dcorr6(jal)
-WARNING: For wilkey=Dana, mwkey(Dana) != dcorr6(Dan)
-WARNING: For wilkey=nida, mwkey(nid) != dcorr6(nind)
-WARNING: For wilkey=Pulla, mwkey(Pulla) != dcorr6(Pull)
-WARNING: For wilkey=baDa, mwkey(baD) != dcorr6(banD)
-WARNING: For wilkey=laGa, mwkey(laGaya) != dcorr6(laNG)
-WARNING: For wilkey=skaBa, mwkey(skaB) != dcorr6(skamB)
 1721 lines written to wil_mw.txt
 35 lines written to wil_mw_prob.txt
 1 step0a record=amb:14390:<H1>:V::<vlex type="root"></vlex> <vlex>cl.1 P.</vlex> <vlex>cl.1 A1.</vlex>
@@ -268,7 +257,6 @@ WARNING: For wilkey=skaBa, mwkey(skaB) != dcorr6(skamB)
 Tabulation of reasons for matching
 SPa-ROOT-rdD 1
 saN-SPb-ROOT 1
-None 35
 SPa-ROOT-nasal 98
 SPa-ROOT-sj 3
 Probable 15
@@ -277,12 +265,13 @@ z-ROOT 13
 R-SPa-ROOT 24
 Intensive 1
 Likely 25
-SPa-ROOT 1211
+SPa-ROOT 1212
 saN-SPa-ROOT 1
 SPc-ROOT-nasal 3
 z-SPa-ROOT 62
 SPc-ROOT 14
-SPb-ROOT 25
+None 35
+SPb-ROOT 24
 SPa-ROOT-r 23
 Causal 6
 SPb-ROOT-nasal 1

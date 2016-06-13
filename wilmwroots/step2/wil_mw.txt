@@ -28,7 +28,7 @@
 <c>SPa-ROOT</c> <wil>amba</wil> <mw>amb</mw>
 <c>SPa-ROOT</c> <wil>aya</wil> <mw>ay</mw>
 <c>ROOT</c> <wil>arka</wil> <mw>arka</mw>
-<c>SPb-ROOT</c> <wil>arDa</wil> <mw>arDaya</mw>
+<c>SPa-ROOT</c> <wil>arGa</wil> <mw>arG</mw>
 <c>SPa-ROOT</c> <wil>arca</wil> <mw>arc</mw>
 <c>SPa-ROOT</c> <wil>arja</wil> <mw>arj</mw>
 <c>SPa-ROOT</c> <wil>arTa</wil> <mw>arT</mw>
