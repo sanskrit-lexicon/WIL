@@ -1,0 +1,8 @@
+; working file for questions and problems regarding the root-matching of
+; wil_mw.txt.  
+; No format has yet been established, i.e., it's free form now.
+;------------------------------------------------------------
+Case 1.
+<c>Intensive</c> <wil>daridrA</wil> <mw>drA</mw>
+drA and daridrA are separate verbs. Ref issue#4.
+;------------------------------------------------------------
