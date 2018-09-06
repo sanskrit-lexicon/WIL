@@ -1,0 +1,26 @@
+
+Sep 5, 2018
+step2a
+
+Add L-codes (wil.xml record identifiers) to wil_mw.txt and
+wil_mw_prob.txt.  This involves modification to wil_mw.py.
+
+Use inputs from step2 folder.
+
+python wil_mw.py ../step2/wil_rdot.txt ../step2/verb_step0a.txt wil_mw.txt wil_mw_prob.txt > wil_mw_log.txt
+
+
+Each line of output wil_mw.txt now has a field <wilL>X</wilL>  with the L-number of the Wilson root, 
+and a field <mwL>Y</mwL> for the L-number of the corresponding MW root.
+
+One interesting feature of <mwL>Y</mwL> is that there may be more than one MW L-number represented by Y.
+For example:
+
+<c>SPa-ROOT</c> <wil>aWa</wil> <mw>aW</mw> <wilL>642</wilL> <mwL>2383,2447.1</mwL>
+Thus there is uncertainty as to which of the two MW records Wilson's root aW corresponds.  In this
+case an examination of the entries in MW shows that in the second reference (2447.1), aW is given as
+an alternate spelling to aRW;  And Wilson's entry for aW has forms both with and without a nasal.
+May not matter much which of the two MW records the single WIL record corresponds.
+
+
+This phenomenon  (searchable by records in wil_mw.txt containing a comma) occurs 191 times.

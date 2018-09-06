@@ -45,3 +45,5 @@ wilmwroots
 ----------
 
 (Begun Feb 2015). Continues work on the correspondence between Wilson and Monier-Williams roots.
+
+(Sep 2018).  Add L-numbers to the correspondence.  See step2a directory.
