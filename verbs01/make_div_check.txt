@@ -1,0 +1,4719 @@
+; Case 001
+; OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD
+<L>597<pc>014<k1>aYca<k2>aYca
+{#aYca#}¦ r. 1st cl. ({#u.#}) ({#aYcati#})
+.²1 To adore, to worship, to treat with respect, ({#Ya, u.#}) ({#aMcati-te#})
+.²2 To go, to approach.
+.²3 To ask or beg.
+.²4 To speak indistinctly. With {#pra,#} to move in an eastern direction; with
+{#prati,#} to go westerly; with {#ut,#} to go northerly; with {#ava,#} to move
+southerly; with {#parA,#} to turn aside or away. r. 1st and 10th cl. ({#aMcati#} 
+{#aMcayati#}) To discriminate, to individualize, to possess especially. See
+{#aca.#}
+
+<LEND>
+; NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW
+<L>597<pc>014<k1>aYca<k2>aYca
+{#aYca#}¦ r. 1st cl. ({#u.#}) ({#aYcati#})
+.²1 To adore, to worship, to treat with respect, ({#Ya, u.#}) ({#aMcati-te#})
+.²2 To go, to approach.
+.²3 To ask or beg.
+.²4 To speak indistinctly.
+<div n="p">With {#pra#}, to move in an eastern direction;
+<div n="p">with {#prati#}, to go westerly;
+<div n="p">with {#ut#}, to go northerly;
+<div n="p">with {#ava#}, to move southerly;
+<div n="p">with {#parA#}, to turn aside or away. r. 1st and 10th cl. ({#aMcati#}  {#aMcayati#}) To discriminate, to individualize, to possess especially. See {#aca.#} 
+<LEND>
+; ===============================================
+;
+; Case 002
+; OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD
+<L>3039<pc>064<k1>aya<k2>aya
+{#aya#}¦ r. 1st cl. ({#ayate#}) To go, to go to or towards. With {#prati#} to
+believe, to rely on. A preposition containing {#ra#} substitutes {#la#} before
+this root, as {#pra#} and {#para#} make {#plAyate, palAyate#} to fly, to run
+away.
+
+<LEND>
+; NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW
+<L>3039<pc>064<k1>aya<k2>aya
+{#aya#}¦ r. 1st cl. ({#ayate#}) To go, to go to or towards.
+<div n="p">With {#prati#} to believe, to rely on. A preposition containing {#ra#} substitutes {#la#} before this root, as {#pra#} and {#para#} make {#plAyate, palAyate#} to fly, to run away. 
+<LEND>
+; ===============================================
+;
+; Case 003
+; OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD
+<L>4195<pc>087<k1>aSa<k2>aSa
+{#aSa#}¦ r. 5th cl. ({#U.#}) {#aSU#} ({#aSnute#})
+.²1 To pervade or occupy.
+.²2 To heap or crowd. r. 9th cl. ({#aSnAti#}) To eat, to eat hungrily. With
+{#pra#} prefixed, to begin to eat.
+
+<LEND>
+; NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW
+<L>4195<pc>087<k1>aSa<k2>aSa
+{#aSa#}¦ r. 5th cl. ({#U.#}) {#aSU#} ({#aSnute#})
+.²1 To pervade or occupy.
+.²2 To heap or crowd. r. 9th cl. ({#aSnAti#}) To eat, to eat hungrily.
+<div n="p">With {#pra#} prefixed, to begin to eat. 
+<LEND>
+; ===============================================
+;
+; Case 004
+; OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD
+<L>4449<pc>093<k1>asa<k2>asa
+{#asa#}¦ ({#Ya#}) r. 1st cl. ({#asati-te#})
+.²1 To go or move.
+.²2 To take or receive.
+.²3 To shine. ({#la#}) r. 2d cl. ({#asti#}) To be. ({#ya, u, ira#}) r. 4th cl.
+({#asyati-te#}) To throw or direct. With {#anu#} prefixed, to sit down: with
+{#apa,#} to quit or abandon: with {#ni,#} to deposit: with {#nir,#} to expel:
+with {#pari#} and {#upa,#} to sit around: with {#pra,#} to throw away, to
+reject, to confute: with {#vi,#} to divide: with {#vi#} and {#ANa,#} to class,
+to arrange: with {#sama#} and {#ni,#} to abandon the world: with {#sama,#} to
+collect, to combine or compound.
+
+<LEND>
+; NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW
+<L>4449<pc>093<k1>asa<k2>asa
+{#asa#}¦ ({#Ya#}) r. 1st cl. ({#asati-te#})
+.²1 To go or move.
+.²2 To take or receive.
+.²3 To shine. ({#la#}) r. 2d cl. ({#asti#}) To be. ({#ya, u, ira#}) r. 4th cl.
+({#asyati-te#}) To throw or direct.
+<div n="p">With {#anu#} prefixed, to sit down:
+<div n="p">with {#apa#}, to quit or abandon:
+<div n="p">with {#ni#}, to deposit:
+<div n="p">with {#nir#}, to expel:
+<div n="p">with {#pari#} and {#upa#}, to sit around:
+<div n="p">with {#pra#}, to throw away, to reject, to confute:
+<div n="p">with {#vi#}, to divide:
+<div n="p">with {#vi#} and {#ANa#}, to class, to arrange:
+<div n="p">with {#sama#} and {#ni#}, to abandon the world:
+<div n="p">with {#sama#}, to collect, to combine or compound. 
+<LEND>
+; ===============================================
+;
+; Case 005
+; OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD
+<L>6028<pc>125<k1>Asa<k2>Asa
+{#Asa#}¦ r. 2d cl. ({#Aste#} or {#Asate#})
+.²1 To sit.
+.²2 To be present.
+.²3 To be or exist. With {#aDi#} prefixed.
+.²1 To inhabit, to dwell in.
+.²2 To sit over or upon.
+.²3 To mistake or err by taking one thing for another from similarity of
+appearance. With {#aBi,#} to sit or apply to, to study, to learn. With {#ut,#}
+.²1 To leave, to abandon.
+.²2 To shake, agitate, &c. (as wind.) With {#upa,#} to worship, to do homage.
+With {#nir,#} to expel. With {#pra#} and {#nir,#} to reject, to refute, to
+invalidate. 
+[Page126]
+
+<LEND>
+; NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW
+<L>6028<pc>125<k1>Asa<k2>Asa
+{#Asa#}¦ r. 2d cl. ({#Aste#} or {#Asate#})
+.²1 To sit.
+.²2 To be present.
+.²3 To be or exist.
+<div n="p">With {#aDi#} prefixed. 
+.²1 To inhabit, to dwell in. 
+.²2 To sit over or upon. 
+.²3 To mistake or err by taking one thing for another from similarity of appearance.
+<div n="p">With {#aBi#}, to sit or apply to, to study, to learn.
+<div n="p">With {#ut#}, 
+.²1 To leave, to abandon. 
+.²2 To shake, agitate, &c. (as wind.)
+<div n="p">With {#upa#}, to worship, to do homage.
+<div n="p">With {#nir#}, to expel.
+<div n="p">With {#pra#} and {#nir#}, to reject, to refute, to invalidate.  
+[Page126]
+<LEND>
+; ===============================================
+;
+; Case 006
+; OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD
+<L>6163<pc>129<k1>i<k2>i
+{#i#}¦ r. 1st cl. ({#ayati#}) To go, to go to or towards: with {#ut#} prefixed,
+to rise or ascend, as the sun, &c. with {#aBi#} and {#ut#} the same, or to rise
+in the world, to prosper. ({#Na#}) {#iN#} and {#aDi#} {%always prefixed%}
+{#aDINa#} r. 2nd cl. ({#aDIte#}) To study, to learn, to read over or through.
+({#ka#}) {#ika#} and {#aDi#} prefixed r. 2nd cl. ({#aDyeti#}) To remember, to
+think of. ({#Ra#}) {#iR#} r. 2nd cl. ({#eti#}) To go. This root takes many
+prefixes, implying with {#ati,#}
+.²1 to surpass, to surmount.
+.²2 To pass, to spend time or to elapse as time. With {#anu,#}
+.²1 To go after, to follow.
+.²2 To go like, to imitate in going.
+.²3 To succeed. With {#aBi,#}
+.²1 To obtain, to get.
+.²2 To proceed, to go on.
+.²3 To go.
+.²4 To approach.
+.²5 To serve or worship. With {#apa#}
+.²1 To go away, to depart.
+.²2 To perish. With {#aBi#} and {#upa,#} To arrive. With {#upa,#}
+.²1 To receive.
+.²2 To aid or assist.
+.²3 To approach or go near to. With {#nir,#} to go forth or out from. With
+{#prati,#}
+.²1 To trust, to confide.
+.²2 To follow, to be added or subjoined to.
+.²3 (In the passive verb,) To become evident or manifest. With {#vi,#} To
+expend, to waste, to depart. With {#sama#} and {#upa,#} To obtain, &c.
+
+<LEND>
+; NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW
+<L>6163<pc>129<k1>i<k2>i
+{#i#}¦ r. 1st cl. ({#ayati#}) To go, to go to or towards:
+<div n="p">with {#ut#} prefixed, to rise or ascend, as the sun, &c.
+<div n="p">with {#aBi#} and {#ut#} the same, or to rise in the world, to prosper. ({#Na#}) {#iN#} and {#aDi#} {%always prefixed%} {#aDINa#} r. 2nd cl. ({#aDIte#}) To study, to learn, to read over or through. ({#ka#}) {#ika#} and {#aDi#} prefixed r. 2nd cl. ({#aDyeti#}) To remember, to think of. ({#Ra#}) {#iR#} r. 2nd cl. ({#eti#}) To go. This root takes many prefixes, implying
+<div n="p">with {#ati#}, 
+.²1 to surpass, to surmount. 
+.²2 To pass, to spend time or to elapse as time.
+<div n="p">With {#anu#}, 
+.²1 To go after, to follow. 
+.²2 To go like, to imitate in going. 
+.²3 To succeed.
+<div n="p">With {#aBi#}, 
+.²1 To obtain, to get. 
+.²2 To proceed, to go on. 
+.²3 To go. 
+.²4 To approach. 
+.²5 To serve or worship.
+<div n="p">With {#apa#} 
+.²1 To go away, to depart. 
+.²2 To perish.
+<div n="p">With {#aBi#} and {#upa#}, To arrive.
+<div n="p">With {#upa#}, 
+.²1 To receive. 
+.²2 To aid or assist. 
+.²3 To approach or go near to.
+<div n="p">With {#nir#}, to go forth or out from.
+<div n="p">With {#prati#}, 
+.²1 To trust, to confide. 
+.²2 To follow, to be added or subjoined to. 
+.²3 (In the passive verb,) To become evident or manifest.
+<div n="p">With {#vi#}, To expend, to waste, to depart.
+<div n="p">With {#sama#} and {#upa#}, To obtain, &c. 
+<LEND>
+; ===============================================
+;
+; Case 007
+; OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD
+<L>6403<pc>134<k1>iza<k2>iza
+{#iza#}¦ r. 4th cl. ({#izyati#}) To go. r. 6th cl. ({#icCati#})
+.²1 To wish, to desire.
+.²2 To accept, to receive. With {#aBi,#} to desire: with {#prati,#} to engage,
+to promise. r. 9th cl. ({#izRAti#}) To repeat an act, to do any thing again and
+again. With {#anu#} prefixed, to search after, to investigate or enquire.
+
+<LEND>
+; NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW
+<L>6403<pc>134<k1>iza<k2>iza
+{#iza#}¦ r. 4th cl. ({#izyati#}) To go. r. 6th cl. ({#icCati#})
+.²1 To wish, to desire.
+.²2 To accept, to receive.
+<div n="p">With {#aBi#}, to desire:
+<div n="p">with {#prati#}, to engage, to promise. r. 9th cl. ({#izRAti#}) To repeat an act, to do any thing again and again.
+<div n="p">With {#anu#} prefixed, to search after, to investigate or enquire. 
+<LEND>
+; ===============================================
+;
+; Case 008
+; OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD
+<L>6444<pc>134<k1>Ikza<k2>Ikza
+{#Ikza#}¦ r. 1st cl. ({#Ikzate#}) To see. It most usually occurs compounded
+with one or other of the prepositions, as with {#apa,#} to expect; with
+{#aBi,#} to gaze at; with {#ava,#} to inspect; with {#ut#} or {#upa,#} to
+expect or await; with {#upa,#} to abandon; with {#nir,#} to see; 
+[Page135]
+ with
+{#pari,#} to try, to test, to assay; with {#pra,#} to see, to resemble, or look
+like; with {#vi,#} to inspect; with {#prati,#}
+.²1 to look for, to expect,
+.²2 to venerate; with {#sama,#} to compare, to contrast, to select; with
+{#prati#} and {#ut,#} to look up at.
+
+<LEND>
+; NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW
+<L>6444<pc>134<k1>Ikza<k2>Ikza
+{#Ikza#}¦ r. 1st cl. ({#Ikzate#}) To see. It most usually occurs compounded
+with one or other of the prepositions, as
+<div n="p">with {#apa#}, to expect;
+<div n="p">with {#aBi#}, to gaze at;
+<div n="p">with {#ava#}, to inspect;
+<div n="p">with {#ut#} or {#upa#}, to expect or await;
+<div n="p">with {#upa#}, to abandon;
+<div n="p">with {#nir#}, to see;  
+[Page135]
+<div n="p">with {#pari#}, to try, to test, to assay;
+<div n="p">with {#pra#}, to see, to resemble, or look like;
+<div n="p">with {#vi#}, to inspect;
+<div n="p">with {#prati#}, 
+.²1 to look for, to expect, 
+.²2 to venerate;
+<div n="p">with {#sama#}, to compare, to contrast, to select;
+<div n="p">with {#prati#} and {#ut#}, to look up at. 
+<LEND>
+; ===============================================
+;
+; Case 009
+; OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD
+<L>6525<pc>136<k1>Iha<k2>Iha
+{#Iha#}¦ r. 1st cl. ({#-Na#}) {#IhaN#} ({#Ihate#}) To endeavour, to aim or
+attempt. With {#sam#} prefixed, to wish, to desire.
+
+<LEND>
+; NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW
+<L>6525<pc>136<k1>Iha<k2>Iha
+{#Iha#}¦ r. 1st cl. ({#-Na#}) {#IhaN#} ({#Ihate#}) To endeavour, to aim or
+attempt.
+<div n="p">With {#sam#} prefixed, to wish, to desire. 
+<LEND>
+; ===============================================
+;
+; Case 010
+; OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD
+<L>6615<pc>138<k1>ucCa<k2>ucCa
+{#ucCa#}¦ r. 1st and 6th cls. ({#i.#}) {#ucCi#} ({#uYCati#})
+.²1 To glean.
+.²2 To gather little by little. ({#I.#}) {#ucCI#} ({#ucCati#}) or usually with
+{#vi#} prefixed, ({#vyucCati#})
+.²1 To end or terminate, to leave off.
+.²2 To finish or conclude.
+.²3 To pass or quit.
+.²4 To bind. With {#pra,#} to wipe off.
+
+<LEND>
+; NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW
+<L>6615<pc>138<k1>ucCa<k2>ucCa
+{#ucCa#}¦ r. 1st and 6th cls. ({#i.#}) {#ucCi#} ({#uYCati#})
+.²1 To glean.
+.²2 To gather little by little. ({#I.#}) {#ucCI#} ({#ucCati#}) or usually
+<div n="p">with {#vi#} prefixed, ({#vyucCati#}) 
+.²1 To end or terminate, to leave off. 
+.²2 To finish or conclude. 
+.²3 To pass or quit. 
+.²4 To bind.
+<div n="p">With {#pra#}, to wipe off. 
+<LEND>
+; ===============================================
+;
+; Case 011
+; OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD
+<L>6665<pc>139<k1>uYJa<k2>uYJa
+{#uYJa#}¦ r. 6th cl. ({#uYJati#}) To quit or abandon. This is some. times
+read {#udJ.#} With {#pra,#} to escape or avoid.
+
+<LEND>
+; NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW
+<L>6665<pc>139<k1>uYJa<k2>uYJa
+{#uYJa#}¦ r. 6th cl. ({#uYJati#}) To quit or abandon. This is some. times
+read {#udJ.#}
+<div n="p">With {#pra#}, to escape or avoid. 
+<LEND>
+; ===============================================
+;
+; Case 012
+; OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD
+<L>7860<pc>165<k1>uha<k2>uha
+{#uha#}¦ r. 1st cl. ({#ira#}) {#uhir#} ({#ohati#}) or ({#i#}) {#uhi#}
+({#uMhati#})
+.²1 To hurt or give pain.
+.²2 To kill, to destroy. With {#vi#} and {#ap#} pre, to destroy, to remove.
+
+<LEND>
+; NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW
+<L>7860<pc>165<k1>uha<k2>uha
+{#uha#}¦ r. 1st cl. ({#ira#}) {#uhir#} ({#ohati#}) or ({#i#}) {#uhi#}
+({#uMhati#})
+.²1 To hurt or give pain.
+.²2 To kill, to destroy.
+<div n="p">With {#vi#} and {#ap#} pre, to destroy, to remove. 
+<LEND>
+; ===============================================
+;
+; Case 013
+; OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD
+<L>8657<pc>182<k1>kaWa<k2>kaWa
+{#kaWa#}¦ r. 1st cl. ({#kaWati#}) To live in distress. ({#i#}) {#kaWi#} r.
+1st and 10th cls. ({#kaRWati-te kaRWayati#})
+.²1 To grieve.
+.²2 To recollect. With {#ud#} prefixed, to regret or miss, to lament, to bewail.
+
+<LEND>
+; NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW
+<L>8657<pc>182<k1>kaWa<k2>kaWa
+{#kaWa#}¦ r. 1st cl. ({#kaWati#}) To live in distress. ({#i#}) {#kaWi#} r.
+1st and 10th cls. ({#kaRWati-te kaRWayati#})
+.²1 To grieve.
+.²2 To recollect.
+<div n="p">With {#ud#} prefixed, to regret or miss, to lament, to bewail. 
+<LEND>
+; ===============================================
+;
+; Case 014
+; OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD
+<L>8940<pc>188<k1>kapa<k2>kapa
+{#kapa#}¦ ({#i#}) {#kapi#} r. 1st cl. ({#kaMpate#}) To shake, to tremble: with
+{#anu#} prefixed, to feel tenderness or compassion, to pity.
+
+<LEND>
+; NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW
+<L>8940<pc>188<k1>kapa<k2>kapa
+{#kapa#}¦ ({#i#}) {#kapi#} r. 1st cl. ({#kaMpate#}) To shake, to tremble:
+<div n="p">with {#anu#} prefixed, to feel tenderness or compassion, to pity. 
+<LEND>
+; ===============================================
+;
+; Case 015
+; OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD
+<L>9482<pc>200<k1>kala<k2>kala
+{#kala#}¦ r. 1st cl. ({#kalati#}) To sound. 1st and 10th cls. ({#kalati,#} 
+{#kAlayati#}) To throw or cast, to send; also 1st and 10th cls. ({#kalati,#} 
+{#kalayati#})
+.²1 To go.
+.²2 To count or reckon: with {#AN#} prefixed,
+.²1 To take.
+.²2 To bind or tie; with {#pari,#} To keep in mind, to think or remember; with
+{#vi,#} To maim, to separate a part, to make defective; with {#sama,#} To sum
+up, to add.
+
+<LEND>
+; NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW
+<L>9482<pc>200<k1>kala<k2>kala
+{#kala#}¦ r. 1st cl. ({#kalati#}) To sound. 1st and 10th cls. ({#kalati,#} 
+{#kAlayati#}) To throw or cast, to send; also 1st and 10th cls. ({#kalati,#} 
+{#kalayati#})
+.²1 To go.
+.²2 To count or reckon:
+<div n="p">with {#AN#} prefixed, 
+.²1 To take. 
+.²2 To bind or tie;
+<div n="p">with {#pari#}, To keep in mind, to think or remember;
+<div n="p">with {#vi#}, To maim, to separate a part, to make defective;
+<div n="p">with {#sama#}, To sum up, to add. 
+<LEND>
+; ===============================================
+;
+; Case 016
+; OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD
+<L>10309<pc>219<k1>kASa<k2>kASa
+{#kASa#}¦ ({#f#}) {#kASf#} r. 1st cl. ({#kASate#}) also ({#u, f#}) ({#ukASf#})
+r. 4th cl. ({#kASyate#})
+.²1 To shine. With {#nir#} prefixed, To expel,
+.²2 To hide or obscure; with {#pra,#} To make or become manifest.
+
+<LEND>
+; NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW
+<L>10309<pc>219<k1>kASa<k2>kASa
+{#kASa#}¦ ({#f#}) {#kASf#} r. 1st cl. ({#kASate#}) also ({#u, f#}) ({#ukASf#})
+r. 4th cl. ({#kASyate#})
+.²1 To shine.
+<div n="p">With {#nir#} prefixed, To expel, 
+.²2 To hide or obscure;
+<div n="p">with {#pra#}, To make or become manifest. 
+<LEND>
+; ===============================================
+;
+; Case 017
+; OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD
+<L>10574<pc>225<k1>kuca<k2>kuca
+{#kuca#}¦ r. 1st cl. ({#kocati#})
+.²1 To sound high, to utter a loud, shrill cry, as a bird.
+.²2 To go.
+.²3 To polish.
+.²4 To touch.
+.²5 To furrow or mark with lines.
+.²6 To be crooked.
+.²7 To write.
+.²8 To oppose.
+.²9 To contend.
+.²10 To be restricted or confined, to contract. r. 6th cl. ({#Si#}) {#Sikuca.#}
+({#kucati#}) {%or with%} {#saM#} {%prefixed,%} ({#saMkocati#} or {#saMkucati#})
+.²1 To straiten, to narrow or contract.
+.²2 To be straitened, to shrink, to contract. With {#ut#} to bribe; with {#vi,#}
+and {#A,#} to expand.
+
+<LEND>
+; NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW
+<L>10574<pc>225<k1>kuca<k2>kuca
+{#kuca#}¦ r. 1st cl. ({#kocati#})
+.²1 To sound high, to utter a loud, shrill cry, as a bird.
+.²2 To go.
+.²3 To polish.
+.²4 To touch.
+.²5 To furrow or mark with lines.
+.²6 To be crooked.
+.²7 To write.
+.²8 To oppose.
+.²9 To contend.
+.²10 To be restricted or confined, to contract. r. 6th cl. ({#Si#}) {#Sikuca.#}
+({#kucati#}) {%or with%} {#saM#} {%prefixed,%} ({#saMkocati#} or {#saMkucati#})
+.²1 To straiten, to narrow or contract.
+.²2 To be straitened, to shrink, to contract.
+<div n="p">With {#ut#} to bribe;
+<div n="p">with {#vi#}, and {#A#}, to expand. 
+<LEND>
+; ===============================================
+;
+; Case 018
+; OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD
+<L>10769<pc>229<k1>kupa<k2>kupa
+{#kupa#}¦ ({#ira#}) {#kupira#} r. 4th cl. ({#kupyati#}) To be angry, to be
+flushed with wrath. With {#pra,#} to be very much enraged. r. 10th cl.
+({#kopayati#})
+.²1 To shine: see {#kUpa.#}
+.²2 To speak. ({#i#}) {#kupi#} r. 1st and 10th cls. ({#kuMpati kuMpayati#})
+.²1 To spread.
+.²2 To remember.
+
+<LEND>
+; NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW
+<L>10769<pc>229<k1>kupa<k2>kupa
+{#kupa#}¦ ({#ira#}) {#kupira#} r. 4th cl. ({#kupyati#}) To be angry, to be
+flushed
+<div n="p">with wrath.
+<div n="p">With {#pra#}, to be very much enraged. r. 10th cl. ({#kopayati#}) 
+.²1 To shine: see {#kUpa.#} 
+.²2 To speak. ({#i#}) {#kupi#} r. 1st and 10th cls. ({#kuMpati kuMpayati#}) 
+.²1 To spread. 
+.²2 To remember. 
+<LEND>
+; ===============================================
+;
+; Case 019
+; OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD
+<L>10905<pc>233<k1>kula<k2>kula
+{#kula#}¦ r. 1st cl. ({#kolati#})
+.²1 To accumulate.
+.²2 To be of kin, to act as of kin.
+.²3 To flow homogeneously.
+.²4 To count. With {#AN#} prefixed, to be attentive; with {#vi,#} and {#AN#} to
+be bewildered, flurried or distressed.
+
+<LEND>
+; NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW
+<L>10905<pc>233<k1>kula<k2>kula
+{#kula#}¦ r. 1st cl. ({#kolati#})
+.²1 To accumulate.
+.²2 To be of kin, to act as of kin.
+.²3 To flow homogeneously.
+.²4 To count.
+<div n="p">With {#AN#} prefixed, to be attentive;
+<div n="p">with {#vi#}, and {#AN#} to be bewildered, flurried or distressed. 
+<LEND>
+; ===============================================
+;
+; Case 020
+; OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD
+<L>11079<pc>236<k1>kuza<k2>kuza
+{#kuza#}¦ r. 9th cl. ({#kuzRAti#})
+.²1 To expel, to force or draw out, to extract
+.²2 To test, to assay.
+.²3 To shine. With {#ava,#} to prove, to display; with {#nir,#} to extract.
+
+<LEND>
+; NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW
+<L>11079<pc>236<k1>kuza<k2>kuza
+{#kuza#}¦ r. 9th cl. ({#kuzRAti#})
+.²1 To expel, to force or draw out, to extract
+.²2 To test, to assay.
+.²3 To shine.
+<div n="p">With {#ava#}, to prove, to display;
+<div n="p">with {#nir#}, to extract. 
+<LEND>
+; ===============================================
+;
+; Case 021
+; OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD
+<L>11168<pc>238<k1>kUja<k2>kUja
+{#kUja#}¦ r. 1st cl. ({#kUjati#}) To make any inarticulate sound, to utter a
+cry as a bird, to coo as a pigeon, to caw as a crow, &c. With {#pari#} prefixed,
+to moan.
+
+<LEND>
+; NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW
+<L>11168<pc>238<k1>kUja<k2>kUja
+{#kUja#}¦ r. 1st cl. ({#kUjati#}) To make any inarticulate sound, to utter a
+cry as a bird, to coo as a pigeon, to caw as a crow, &c.
+<div n="p">With {#pari#} prefixed, to moan. 
+<LEND>
+; ===============================================
+;
+; Case 022
+; OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD
+<L>11243<pc>240<k1>kf<k2>kf
+{#kf#}¦ r. 5th cl. ({#Y#}) {#kfY#} ({#kfRoti kfRute#}) To hurt, to injure, to
+kill. ({#qu, Ya,#}) {#qukfY#} r. 8th cl. ({#karoti kurute#}) To do, to make,
+to perform any kind of action: this root admits most of the prepositions and a
+variety of significations; it is also active or deponent, according to its
+prefix and import; as,
+.²1 With {#ati,#} ({#atikurute#}) To exceed, to do more.
+.²2 With {#aDi,#} ({#aDikurute#})
+^a To surpass or overcome. ^b To superintend, to govern. ^c To hold of right.
+^d To bear patiently. ^e To refrain from.
+.²3 With {#anu#} ({#anukaroti#}) To copy, to imitate, to act like or after.
+.²4 With {#apa#} ({#apakurute#}) ^a To wrong, to injure. ^b To do evil.
+.²5 With {#AN#} ({#Akurute#}) ^a To call. ^b To take shape or form.
+.²6 With {#ut#} ({#utkurute#}) ^a To kill or hurt dangerously. ^b To collect, to
+assemble.
+.²7 With {#ud,#} and {#AN#} ({#udAkurute#}) To reproach.
+.²8 With {#upa#} ({#upakurute#}) To befriend, to serve or assist.
+.²9 With {#upa,#} and {#sa#} inserted ({#upaskurute,#} or {#upaskaroti#}) To
+alter. ({#upaskaroti#}) ^a To polish, to adorn. ^b To assemble. ^c To reply.
+.²10 With {#tiras#} ({#tiraskaroti#}) To abuse, to revile.
+.²11 With {#dur#} ({#duzkaroti#}) To do evil.
+.²12 With {#nir#} and {#AN#} ({#nirAkurute#}) ^a To make light of, to contemn.
+^b To expel. ^c To annihilate.
+.²13 With {#pari,#} and {#sa#} inserted ({#parizkaroti#}) To polish, to refine,
+to make elegant or perfect.
+.²14 With {#para#} and {#AN#} ({#parAkaroti#}) To act well.
+.²15 With {#pra#} ({#prakurute#}) ^a To begin. ^b To do any thing quickly. ^c To
+serve. ^d To allot, to portion. ^e To violate. ^f To chaunt, to recite.
+.²16 With {#prati#} ({#pratikurute#}) ^a To counteract. ^b To retaliate. ^c To
+remedy.
+.²17 With {#prati#} and {#upa#} ({#pratyupakurute#}) To requite, to return a
+kindness; with {#vi#} ({#vikurute#}) ^a To utter, to sound. ^b To seek, to
+strive for. ({#vikaroti#}) ^a To alter, to change in form. ^b To disturb or
+agitate.
+.²18 With {#vi#} and {#AN#} ({#vyAkurute#}) ^a To explain, to expound. ^b To
+make manifest or public.
+.²19 With {#sama#} ({#saMskaroti#}) ^a To polish, to perfect. ^b To assemble, to
+bring together.
+.²20 With {#su#} ({#sukaroti#}) To do well.
+
+<LEND>
+; NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW
+<L>11243<pc>240<k1>kf<k2>kf
+{#kf#}¦ r. 5th cl. ({#Y#}) {#kfY#} ({#kfRoti kfRute#}) To hurt, to injure, to
+kill. ({#qu, Ya,#}) {#qukfY#} r. 8th cl. ({#karoti kurute#}) To do, to make,
+to perform any kind of action: this root admits most of the prepositions and a
+variety of significations; it is also active or deponent, according to its
+prefix and import; as,
+
+<div n="p">1 With {#ati#}, ({#atikurute#}) To exceed, to do more. 
+<div n="p">2 With {#aDi#}, ({#aDikurute#}) 
+^a To surpass or overcome. 
+^b To superintend, to govern. 
+^c To hold of right. 
+^d To bear patiently. 
+^e To refrain from. 
+<div n="p">3 With {#anu#} ({#anukaroti#}) To copy, to imitate, to act like or after. 
+<div n="p">4 With {#apa#} ({#apakurute#}) 
+^a To wrong, to injure. 
+^b To do evil. 
+<div n="p">5 With {#AN#} ({#Akurute#}) 
+^a To call. 
+^b To take shape or form. 
+<div n="p">6 With {#ut#} ({#utkurute#}) 
+^a To kill or hurt dangerously. 
+^b To collect, to assemble. 
+<div n="p">7 With {#ud#}, and {#AN#} ({#udAkurute#}) To reproach. 
+<div n="p">8 With {#upa#} ({#upakurute#}) To befriend, to serve or assist. 
+<div n="p">9 With {#upa#}, and {#sa#} inserted ({#upaskurute#}, or {#upaskaroti#}) To alter. ({#upaskaroti#}) 
+^a To polish, to adorn. 
+^b To assemble. 
+^c To reply. 
+<div n="p">10 With {#tiras#} ({#tiraskaroti#}) To abuse, to revile. 
+<div n="p">11 With {#dur#} ({#duzkaroti#}) To do evil. 
+<div n="p">12 With {#nir#} and {#AN#} ({#nirAkurute#}) 
+^a To make light of, to contemn. 
+^b To expel. 
+^c To annihilate. 
+<div n="p">13 With {#pari#}, and {#sa#} inserted ({#parizkaroti#}) To polish, to refine, to make elegant or perfect. 
+<div n="p">14 With {#para#} and {#AN#} ({#parAkaroti#}) To act well. 
+<div n="p">15 With {#pra#} ({#prakurute#}) 
+^a To begin. 
+^b To do any thing quickly. 
+^c To serve. 
+^d To allot, to portion. 
+^e To violate. 
+^f To chaunt, to recite. 
+<div n="p">16 With {#prati#} ({#pratikurute#}) 
+^a To counteract. 
+^b To retaliate. 
+^c To remedy. 
+<div n="p">17 With {#prati#} and {#upa#} ({#pratyupakurute#}) To requite, to return a kindness;
+<div n="p">with {#vi#} ({#vikurute#}) 
+^a To utter, to sound. 
+^b To seek, to strive for. ({#vikaroti#}) 
+^a To alter, to change in form. 
+^b To disturb or agitate. 
+<div n="p">18 With {#vi#} and {#AN#} ({#vyAkurute#}) 
+^a To explain, to expound. 
+^b To make manifest or public. 
+<div n="p">19 With {#sama#} ({#saMskaroti#}) 
+^a To polish, to perfect. 
+^b To assemble, to bring together. 
+<div n="p">20 With {#su#} ({#sukaroti#}) To do well. 
+<LEND>
+; ===============================================
+;
+; Case 023
+; OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD
+<L>11458<pc>245<k1>kfza<k2>kfza
+{#kfza#}¦ r. 1st cl. ({#A#}) {#OkfSa#} ({#karzati#}) and 6th cl.
+({#kfzati-te#})
+.²1 To draw or make furrows.
+.²2 To plough. With {#apa,#}
+.²1 To draw down.
+.²2 To debase.
+.²3 To disregard. With {#ava,#}
+.²1 To draw out or off.
+.²2 To disregard or contemn. With {#AN,#} To attract, to draw to. With {#ut,#}
+.²1 To raise, to draw up.
+.²2 To raise, to excite, to make high, proud, loud, &c. With {#sama,#} To draw
+together. With {#sama#} and {#ni,#} To bring near or close to.
+
+<LEND>
+; NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW
+<L>11458<pc>245<k1>kfza<k2>kfza
+{#kfza#}¦ r. 1st cl. ({#A#}) {#OkfSa#} ({#karzati#}) and 6th cl.
+({#kfzati-te#})
+.²1 To draw or make furrows.
+.²2 To plough.
+<div n="p">With {#apa#}, 
+.²1 To draw down. 
+.²2 To debase. 
+.²3 To disregard.
+<div n="p">With {#ava#}, 
+.²1 To draw out or off. 
+.²2 To disregard or contemn.
+<div n="p">With {#AN#}, To attract, to draw to.
+<div n="p">With {#ut#}, 
+.²1 To raise, to draw up. 
+.²2 To raise, to excite, to make high, proud, loud, &c.
+<div n="p">With {#sama#}, To draw together.
+<div n="p">With {#sama#} and {#ni#}, To bring near or close to. 
+<LEND>
+; ===============================================
+;
+; Case 024
+; OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD
+<L>11553<pc>247<k1>kF<k2>kF
+{#kF#}¦ r. 6th cl. ({#kirati#}) To throw, to scatter. r. 9th cl. ({#kfRati#})
+or ({#gi, Y#}) {#gikFY#} ({#kfRAti-kfRIte#}) To hurt, to injure. r. 10th cl.
+({#kArayate#}) To know.
+.²1 With {#apa#} prefixed,
+^a To draw furrows, to make lines.
+^b To disperse.
+.²2 With {#ava,#} To throw, to cast.
+.²3 With {#AN,#} To fill up, to cover over.
+.²4 With {#prati,#} To hurt, to injure.
+.²5 With {#vi,#} To throw, to caste, to send, to scatter widely.
+.²6 With {#sama,#} To gather, to collect.
+.²7 With {#aBi,#} in the passive voice, to be upset, overcome or overwhelmed.
+
+<LEND>
+; NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW
+<L>11553<pc>247<k1>kF<k2>kF
+{#kF#}¦ r. 6th cl. ({#kirati#}) To throw, to scatter. r. 9th cl. ({#kfRati#})
+or ({#gi, Y#}) {#gikFY#} ({#kfRAti-kfRIte#}) To hurt, to injure. r. 10th cl.
+({#kArayate#}) To know.
+
+<div n="p">1 With {#apa#} prefixed, 
+^a To draw furrows, to make lines. 
+^b To disperse. 
+<div n="p">2 With {#ava#}, To throw, to cast. 
+<div n="p">3 With {#AN#}, To fill up, to cover over. 
+<div n="p">4 With {#prati#}, To hurt, to injure. 
+<div n="p">5 With {#vi#}, To throw, to caste, to send, to scatter widely. 
+<div n="p">6 With {#sama#}, To gather, to collect. 
+<div n="p">7 With {#aBi#}, in the passive voice, to be upset, overcome or overwhelmed. 
+<LEND>
+; ===============================================
+;
+; Case 025
+; OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD
+<L>11953<pc>256<k1>krama<k2>krama
+{#krama#}¦ r. 1st cl. ({#u#}) {#kramu#} ({#krAmati krAmyati#} or {#kramyati#})
+To go, to walk, to step: (in the following senses it is optionally deponent:)
+({#kramate kramyate#})
+.²1 To proceed uninterruptedly.
+.²2 To grow or increase.
+.²3 To preserve. It is also active or deponent according to various prefixes and
+in various senses, as, with {#ati#} ({#atikrAmati#})
+.²1 To go over or beyond, to leap over.
+.²2 To transgress, to pass beyond the bounds of virtue. With {#anu#}
+({#anukramate#}) To proceed regularly or in order. With {#aBi#}
+({#aBikrAmati#})
+.²1 To overcome, to surpass.
+.²2 To assail. With {#apa#} ({#apakramate#}) To go away, to depart. With {#AN,#}
+({#Akramate#}) To rise as the sun, &c. or ({#AkrAmati#}) To rise, to mount, to
+overcome. With {#ut,#} ({#utkrAmati#}) To transgress. With {#upa,#}
+({#upakrAmati#}) To depart. ({#upakramate#}) To begin. With {#nir,#}
+({#nizkrAmati#}) To go forth. With {#para#} and {#AN#} ({#parAkramati#}) To
+display valour, to surpass or overcome. With {#pra,#} ({#prakrAmati#}) To
+depart, to go or approach, ({#prakramate#}) To begin. With {#pari,#}
+({#parikrAmati#}) To wander about, to ramble. With {#vi,#} ({#vikrAmati#})
+.²1 To overcome.
+.²2 To mount or ascend. ({#vikramate#}) To pace, to proceed by steps, to move
+with the feet. With {#vi#} and {#AN#} ({#vyAkramate#}) To transgress. With
+{#sam,#} ({#saMkrAmati#}) to remove.
+
+<LEND>
+; NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW
+<L>11953<pc>256<k1>krama<k2>krama
+{#krama#}¦ r. 1st cl. ({#u#}) {#kramu#} ({#krAmati krAmyati#} or {#kramyati#})
+To go, to walk, to step: (in the following senses it is optionally deponent:)
+({#kramate kramyate#})
+.²1 To proceed uninterruptedly.
+.²2 To grow or increase.
+.²3 To preserve. It is also active or deponent according to various prefixes and
+in various senses, as,
+<div n="p">with {#ati#} ({#atikrAmati#}) 
+.²1 To go over or beyond, to leap over. 
+.²2 To transgress, to pass beyond the bounds of virtue.
+<div n="p">With {#anu#} ({#anukramate#}) To proceed regularly or in order.
+<div n="p">With {#aBi#} ({#aBikrAmati#}) 
+.²1 To overcome, to surpass. 
+.²2 To assail.
+<div n="p">With {#apa#} ({#apakramate#}) To go away, to depart.
+<div n="p">With {#AN#}, ({#Akramate#}) To rise as the sun, &c. or ({#AkrAmati#}) To rise, to mount, to overcome.
+<div n="p">With {#ut#}, ({#utkrAmati#}) To transgress.
+<div n="p">With {#upa#}, ({#upakrAmati#}) To depart. ({#upakramate#}) To begin.
+<div n="p">With {#nir#}, ({#nizkrAmati#}) To go forth.
+<div n="p">With {#para#} and {#AN#} ({#parAkramati#}) To display valour, to surpass or overcome.
+<div n="p">With {#pra#}, ({#prakrAmati#}) To depart, to go or approach, ({#prakramate#}) To begin.
+<div n="p">With {#pari#}, ({#parikrAmati#}) To wander about, to ramble.
+<div n="p">With {#vi#}, ({#vikrAmati#}) 
+.²1 To overcome. 
+.²2 To mount or ascend. ({#vikramate#}) To pace, to proceed by steps, to move with the feet.
+<div n="p">With {#vi#} and {#AN#} ({#vyAkramate#}) To transgress.
+<div n="p">With {#sam#}, ({#saMkrAmati#}) to remove. 
+<LEND>
+; ===============================================
+;
+; Case 026
+; OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD
+<L>12035<pc>258<k1>krIqa<k2>krIqa
+{#krIqa#}¦ r. 1st cl. ({#f#}) {#krIqf#} ({#krIqati#}) To play, to sport; with
+{#anu, ava, AN, pari,#} or {#sam#} prefixed, it is deponent, as {#anukrIqate,#}
+&c. unless {#anu#} requires the accusative case, and the compound with {#sam#}
+implies inarticulate sound, as {#tamanukrIqati sA#} she plays with him,
+{#saMkrIqati cakraM#} the wheel creaks.
+
+<LEND>
+; NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW
+<L>12035<pc>258<k1>krIqa<k2>krIqa
+{#krIqa#}¦ r. 1st cl. ({#f#}) {#krIqf#} ({#krIqati#}) To play, to sport;
+<div n="p">with {#anu, ava, AN, pari#}, or {#sam#} prefixed, it is deponent, as {#anukrIqate#}, &c. unless {#anu#} requires the accusative case, and the compound
+<div n="p">with {#sam#} implies inarticulate sound, as {#tamanukrIqati sA#} she plays with him, {#saMkrIqati cakraM#} the wheel creaks. 
+<LEND>
+; ===============================================
+;
+; Case 027
+; OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD
+<L>12059<pc>258<k1>kruSa<k2>kruSa
+{#kruSa#}¦ r. 1st cl. ({#-kroSati#})
+.²1 To call.
+.²2 To cry, to weep. With {#anu#} prefixed, To feel for, to sympathise with.
+With {#AN,#} To revile, to abuse or censure. With {#upa,#} To reproach. With
+{#pra,#} To cry aloud, to shout.
+
+<LEND>
+; NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW
+<L>12059<pc>258<k1>kruSa<k2>kruSa
+{#kruSa#}¦ r. 1st cl. ({#-kroSati#})
+.²1 To call.
+.²2 To cry, to weep.
+<div n="p">With {#anu#} prefixed, To feel for, to sympathise with.
+<div n="p">With {#AN#}, To revile, to abuse or censure.
+<div n="p">With {#upa#}, To reproach.
+<div n="p">With {#pra#}, To cry aloud, to shout. 
+<LEND>
+; ===============================================
+;
+; Case 028
+; OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD
+<L>12266<pc>262<k1>kzara<k2>kzara
+{#kzara#}¦ r. 1st cl. ({#kzarati#})
+.²1 To drop or let fall.
+.²2 To distil, to ooze, to trickle. With {#saM,#} To flow. With {#A,#} r. of the
+10th cl. ({#AkzArayati#}) To accuse, to abuse.
+
+<LEND>
+; NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW
+<L>12266<pc>262<k1>kzara<k2>kzara
+{#kzara#}¦ r. 1st cl. ({#kzarati#})
+.²1 To drop or let fall.
+.²2 To distil, to ooze, to trickle.
+<div n="p">With {#saM#}, To flow.
+<div n="p">With {#A#}, r. of the 10th cl. ({#AkzArayati#}) To accuse, to abuse. 
+<LEND>
+; ===============================================
+;
+; Case 029
+; OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD
+<L>12337<pc>264<k1>kzipa<k2>kzipa
+{#kzipa#}¦ ({#O#}) {#Okzipa#} r. 4th cl. ({#kzipyati#}) ({#Ya, A#})
+{#OkzipaY.#} r. 6th cl. ({#kzipati-te#}) To throw or cast, to direct or send.
+With {#aDi#} prefixed, To abuse, to censure or reproach. With {#ava,#} To throw
+down. With {#AN#}.
+.²1 To attract.
+.²2 To ridicule. With {#ut,#} To raise up, &c. With {#ni,#} To place, to
+deposit. With {#pra,#} To throw far or violently. With {#vi,#} To scatter, to
+disperse. With {#vi#} and {#ni,#} To deliver over, to resign, to leave. With
+{#sama#} and {#AN,#} To remove, to send away. With {#sam#}.
+.²1 To abridge, to compress or contract.
+.²2 To disappear.
+
+<LEND>
+; NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW
+<L>12337<pc>264<k1>kzipa<k2>kzipa
+{#kzipa#}¦ ({#O#}) {#Okzipa#} r. 4th cl. ({#kzipyati#}) ({#Ya, A#})
+{#OkzipaY.#} r. 6th cl. ({#kzipati-te#}) To throw or cast, to direct or send.
+With {#aDi#} prefixed, To abuse, to censure or reproach.
+<div n="p">With {#ava#}, To throw down.
+<div n="p">With {#AN#}. 
+.²1 To attract. 
+.²2 To ridicule.
+<div n="p">With {#ut#}, To raise up, &c.
+<div n="p">With {#ni#}, To place, to deposit.
+<div n="p">With {#pra#}, To throw far or violently.
+<div n="p">With {#vi#}, To scatter, to disperse.
+<div n="p">With {#vi#} and {#ni#}, To deliver over, to resign, to leave.
+<div n="p">With {#sama#} and {#AN#}, To remove, to send away.
+<div n="p">With {#sam#}. 
+.²1 To abridge, to compress or contract. 
+.²2 To disappear. 
+<LEND>
+; ===============================================
+;
+; Case 030
+; OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD
+<L>12922<pc>275<k1>KyA<k2>KyA
+{#KyA#}¦ r. 2nd cl. ({#KyAti#})
+.²1 To relate, to recount, to say or tell.
+.²2 To celebrate, to make known. With {#aBi#} prefixed, To shine or be
+glorious. With {#A,#} To be famous. With {#vi,#} To celebrate. With {#su,#} To
+be approved. With {#ku,#} To be infamous. With
+
+{#prati#} and {#A,#} To reject, to refuse. With {#sam,#} To count, to reckon.
+With {#saM#} and {#A,#} To denominate.
+
+<LEND>
+; NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW
+<L>12922<pc>275<k1>KyA<k2>KyA
+{#KyA#}¦ r. 2nd cl. ({#KyAti#})
+.²1 To relate, to recount, to say or tell.
+.²2 To celebrate, to make known.
+<div n="p">With {#aBi#} prefixed, To shine or be glorious.
+<div n="p">With {#A#}, To be famous.
+<div n="p">With {#vi#}, To celebrate.
+<div n="p">With {#su#}, To be approved.
+<div n="p">With {#ku#}, To be infamous. With  {#prati#} and {#A#}, To reject, to refuse.
+<div n="p">With {#sam#}, To count, to reckon.
+<div n="p">With {#saM#} and {#A#}, To denominate. 
+<LEND>
+; ===============================================
+;
+; Case 031
+; OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD
+<L>13244<pc>282<k1>gama<k2>gama
+{#gama#}¦ ({#O, x#}) {#Ogasx#} r. 1st cl. ({#gacCati#})
+.²1 To go, to move or approach.
+.²2 To arrive at, to accomplish or attain. With {#anu#} prefixed, To follow, to
+imitate. With {#AN#} ({#AgacCati#})
+.²1 To come, to arrive.
+.²2 To go to or unto.
+.²3 ({#Agamayate#}) To wait, to delay. With {#aDi,#}
+.²1 To obtain, to gain or acquire.
+.²2 To go over, as a book or set of rules, to peruse, to learn.
+.²3 To pass over, to omit. With {#apa,#} To go back or away, to separate. With
+{#ava,#} To know, to understand. With {#ut,#}
+.²1 To approach, to go near to.
+.²2 To go up, to rise. With {#upa,#}
+.²1 To produce.
+.²2 To go near.
+.²3 To consent to. With {#upa#} and {#AN,#} To approach. With {#dur,#} To go
+with difficulty. With {#ni,#} To acquire knowledge. With {#nir,#} To go forth
+or out. With {#pari#} and {#ut,#} To rise as from a seat, &c. With {#pari,#}
+.²1 To surround.
+.²2 To go away. With {#prati#} and {#AN,#} To return or arrive at. With {#vi,#}
+To go against as an enemy. With {#sam,#} ({#saMgacCate#})
+.²1 To go with, to accompany.
+.²2 To meet, to encounter. ({#saMgacCati#}) To go to, (in a transitive sense.)
+With {#sama#} and {#AN#} To meet, to unite. With {#sama#} and {#upa,#} To submit
+to, to yield. With {#su,#}
+.²1 To go easily or well.
+.²2 To arrive at.
+
+<LEND>
+; NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW
+<L>13244<pc>282<k1>gama<k2>gama
+{#gama#}¦ ({#O, x#}) {#Ogasx#} r. 1st cl. ({#gacCati#})
+.²1 To go, to move or approach.
+.²2 To arrive at, to accomplish or attain.
+<div n="p">With {#anu#} prefixed, To follow, to imitate.
+<div n="p">With {#AN#} ({#AgacCati#}) 
+.²1 To come, to arrive. 
+.²2 To go to or unto. 
+.²3 ({#Agamayate#}) To wait, to delay.
+<div n="p">With {#aDi#}, 
+.²1 To obtain, to gain or acquire. 
+.²2 To go over, as a book or set of rules, to peruse, to learn. 
+.²3 To pass over, to omit.
+<div n="p">With {#apa#}, To go back or away, to separate.
+<div n="p">With {#ava#}, To know, to understand.
+<div n="p">With {#ut#}, 
+.²1 To approach, to go near to. 
+.²2 To go up, to rise.
+<div n="p">With {#upa#}, 
+.²1 To produce. 
+.²2 To go near. 
+.²3 To consent to.
+<div n="p">With {#upa#} and {#AN#}, To approach.
+<div n="p">With {#dur#}, To go with difficulty.
+<div n="p">With {#ni#}, To acquire knowledge.
+<div n="p">With {#nir#}, To go forth or out.
+<div n="p">With {#pari#} and {#ut#}, To rise as from a seat, &c.
+<div n="p">With {#pari#}, 
+.²1 To surround. 
+.²2 To go away.
+<div n="p">With {#prati#} and {#AN#}, To return or arrive at.
+<div n="p">With {#vi#}, To go against as an enemy.
+<div n="p">With {#sam#}, ({#saMgacCate#}) 
+.²1 To go with, to accompany. 
+.²2 To meet, to encounter. ({#saMgacCati#}) To go to, (in a transitive sense.)
+<div n="p">With {#sama#} and {#AN#} To meet, to unite.
+<div n="p">With {#sama#} and {#upa#}, To submit to, to yield.
+<div n="p">With {#su#}, 
+.²1 To go easily or well. 
+.²2 To arrive at. 
+<LEND>
+; ===============================================
+;
+; Case 032
+; OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD
+<L>13369<pc>285<k1>gala<k2>gala
+{#gala#}¦ r. 1st cl. ({#galati#})
+.²1 To eat.
+.²2 To ooze; also ({#N#}) {#galaN#} r. 10th cl. ({#galayate#}) To drop, to ooze
+or distil. With {#ava#} prefixed, To fall, to fall down or off; With {#vi,#}
+.²1 To go, to approach.
+.²2 To bear or support.
+
+<LEND>
+; NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW
+<L>13369<pc>285<k1>gala<k2>gala
+{#gala#}¦ r. 1st cl. ({#galati#})
+.²1 To eat.
+.²2 To ooze; also ({#N#}) {#galaN#} r. 10th cl. ({#galayate#}) To drop, to ooze
+or distil.
+<div n="p">With {#ava#} prefixed, To fall, to fall down or off;
+<div n="p">With {#vi#}, 
+.²1 To go, to approach. 
+.²2 To bear or support. 
+<LEND>
+; ===============================================
+;
+; Case 033
+; OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD
+<L>13516<pc>289<k1>gAha<k2>gAha
+{#gAha#}¦ ({#U#}) {#gAhU#} r. 1st cl. ({#gAhate#})
+.²1 To churn, to stir or agitate.
+.²2 To penetrate.
+.²3 To destroy. With {#ava#} or {#vi#} prefixed, To bathe, to perform ablutions.
+With {#vi,#} To shake, to agitate.
+
+<LEND>
+; NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW
+<L>13516<pc>289<k1>gAha<k2>gAha
+{#gAha#}¦ ({#U#}) {#gAhU#} r. 1st cl. ({#gAhate#})
+.²1 To churn, to stir or agitate.
+.²2 To penetrate.
+.²3 To destroy.
+<div n="p">With {#ava#} or {#vi#} prefixed, To bathe, to perform ablutions.
+<div n="p">With {#vi#}, To shake, to agitate. 
+<LEND>
+; ===============================================
+;
+; Case 034
+; OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD
+<L>13897<pc>297<k1>gF<k2>gF
+{#gF#}¦ r. 6th cl. ({#girati#} or {#gilati#}) To swallow, to eat. r. 9th cl.
+({#gfRAti#}) To sound, to sound intelligibly or articulately, to speak. r. 10th
+cl. ({#gIrayate#})
+.²1 To know.
+.²2 To make known, to teach: With {#nir#} or {#ut#} prefixed, To reject, to
+vomit. With {#sam#} and {#ut,#}
+.²1 To throw up.
+.²2 To cry aloud.
+
+<LEND>
+; NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW
+<L>13897<pc>297<k1>gF<k2>gF
+{#gF#}¦ r. 6th cl. ({#girati#} or {#gilati#}) To swallow, to eat. r. 9th cl.
+({#gfRAti#}) To sound, to sound intelligibly or articulately, to speak. r. 10th
+cl. ({#gIrayate#})
+.²1 To know.
+.²2 To make known, to teach:
+<div n="p">With {#nir#} or {#ut#} prefixed, To reject, to vomit.
+<div n="p">With {#sam#} and {#ut#}, 
+.²1 To throw up. 
+.²2 To cry aloud. 
+<LEND>
+; ===============================================
+;
+; Case 035
+; OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD
+<L>13910<pc>297<k1>gE<k2>gE
+{#gE#}¦ r. 1st cl. ({#gAyati#}) To sound, to sing. With {#ud#} or {#pra#}
+prefixed; ({#udgAyati pragAyati#}) To sing, to chaunt, to sing out or aloud.
+({#udgIyate pragIyate#}) To be sung or chaunted. With {#vi#} ({#vigAyati#}) To
+assert repeatedly.
+
+<LEND>
+; NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW
+<L>13910<pc>297<k1>gE<k2>gE
+{#gE#}¦ r. 1st cl. ({#gAyati#}) To sound, to sing.
+<div n="p">With {#ud#} or {#pra#} prefixed; ({#udgAyati pragAyati#}) To sing, to chaunt, to sing out or aloud. ({#udgIyate pragIyate#}) To be sung or chaunted.
+<div n="p">With {#vi#} ({#vigAyati#}) To assert repeatedly. 
+<LEND>
+; ===============================================
+;
+; Case 036
+; OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD
+<L>14159<pc>303<k1>granTa<k2>granTa
+{#granTa#}¦ r. 1st, 9th and 10th cls. ({#granTati graTnAti granTayati#}) To
+string, to tie together, to connect or arrange in a regular series. With {#ud#}
+prefixed, To untie, to loosen.
+
+<LEND>
+; NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW
+<L>14159<pc>303<k1>granTa<k2>granTa
+{#granTa#}¦ r. 1st, 9th and 10th cls. ({#granTati graTnAti granTayati#}) To
+string, to tie together, to connect or arrange in a regular series.
+<div n="p">With {#ud#} prefixed, To untie, to loosen. 
+<LEND>
+; ===============================================
+;
+; Case 037
+; OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD
+<L>14185<pc>304<k1>graha<k2>graha
+{#graha#}¦ r. 1st, and 10th cls. ({#grahati grahayati#}) r. 9th cl. ({#U#})
+{#grahU#} ({#gfhRAti gfhRIte#})
+.²1 To take, to seize, to receive or accept. With {#anu#} prefixed, To favour,
+to shew kindness to. With {#ava,#} To oppose. With {#ut,#} To deposit, to
+trust. With {#upa,#} To provide.
+.²2 To favour. With {#ni,#}
+.²1 To take, to arrest.
+.²2 To punish.
+.²3 To restrain. With {#pari,#} To lay hold of, to seize. With {#prati,#}
+.²1 To assent to, to receive as a precept or truth.
+.²2 To embrace, to enfold, to comprehend or contain.
+.²3 To subdue.
+.²4 To accept. With {#vi,#} To quarrel, to fight. With {#sam,#} To collect, to
+assemble.
+
+<LEND>
+; NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW
+<L>14185<pc>304<k1>graha<k2>graha
+{#graha#}¦ r. 1st, and 10th cls. ({#grahati grahayati#}) r. 9th cl. ({#U#})
+{#grahU#} ({#gfhRAti gfhRIte#})
+.²1 To take, to seize, to receive or accept.
+<div n="p">With {#anu#} prefixed, To favour, to shew kindness to.
+<div n="p">With {#ava#}, To oppose.
+<div n="p">With {#ut#}, To deposit, to trust.
+<div n="p">With {#upa#}, To provide. 
+.²2 To favour.
+<div n="p">With {#ni#}, 
+.²1 To take, to arrest. 
+.²2 To punish. 
+.²3 To restrain.
+<div n="p">With {#pari#}, To lay hold of, to seize.
+<div n="p">With {#prati#}, 
+.²1 To assent to, to receive as a precept or truth. 
+.²2 To embrace, to enfold, to comprehend or contain. 
+.²3 To subdue. 
+.²4 To accept.
+<div n="p">With {#vi#}, To quarrel, to fight.
+<div n="p">With {#sam#}, To collect, to assemble. 
+<LEND>
+; ===============================================
+;
+; Case 038
+; OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD
+<L>14332<pc>307<k1>Gawwa<k2>Gawwa
+{#Gawwa#}¦ r. 1st and 10th cls. ({#Gawwate Gawwayati#}) To move. With
+{#pari#} prefixed, To spread or diffuse. With {#vi,#} To rub gently, to scratch.
+
+<LEND>
+; NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW
+<L>14332<pc>307<k1>Gawwa<k2>Gawwa
+{#Gawwa#}¦ r. 1st and 10th cls. ({#Gawwate Gawwayati#}) To move.
+<div n="p">With {#pari#} prefixed, To spread or diffuse.
+<div n="p">With {#vi#}, To rub gently, to scratch. 
+<LEND>
+; ===============================================
+;
+; Case 039
+; OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD
+<L>14467<pc>310<k1>Guza<k2>Guza
+{#Guza#}¦ ({#i#}) {#Guzi#} r. 1st cl. ({#Guzate#}) To render beautiful or
+brilliant. ({#ira#}) {#Guzira#} r. 1st cl. ({#Gozati#}) To do any act except
+manifest sentiment by sound. r. 10th cl. ({#Gozayati#})
+.²1 To manifest sentiment or thought by sound, to speak, to affirm, to declare
+or proclaim.
+.²2 To make various sounds.
+.²3 To praise. With {#AN#} prefixed, To weep incessantly.
+
+<LEND>
+; NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW
+<L>14467<pc>310<k1>Guza<k2>Guza
+{#Guza#}¦ ({#i#}) {#Guzi#} r. 1st cl. ({#Guzate#}) To render beautiful or
+brilliant. ({#ira#}) {#Guzira#} r. 1st cl. ({#Gozati#}) To do any act except
+manifest sentiment by sound. r. 10th cl. ({#Gozayati#})
+.²1 To manifest sentiment or thought by sound, to speak, to affirm, to declare
+or proclaim.
+.²2 To make various sounds.
+.²3 To praise.
+<div n="p">With {#AN#} prefixed, To weep incessantly. 
+<LEND>
+; ===============================================
+;
+; Case 040
+; OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD
+<L>14807<pc>318<k1>cama<k2>cama
+{#cama#}¦ ({#u#}) {#camu#} r. 1st and 5th cls. ({#camati camnoti#}) To eat, to
+drink, to take any thing into the mouth, as food, whether solid or liquid. With
+{#AN#} prefixed, ({#AcAmati#}) To sip as water. With {#vi,#} ({#vicamati#}) To
+eat.
+
+<LEND>
+; NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW
+<L>14807<pc>318<k1>cama<k2>cama
+{#cama#}¦ ({#u#}) {#camu#} r. 1st and 5th cls. ({#camati camnoti#}) To eat, to
+drink, to take any thing into the mouth, as food, whether solid or liquid.
+<div n="p">With {#AN#} prefixed, ({#AcAmati#}) To sip as water.
+<div n="p">With {#vi#}, ({#vicamati#}) To eat. 
+<LEND>
+; ===============================================
+;
+; Case 041
+; OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD
+<L>14838<pc>318<k1>cara<k2>cara
+{#cara#}¦ r. 1st cl. ({#carati#})
+.²1 To go.
+.²2 To eat.
+.²3 To behave or act, (in this sense {#AN#} is usually prefixed;) With {#ati,#}
+and {#AN#} prefixed, To transgress, to go astray. With {#aBi,#}
+.²1 To deceive, to betray.
+.²2 To conjure.
+.²3 To attend. With {#anu#}.
+.²1 To follow, to attend.
+.²2 To imitate. With {#AN,#}
+.²1 To practise a duty. With {#ut,#} ({#uccarate#})
+.²1 To transgress.
+.²2 To expel.
+.²3 ({#uccarati#}) To go up, to rise. With {#upa,#}
+.²1 To approach.
+.²2 To worship. With {#pari,#} To serve. With {#pra,#}
+.²1 To prevail as a custom.
+.²2 To declare, to manifest. With {#vi#} and {#aBi,#} To go astray, to act
+wickedly. With {#sam#} ({#saYcarate#})
+.²1 To ride upon.
+.²3 ({#saYcarati#}) To accompany With {#sama#} and {#AN,#}
+.²1 To perform.
+.²2 To announce. r. 10th cl. ({#cArayati#})
+.²1 To doubt.
+.²2 To be free from doubt. With {#vi#} prefixed, To discuss, to dispute, to
+reason upon or respecting any doubtful points.
+
+<LEND>
+; NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW
+<L>14838<pc>318<k1>cara<k2>cara
+{#cara#}¦ r. 1st cl. ({#carati#})
+.²1 To go.
+.²2 To eat.
+.²3 To behave or act, (in this sense {#AN#} is usually prefixed;)
+<div n="p">With {#ati#}, and {#AN#} prefixed, To transgress, to go astray.
+<div n="p">With {#aBi#}, 
+.²1 To deceive, to betray. 
+.²2 To conjure. 
+.²3 To attend.
+<div n="p">With {#anu#}. 
+.²1 To follow, to attend. 
+.²2 To imitate.
+<div n="p">With {#AN#}, 
+.²1 To practise a duty.
+<div n="p">With {#ut#}, ({#uccarate#}) 
+.²1 To transgress. 
+.²2 To expel. 
+.²3 ({#uccarati#}) To go up, to rise.
+<div n="p">With {#upa#}, 
+.²1 To approach. 
+.²2 To worship.
+<div n="p">With {#pari#}, To serve.
+<div n="p">With {#pra#}, 
+.²1 To prevail as a custom. 
+.²2 To declare, to manifest.
+<div n="p">With {#vi#} and {#aBi#}, To go astray, to act wickedly.
+<div n="p">With {#sam#} ({#saYcarate#}) 
+.²1 To ride upon. 
+.²3 ({#saYcarati#}) To accompany
+<div n="p">With {#sama#} and {#AN#}, 
+.²1 To perform. 
+.²2 To announce. r. 10th cl. ({#cArayati#}) 
+.²1 To doubt. 
+.²2 To be free from doubt.
+<div n="p">With {#vi#} prefixed, To discuss, to dispute, to reason upon or respecting any doubtful points. 
+<LEND>
+; ===============================================
+;
+; Case 042
+; OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD
+<L>15083<pc>324<k1>ci<k2>ci
+{#ci#}¦ ({#Ya#}) {#ciY#} r. 1st, 5th and 10th cls. ({#cayati-te cinoti#} 
+{#cayayati#} or {#capayati#}) To collect, to gather together, to heap, to
+assemble, to accumulate, &c. With {#apa,#} To lose, to squander. With {#upa#} or
+{#sam,#} To collect or acquire. With {#nir,#} To determine. With {#vi#} and
+{#nira,#} To determine exactly. ({#Ira Ra#}) {#IraciR#} r. 1st cl. ({#cayati#})
+To injure, (peculiar to the {%Vedas.%})
+
+<LEND>
+; NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW
+<L>15083<pc>324<k1>ci<k2>ci
+{#ci#}¦ ({#Ya#}) {#ciY#} r. 1st, 5th and 10th cls. ({#cayati-te cinoti#} 
+{#cayayati#} or {#capayati#}) To collect, to gather together, to heap, to
+assemble, to accumulate, &c.
+<div n="p">With {#apa#}, To lose, to squander.
+<div n="p">With {#upa#} or {#sam#}, To collect or acquire.
+<div n="p">With {#nir#}, To determine.
+<div n="p">With {#vi#} and {#nira#}, To determine exactly. ({#Ira Ra#}) {#IraciR#} r. 1st cl. ({#cayati#}) To injure, (peculiar to the {%Vedas.%}) 
+<LEND>
+; ===============================================
+;
+; Case 043
+; OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD
+<L>15866<pc>340<k1>japa<k2>japa
+{#japa#}¦ r. 1st cl. ({#japati#})
+.²1 To speak, to say or tell.
+.²2 To meditate, to speak internally, to say to one's self. With {#upa#}
+prefixed, To divide.
+
+<LEND>
+; NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW
+<L>15866<pc>340<k1>japa<k2>japa
+{#japa#}¦ r. 1st cl. ({#japati#})
+.²1 To speak, to say or tell.
+.²2 To meditate, to speak internally, to say to one's self.
+<div n="p">With {#upa#} prefixed, To divide. 
+<LEND>
+; ===============================================
+;
+; Case 044
+; OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD
+<L>16280<pc>349<k1>ji<k2>ji
+{#ji#}¦ r. 1st cl. ({#jayati#})
+.²1 To excel, to be pre-eminent, to surpass.
+.²2 To conquer, to reduce or overcome. With {#vi#} or {#parA#} prefixed,
+({#vijayate parAjayate#}) To overcome, to conquer.
+
+<LEND>
+; NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW
+<L>16280<pc>349<k1>ji<k2>ji
+{#ji#}¦ r. 1st cl. ({#jayati#})
+.²1 To excel, to be pre-eminent, to surpass.
+.²2 To conquer, to reduce or overcome.
+<div n="p">With {#vi#} or {#parA#} prefixed, ({#vijayate parAjayate#}) To overcome, to conquer. 
+<LEND>
+; ===============================================
+;
+; Case 045
+; OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD
+<L>16386<pc>351<k1>jIva<k2>jIva
+{#jIva#}¦ ({#f#}) {#jIvf#} r. 1st cl. ({#jIvati#}) To live. With {#AN,#} To use
+or enjoy, to get a living. With {#upa,#} To be dependant on for a living. With
+{#saM#} or {#pra,#} To live agreeably.
+
+<LEND>
+; NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW
+<L>16386<pc>351<k1>jIva<k2>jIva
+{#jIva#}¦ ({#f#}) {#jIvf#} r. 1st cl. ({#jIvati#}) To live.
+<div n="p">With {#AN#}, To use or enjoy, to get a living.
+<div n="p">With {#upa#}, To be dependant on for a living.
+<div n="p">With {#saM#} or {#pra#}, To live agreeably. 
+<LEND>
+; ===============================================
+;
+; Case 046
+; OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD
+<L>16521<pc>354<k1>jYA<k2>jYA
+{#jYA#}¦ r. 9th cl. ({#jAnAti jAnIte#}) To know, to understand. With {#anu#}
+prefixed,
+.²1 To assent or comform to.
+.²2 To acknowledge. With {#apa,#} To conceal. With {#ava,#} To disrespect, to
+despise. With {#upa,#} To deny knowledge of any thing. With {#pari,#} To
+ascertain. With {#pra,#} To know well. With {#prati#} or {#sam,#} To assent, to
+admit, to agree, to promise. With {#prati#} and {#aBi,#} To recognise. With
+{#vi,#} To discriminate, to know. With {#sam,#} To recollect or possess the
+power of knowing. (In combination, it usually takes the deponent form, as
+{#anujAnIte, apajAnIte,#} &c.) r. 10th cl. ({#jYApayati#}) To command, to
+direct; {#AN#} is usually prefixed in this sense. r. 1st cl. {%but occurring in%} 
+{%the form of the causal,%} ({#jYapayati#})
+.²1 To slay.
+.²2 To gratify or please.
+.²3 To exhibit.
+.²4 To sharpen.
+.²5 To praise. In these senses the root is, in general, combined with a prefix.
+
+<LEND>
+; NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW
+<L>16521<pc>354<k1>jYA<k2>jYA
+{#jYA#}¦ r. 9th cl. ({#jAnAti jAnIte#}) To know, to understand.
+<div n="p">With {#anu#} prefixed, 
+.²1 To assent or comform to. 
+.²2 To acknowledge.
+<div n="p">With {#apa#}, To conceal.
+<div n="p">With {#ava#}, To disrespect, to despise.
+<div n="p">With {#upa#}, To deny knowledge of any thing.
+<div n="p">With {#pari#}, To ascertain.
+<div n="p">With {#pra#}, To know well.
+<div n="p">With {#prati#} or {#sam#}, To assent, to admit, to agree, to promise.
+<div n="p">With {#prati#} and {#aBi#}, To recognise.
+<div n="p">With {#vi#}, To discriminate, to know.
+<div n="p">With {#sam#}, To recollect or possess the power of knowing. (In combination, it usually takes the deponent form, as {#anujAnIte, apajAnIte#}, &c.) r. 10th cl. ({#jYApayati#}) To command, to direct; {#AN#} is usually prefixed in this sense. r. 1st cl. {%but occurring in%}  {%the form of the causal,%} ({#jYapayati#}) 
+.²1 To slay. 
+.²2 To gratify or please. 
+.²3 To exhibit. 
+.²4 To sharpen. 
+.²5 To praise. In these senses the root is, in general, combined with a prefix. 
+<LEND>
+; ===============================================
+;
+; Case 047
+; OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD
+<L>16760<pc>360<k1>qaba<k2>qaba
+{#qaba#}¦ r. 10th cl. ({#i#}) {#qabi#} ({#qambayati#}) To throw, to send, to
+order. With {#vi#} prefixed, to deceive, to disgrace.
+
+<LEND>
+; NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW
+<L>16760<pc>360<k1>qaba<k2>qaba
+{#qaba#}¦ r. 10th cl. ({#i#}) {#qabi#} ({#qambayati#}) To throw, to send, to
+order.
+<div n="p">With {#vi#} prefixed, to deceive, to disgrace. 
+<LEND>
+; ===============================================
+;
+; Case 048
+; OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD
+<L>16787<pc>360<k1>qI<k2>qI
+{#qI#}¦ ({#Na#}) {#qIN#} r. 1st and 4th cls. ({#qayate qIyate#})
+.²1 To fly, to pass through the air.
+.²2 To go, to move. With {#ava#} prefixed, To fly down, to alight. With {#ut,#}
+To fly up, to soar. With {#pari,#} To fly round. With {#pra,#} To fly well or
+swiftly. With {#sam,#} To fly well or in flocks. With {#sam#} and {#ut,#} To fly
+up by degrees.
+
+<LEND>
+; NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW
+<L>16787<pc>360<k1>qI<k2>qI
+{#qI#}¦ ({#Na#}) {#qIN#} r. 1st and 4th cls. ({#qayate qIyate#})
+.²1 To fly, to pass through the air.
+.²2 To go, to move.
+<div n="p">With {#ava#} prefixed, To fly down, to alight.
+<div n="p">With {#ut#}, To fly up, to soar.
+<div n="p">With {#pari#}, To fly round.
+<div n="p">With {#pra#}, To fly well or swiftly.
+<div n="p">With {#sam#}, To fly well or in flocks.
+<div n="p">With {#sam#} and {#ut#}, To fly up by degrees. 
+<LEND>
+; ===============================================
+;
+; Case 049
+; OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD
+<L>16819<pc>361<k1>Rama<k2>Rama
+{#Rama#}¦ r. 1st cl. ({#namati#})
+.²1 To salute with reverence or respect.
+.²2 To bow or bend, to bow down in homage or worship.
+.²3 To sound. With {#ava#} or {#AN#} or {#sam#} prefixed, To bend down, to
+decline. With {#pra,#} To bow, to salute. With {#ut,#} To lift up, to raise, to
+make straight or erect.
+
+<LEND>
+; NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW
+<L>16819<pc>361<k1>Rama<k2>Rama
+{#Rama#}¦ r. 1st cl. ({#namati#})
+.²1 To salute with reverence or respect.
+.²2 To bow or bend, to bow down in homage or worship.
+.²3 To sound.
+<div n="p">With {#ava#} or {#AN#} or {#sam#} prefixed, To bend down, to decline.
+<div n="p">With {#pra#}, To bow, to salute.
+<div n="p">With {#ut#}, To lift up, to raise, to make straight or erect. 
+<LEND>
+; ===============================================
+;
+; Case 050
+; OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD
+<L>16835<pc>361<k1>RI<k2>RI
+{#RI#}¦ ({#Ya#}) {#RIY#} r. 1st cl. ({#nayati-te#})
+.²1 To conduct, to drive or guide, to cause progressive conveyance.
+.²2 To obtain, to get. The root is inflected as the deponent verb, implying.
+.²1 {%Instruction,%} as {#nayate SAstre#} he instructs in the {%Śāstra;%}
+.²2 {%Worshipping,%} {#vizRuMnayate#} he worships VIṢṆU; also with
+prepositions in the sense of;
+.²1 {%Paying,%} {#Bftyamupanayate#} he pays the hire;
+.²2 {%Paying as a debt,%} {#fRamvinayate#} he discharges the debt;
+.²3 {%Casting or lifting up,%} {#daRqamunnayate#} he lifts up the stick;
+.²4 {%Giving,%} {#dravyambinayate#} he gives the things; and
+.²5 {%Brahmanical Investiture,%} {#puttramupanayate#} he invests his son with
+the thread: it is also deponent, governing an incorporeal object existing in the
+agent, as {#kroDamvinayate#} he suppresses wrath; if the object is not in the
+agent the verb is active, as {#guroHkroDamvinayati#} he appeases his teacher's
+anger; as also if the object is corporal, as {#gaRqaM vinayati#} he turns away
+the cheek. The root occurs with many prefixes, and in a great variety of
+meanings;
+.²1 With {#anu,#} ^a To ask, to entreat. ^b To make like or resembling.
+^c To favour.
+.²2 With {#apa,#} ^a To take away, to remove. ^b To attract.
+.²3 With {#aBi,#}
+.²3 To indicate by signs. ^b To be kind or civil to.
+.²4 With {#AN,#} To bring.
+.²5 With {#ut,#} To raise up.
+.²6 With {#upa,#} To approach, to go near to, (see also above.)
+.²7 With {#dur,#} To act or behave wickedly.
+.²8 With {#nir,#} ^a To get or obtain. ^b To ascertain, to determine.
+.²9 With {#pari,#} ^a To marry. ^b To take cognizance of.
+.²10 With {#pra,#}
+^a To punish. ^b To love.
+.²11 With {#vi,#} ^a To take away, to make remote or distant. ^b To be humble or
+modest.
+.²12 With {#vi#} and {#apa,#} To remove, to dispel, to disperse.
+.²13 With {#vi#} and {#nir,#} To decide by law.
+.²14 With {#sam,#} ^a To collect. ^b To discharge.
+.²15 With {#sam#} and {#anu,#} To intreat.
+.²16 With {#sama#} and {#AN,#} To assemble, to collect, &c.
+
+<LEND>
+; NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW
+<L>16835<pc>361<k1>RI<k2>RI
+{#RI#}¦ ({#Ya#}) {#RIY#} r. 1st cl. ({#nayati-te#})
+.²1 To conduct, to drive or guide, to cause progressive conveyance.
+.²2 To obtain, to get. The root is inflected as the deponent verb, implying.
+.²1 {%Instruction,%} as {#nayate SAstre#} he instructs in the {%Śāstra;%}
+.²2 {%Worshipping,%} {#vizRuMnayate#} he worships VIṢṆU; also
+<div n="p">with prepositions in the sense of; 
+.²1 {%Paying,%} {#Bftyamupanayate#} he pays the hire; 
+.²2 {%Paying as a debt,%} {#fRamvinayate#} he discharges the debt; 
+.²3 {%Casting or lifting up,%} {#daRqamunnayate#} he lifts up the stick; 
+.²4 {%Giving,%} {#dravyambinayate#} he gives the things; and 
+.²5 {%Brahmanical Investiture,%} {#puttramupanayate#} he invests his son with the thread: it is also deponent, governing an incorporeal object existing in the agent, as {#kroDamvinayate#} he suppresses wrath; if the object is not in the agent the verb is active, as {#guroHkroDamvinayati#} he appeases his teacher's anger; as also if the object is corporal, as {#gaRqaM vinayati#} he turns away the cheek. The root occurs with many prefixes, and in a great variety of meanings; 
+<div n="p">1 With {#anu#}, 
+^a To ask, to entreat. 
+^b To make like or resembling. 
+^c To favour. 
+<div n="p">2 With {#apa#}, 
+^a To take away, to remove. 
+^b To attract. 
+<div n="p">3 With {#aBi#}, 
+.²3 To indicate by signs. 
+^b To be kind or civil to. 
+<div n="p">4 With {#AN#}, To bring. 
+<div n="p">5 With {#ut#}, To raise up. 
+<div n="p">6 With {#upa#}, To approach, to go near to, (see also above.) 
+<div n="p">7 With {#dur#}, To act or behave wickedly. 
+<div n="p">8 With {#nir#}, 
+^a To get or obtain. 
+^b To ascertain, to determine. 
+<div n="p">9 With {#pari#}, 
+^a To marry. 
+^b To take cognizance of. 
+<div n="p">10 With {#pra#}, 
+^a To punish. 
+^b To love. 
+<div n="p">11 With {#vi#}, 
+^a To take away, to make remote or distant. 
+^b To be humble or modest. 
+<div n="p">12 With {#vi#} and {#apa#}, To remove, to dispel, to disperse. 
+<div n="p">13 With {#vi#} and {#nir#}, To decide by law. 
+<div n="p">14 With {#sam#}, 
+^a To collect. 
+^b To discharge. 
+<div n="p">15 With {#sam#} and {#anu#}, To intreat. 
+<div n="p">16 With {#sama#} and {#AN#}, To assemble, to collect, &c. 
+<LEND>
+; ===============================================
+;
+; Case 051
+; OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD
+<L>16838<pc>361<k1>Ru<k2>Ru
+{#Ru#}¦ r. 3rd cl. ({#nOti praROti#}) To praise. With {#AN#} prefixed
+({#Anute#}) To utter a cry of regret. r. 6th cl. ({#navati#}) To praise.
+
+<LEND>
+; NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW
+<L>16838<pc>361<k1>Ru<k2>Ru
+{#Ru#}¦ r. 3rd cl. ({#nOti praROti#}) To praise.
+<div n="p">With {#AN#} prefixed ({#Anute#}) To utter a cry of regret. r. 6th cl. ({#navati#}) To praise. 
+<LEND>
+; ===============================================
+;
+; Case 052
+; OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD
+<L>16839<pc>361<k1>Ruda<k2>Ruda
+{#Ruda#}¦ r. 6th cl. ({#O#}) {#ORuda#} ({#nudati nudate#})
+.²1 To cast, to command, to direct, to throw or send; the act of ordering being
+considered analogous to that of throwing.
+.²2 To go or proceed. With {#apa,#} To remove. With {#nir,#}
+.²1 To throw out.
+.²2 To confess, to acknowledge. With {#vi,#} To be happy. With {#saM#} in the
+causal To drive, (as horses.)
+
+<LEND>
+; NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW
+<L>16839<pc>361<k1>Ruda<k2>Ruda
+{#Ruda#}¦ r. 6th cl. ({#O#}) {#ORuda#} ({#nudati nudate#})
+.²1 To cast, to command, to direct, to throw or send; the act of ordering being
+considered analogous to that of throwing.
+.²2 To go or proceed.
+<div n="p">With {#apa#}, To remove.
+<div n="p">With {#nir#}, 
+.²1 To throw out. 
+.²2 To confess, to acknowledge.
+<div n="p">With {#vi#}, To be happy.
+<div n="p">With {#saM#} in the causal To drive, (as horses.) 
+<LEND>
+; ===============================================
+;
+; Case 053
+; OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD
+<L>16845<pc>362<k1>taka<k2>taka
+{#taka#}¦ r. 1st cl. ({#takati#})
+.²1 To laugh at or deride.
+.²2 To bear. With {#vi#} and {#ati#} prefixed, and implying reciprocity
+({#zyatitakate#}) To retort a laugh. ({#i#}) {#taki#} r. 1st cl. ({#taNkati#})
+To live in distress, to be in poverty or pain. ({#taMkate#}) To go, to move.
+
+<LEND>
+; NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW
+<L>16845<pc>362<k1>taka<k2>taka
+{#taka#}¦ r. 1st cl. ({#takati#})
+.²1 To laugh at or deride.
+.²2 To bear.
+<div n="p">With {#vi#} and {#ati#} prefixed, and implying reciprocity ({#zyatitakate#}) To retort a laugh. ({#i#}) {#taki#} r. 1st cl. ({#taNkati#}) To live in distress, to be in poverty or pain. ({#taMkate#}) To go, to move. 
+<LEND>
+; ===============================================
+;
+; Case 054
+; OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD
+<L>17020<pc>365<k1>tapa<k2>tapa
+{#tapa#}¦ ({#O#}) {#tapO#} r. 1st cl. ({#tapati-te#}) r. 4th cl.
+({#tapyati-te#}) and r. 10th cl. 
+[Page366]
+ ({#tApayati-te#})
+.²1 To heat or be hot, to burn; (hence figuratively,) to suffer mental or bodily
+pain.
+.²2 To have pre-eminent or superhuman power: the deponent form only is used when
+the root with the prefix {#ut#} or {#vi#} occurs intransitively, or governs as
+its object part of the body of the agent, as {#pARiM vitapate#} warms the hand,
+({#uttapate vitapate#}) shines, burns, &c. The root takes the passive form also,
+when implying religious meditation, as {#tapyate tapastApasaH#} the devotee
+revolves religious thoughts. With {#anu#} prefixed, ({#anutapate#}) To repent,
+to regret. With {#pari#} or {#sam#} ({#paritapati santapati,#})
+.²1 To bear or inflict pain, anguish, heat, distress, &c.
+.²2 To be sorrowful, to repent.
+
+<LEND>
+; NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW
+<L>17020<pc>365<k1>tapa<k2>tapa
+{#tapa#}¦ ({#O#}) {#tapO#} r. 1st cl. ({#tapati-te#}) r. 4th cl.
+({#tapyati-te#}) and r. 10th cl. 
+[Page366]
+ ({#tApayati-te#})
+.²1 To heat or be hot, to burn; (hence figuratively,) to suffer mental or bodily
+pain.
+.²2 To have pre-eminent or superhuman power: the deponent form only is used when
+the root with the prefix {#ut#} or {#vi#} occurs intransitively, or governs as
+its object part of the body of the agent, as {#pARiM vitapate#} warms the hand,
+({#uttapate vitapate#}) shines, burns, &c. The root takes the passive form also,
+when implying religious meditation, as {#tapyate tapastApasaH#} the devotee
+revolves religious thoughts.
+<div n="p">With {#anu#} prefixed, ({#anutapate#}) To repent, to regret.
+<div n="p">With {#pari#} or {#sam#} ({#paritapati santapati#},) 
+.²1 To bear or inflict pain, anguish, heat, distress, &c. 
+.²2 To be sorrowful, to repent. 
+<LEND>
+; ===============================================
+;
+; Case 055
+; OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD
+<L>17852<pc>384<k1>tF<k2>tF
+{#tF#}¦ r. 1st cl. ({#tarati#})
+.²1 To pass over or across.
+.²2 To pass or float over, to navigate.
+.²3 To float or swim.
+.²4 To overcome, to surpass. With {#ava#} prefixed, To descend, as from heaven.
+With {#AN,#} To cross by a boat, &c. With {#ut,#} ^a To pass over or above; ^b
+To answer.
+^c To land, to arrive at the opposite shore. With {#dur,#} To cross with
+difficulty. With {#nir,#} To cross safely, to obtain salvation. With {#pra,#} To
+excel or surpass. With {#vi,#} ^a To pass from; ^b To relinquish, to give, to
+give away, to give alms. With {#sam,#} To swim over.
+
+<LEND>
+; NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW
+<L>17852<pc>384<k1>tF<k2>tF
+{#tF#}¦ r. 1st cl. ({#tarati#})
+.²1 To pass over or across.
+.²2 To pass or float over, to navigate.
+.²3 To float or swim.
+.²4 To overcome, to surpass.
+<div n="p">With {#ava#} prefixed, To descend, as from heaven.
+<div n="p">With {#AN#}, To cross by a boat, &c.
+<div n="p">With {#ut#}, 
+^a To pass over or above; 
+^b To answer. 
+^c To land, to arrive at the opposite shore.
+<div n="p">With {#dur#}, To cross with difficulty.
+<div n="p">With {#nir#}, To cross safely, to obtain salvation.
+<div n="p">With {#pra#}, To excel or surpass.
+<div n="p">With {#vi#}, 
+^a To pass from; 
+^b To relinquish, to give, to give away, to give alms.
+<div n="p">With {#sam#}, To swim over. 
+<LEND>
+; ===============================================
+;
+; Case 056
+; OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD
+<L>18296<pc>394<k1>tviza<k2>tviza
+{#tviza#}¦ r. 1st cl. ({#O#}) {#Otviza#} ({#tvezati#}) To shine. With {#ava#}
+prefixed,
+.²1 To give.
+.²2 To dwell.
+
+<LEND>
+; NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW
+<L>18296<pc>394<k1>tviza<k2>tviza
+{#tviza#}¦ r. 1st cl. ({#O#}) {#Otviza#} ({#tvezati#}) To shine.
+<div n="p">With {#ava#} prefixed, 
+.²1 To give. 
+.²2 To dwell. 
+<LEND>
+; ===============================================
+;
+; Case 057
+; OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD
+<L>18669<pc>402<k1>daSa<k2>daSa
+{#daSa#}¦ ({#i#}) {#daSi#} r. 1st and 10th cls. ({#daSati daMSayati#})
+.²1 To bite or sting.
+.²2 To arm, to put on armour.
+.²3 To see. r. 10th cl. ({#daMSayate#}) To shine. With {#upa,#} to be in
+trouble, to be reduced in circumstances, With {#sam,#} to pinch, to nip, to
+bite.
+
+<LEND>
+; NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW
+<L>18669<pc>402<k1>daSa<k2>daSa
+{#daSa#}¦ ({#i#}) {#daSi#} r. 1st and 10th cls. ({#daSati daMSayati#})
+.²1 To bite or sting.
+.²2 To arm, to put on armour.
+.²3 To see. r. 10th cl. ({#daMSayate#}) To shine.
+<div n="p">With {#upa#}, to be in trouble, to be reduced in circumstances,
+<div n="p">With {#sam#}, to pinch, to nip, to bite. 
+<LEND>
+; ===============================================
+;
+; Case 058
+; OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD
+<L>18752<pc>404<k1>dA<k2>dA
+{#dA#}¦ ({#Ra#}) {#dARa#} r. 1st cl. ({#yacCati,#} or with {#sam#} prefixed
+{#saMyacCate;#}) also ({#qu Y#}) {#qudAY#} r. 3rd cl. ({#dadAti#}) To give,
+to present. With {#AN#} prefixed ({#Adatte#}), To take, to accept or receive.
+With {#pra,#} To give, to give to. With {#vi#} and {#AN,#} To open. With
+{#sama#} and {#AN,#} To select. ({#pa#}) {#dAp#} r. 2nd cl. ({#dAti#}) To cut.
+
+<LEND>
+; NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW
+<L>18752<pc>404<k1>dA<k2>dA
+{#dA#}¦ ({#Ra#}) {#dARa#} r. 1st cl. ({#yacCati,#} or
+<div n="p">with {#sam#} prefixed {#saMyacCate;#}) also ({#qu Y#}) {#qudAY#} r. 3rd cl. ({#dadAti#}) To give, to present.
+<div n="p">With {#AN#} prefixed ({#Adatte#}), To take, to accept or receive.
+<div n="p">With {#pra#}, To give, to give to.
+<div n="p">With {#vi#} and {#AN#}, To open.
+<div n="p">With {#sama#} and {#AN#}, To select. ({#pa#}) {#dAp#} r. 2nd cl. ({#dAti#}) To cut. 
+<LEND>
+; ===============================================
+;
+; Case 059
+; OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD
+<L>19039<pc>410<k1>diSa<k2>diSa
+{#diSa#}¦ ({#O#}) {#diSO#} r. 6th cl. ({#diSati-te#})
+.²1 To show, to exhibit, to explain or make intelligible.
+.²2 To order, to command, to direct or send.
+.²3 To say, to speak.
+.²4 To give. With {#apa#} prefixed, To change, to disguise. With {#AN,#}
+.²1 To order or command.
+.²2 To show.
+.²3 To summons. With {#ud,#}
+.²1 To proclaim, to make known or public.
+.²2 To show. With {#upa,#} To point out (literally or metaphorically), to show,
+to advise. With {#nir,#}
+.²1 To speak aloud.
+.²2 To specify, to show. With {#pra,#} To appoint, to order. With {#prati#} and
+{#sam,#} To command, to return, to send back. With {#vi#} and {#apa,#} To plead
+in excuse, to state as a plea or pretext. With {#vi#} and {#nir,#} To declare.
+With {#sam,#}
+.²1 To exhibit, to show, &c.
+.²2 To communicate as news or information. With {#sam#} and {#AN,#} To approve,
+to permit. With {#sama#} and {#upa,#} To point out at a distance, as with the
+finger.
+
+<LEND>
+; NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW
+<L>19039<pc>410<k1>diSa<k2>diSa
+{#diSa#}¦ ({#O#}) {#diSO#} r. 6th cl. ({#diSati-te#})
+.²1 To show, to exhibit, to explain or make intelligible.
+.²2 To order, to command, to direct or send.
+.²3 To say, to speak.
+.²4 To give.
+<div n="p">With {#apa#} prefixed, To change, to disguise.
+<div n="p">With {#AN#}, 
+.²1 To order or command. 
+.²2 To show. 
+.²3 To summons.
+<div n="p">With {#ud#}, 
+.²1 To proclaim, to make known or public. 
+.²2 To show.
+<div n="p">With {#upa#}, To point out (literally or metaphorically), to show, to advise.
+<div n="p">With {#nir#}, 
+.²1 To speak aloud. 
+.²2 To specify, to show.
+<div n="p">With {#pra#}, To appoint, to order.
+<div n="p">With {#prati#} and {#sam#}, To command, to return, to send back.
+<div n="p">With {#vi#} and {#apa#}, To plead in excuse, to state as a plea or pretext.
+<div n="p">With {#vi#} and {#nir#}, To declare.
+<div n="p">With {#sam#}, 
+.²1 To exhibit, to show, &c. 
+.²2 To communicate as news or information.
+<div n="p">With {#sam#} and {#AN#}, To approve, to permit.
+<div n="p">With {#sama#} and {#upa#}, To point out at a distance, as with the finger. 
+<LEND>
+; ===============================================
+;
+; Case 060
+; OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD
+<L>19385<pc>417<k1>duza<k2>duza
+{#duza#}¦ ({#ira, jO#}) {#iraduzO#} r. 4th cl. ({#duzyati#})
+.²1 To do or act wrong or improperly.
+.²2 To be impure. With {#pra#} and {#AN#} prefixed, To become manifest or
+apparent.
+
+<LEND>
+; NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW
+<L>19385<pc>417<k1>duza<k2>duza
+{#duza#}¦ ({#ira, jO#}) {#iraduzO#} r. 4th cl. ({#duzyati#})
+.²1 To do or act wrong or improperly.
+.²2 To be impure.
+<div n="p">With {#pra#} and {#AN#} prefixed, To become manifest or apparent. 
+<LEND>
+; ===============================================
+;
+; Case 061
+; OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD
+<L>19544<pc>421<k1>dfSa<k2>dfSa
+{#dfSa#}¦ ({#O Ira#}) {#OdfSira#} r. 1st cl. ({#paSyati#}) To see. With
+{#ut#} prefixed,
+.²1 To see, to observe.
+.²2 To anticipate, to foresee.
+.²3 To doubt, to think doubtingly.
+
+<LEND>
+; NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW
+<L>19544<pc>421<k1>dfSa<k2>dfSa
+{#dfSa#}¦ ({#O Ira#}) {#OdfSira#} r. 1st cl. ({#paSyati#}) To see.
+<div n="p">With {#ut#} prefixed, 
+.²1 To see, to observe. 
+.²2 To anticipate, to foresee. 
+.²3 To doubt, to think doubtingly. 
+<LEND>
+; ===============================================
+;
+; Case 062
+; OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD
+<L>19989<pc>430<k1>dru<k2>dru
+{#dru#}¦ r. 1st cl. ({#drabati#})
+.²1 To go, to move, to run.
+.²2 To drop.
+.²3 To distil or ooze. r. 5th cl. ({#drunute drunoti#}) To hurt, to injure, to
+wound or kill. With {#anu#} prefixed, To pursue, to follow. With {#aBi,#} To
+swim, to float, to descend. With {#AN,#} To flee. With {#upa,#} To oppress, to
+destroy. With {#pra,#} To fly, to retreat, to run away. With {#vi,#}
+.²1 To smite, to kill.
+.²2 To flee, to run away. With {#sam#} and {#AN,#} To run together. With {#sam#}
+and {#upa,#} To flee.
+.²2 To meet.
+
+<LEND>
+; NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW
+<L>19989<pc>430<k1>dru<k2>dru
+{#dru#}¦ r. 1st cl. ({#drabati#})
+.²1 To go, to move, to run.
+.²2 To drop.
+.²3 To distil or ooze. r. 5th cl. ({#drunute drunoti#}) To hurt, to injure, to
+wound or kill.
+<div n="p">With {#anu#} prefixed, To pursue, to follow.
+<div n="p">With {#aBi#}, To swim, to float, to descend.
+<div n="p">With {#AN#}, To flee.
+<div n="p">With {#upa#}, To oppress, to destroy.
+<div n="p">With {#pra#}, To fly, to retreat, to run away.
+<div n="p">With {#vi#}, 
+.²1 To smite, to kill. 
+.²2 To flee, to run away.
+<div n="p">With {#sam#} and {#AN#}, To run together.
+<div n="p">With {#sam#} and {#upa#}, To flee. 
+.²2 To meet. 
+<LEND>
+; ===============================================
+;
+; Case 063
+; OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD
+<L>20521<pc>441<k1>DA<k2>DA
+{#DA#}¦ ({#qu, Ya,#}) {#quDAY#} r. 3rd cl. ({#daDAti Datte#})
+.²1 To hold or support.
+.²2 To nurture, to maintain.
+.²3 To give.
+.²4 To have, to possess. With {#anu#} and {#mam#} prefixed, To search after.
+With {#api,#} To cover. With {#aBi,#}
+.²1 To speak, to speak to or address.
+.²2 To promulgate.
+.²3 To show. With {#aBi#} and {#sama,#} To overcome. With {#ava,#}
+.²1 To be careful.
+.²2 To attend to. With {#AN,#} To take, to receive. With {#upa#} and {#AN,#} To
+support. With {#upa,#}
+.²1 To uphold.
+.²2 To do, to perform. With {#ni,#}
+.²1 To take up or hold up.
+.²2 To place in or upon.
+.²3 To be born or produced.
+.²4 To hold. With {#pari,#} To assume, to put on, as clothes, &c. With {#pra#}
+and {#ni,#}
+.²1 To hold or support.
+.²2 To elevate or exalt, to dignify.
+.²3 To admit. With {#pra#}.
+.²1 To be chief or first.
+.²2 To send. With {#prati#} and {#vi,#} To do, to perform. With {#vi,#}
+.²1 To do, to execute, to act.
+.²3 To act conformably to religious ordinances, to execute the precepts of the
+{%Vedas.%}
+.²3 To choose, to select.
+.²4 To provide.
+.²5 To order or direct.
+.²6 To promise.
+.²7 To give. With {#vi#} and {#ava,#} To hide, to veil, to conceal. With
+{#sama,#}
+.²1 To place, to place firmly, to fix.
+.²2 To unite, to combine, to hold together.
+.²3 To shoot at a mark. With {#sama#} and {#pra,#} To doubt, to discuss; (also
+with {#prati#} and {#sam.#}) With {#sama#} and {#AN,#} To instruct, to teach.
+With {#sama#} and {#ni,#} To place or have near at hand. In the causal with
+{#upa,#} To understand.
+
+<LEND>
+; NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW
+<L>20521<pc>441<k1>DA<k2>DA
+{#DA#}¦ ({#qu, Ya,#}) {#quDAY#} r. 3rd cl. ({#daDAti Datte#})
+.²1 To hold or support.
+.²2 To nurture, to maintain.
+.²3 To give.
+.²4 To have, to possess.
+<div n="p">With {#anu#} and {#mam#} prefixed, To search after.
+<div n="p">With {#api#}, To cover.
+<div n="p">With {#aBi#}, 
+.²1 To speak, to speak to or address. 
+.²2 To promulgate. 
+.²3 To show.
+<div n="p">With {#aBi#} and {#sama#}, To overcome.
+<div n="p">With {#ava#}, 
+.²1 To be careful. 
+.²2 To attend to.
+<div n="p">With {#AN#}, To take, to receive.
+<div n="p">With {#upa#} and {#AN#}, To support.
+<div n="p">With {#upa#}, 
+.²1 To uphold. 
+.²2 To do, to perform.
+<div n="p">With {#ni#}, 
+.²1 To take up or hold up. 
+.²2 To place in or upon. 
+.²3 To be born or produced. 
+.²4 To hold.
+<div n="p">With {#pari#}, To assume, to put on, as clothes, &c.
+<div n="p">With {#pra#} and {#ni#}, 
+.²1 To hold or support. 
+.²2 To elevate or exalt, to dignify. 
+.²3 To admit.
+<div n="p">With {#pra#}. 
+.²1 To be chief or first. 
+.²2 To send.
+<div n="p">With {#prati#} and {#vi#}, To do, to perform.
+<div n="p">With {#vi#}, 
+.²1 To do, to execute, to act. 
+.²3 To act conformably to religious ordinances, to execute the precepts of the {%Vedas.%} 
+.²3 To choose, to select. 
+.²4 To provide. 
+.²5 To order or direct. 
+.²6 To promise. 
+.²7 To give.
+<div n="p">With {#vi#} and {#ava#}, To hide, to veil, to conceal.
+<div n="p">With {#sama#}, 
+.²1 To place, to place firmly, to fix. 
+.²2 To unite, to combine, to hold together. 
+.²3 To shoot at a mark.
+<div n="p">With {#sama#} and {#pra#}, To doubt, to discuss; (also
+<div n="p">with {#prati#} and {#sam.#})
+<div n="p">With {#sama#} and {#AN#}, To instruct, to teach.
+<div n="p">With {#sama#} and {#ni#}, To place or have near at hand. In the causal
+<div n="p">with {#upa#}, To understand. 
+<LEND>
+; ===============================================
+;
+; Case 064
+; OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD
+<L>20617<pc>444<k1>DAva<k2>DAva
+{#DAva#}¦ ({#u#}) {#DAvu#} r. 1st cl. ({#DAvati-te#})
+.²1 To go or move.
+.²2 To run.
+.²3 To cleanse.
+.²4 To be clean or pure. With {#anu,#}
+.²1 To know.
+.²2 To run after. With {#aBi#} prefixed, To approach, to come before. With
+{#AN,#} To alight. With {#pari,#} To run fast. With {#vi,#} To shed or sprinkle.
+With {#sam#} and {#ugra,#} To run to meet.
+
+<LEND>
+; NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW
+<L>20617<pc>444<k1>DAva<k2>DAva
+{#DAva#}¦ ({#u#}) {#DAvu#} r. 1st cl. ({#DAvati-te#})
+.²1 To go or move.
+.²2 To run.
+.²3 To cleanse.
+.²4 To be clean or pure.
+<div n="p">With {#anu#}, 
+.²1 To know. 
+.²2 To run after.
+<div n="p">With {#aBi#} prefixed, To approach, to come before.
+<div n="p">With {#AN#}, To alight.
+<div n="p">With {#pari#}, To run fast.
+<div n="p">With {#vi#}, To shed or sprinkle.
+<div n="p">With {#sam#} and {#ugra#}, To run to meet. 
+<LEND>
+; ===============================================
+;
+; Case 065
+; OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD
+<L>20641<pc>444<k1>DI<k2>DI
+{#DI#}¦ ({#o Na#}) {#o DIN#} r. 4th cl. ({#DIyate#})
+.²1 To contain, to hold.
+.²2 To slight, to disregard or despise.
+.²3 To accomplish. With {#antar,#} To disappear, to become invisible.
+
+<LEND>
+; NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW
+<L>20641<pc>444<k1>DI<k2>DI
+{#DI#}¦ ({#o Na#}) {#o DIN#} r. 4th cl. ({#DIyate#})
+.²1 To contain, to hold.
+.²2 To slight, to disregard or despise.
+.²3 To accomplish.
+<div n="p">With {#antar#}, To disappear, to become invisible. 
+<LEND>
+; ===============================================
+;
+; Case 066
+; OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD
+<L>20688<pc>445<k1>DU<k2>DU
+{#DU#}¦ ({#Ya#}) {#DUY#} r. 5th cl. ({#DUnoti DUnute#}) r. 6th cl.
+({#DUvati#}) r. 9th cl. ({#DunAti DunIte#}) r. 1st and 10th cls.
+({#Davati-te DAvayati-te#} or {#DUnayati#}) To shake or agitate, to make
+tremble. With {#ava#} prefixed,
+.²1 To abandon, to quit.
+.²2 To perceive. With {#nir,#}
+.²1 To destroy.
+.²2 To go or move. With {#vi,#} To make tremble or agitate.
+
+<LEND>
+; NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW
+<L>20688<pc>445<k1>DU<k2>DU
+{#DU#}¦ ({#Ya#}) {#DUY#} r. 5th cl. ({#DUnoti DUnute#}) r. 6th cl.
+({#DUvati#}) r. 9th cl. ({#DunAti DunIte#}) r. 1st and 10th cls.
+({#Davati-te DAvayati-te#} or {#DUnayati#}) To shake or agitate, to make
+tremble.
+<div n="p">With {#ava#} prefixed, 
+.²1 To abandon, to quit. 
+.²2 To perceive.
+<div n="p">With {#nir#}, 
+.²1 To destroy. 
+.²2 To go or move.
+<div n="p">With {#vi#}, To make tremble or agitate. 
+<LEND>
+; ===============================================
+;
+; Case 067
+; OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD
+<L>20761<pc>447<k1>Df<k2>Df
+{#Df#}¦ ({#Na#}) {#DfN#} r. 1st cl. ({#Darate#}) To fall. r. 6th cl.
+({#Driyate#})
+.²1 To continue, to remain.
+.²2 To have or hold. ({#Ya#}) {#DfY#} r. 1st cl. ({#Darati-te#}) To have or
+hold, to keep, to maintain. r. 1st cl. ({#Darati#}) To sprinkle. r. 10th cl.
+({#DArayati#}) To hold. With {#apa#} or {#nir#} prefixed, To verify, to make
+sure or certain.
+
+<LEND>
+; NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW
+<L>20761<pc>447<k1>Df<k2>Df
+{#Df#}¦ ({#Na#}) {#DfN#} r. 1st cl. ({#Darate#}) To fall. r. 6th cl.
+({#Driyate#})
+.²1 To continue, to remain.
+.²2 To have or hold. ({#Ya#}) {#DfY#} r. 1st cl. ({#Darati-te#}) To have or
+hold, to keep, to maintain. r. 1st cl. ({#Darati#}) To sprinkle. r. 10th cl.
+({#DArayati#}) To hold.
+<div n="p">With {#apa#} or {#nir#} prefixed, To verify, to make sure or certain. 
+<LEND>
+; ===============================================
+;
+; Case 068
+; OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD
+<L>21009<pc>452<k1>nada<k2>nada
+{#nada#}¦ r. 1st and 10th cls. ({#nadati nAdayati#})
+.²1 To speak or emit sound.
+.²2 To shine: see {#Kada.#} With {#vi#} and {#anu,#} To fill with noise or
+sound; ({#du i,#}) {#dunadi#} r. 1st cl. ({#nandati#})
+.²1 To thrive, to be prosperous.
+.²2 (Usually with {#AN#} prefixed,) To be happy, to be pleased or delighted.
+With {#aBi#} prefixed,
+.²1 To wish for.
+.²2 To acknowledge or confess. With {#prati,#} To be thankful.
+
+<LEND>
+; NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW
+<L>21009<pc>452<k1>nada<k2>nada
+{#nada#}¦ r. 1st and 10th cls. ({#nadati nAdayati#})
+.²1 To speak or emit sound.
+.²2 To shine: see {#Kada.#}
+<div n="p">With {#vi#} and {#anu#}, To fill with noise or sound; ({#du i#},) {#dunadi#} r. 1st cl. ({#nandati#}) 
+.²1 To thrive, to be prosperous. 
+.²2 (Usually
+<div n="p">with {#AN#} prefixed,) To be happy, to be pleased or delighted.
+<div n="p">With {#aBi#} prefixed, 
+.²1 To wish for. 
+.²2 To acknowledge or confess.
+<div n="p">With {#prati#}, To be thankful. 
+<LEND>
+; ===============================================
+;
+; Case 069
+; OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD
+<L>22921<pc>495<k1>pawa<k2>pawa
+{#pawa#}¦ r. 1st cl. ({#pawati#}) To go, to move. r. 10th cl. ({#pawayati#})
+.²1 To string.
+.²2 To surround or encompass.
+.²3 To share, to portion, to distribute. ({#pAwayati#})
+.²1 To speak.
+.²2 To shine. With {#ut#} prefixed, To pluck up, to eradicate, to destroy
+utterly. With {#vi,#} To fly, to run away.
+
+<LEND>
+; NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW
+<L>22921<pc>495<k1>pawa<k2>pawa
+{#pawa#}¦ r. 1st cl. ({#pawati#}) To go, to move. r. 10th cl. ({#pawayati#})
+.²1 To string.
+.²2 To surround or encompass.
+.²3 To share, to portion, to distribute. ({#pAwayati#})
+.²1 To speak.
+.²2 To shine.
+<div n="p">With {#ut#} prefixed, To pluck up, to eradicate, to destroy utterly.
+<div n="p">With {#vi#}, To fly, to run away. 
+<LEND>
+; ===============================================
+;
+; Case 070
+; OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD
+<L>23013<pc>497<k1>pata<k2>pata
+{#pata#}¦ ({#x#}) {#patx#} r. 1st cl. ({#patati#}) r. 10th cl. ({#patayati#}
+or {#pAtayati#})
+.²1 To go, to move, but especially downwards; as, to fall, to descend, to
+alight.
+.²2 To possess supreme or superhuman power. r. 4th cl. ({#patyate#}) To be rich
+or powerful. With {#ati#} prefixed, To excel or surpass. With {#aBi#} or
+{#ava,#} To descend. With {#AN,#} To arrive, to come. With {#ut,#} To ascend.
+With {#ni,#} To gain or get.
+.²2 To happen. With {#nir,#} To abscond. With {#pari,#}
+.²1 To go fast.
+.²3 To be valuable. With {#pra#} and {#ni,#} To fall prostrate, to salute, to
+worship. With {#vi#} and {#nir,#} To turn, to turn back. With {#sam,#}
+.²1 To go with.
+.²2 To gain. With {#sam#} and {#AN,#} To purify or cleanse. With {#sam#} and
+{#ut,#} To fly. With {#sam#} and {#ni,#} To go forth or out.
+
+<LEND>
+; NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW
+<L>23013<pc>497<k1>pata<k2>pata
+{#pata#}¦ ({#x#}) {#patx#} r. 1st cl. ({#patati#}) r. 10th cl. ({#patayati#}
+or {#pAtayati#})
+.²1 To go, to move, but especially downwards; as, to fall, to descend, to
+alight.
+.²2 To possess supreme or superhuman power. r. 4th cl. ({#patyate#}) To be rich
+or powerful.
+<div n="p">With {#ati#} prefixed, To excel or surpass.
+<div n="p">With {#aBi#} or {#ava#}, To descend.
+<div n="p">With {#AN#}, To arrive, to come.
+<div n="p">With {#ut#}, To ascend.
+<div n="p">With {#ni#}, To gain or get. 
+.²2 To happen.
+<div n="p">With {#nir#}, To abscond.
+<div n="p">With {#pari#}, 
+.²1 To go fast. 
+.²3 To be valuable.
+<div n="p">With {#pra#} and {#ni#}, To fall prostrate, to salute, to worship.
+<div n="p">With {#vi#} and {#nir#}, To turn, to turn back.
+<div n="p">With {#sam#}, 
+.²1 To go with. 
+.²2 To gain.
+<div n="p">With {#sam#} and {#AN#}, To purify or cleanse.
+<div n="p">With {#sam#} and {#ut#}, To fly.
+<div n="p">With {#sam#} and {#ni#}, To go forth or out. 
+<LEND>
+; ===============================================
+;
+; Case 071
+; OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD
+<L>23124<pc>499<k1>pada<k2>pada
+{#pada#}¦ r. 4th cl. ({#O#}) {#padO#} ({#padvyate#}) r. 10th cl.
+({#padayate#}) To go, to move. ({#e#}) {#pade#} r. 1st cl. ({#padati#}) To stand
+fast. With {#aBi#} prefixed,
+.²1 To know, to understand.
+.²2 To see, to look. With {#anu,#} To follow. With {#AN,#}
+.²1 To happen, to befall.
+.²2 To gain.
+.²3 To suffer misfortune.
+.²4 To multiply.
+.²5 To produce.
+.²6 To come. With {#ut,#} To be born or produced. With {#upa,#}
+.²1 To gain.
+.²2 To be born.
+.²3 To be near or connected with. With {#upa#} and {#sam,#} To offer oblations.
+With {#pra,#}
+.²1 To gain, to acquire.
+.²2 To commence. With {#pra#} and {#vi,#} To establish, to enact. With
+{#prati,#}
+.²1 To gain.
+.²2 To assent, to agree or promise.
+.²3 To restore. With {#vi,#} To suffer misfortune or pain. With {#vi#} and
+{#AN,#} To injure or kill. With {#vi#} and {#ut,#} To discriminate, to analyze.
+With {#sam,#}
+.²1 To thrive, to grow or increase.
+.²2 To do, to execute, to perform.
+.²3 To select. With {#sam#} and {#AN,#}
+.²1 To arrive.
+.²2 To finish.
+
+<LEND>
+; NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW
+<L>23124<pc>499<k1>pada<k2>pada
+{#pada#}¦ r. 4th cl. ({#O#}) {#padO#} ({#padvyate#}) r. 10th cl.
+({#padayate#}) To go, to move. ({#e#}) {#pade#} r. 1st cl. ({#padati#}) To stand
+fast.
+<div n="p">With {#aBi#} prefixed, 
+.²1 To know, to understand. 
+.²2 To see, to look.
+<div n="p">With {#anu#}, To follow.
+<div n="p">With {#AN#}, 
+.²1 To happen, to befall. 
+.²2 To gain. 
+.²3 To suffer misfortune. 
+.²4 To multiply. 
+.²5 To produce. 
+.²6 To come.
+<div n="p">With {#ut#}, To be born or produced.
+<div n="p">With {#upa#}, 
+.²1 To gain. 
+.²2 To be born. 
+.²3 To be near or connected with.
+<div n="p">With {#upa#} and {#sam#}, To offer oblations.
+<div n="p">With {#pra#}, 
+.²1 To gain, to acquire. 
+.²2 To commence.
+<div n="p">With {#pra#} and {#vi#}, To establish, to enact.
+<div n="p">With {#prati#}, 
+.²1 To gain. 
+.²2 To assent, to agree or promise. 
+.²3 To restore.
+<div n="p">With {#vi#}, To suffer misfortune or pain.
+<div n="p">With {#vi#} and {#AN#}, To injure or kill.
+<div n="p">With {#vi#} and {#ut#}, To discriminate, to analyze.
+<div n="p">With {#sam#}, 
+.²1 To thrive, to grow or increase. 
+.²2 To do, to execute, to perform. 
+.²3 To select.
+<div n="p">With {#sam#} and {#AN#}, 
+.²1 To arrive. 
+.²2 To finish. 
+<LEND>
+; ===============================================
+;
+; Case 072
+; OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD
+<L>25199<pc>545<k1>puza<k2>puza
+{#puza#}¦ r. 1st cl. ({#pozati#}) 4th cl. ({#puzyati#}) and 9th cl.
+({#puzRAti#}) To cherish or nurture, to rear, to bring up. ({#ira#}) {#puzira#}
+r. 4th cl. ({#puzyati#}) To share or divide. r. 10th. cl. ({#pozayati#}) To put
+on, to wear. With {#pari#} or {#sam,#} to cherish much, or bring up with care.
+
+<LEND>
+; NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW
+<L>25199<pc>545<k1>puza<k2>puza
+{#puza#}¦ r. 1st cl. ({#pozati#}) 4th cl. ({#puzyati#}) and 9th cl.
+({#puzRAti#}) To cherish or nurture, to rear, to bring up. ({#ira#}) {#puzira#}
+r. 4th cl. ({#puzyati#}) To share or divide. r. 10th. cl. ({#pozayati#}) To put
+on, to wear.
+<div n="p">With {#pari#} or {#sam#}, to cherish much, or bring up with care. 
+<LEND>
+; ===============================================
+;
+; Case 073
+; OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD
+<L>25304<pc>547<k1>pUja<k2>pUja
+{#pUja#}¦ r. 10th cl. ({#pUjayani#}) To adore, to reverence, to worship. With
+{#sam,#} to pay respect to.
+
+<LEND>
+; NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW
+<L>25304<pc>547<k1>pUja<k2>pUja
+{#pUja#}¦ r. 10th cl. ({#pUjayani#}) To adore, to reverence, to worship.
+<div n="p">With {#sam#}, to pay respect to. 
+<LEND>
+; ===============================================
+;
+; Case 074
+; OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD
+<L>27366<pc>594<k1>plu<k2>plu(Na)pluN
+{#plu(Na)pluN#}¦ r. 1st cl. ({#plavate#})
+.²1 To go, to approach.
+.²2 To go by leaps, to jump, &c. With {#ut#} prefixed, To leap up. With {#vi,#}
+To plunge in, to be submerged or inundated.
+
+<LEND>
+; NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW
+<L>27366<pc>594<k1>plu<k2>plu(Na)pluN
+{#plu(Na)pluN#}¦ r. 1st cl. ({#plavate#})
+.²1 To go, to approach.
+.²2 To go by leaps, to jump, &c.
+<div n="p">With {#ut#} prefixed, To leap up.
+<div n="p">With {#vi#}, To plunge in, to be submerged or inundated. 
+<LEND>
+; ===============================================
+;
+; Case 075
+; OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD
+<L>27599<pc>598<k1>banDa<k2>banDa
+{#banDa#}¦ r. 9th cl. ({#baDnAti#}) r. 10th cl. ({#banDayati#}) To bind or
+tie; with {#AN#} prefixed, To loosen, to let loose. With {#anu,#}
+.²1 To follow.
+.²2 To be affixed or attached to. With {#ni,#} to disunite. With {#sama,#} to
+connect.
+
+<LEND>
+; NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW
+<L>27599<pc>598<k1>banDa<k2>banDa
+{#banDa#}¦ r. 9th cl. ({#baDnAti#}) r. 10th cl. ({#banDayati#}) To bind or
+tie;
+<div n="p">with {#AN#} prefixed, To loosen, to let loose.
+<div n="p">With {#anu#}, 
+.²1 To follow. 
+.²2 To be affixed or attached to.
+<div n="p">With {#ni#}, to disunite.
+<div n="p">With {#sama#}, to connect. 
+<LEND>
+; ===============================================
+;
+; Case 076
+; OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD
+<L>27932<pc>606<k1>buDa<k2>buDa(O)ObuDa
+{#buDa(O)ObuDa#}¦ r. 1st cl. ({#boDati#}) r. 4th cl. ({#buDyate-ti#})
+also ({#u, ira#}) {#ubuDir#} r. 1st cl. ({#boDati-te#}) To know, to
+understand. With {#prati,#} to look for, expect. With {#prati#} and {#vi,#} to
+wake.
+
+<LEND>
+; NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW
+<L>27932<pc>606<k1>buDa<k2>buDa(O)ObuDa
+{#buDa(O)ObuDa#}¦ r. 1st cl. ({#boDati#}) r. 4th cl. ({#buDyate-ti#})
+also ({#u, ira#}) {#ubuDir#} r. 1st cl. ({#boDati-te#}) To know, to
+understand.
+<div n="p">With {#prati#}, to look for, expect.
+<div n="p">With {#prati#} and {#vi#}, to wake. 
+<LEND>
+; ===============================================
+;
+; Case 077
+; OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD
+<L>28182<pc>611<k1>BaRa<k2>BaRa
+{#BaRa#}¦ r. 1st cl. ({#BaRati#}) To sound, to utter articulate sound, to
+speak or say. With {#prati,#} to reply.
+
+<LEND>
+; NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW
+<L>28182<pc>611<k1>BaRa<k2>BaRa
+{#BaRa#}¦ r. 1st cl. ({#BaRati#}) To sound, to utter articulate sound, to
+speak or say.
+<div n="p">With {#prati#}, to reply. 
+<LEND>
+; ===============================================
+;
+; Case 078
+; OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD
+<L>28378<pc>616<k1>BA<k2>BA
+{#BA#}¦ r. 2nd cl. ({#-BAti#})
+.²1 To shine, to be luminous, splendid or beautiful.
+.²2 To be pleased.
+.²3 To be angry.
+.²4 To blow.
+.²5 To be, to exist. With {#AN,#} to flash. With {#pra#} or {#vi,#} to shine
+brightly.
+
+<LEND>
+; NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW
+<L>28378<pc>616<k1>BA<k2>BA
+{#BA#}¦ r. 2nd cl. ({#-BAti#})
+.²1 To shine, to be luminous, splendid or beautiful.
+.²2 To be pleased.
+.²3 To be angry.
+.²4 To blow.
+.²5 To be, to exist.
+<div n="p">With {#AN#}, to flash.
+<div n="p">With {#pra#} or {#vi#}, to shine brightly. 
+<LEND>
+; ===============================================
+;
+; Case 079
+; OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD
+<L>28518<pc>619<k1>BAsa<k2>BAsa(f)BAsf
+{#BAsa(f)BAsf#}¦ r. 1st cl. ({#BAsate#}) To shine. With {#pra#} and {#ni#}
+prefixed, To appear to, to seem likely or probable to.
+
+<LEND>
+; NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW
+<L>28518<pc>619<k1>BAsa<k2>BAsa(f)BAsf
+{#BAsa(f)BAsf#}¦ r. 1st cl. ({#BAsate#}) To shine.
+<div n="p">With {#pra#} and {#ni#} prefixed, To appear to, to seem likely or probable to. 
+<LEND>
+; ===============================================
+;
+; Case 080
+; OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD
+<L>28669<pc>622<k1>BU<k2>BU
+{#BU#}¦ r. 1st cl. ({#Bavati#})
+.²1 To be, to become, to exist.
+.²2 To be born or produced. r. 10th cl. ({#BAvayati#})
+.²1 To mix.
+.²2 To think.
+.²3 To be clear or pure. r. 1st and 10th cls. ({#Bavati-ta BAvayati-te#}) To
+obtain. The first form of this root takes most of the prefixes, and then
+possesses a great variety of applications. With {#aDi,#} To rule or preside
+over. With {#anu,#}
+.²1 To feel, to apprehend or perceive.
+.²2 To do, to make.
+.²3 To enjoy.
+.²4 To investigate. With {#aBi,#}
+.²1 To overcome.
+.²2 To pain or afflict. With {#ut,#} To be born or produced. With {#parA,#} To
+be vanquished. With {#pra,#}
+.²1 To become manifest, to appear, to come into sight or existence.
+.²2 To be equal to in personal conflict, to be a match for.
+.²3 To rule, to be supreme, to preside over.
+.²4 To be beyond or over.
+.²5 To proceed. With {#prati,#} To be substituted for. With {#pari,#}
+.²1 To disrespect.
+.²2 To surround. With {#vi,#}
+.²1 To see.
+.²2 To uphold.
+.²3 To prove.
+.²4 To have majesty, or power. With {#vi#} and {#ati, vyatiBavate,#} To be
+mutually or reciprocally. With {#saM,#}
+.²1 To be possible.
+.²2 To exist, to be born or produced.
+.²3 To contain.
+.²4 To overcome.
+.²5 To be able or adequate.
+.²6 To associate, to collect, to mix or assemble.
+.²7 To nourish.
+
+<LEND>
+; NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW
+<L>28669<pc>622<k1>BU<k2>BU
+{#BU#}¦ r. 1st cl. ({#Bavati#})
+.²1 To be, to become, to exist.
+.²2 To be born or produced. r. 10th cl. ({#BAvayati#})
+.²1 To mix.
+.²2 To think.
+.²3 To be clear or pure. r. 1st and 10th cls. ({#Bavati-ta BAvayati-te#}) To
+obtain. The first form of this root takes most of the prefixes, and then
+possesses a great variety of applications.
+<div n="p">With {#aDi#}, To rule or preside over.
+<div n="p">With {#anu#}, 
+.²1 To feel, to apprehend or perceive. 
+.²2 To do, to make. 
+.²3 To enjoy. 
+.²4 To investigate.
+<div n="p">With {#aBi#}, 
+.²1 To overcome. 
+.²2 To pain or afflict.
+<div n="p">With {#ut#}, To be born or produced.
+<div n="p">With {#parA#}, To be vanquished.
+<div n="p">With {#pra#}, 
+.²1 To become manifest, to appear, to come into sight or existence. 
+.²2 To be equal to in personal conflict, to be a match for. 
+.²3 To rule, to be supreme, to preside over. 
+.²4 To be beyond or over. 
+.²5 To proceed.
+<div n="p">With {#prati#}, To be substituted for.
+<div n="p">With {#pari#}, 
+.²1 To disrespect. 
+.²2 To surround.
+<div n="p">With {#vi#}, 
+.²1 To see. 
+.²2 To uphold. 
+.²3 To prove. 
+.²4 To have majesty, or power.
+<div n="p">With {#vi#} and {#ati, vyatiBavate#}, To be mutually or reciprocally.
+<div n="p">With {#saM#}, 
+.²1 To be possible. 
+.²2 To exist, to be born or produced. 
+.²3 To contain. 
+.²4 To overcome. 
+.²5 To be able or adequate. 
+.²6 To associate, to collect, to mix or assemble. 
+.²7 To nourish. 
+<LEND>
+; ===============================================
+;
+; Case 081
+; OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD
+<L>28960<pc>628<k1>Brama<k2>Brama(u,)Bramu
+{#Brama(u,)Bramu#}¦ r. 1st cl. ({#Bramati Bramyati#})
+.²1 To turn round, to move circularly.
+.²2 To be unsteady or unfixed.
+.²3 To roam, to wander; it is also figuratively applicable to mental 
+[Page629]
+unsteadiness, as to err, to wander, to be ignorant or mistaken, &c. With
+{#pari,#} To wander about. With {#vi,#} To play, to wanton. With {#sam,#}
+.²1 To hurry.
+.²2 To honour.
+
+<LEND>
+; NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW
+<L>28960<pc>628<k1>Brama<k2>Brama(u,)Bramu
+{#Brama(u,)Bramu#}¦ r. 1st cl. ({#Bramati Bramyati#})
+.²1 To turn round, to move circularly.
+.²2 To be unsteady or unfixed.
+.²3 To roam, to wander; it is also figuratively applicable to mental 
+[Page629]
+unsteadiness, as to err, to wander, to be ignorant or mistaken, &c.
+<div n="p">With {#pari#}, To wander about.
+<div n="p">With {#vi#}, To play, to wanton.
+<div n="p">With {#sam#}, 
+.²1 To hurry. 
+.²2 To honour. 
+<LEND>
+; ===============================================
+;
+; Case 082
+; OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD
+<L>29221<pc>635<k1>matra<k2>matra(i,)matri
+{#matra(i,)matri#}¦ r. 1st and 10th cls. ({#mantrati mantrayati#}) To speak
+privately, to counsel or advise. With {#AN,#} To address or salute. With {#ni,#}
+To invite.
+
+<LEND>
+; NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW
+<L>29221<pc>635<k1>matra<k2>matra(i,)matri
+{#matra(i,)matri#}¦ r. 1st and 10th cls. ({#mantrati mantrayati#}) To speak
+privately, to counsel or advise.
+<div n="p">With {#AN#}, To address or salute.
+<div n="p">With {#ni#}, To invite. 
+<LEND>
+; ===============================================
+;
+; Case 083
+; OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD
+<L>29255<pc>636<k1>mada<k2>mada
+{#mada#}¦ r. 1st cl. ({#mAdayate#}) ({#i, ir#}) {#madi#} r. 1st cl.
+({#mandati#}), and ({#I, ir#}) {#madI#} r. 4th cl. ({#mAdyati#})
+.²1 To be glad, to be satisfied or content, to rejoice.
+.²2 To be proud. ({#i#}) {#madi#} r. 1st cl. ({#mandati#})
+.²1 To praise.
+.²2 To sleep, to doze, to be lazy or sluggish.
+.²3 To be stupid, to be an idiot or fool.
+.²4 To be elegant.
+.²5 To go or approach. {#mada#} r. 10th cl. ({#mAdayate#}) To cause or justify
+satisfaction or contentment. {#madI#} r. 1st cl. causal form ({#mAdayati#})
+.²1 To delight, to make glad, to exhilarate.
+.²2 To madden or intoxicate, literally or figuratively.
+.²2 To be poor or distressed.
+.²4 To be proud. With {#ni#} prefixed, ({#nimAdayati#}) To articulate.
+
+<LEND>
+; NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW
+<L>29255<pc>636<k1>mada<k2>mada
+{#mada#}¦ r. 1st cl. ({#mAdayate#}) ({#i, ir#}) {#madi#} r. 1st cl.
+({#mandati#}), and ({#I, ir#}) {#madI#} r. 4th cl. ({#mAdyati#})
+.²1 To be glad, to be satisfied or content, to rejoice.
+.²2 To be proud. ({#i#}) {#madi#} r. 1st cl. ({#mandati#})
+.²1 To praise.
+.²2 To sleep, to doze, to be lazy or sluggish.
+.²3 To be stupid, to be an idiot or fool.
+.²4 To be elegant.
+.²5 To go or approach. {#mada#} r. 10th cl. ({#mAdayate#}) To cause or justify
+satisfaction or contentment. {#madI#} r. 1st cl. causal form ({#mAdayati#})
+.²1 To delight, to make glad, to exhilarate.
+.²2 To madden or intoxicate, literally or figuratively.
+.²2 To be poor or distressed.
+.²4 To be proud.
+<div n="p">With {#ni#} prefixed, ({#nimAdayati#}) To articulate. 
+<LEND>
+; ===============================================
+;
+; Case 084
+; OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD
+<L>29446<pc>640<k1>mana<k2>mana
+{#mana#}¦ r. 4th cl. ({#manyate#}) ({#u,#}) {#manu#} r. 8th cl. ({#manute#})
+.²1 To know, to understand.
+.²2 To regard, to mind.
+.²3 To think, to conceive. r. 10th cl. ({#mAnayate#})
+.²1 To be dull or insensible.
+.²2 To be proud.
+.²3 To oppose, to stop. r. 1st and 10th cls. ({#manati mAnayati#}) To honour, to
+respect, to worship. With {#anu#} prefixed, To assent to, to agree. With
+{#aBi,#} To desire. With {#ava,#} To disrespect. With {#sama,#} To concur, to
+agree.
+
+<LEND>
+; NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW
+<L>29446<pc>640<k1>mana<k2>mana
+{#mana#}¦ r. 4th cl. ({#manyate#}) ({#u,#}) {#manu#} r. 8th cl. ({#manute#})
+.²1 To know, to understand.
+.²2 To regard, to mind.
+.²3 To think, to conceive. r. 10th cl. ({#mAnayate#})
+.²1 To be dull or insensible.
+.²2 To be proud.
+.²3 To oppose, to stop. r. 1st and 10th cls. ({#manati mAnayati#}) To honour, to
+respect, to worship.
+<div n="p">With {#anu#} prefixed, To assent to, to agree.
+<div n="p">With {#aBi#}, To desire.
+<div n="p">With {#ava#}, To disrespect.
+<div n="p">With {#sama#}, To concur, to agree. 
+<LEND>
+; ===============================================
+;
+; Case 085
+; OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD
+<L>30183<pc>656<k1>mAna<k2>mAna
+{#mAna#}¦ r. 1st cl. ({#mImAMsate#}) To investigate, to seek or desire
+knowledge. r. 1st and 10th cls. ({#mAnati mAnayati#}) To respect, to revere, to
+worship. With {#apa#} or {#ava#} prefixed, to treat with disrespect.
+
+<LEND>
+; NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW
+<L>30183<pc>656<k1>mAna<k2>mAna
+{#mAna#}¦ r. 1st cl. ({#mImAMsate#}) To investigate, to seek or desire
+knowledge. r. 1st and 10th cls. ({#mAnati mAnayati#}) To respect, to revere, to
+worship.
+<div n="p">With {#apa#} or {#ava#} prefixed, to treat with disrespect. 
+<LEND>
+; ===============================================
+;
+; Case 086
+; OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD
+<L>30523<pc>664<k1>muca<k2>muca(x O) O mucx
+{#muca(x O) O mucx#}¦ r. 6th cl. ({#muYcati-te#})
+.²1 To be loose or free.
+.²2 To forsake or abandon. r. 10th cl. ({#mocayati#})
+.²1 To let loose, to let go, to discharge as arrows, to part with, as wealth,
+&c.
+.²2 To gladden, to delight. ({#mocate#}) To deceive, to cheat. ({#i#}) {#muci#}
+r. 1st cl. ({#muMcate#})
+.²1 To be vain or proud.
+.²2 To be wicked.
+.²3 To speak.
+.²4 To grind or pound.
+.²5 To cheat, to deceive. With {#pra,#} To give much. With {#vi,#}
+.²1 To obtain liberation.
+.²2 To give or bestow.
+.²3 To lose.
+
+<LEND>
+; NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW
+<L>30523<pc>664<k1>muca<k2>muca(x O) O mucx
+{#muca(x O) O mucx#}¦ r. 6th cl. ({#muYcati-te#})
+.²1 To be loose or free.
+.²2 To forsake or abandon. r. 10th cl. ({#mocayati#})
+.²1 To let loose, to let go, to discharge as arrows, to part with, as wealth,
+&c.
+.²2 To gladden, to delight. ({#mocate#}) To deceive, to cheat. ({#i#}) {#muci#}
+r. 1st cl. ({#muMcate#})
+.²1 To be vain or proud.
+.²2 To be wicked.
+.²3 To speak.
+.²4 To grind or pound.
+.²5 To cheat, to deceive.
+<div n="p">With {#pra#}, To give much.
+<div n="p">With {#vi#}, 
+.²1 To obtain liberation. 
+.²2 To give or bestow. 
+.²3 To lose. 
+<LEND>
+; ===============================================
+;
+; Case 087
+; OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD
+<L>30700<pc>668<k1>mUla<k2>mUla
+{#mUla#}¦ r. 1st cl. ({#mUlati-te#}) To stand, to be rooted or firm. r. 10th
+cl. ({#mUlayati#})
+.²1 To plant or transplant.
+.²2 To grow as a plant, to sprout, to shoot or germinate. With {#ud#} prefixed,
+to root up or out, to eradicate, to exterminate.
+
+<LEND>
+; NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW
+<L>30700<pc>668<k1>mUla<k2>mUla
+{#mUla#}¦ r. 1st cl. ({#mUlati-te#}) To stand, to be rooted or firm. r. 10th
+cl. ({#mUlayati#})
+.²1 To plant or transplant.
+.²2 To grow as a plant, to sprout, to shoot or germinate.
+<div n="p">With {#ud#} prefixed, to root up or out, to eradicate, to exterminate. 
+<LEND>
+; ===============================================
+;
+; Case 088
+; OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD
+<L>30801<pc>670<k1>mfja<k2>mfja(U)mfjU
+{#mfja(U)mfjU#}¦ r. 2nd cl. ({#mArzwi#}) 1st and 10th cls. ({#mArjati#} 
+{#mArjayati#})
+.²1 To clean, to cleanse.
+.²2 To be clean or pure.
+.²3 To ornament.
+.²4 To sound. With {#apa#} or {#pra#} prefixed,
+.²1 To sweep, to sweep away.
+.²2 To clean.
+
+<LEND>
+; NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW
+<L>30801<pc>670<k1>mfja<k2>mfja(U)mfjU
+{#mfja(U)mfjU#}¦ r. 2nd cl. ({#mArzwi#}) 1st and 10th cls. ({#mArjati#} 
+{#mArjayati#})
+.²1 To clean, to cleanse.
+.²2 To be clean or pure.
+.²3 To ornament.
+.²4 To sound.
+<div n="p">With {#apa#} or {#pra#} prefixed, 
+.²1 To sweep, to sweep away. 
+.²2 To clean. 
+<LEND>
+; ===============================================
+;
+; Case 089
+; OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD
+<L>30885<pc>672<k1>mfSa<k2>mfSa(O)mfSO
+{#mfSa(O)mfSO#}¦ r. 6th cl. ({#mfSati#})
+.²1 To touch.
+.²2 To see, to perceive.
+.²3 To consult, to consider, to deliberate. With {#parA,#} To counsel, to
+advise. With {#vi,#} To consider, to discuss.
+
+<LEND>
+; NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW
+<L>30885<pc>672<k1>mfSa<k2>mfSa(O)mfSO
+{#mfSa(O)mfSO#}¦ r. 6th cl. ({#mfSati#})
+.²1 To touch.
+.²2 To see, to perceive.
+.²3 To consult, to consider, to deliberate.
+<div n="p">With {#parA#}, To counsel, to advise.
+<div n="p">With {#vi#}, To consider, to discuss. 
+<LEND>
+; ===============================================
+;
+; Case 090
+; OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD
+<L>30886<pc>672<k1>mfza<k2>mfza
+{#mfza#}¦ r. 1st and 10th cls. ({#marzati-te marzayati-te#}) and 4th cl.
+({#mfzyati-te#}) To bear, to suffer, to endure patiently. ({#u#}) {#mfzu#} r.
+1st cl. ({#marzati#}) To sprinkle. With {#AN,#} To be angry. With {#vi,#} To be
+distressed, to bear hardly.
+
+<LEND>
+; NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW
+<L>30886<pc>672<k1>mfza<k2>mfza
+{#mfza#}¦ r. 1st and 10th cls. ({#marzati-te marzayati-te#}) and 4th cl.
+({#mfzyati-te#}) To bear, to suffer, to endure patiently. ({#u#}) {#mfzu#} r.
+1st cl. ({#marzati#}) To sprinkle.
+<div n="p">With {#AN#}, To be angry.
+<div n="p">With {#vi#}, To be distressed, to bear hardly. 
+<LEND>
+; ===============================================
+;
+; Case 091
+; OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD
+<L>31110<pc>677<k1>mluca<k2>mluca(u,)mlucu
+{#mluca(u,)mlucu#}¦ r. 1st cl. ({#mlocati#}) To go, to move. With {#aBi#} and
+{#ni#} prefixed, To go down, to set as the sun.
+
+<LEND>
+; NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW
+<L>31110<pc>677<k1>mluca<k2>mluca(u,)mlucu
+{#mluca(u,)mlucu#}¦ r. 1st cl. ({#mlocati#}) To go, to move.
+<div n="p">With {#aBi#} and {#ni#} prefixed, To go down, to set as the sun. 
+<LEND>
+; ===============================================
+;
+; Case 092
+; OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD
+<L>31195<pc>679<k1>yata<k2>yata(I)yatI
+{#yata(I)yatI#}¦ r. 1st cl. ({#yatate#}) To resolve or determine in consequence
+of a wish or desire, to apply or endeavour
+.²1 strenuously, to energize, to persevere. r. 10th cl. ({#yAtayati#})
+.²1 To distress or afflict.
+.²2 To beat.
+.²3 To order.
+.²4 To collect, to assemble.
+.²5 To work, to make or manufacture.
+.²6 To prevent, to remove.
+.²7 To return, to give back, to requite.
+.²8 To barter or exchange.
+.²9 To purify. With {#nir#} or {#ni#} prefixed, To chastise, to punish, to
+inflict pain.
+
+<LEND>
+; NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW
+<L>31195<pc>679<k1>yata<k2>yata(I)yatI
+{#yata(I)yatI#}¦ r. 1st cl. ({#yatate#}) To resolve or determine in consequence
+of a wish or desire, to apply or endeavour
+.²1 strenuously, to energize, to persevere. r. 10th cl. ({#yAtayati#})
+.²1 To distress or afflict.
+.²2 To beat.
+.²3 To order.
+.²4 To collect, to assemble.
+.²5 To work, to make or manufacture.
+.²6 To prevent, to remove.
+.²7 To return, to give back, to requite.
+.²8 To barter or exchange.
+.²9 To purify.
+<div n="p">With {#nir#} or {#ni#} prefixed, To chastise, to punish, to inflict pain. 
+<LEND>
+; ===============================================
+;
+; Case 093
+; OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD
+<L>31283<pc>681<k1>yama<k2>yama
+{#yama#}¦ r. 1st cl. ({#O u#}) {#Oyamu#} ({#yacCati#}) To stop, to cease, to
+refrain. With {#ni#} prefixed,
+.²1 To remove, to dispel.
+.²2 To observe as a vow or religious rite.
+.²3 To regulate, to restrain. With {#ut,#}
+.²1 To rise, to mount on.
+.²2 To make effort or exertion.
+.²3 To lift up, to raise. With {#vi#} and {#AN,#} To exercise. With {#sam#} and
+{#ni,#} To restrain. In some senses it takes the deponent form, as with {#AN,#}
+prefix, ({#AyacCate#}) To put forth, to use or employ any part of one's own
+body, as the hand, &c. ({#AyacCati#})
+.²1 To seize.
+.²2 To go to, to proceed to. With {#sam,#} ({#saMyacCate#}) To heap together
+any thing that is one's own. ({#saMyacCati#}) To associate with. With {#upa,#}
+({#upayacCate#})
+.²1 To marry.
+.²2 To agree or accede to.
+.²3 To master by learning. r. 10th cl. ({#yamayati yAmayati#})
+.²1 To feed, to give food to.
+.²2 To restrain.
+
+<LEND>
+; NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW
+<L>31283<pc>681<k1>yama<k2>yama
+{#yama#}¦ r. 1st cl. ({#O u#}) {#Oyamu#} ({#yacCati#}) To stop, to cease, to
+refrain.
+<div n="p">With {#ni#} prefixed, 
+.²1 To remove, to dispel. 
+.²2 To observe as a vow or religious rite. 
+.²3 To regulate, to restrain.
+<div n="p">With {#ut#}, 
+.²1 To rise, to mount on. 
+.²2 To make effort or exertion. 
+.²3 To lift up, to raise.
+<div n="p">With {#vi#} and {#AN#}, To exercise.
+<div n="p">With {#sam#} and {#ni#}, To restrain. In some senses it takes the deponent form, as
+<div n="p">with {#AN#}, prefix, ({#AyacCate#}) To put forth, to use or employ any part of one's own body, as the hand, &c. ({#AyacCati#}) 
+.²1 To seize. 
+.²2 To go to, to proceed to.
+<div n="p">With {#sam#}, ({#saMyacCate#}) To heap together any thing that is one's own. ({#saMyacCati#}) To associate with.
+<div n="p">With {#upa#}, ({#upayacCate#}) 
+.²1 To marry. 
+.²2 To agree or accede to. 
+.²3 To master by learning. r. 10th cl. ({#yamayati yAmayati#}) 
+.²1 To feed, to give food to. 
+.²2 To restrain. 
+<LEND>
+; ===============================================
+;
+; Case 094
+; OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD
+<L>31364<pc>683<k1>yasa<k2>yasa(ira u) ir yasu
+{#yasa(ira u) ir yasu#}¦ r. 1st and 4th cls. ({#yasati yasyati#}) To endeavour,
+to persevere, to make strenuous and persevering exertion. With {#AN#} prefixed,
+To labour. With {#nir,#} To exude.
+
+<LEND>
+; NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW
+<L>31364<pc>683<k1>yasa<k2>yasa(ira u) ir yasu
+{#yasa(ira u) ir yasu#}¦ r. 1st and 4th cls. ({#yasati yasyati#}) To endeavour,
+to persevere, to make strenuous and persevering exertion.
+<div n="p">With {#AN#} prefixed, To labour.
+<div n="p">With {#nir#}, To exude. 
+<LEND>
+; ===============================================
+;
+; Case 095
+; OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD
+<L>31368<pc>683<k1>yA<k2>yA
+{#yA#}¦ r. 2nd cl. ({#yAti#})
+.²1 To go, to go to.
+.²2 To obtain, to get. With {#anu#} prefixed, To follow. With {#aBi,#} To
+approach, to reach. With {#AN,#} To come, to arrive. With {#upa,#} To give way,
+to yield. With {#nir,#}
+.²1 To go out or forth.
+.²2 To go readily or quickly. With {#pra,#} To go to. With {#prati,#} To go to
+or towards. With {#prati#} and {#ut,#} To meet, to advance to. With {#sama#} and
+{#aBi,#} To approach. With {#sama#} and {#AN,#} To arrive.
+
+<LEND>
+; NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW
+<L>31368<pc>683<k1>yA<k2>yA
+{#yA#}¦ r. 2nd cl. ({#yAti#})
+.²1 To go, to go to.
+.²2 To obtain, to get.
+<div n="p">With {#anu#} prefixed, To follow.
+<div n="p">With {#aBi#}, To approach, to reach.
+<div n="p">With {#AN#}, To come, to arrive.
+<div n="p">With {#upa#}, To give way, to yield.
+<div n="p">With {#nir#}, 
+.²1 To go out or forth. 
+.²2 To go readily or quickly.
+<div n="p">With {#pra#}, To go to.
+<div n="p">With {#prati#}, To go to or towards.
+<div n="p">With {#prati#} and {#ut#}, To meet, to advance to.
+<div n="p">With {#sama#} and {#aBi#}, To approach.
+<div n="p">With {#sama#} and {#AN#}, To arrive. 
+<LEND>
+; ===============================================
+;
+; Case 096
+; OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD
+<L>31496<pc>686<k1>yuja<k2>yuja(O)yujO
+{#yuja(O)yujO#}¦ r. 4th cl. ({#yujyate#}) To confine the thoughts, to keep
+the mind fixed in abstract meditation. r. 1st and 10th cls. ({#yojati#} 
+{#yojayati#}) To bind, to tie, to connect. ({#yojayata#}) To blame. ({#O, ira,#})
+{#O yujira#} r. 7th cl. ({#yunakti yuMkte#}) To join, to mix, to unite, &c.
+With {#anu#} prefixed,
+.²1 To ask, to inquire.
+.²2 To reprove. With {#aBi,#}
+.²1 To utter, to speak.
+.²2 To accuse. With {#ut,#} To make effort. With {#upa,#}
+.²1 To seize, to take, to lay hold of.
+.²2 To eat. With {#ni,#}
+.²1 To order, to appoint.
+.²2 To join. With {#pra,#}
+.²1 To be fit or due.
+.²2 To attach or apply to.
+.²3 To lend money.
+.²4 To make effort.
+.²5 To combine or connect. With {#vi,#}
+.²1 To separate, to sunder.
+.²2 To send. With {#vi#} and {#ni,#}
+.²1 To appoint or employ.
+.²2 To expend.
+.²3 To send.
+.²4 To involve in or force upon. With {#vi#} and {#pna,#} to separate, to part,
+to divide. With {#sam,#} To unite, to combine. With {#sam#} and {#AN,#} To think
+profoundly.
+
+<LEND>
+; NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW
+<L>31496<pc>686<k1>yuja<k2>yuja(O)yujO
+{#yuja(O)yujO#}¦ r. 4th cl. ({#yujyate#}) To confine the thoughts, to keep
+the mind fixed in abstract meditation. r. 1st and 10th cls. ({#yojati#} 
+{#yojayati#}) To bind, to tie, to connect. ({#yojayata#}) To blame. ({#O, ira,#})
+{#O yujira#} r. 7th cl. ({#yunakti yuMkte#}) To join, to mix, to unite, &c.
+With {#anu#} prefixed,
+.²1 To ask, to inquire.
+.²2 To reprove.
+<div n="p">With {#aBi#}, 
+.²1 To utter, to speak. 
+.²2 To accuse.
+<div n="p">With {#ut#}, To make effort.
+<div n="p">With {#upa#}, 
+.²1 To seize, to take, to lay hold of. 
+.²2 To eat.
+<div n="p">With {#ni#}, 
+.²1 To order, to appoint. 
+.²2 To join.
+<div n="p">With {#pra#}, 
+.²1 To be fit or due. 
+.²2 To attach or apply to. 
+.²3 To lend money. 
+.²4 To make effort. 
+.²5 To combine or connect.
+<div n="p">With {#vi#}, 
+.²1 To separate, to sunder. 
+.²2 To send.
+<div n="p">With {#vi#} and {#ni#}, 
+.²1 To appoint or employ. 
+.²2 To expend. 
+.²3 To send. 
+.²4 To involve in or force upon.
+<div n="p">With {#vi#} and {#pna#}, to separate, to part, to divide.
+<div n="p">With {#sam#}, To unite, to combine.
+<div n="p">With {#sam#} and {#AN#}, To think profoundly. 
+<LEND>
+; ===============================================
+;
+; Case 097
+; OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD
+<L>31723<pc>692<k1>rakza<k2>rakza
+{#rakza#}¦ r. 1st cl. ({#rakzati#}) To guard, to protect, to cherish, to
+preserve. With {#pari,#} To save from ruin.
+
+<LEND>
+; NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW
+<L>31723<pc>692<k1>rakza<k2>rakza
+{#rakza#}¦ r. 1st cl. ({#rakzati#}) To guard, to protect, to cherish, to
+preserve.
+<div n="p">With {#pari#}, To save from ruin. 
+<LEND>
+; ===============================================
+;
+; Case 098
+; OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD
+<L>31806<pc>694<k1>raYja<k2>raYja
+{#raYja#}¦ ({#O#}) r. 1st cl. {#OraYja#} ({#rajati-te#})
+.²4th cl. ({#rajyati-te#}) To dye, to tinge, to give tint or colour to any
+thing. r. 1st cl. ({#rajati#}) To be attached to or intent on, to have one's
+affections or passions engaged by any object. With {#anu#} prefixed, To be fond
+of or attached to. With {#apa#} and {#vi,#} To be averse, to dislike.
+
+<LEND>
+; NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW
+<L>31806<pc>694<k1>raYja<k2>raYja
+{#raYja#}¦ ({#O#}) r. 1st cl. {#OraYja#} ({#rajati-te#})
+.²4th cl. ({#rajyati-te#}) To dye, to tinge, to give tint or colour to any
+thing. r. 1st cl. ({#rajati#}) To be attached to or intent on, to have one's
+affections or passions engaged by any object.
+<div n="p">With {#anu#} prefixed, To be fond of or attached to.
+<div n="p">With {#apa#} and {#vi#}, To be averse, to dislike. 
+<LEND>
+; ===============================================
+;
+; Case 099
+; OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD
+<L>32048<pc>699<k1>raha<k2>raha
+{#raha#}¦ r. 1st cl. ({#rahati#}) r. 10th. cl. ({#rahayati#}) To quit, to
+leave, to forego, to lose or abandon. With {#vi,#} To be separate or away from.
+({#i#}) {#rahi#} r. 1st cl. ({#raMhati#}) To go, to move with speed.
+
+<LEND>
+; NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW
+<L>32048<pc>699<k1>raha<k2>raha
+{#raha#}¦ r. 1st cl. ({#rahati#}) r. 10th. cl. ({#rahayati#}) To quit, to
+leave, to forego, to lose or abandon.
+<div n="p">With {#vi#}, To be separate or away from. ({#i#}) {#rahi#} r. 1st cl. ({#raMhati#}) To go, to move with speed. 
+<LEND>
+; ===============================================
+;
+; Case 100
+; OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD
+<L>32082<pc>700<k1>rAja<k2>rAja
+{#rAja#}¦ ({#f,#}) {#rAjf#} r. 1st cl. ({#rAjate#} or irregularly {#rejate#})
+To shine: With {#nir#} prefixed, To overcome, to subdue.
+
+<LEND>
+; NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW
+<L>32082<pc>700<k1>rAja<k2>rAja
+{#rAja#}¦ ({#f,#}) {#rAjf#} r. 1st cl. ({#rAjate#} or irregularly {#rejate#})
+To shine:
+<div n="p">With {#nir#} prefixed, To overcome, to subdue. 
+<LEND>
+; ===============================================
+;
+; Case 101
+; OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD
+<L>32249<pc>703<k1>rADa<k2>rADa
+{#rADa#}¦ ({#O#}) {#OrADa#} r. 4th cl. ({#rADyati#}) 5th cl.
+({#rADnoti#})
+.²1 To bring any thing to fulness or completion, to finish, to effect, to
+accomplish, to complete.
+.²2 To attain completion, to succeed, to be finished or accomplished. With
+{#apa#} prefixed, To offend, to be in fault. With {#AN,#} To worship, to
+propitiate by worship.
+
+<LEND>
+; NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW
+<L>32249<pc>703<k1>rADa<k2>rADa
+{#rADa#}¦ ({#O#}) {#OrADa#} r. 4th cl. ({#rADyati#}) 5th cl.
+({#rADnoti#})
+.²1 To bring any thing to fulness or completion, to finish, to effect, to
+accomplish, to complete.
+.²2 To attain completion, to succeed, to be finished or accomplished.
+<div n="p">With {#apa#} prefixed, To offend, to be in fault.
+<div n="p">With {#AN#}, To worship, to propitiate by worship. 
+<LEND>
+; ===============================================
+;
+; Case 102
+; OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD
+<L>32340<pc>706<k1>rica<k2>rica
+{#rica#}¦ r. 1st and 10 cls. ({#recati-recayati#}) To join, to unite.
+.²2 To divide, to scatter or separate.
+.²3 To purge. ({#Oir#}) {#O ricira#} r. 7th cl. ({#riRakti-riMkte#}) To
+purge, to evacuate fæces frequently. With {#ati#} prefixed, To exceed, to be
+more than enough. With {#vi,#} To purge.
+
+<LEND>
+; NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW
+<L>32340<pc>706<k1>rica<k2>rica
+{#rica#}¦ r. 1st and 10 cls. ({#recati-recayati#}) To join, to unite.
+.²2 To divide, to scatter or separate.
+.²3 To purge. ({#Oir#}) {#O ricira#} r. 7th cl. ({#riRakti-riMkte#}) To
+purge, to evacuate fæces frequently.
+<div n="p">With {#ati#} prefixed, To exceed, to be more than enough.
+<div n="p">With {#vi#}, To purge. 
+<LEND>
+; ===============================================
+;
+; Case 103
+; OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD
+<L>32414<pc>707<k1>ruda<k2>ruda(ira)rudira
+{#ruda(ira)rudira#}¦ r. 2nd cl. ({#roditi#})
+.²1 To weep.
+.²2 To call or address weeping. With {#upa#} and {#AN,#} To weep for another, to
+sympathize.
+
+<LEND>
+; NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW
+<L>32414<pc>707<k1>ruda<k2>ruda(ira)rudira
+{#ruda(ira)rudira#}¦ r. 2nd cl. ({#roditi#})
+.²1 To weep.
+.²2 To call or address weeping.
+<div n="p">With {#upa#} and {#AN#}, To weep for another, to sympathize. 
+<LEND>
+; ===============================================
+;
+; Case 104
+; OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD
+<L>32433<pc>708<k1>ruDa<k2>ruDa
+{#ruDa#}¦ r. 4th cl. (with {#anu#} prefixed) ({#anuruDyate#})
+.²1 To desire, to wish for, to love.
+.²2 To be kind to.
+.²3 To consent, to concur.
+.²4 To lament or be sorry for. ({#Yi O ira#}) {#Yi OruDir#} r. 7th cl.
+({#ruRadDi ruMdDe#})
+.²1 To impede, to oppose, to obstruct, to block or confine.
+.²2 To invest, to blockade, to besiege. With {#aBi#} and {#sam#} prefixed, To
+prevent. With {#ava,#} To guard. With {#upa,#} To blockade. With {#prati#} or
+{#vi,#} To oppose, to resist. With {#sam#} and {#ni,#} To shut up, to surround
+or blockade.
+
+<LEND>
+; NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW
+<L>32433<pc>708<k1>ruDa<k2>ruDa
+{#ruDa#}¦ r. 4th cl. (with {#anu#} prefixed) ({#anuruDyate#})
+.²1 To desire, to wish for, to love.
+.²2 To be kind to.
+.²3 To consent, to concur.
+.²4 To lament or be sorry for. ({#Yi O ira#}) {#Yi OruDir#} r. 7th cl.
+({#ruRadDi ruMdDe#})
+.²1 To impede, to oppose, to obstruct, to block or confine.
+.²2 To invest, to blockade, to besiege.
+<div n="p">With {#aBi#} and {#sam#} prefixed, To prevent.
+<div n="p">With {#ava#}, To guard.
+<div n="p">With {#upa#}, To blockade.
+<div n="p">With {#prati#} or {#vi#}, To oppose, to resist.
+<div n="p">With {#sam#} and {#ni#}, To shut up, to surround or blockade. 
+<LEND>
+; ===============================================
+;
+; Case 105
+; OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD
+<L>32455<pc>708<k1>ruha<k2>ruha(Yi O) YiOruha
+{#ruha(Yi O) YiOruha#}¦ r. 1st cl. ({#rohati#})
+.²1 To grow from seed, to grow as a tree, &c.
+.²2 To be produced or become manifest.
+.²3 To be born. With {#aDi#} prefixed, To go up or over, to ascend. With
+{#aDi#} and {#AN,#} To ascend. With {#ava,#} To descend. With {#AN#}.
+.²1 To mount, to ride on.
+.²2 To rise, to ascend. With {#pra,#} To grow, to shoot forth as a branch or
+shoot taking fresh root.
+
+<LEND>
+; NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW
+<L>32455<pc>708<k1>ruha<k2>ruha(Yi O) YiOruha
+{#ruha(Yi O) YiOruha#}¦ r. 1st cl. ({#rohati#})
+.²1 To grow from seed, to grow as a tree, &c.
+.²2 To be produced or become manifest.
+.²3 To be born.
+<div n="p">With {#aDi#} prefixed, To go up or over, to ascend.
+<div n="p">With {#aDi#} and {#AN#}, To ascend.
+<div n="p">With {#ava#}, To descend.
+<div n="p">With {#AN#}. 
+.²1 To mount, to ride on. 
+.²2 To rise, to ascend.
+<div n="p">With {#pra#}, To grow, to shoot forth as a branch or shoot taking fresh root. 
+<LEND>
+; ===============================================
+;
+; Case 106
+; OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD
+<L>32466<pc>709<k1>rUpa<k2>rUpa
+{#rUpa#}¦ r. 10th cl. ({#rUpayati#}) To form, to express form, to represent
+shape either to the eye or the understanding. With {#ni#} prefixed,
+.²1 To discuss, to investigate.
+.²2 To explain, to describe, to declare, to expound.
+
+<LEND>
+; NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW
+<L>32466<pc>709<k1>rUpa<k2>rUpa
+{#rUpa#}¦ r. 10th cl. ({#rUpayati#}) To form, to express form, to represent
+shape either to the eye or the understanding.
+<div n="p">With {#ni#} prefixed, 
+.²1 To discuss, to investigate. 
+.²2 To explain, to describe, to declare, to expound. 
+<LEND>
+; ===============================================
+;
+; Case 107
+; OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD
+<L>32659<pc>713<k1>lakza<k2>lakza
+{#lakza#}¦ r. 10th cl. ({#lakzayati-te#})
+.²1 To see, to look at, to notice or inspect.
+.²2 To mark, to make any mark on.
+.²3 To define, to discriminate. With {#upa#} prefixed, To remark. With {#sam,#}
+To know, to understand.
+
+<LEND>
+; NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW
+<L>32659<pc>713<k1>lakza<k2>lakza
+{#lakza#}¦ r. 10th cl. ({#lakzayati-te#})
+.²1 To see, to look at, to notice or inspect.
+.²2 To mark, to make any mark on.
+.²3 To define, to discriminate.
+<div n="p">With {#upa#} prefixed, To remark.
+<div n="p">With {#sam#}, To know, to understand. 
+<LEND>
+; ===============================================
+;
+; Case 108
+; OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD
+<L>32688<pc>714<k1>laGa<k2>laGa
+{#laGa#}¦ r. 10th cl. ({#-lAGayati#})
+.²1 To taste.
+.²2 To obtain. ({#i#}) {#laGi#} r. 1st cl. ({#laMGate#})
+.²1 To go, to move.
+.²2 To fast, to abstain from food. ({#laNGati#})
+.²1 To dry, to dry up.
+.²2 To diminish, to lessen. r. 10th cl. ({#laNGayati#}) To speak. With {#ut#}
+or {#vi#} prefixed, To go beyond or over, to cross, to pass, to leap or spring
+over; also morally, to exceed, to transgress.
+
+<LEND>
+; NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW
+<L>32688<pc>714<k1>laGa<k2>laGa
+{#laGa#}¦ r. 10th cl. ({#-lAGayati#})
+.²1 To taste.
+.²2 To obtain. ({#i#}) {#laGi#} r. 1st cl. ({#laMGate#})
+.²1 To go, to move.
+.²2 To fast, to abstain from food. ({#laNGati#})
+.²1 To dry, to dry up.
+.²2 To diminish, to lessen. r. 10th cl. ({#laNGayati#}) To speak.
+<div n="p">With {#ut#} or {#vi#} prefixed, To go beyond or over, to cross, to pass, to leap or spring over; also morally, to exceed, to transgress. 
+<LEND>
+; ===============================================
+;
+; Case 109
+; OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD
+<L>32778<pc>716<k1>lapa<k2>lapa(f)lapf
+{#lapa(f)lapf#}¦ r. 1st cl. ({#lapati#}) To speak, to utter. With {#anu#}
+prefixed,
+.²1 To talk like, to mimic.
+.²2 To repeat. With {#apa,#} To deny. With {#AN,#} To address, to speak to, With
+{#pra,#} To talk incuherently. With {#prati,#} To gain, to get. With {#vi,#} To
+lament, to bewail. With {#vi#} and {#pra,#} To contradict, to dispute. With
+{#sama,#}
+.²1 To converse, to discourse.
+.²2 To be cunning or crafty.
+
+<LEND>
+; NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW
+<L>32778<pc>716<k1>lapa<k2>lapa(f)lapf
+{#lapa(f)lapf#}¦ r. 1st cl. ({#lapati#}) To speak, to utter.
+<div n="p">With {#anu#} prefixed, 
+.²1 To talk like, to mimic. 
+.²2 To repeat.
+<div n="p">With {#apa#}, To deny.
+<div n="p">With {#AN#}, To address, to speak to,
+<div n="p">With {#pra#}, To talk incuherently.
+<div n="p">With {#prati#}, To gain, to get.
+<div n="p">With {#vi#}, To lament, to bewail.
+<div n="p">With {#vi#} and {#pra#}, To contradict, to dispute.
+<div n="p">With {#sama#}, 
+.²1 To converse, to discourse. 
+.²2 To be cunning or crafty. 
+<LEND>
+; ===============================================
+;
+; Case 110
+; OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD
+<L>32781<pc>716<k1>laba<k2>laba(i)labi
+{#laba(i)labi#}¦ r. 1st cl. ({#laMbate#})
+.²1 To sound.
+.²2 To fall or tumble, to be prostrate. With {#ava#} prefixed,
+.²1 To hold, to support.
+.²2 To hang from or on, to depend from.
+.²3 To rest upon.
+.²4 To hang with the head downwards. With {#AN,#} To trust in, to depend on.
+With {#vi,#} To delay, to detain.
+
+<LEND>
+; NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW
+<L>32781<pc>716<k1>laba<k2>laba(i)labi
+{#laba(i)labi#}¦ r. 1st cl. ({#laMbate#})
+.²1 To sound.
+.²2 To fall or tumble, to be prostrate.
+<div n="p">With {#ava#} prefixed, 
+.²1 To hold, to support. 
+.²2 To hang from or on, to depend from. 
+.²3 To rest upon. 
+.²4 To hang with the head downwards.
+<div n="p">With {#AN#}, To trust in, to depend on.
+<div n="p">With {#vi#}, To delay, to detain. 
+<LEND>
+; ===============================================
+;
+; Case 111
+; OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD
+<L>32792<pc>716<k1>laBa<k2>laBa(qu aza)qulaBaz
+{#laBa(qu aza)qulaBaz#}¦ r. 1st cl. ({#laBate#}) To obtain, to get or gain.
+({#i#}) {#laBi#} r. 1st cl. ({#lamBate#})
+.²1 To sound.
+.²2 To injure.
+.²3 To revile.
+.²4 To gain. With {#upa#} prefixed.
+.²1 To apprehend, to understand.
+.²2 To delay. With {#upa#} and {#AN,#} To revile, to abuse.
+
+<LEND>
+; NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW
+<L>32792<pc>716<k1>laBa<k2>laBa(qu aza)qulaBaz
+{#laBa(qu aza)qulaBaz#}¦ r. 1st cl. ({#laBate#}) To obtain, to get or gain.
+({#i#}) {#laBi#} r. 1st cl. ({#lamBate#})
+.²1 To sound.
+.²2 To injure.
+.²3 To revile.
+.²4 To gain.
+<div n="p">With {#upa#} prefixed. 
+.²1 To apprehend, to understand. 
+.²2 To delay.
+<div n="p">With {#upa#} and {#AN#}, To revile, to abuse. 
+<LEND>
+; ===============================================
+;
+; Case 112
+; OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD
+<L>32862<pc>718<k1>lasa<k2>lasa
+{#lasa#}¦ r. 1st cl. ({#lasati#})
+.²1 To embrace.
+.²2 To sport or play. r. 10th cl. ({#lAsayati#})
+.²1 To be skilful, to do any thing skilfully or scientifically.
+.²2 To work. With {#ut#} prefixed,
+.²1 To shine, to be brilliant or splendid.
+.²2 To be happy or delighted. With {#vi,#} To gambol, to sport, especially
+amorously.
+
+<LEND>
+; NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW
+<L>32862<pc>718<k1>lasa<k2>lasa
+{#lasa#}¦ r. 1st cl. ({#lasati#})
+.²1 To embrace.
+.²2 To sport or play. r. 10th cl. ({#lAsayati#})
+.²1 To be skilful, to do any thing skilfully or scientifically.
+.²2 To work.
+<div n="p">With {#ut#} prefixed, 
+.²1 To shine, to be brilliant or splendid. 
+.²2 To be happy or delighted.
+<div n="p">With {#vi#}, To gambol, to sport, especially amorously. 
+<LEND>
+; ===============================================
+;
+; Case 113
+; OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD
+<L>32947<pc>720<k1>liga<k2>liga(i)ligi
+{#liga(i)ligi#}¦ r. 1st cl. ({#liNgati#}) To go, to move. r. 1st and 10th cls.
+({#liNgati liNgayati#}) To paint, to variegate. With {#AN#} prefixed, To
+embrace.
+
+<LEND>
+; NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW
+<L>32947<pc>720<k1>liga<k2>liga(i)ligi
+{#liga(i)ligi#}¦ r. 1st cl. ({#liNgati#}) To go, to move. r. 1st and 10th cls.
+({#liNgati liNgayati#}) To paint, to variegate.
+<div n="p">With {#AN#} prefixed, To embrace. 
+<LEND>
+; ===============================================
+;
+; Case 114
+; OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD
+<L>32985<pc>721<k1>lI<k2>lI
+{#lI#}¦ r. 4th cl. ({#lIyate#}) r. 9th cl. ({#linAti#})
+.²1 To join, to adhere or cling to, to be in union or connexion with.
+.²2 To obtain. r. 10th cl. ({#layati lAyayati lApayati lAlayati#} or
+{#lInayati#}) To melt, to liquefy, to fuse or dissolve. With {#AN,#} To waste
+away. With {#pra#} and {#vi,#} To acquire or gain.
+
+<LEND>
+; NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW
+<L>32985<pc>721<k1>lI<k2>lI
+{#lI#}¦ r. 4th cl. ({#lIyate#}) r. 9th cl. ({#linAti#})
+.²1 To join, to adhere or cling to, to be in union or connexion with.
+.²2 To obtain. r. 10th cl. ({#layati lAyayati lApayati lAlayati#} or
+{#lInayati#}) To melt, to liquefy, to fuse or dissolve.
+<div n="p">With {#AN#}, To waste away.
+<div n="p">With {#pra#} and {#vi#}, To acquire or gain. 
+<LEND>
+; ===============================================
+;
+; Case 115
+; OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD
+<L>33027<pc>722<k1>luBa<k2>luBa
+{#luBa#}¦ r. 4th cl. ({#luByati#}) To desire, to covet. r. 6th cl.
+({#luBati#}) To bewilder, to perplex or delude. With {#pra#} or {#saM,#} To
+attract or allure.
+
+<LEND>
+; NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW
+<L>33027<pc>722<k1>luBa<k2>luBa
+{#luBa#}¦ r. 4th cl. ({#luByati#}) To desire, to covet. r. 6th cl.
+({#luBati#}) To bewilder, to perplex or delude.
+<div n="p">With {#pra#} or {#saM#}, To attract or allure. 
+<LEND>
+; ===============================================
+;
+; Case 116
+; OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD
+<L>33119<pc>724<k1>loca<k2>loca(f)locf
+{#loca(f)locf#}¦ r. 1st cl. ({#locate#}) To see, to perceive, to view or
+inspect. r. 10th cl. ({#locayati#})
+.²1 To speak.
+.²2 To shine. With {#AN,#} To consider.
+
+<LEND>
+; NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW
+<L>33119<pc>724<k1>loca<k2>loca(f)locf
+{#loca(f)locf#}¦ r. 1st cl. ({#locate#}) To see, to perceive, to view or
+inspect. r. 10th cl. ({#locayati#})
+.²1 To speak.
+.²2 To shine.
+<div n="p">With {#AN#}, To consider. 
+<LEND>
+; ===============================================
+;
+; Case 117
+; OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD
+<L>33347<pc>729<k1>vaca<k2>vaca(O)Ovaca
+{#vaca(O)Ovaca#}¦ r. 1st cl. ({#vacati#})
+.²2nd cl. ({#vakti#}) and 10th cl. ({#vAcayati#})
+.²1 To speak, to tell.
+.²2 To inform.
+.²3 To read, to expound: (the second cl. is the most usual form of the root, in
+which its inflections however are very irregular.) With {#pra,#} To begin to
+speak.
+
+<LEND>
+; NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW
+<L>33347<pc>729<k1>vaca<k2>vaca(O)Ovaca
+{#vaca(O)Ovaca#}¦ r. 1st cl. ({#vacati#})
+.²2nd cl. ({#vakti#}) and 10th cl. ({#vAcayati#})
+.²1 To speak, to tell.
+.²2 To inform.
+.²3 To read, to expound: (the second cl. is the most usual form of the root, in
+which its inflections however are very irregular.)
+<div n="p">With {#pra#}, To begin to speak. 
+<LEND>
+; ===============================================
+;
+; Case 118
+; OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD
+<L>33461<pc>731<k1>vada<k2>vada
+{#vada#}¦ r. 1st and 10th cls. ({#vadati-te vadayati-te#})
+.²1 To inform, to speak to or tell, to declare.
+.²2 To speak articulately.
+.²3 To abide. With {#anu,#} ({#anuvadate#}) To speak similarly or subsequent.
+With {#apa#} prefixed, ({#apavadati-te#}) To reprove, to censure. With {#aBi,#}
+To salute respectfully or by name. With {#upa,#} ({#upavadate#}) To explain.
+With {#nir,#} To speak out or 
+[Page732]
+ plainly. With {#pari,#} ({#parivadati#})
+To speak against. With {#pra,#} To rumour, to slander. With {#prati,#}
+({#prativadati#}) To reply to or answer. With {#vi,#} ({#vivadate#}) To dispute.
+With {#vi#} and {#pra,#} ({#vipravadati#} or -{#te#}) To wrangle or dispute
+together. With {#vi#} and {#saM,#} To break a promise. With {#sama#} and
+{#pra,#} ({#sazpravadate#}) To speak articulately in concert; ({#sazpravadati#})
+To utter or articulate sounds together. ({#i,#}) {#vadi#} ({#vaMdate#})
+.²1 To salute with reverence or respect.
+.²2 To praise, to eulogize.
+
+<LEND>
+; NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW
+<L>33461<pc>731<k1>vada<k2>vada
+{#vada#}¦ r. 1st and 10th cls. ({#vadati-te vadayati-te#})
+.²1 To inform, to speak to or tell, to declare.
+.²2 To speak articulately.
+.²3 To abide.
+<div n="p">With {#anu#}, ({#anuvadate#}) To speak similarly or subsequent.
+<div n="p">With {#apa#} prefixed, ({#apavadati-te#}) To reprove, to censure.
+<div n="p">With {#aBi#}, To salute respectfully or by name.
+<div n="p">With {#upa#}, ({#upavadate#}) To explain.
+<div n="p">With {#nir#}, To speak out or  
+[Page732]  plainly.
+<div n="p">With {#pari#}, ({#parivadati#}) To speak against.
+<div n="p">With {#pra#}, To rumour, to slander.
+<div n="p">With {#prati#}, ({#prativadati#}) To reply to or answer.
+<div n="p">With {#vi#}, ({#vivadate#}) To dispute.
+<div n="p">With {#vi#} and {#pra#}, ({#vipravadati#} or -{#te#}) To wrangle or dispute together.
+<div n="p">With {#vi#} and {#saM#}, To break a promise.
+<div n="p">With {#sama#} and {#pra#}, ({#sazpravadate#}) To speak articulately in concert; ({#sazpravadati#}) To utter or articulate sounds together. ({#i#},) {#vadi#} ({#vaMdate#}) 
+.²1 To salute with reverence or respect. 
+.²2 To praise, to eulogize. 
+<LEND>
+; ===============================================
+;
+; Case 119
+; OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD
+<L>33980<pc>743<k1>vasa<k2>vasa(O)Ovasa
+{#vasa(O)Ovasa#}¦ r. 1st and 10th cls. ({#vasati vasayati#}) To dwell or
+inhabit. r. 2nd cl. ({#vaste#}) To cover with dress, to wear as clothes. r. 10th
+cl. ({#vAsayati#})
+.²1 To be affectionate, to love.
+.²2 To cut or divide.
+.²3 To kill.
+.²4 To accept. ({#ira, u#}) {#iravasu#} r. 4th cl. ({#vasyati#}) To be straight,
+to be unbending; literally or figuratively. With {#aDi#} prefixed, To sit upon,
+to occupy. With {#upa,#} To fast. With {#ni,#}
+.²1 To dwell in or inhabit.
+.²2 To dress. With {#pra,#} To dwell abroad. With {#sam,#} To cohabit.
+
+<LEND>
+; NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW
+<L>33980<pc>743<k1>vasa<k2>vasa(O)Ovasa
+{#vasa(O)Ovasa#}¦ r. 1st and 10th cls. ({#vasati vasayati#}) To dwell or
+inhabit. r. 2nd cl. ({#vaste#}) To cover with dress, to wear as clothes. r. 10th
+cl. ({#vAsayati#})
+.²1 To be affectionate, to love.
+.²2 To cut or divide.
+.²3 To kill.
+.²4 To accept. ({#ira, u#}) {#iravasu#} r. 4th cl. ({#vasyati#}) To be straight,
+to be unbending; literally or figuratively.
+<div n="p">With {#aDi#} prefixed, To sit upon, to occupy.
+<div n="p">With {#upa#}, To fast.
+<div n="p">With {#ni#}, 
+.²1 To dwell in or inhabit. 
+.²2 To dress.
+<div n="p">With {#pra#}, To dwell abroad.
+<div n="p">With {#sam#}, To cohabit. 
+<LEND>
+; ===============================================
+;
+; Case 120
+; OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD
+<L>34122<pc>746<k1>vA<k2>vA
+{#vA#}¦ r. 2nd cl. ({#vAti#})
+.²1 To go or move.
+.²2 To blow as the wind. With {#nir#} prefixed, To blow out, to extinguish.
+.²3 To hurt, to injure.
+
+<LEND>
+; NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW
+<L>34122<pc>746<k1>vA<k2>vA
+{#vA#}¦ r. 2nd cl. ({#vAti#})
+.²1 To go or move.
+.²2 To blow as the wind.
+<div n="p">With {#nir#} prefixed, To blow out, to extinguish. 
+.²3 To hurt, to injure. 
+<LEND>
+; ===============================================
+;
+; Case 121
+; OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD
+<L>34913<pc>763<k1>vija<k2>vija(O ira)O vijira
+{#vija(O ira)O vijira#}¦ r. 3rd cl. ({#vivekti#})
+.²1 To be distinct or separate, to differ.
+.²2 To separate or divide, especially by reason; to judge, to distinguish, to
+discriminate. ({#o, I,#}) {#ovijI#} r. 6th cl. ({#vijate,#} or usually with
+{#ud#} prefixed {#udvijate#}) also r. 7th cl. ({#vinakti#})
+.²1 To fear, to be afraid.
+.²2 To tremble with fear.
+.²3 To shake or tremble.
+.²4 To be agitated or distressed.
+
+<LEND>
+; NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW
+<L>34913<pc>763<k1>vija<k2>vija(O ira)O vijira
+{#vija(O ira)O vijira#}¦ r. 3rd cl. ({#vivekti#})
+.²1 To be distinct or separate, to differ.
+.²2 To separate or divide, especially by reason; to judge, to distinguish, to
+discriminate. ({#o, I,#}) {#ovijI#} r. 6th cl. ({#vijate,#} or usually
+<div n="p">with {#ud#} prefixed {#udvijate#}) also r. 7th cl. ({#vinakti#}) 
+.²1 To fear, to be afraid. 
+.²2 To tremble with fear. 
+.²3 To shake or tremble. 
+.²4 To be agitated or distressed. 
+<LEND>
+; ===============================================
+;
+; Case 122
+; OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD
+<L>35063<pc>767<k1>vida<k2>vida
+{#vida#}¦ r. 2nd cl. ({#vetti vedi#}) To know. With {#ni#} prefixed, To be sad
+or depressed. With {#sam,#} ({#saMvitte#}) To meditate, to know, to gain holy
+knowledge by abstract meditation. r. 4th cl. ({#vidyate#}) To be, to exist, to
+be present, to exist actually. r. 7th cl. ({#vinte#}) To consider, to reason. r.
+10th cl. ({#vedayate#})
+.²1 To be sensible.
+.²2 To know.
+.²3 To declare, to describe or explain; (in this sense {#ni#} is usually
+prefixed.)
+.²4 To dwell, to inhabit.
+.²5 To be fixed or steady.
+.²6 To suffer pain. With {#ni,#} or {#vi#} and {#ni#} prefixed, To deliver, to
+impart or communicate. With {#prati,#} To deliver, to give. ({#O x#}) {#O#} 
+{#viwx#} r. 6th cl. ({#vindati-te#}) To gain, to get, to acquire or possess. With
+{#pari,#} To marry first.
+
+<LEND>
+; NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW
+<L>35063<pc>767<k1>vida<k2>vida
+{#vida#}¦ r. 2nd cl. ({#vetti vedi#}) To know.
+<div n="p">With {#ni#} prefixed, To be sad or depressed.
+<div n="p">With {#sam#}, ({#saMvitte#}) To meditate, to know, to gain holy knowledge by abstract meditation. r. 4th cl. ({#vidyate#}) To be, to exist, to be present, to exist actually. r. 7th cl. ({#vinte#}) To consider, to reason. r. 10th cl. ({#vedayate#}) 
+.²1 To be sensible. 
+.²2 To know. 
+.²3 To declare, to describe or explain; (in this sense {#ni#} is usually prefixed.) 
+.²4 To dwell, to inhabit. 
+.²5 To be fixed or steady. 
+.²6 To suffer pain.
+<div n="p">With {#ni#}, or {#vi#} and {#ni#} prefixed, To deliver, to impart or communicate.
+<div n="p">With {#prati#}, To deliver, to give. ({#O x#}) {#O#}  {#viwx#} r. 6th cl. ({#vindati-te#}) To gain, to get, to acquire or possess.
+<div n="p">With {#pari#}, To marry first. 
+<LEND>
+; ===============================================
+;
+; Case 123
+; OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD
+<L>35838<pc>786<k1>viSa<k2>viSa
+{#viSa#}¦ r. 6th cl. ({#viSati#})
+.²1 To enter, to pervade. With {#AN#} or {#pra#} prefixed,
+.²1 To go in, to enter.
+.²2 To occupy or engross. With {#upa,#}
+.²1 To sit, to sit down.
+.²2 To approach. With {#ni,#}
+.²1 To dwell, to abide.
+.²2 To place or station. With {#ni#} or {#aBi#} and {#ni,#}
+.²1 To rest, to halt, to sit down, especially before or in presence of.
+.²2 To conceal. With {#nir,#} To go out or forth. With {#pari,#} To, place
+before, to present. With {#sama,#} To lie down, to repose. With {#sam#} and
+{#ni,#} To be near, to be close to or in the neighbourhood. With {#sam#} and
+{#AN,#} To introduce.
+
+<LEND>
+; NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW
+<L>35838<pc>786<k1>viSa<k2>viSa
+{#viSa#}¦ r. 6th cl. ({#viSati#})
+.²1 To enter, to pervade.
+<div n="p">With {#AN#} or {#pra#} prefixed, 
+.²1 To go in, to enter. 
+.²2 To occupy or engross.
+<div n="p">With {#upa#}, 
+.²1 To sit, to sit down. 
+.²2 To approach.
+<div n="p">With {#ni#}, 
+.²1 To dwell, to abide. 
+.²2 To place or station.
+<div n="p">With {#ni#} or {#aBi#} and {#ni#}, 
+.²1 To rest, to halt, to sit down, especially before or in presence of. 
+.²2 To conceal.
+<div n="p">With {#nir#}, To go out or forth.
+<div n="p">With {#pari#}, To, place before, to present.
+<div n="p">With {#sama#}, To lie down, to repose.
+<div n="p">With {#sam#} and {#ni#}, To be near, to be close to or in the neighbourhood.
+<div n="p">With {#sam#} and {#AN#}, To introduce. 
+<LEND>
+; ===============================================
+;
+; Case 124
+; OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD
+<L>36288<pc>796<k1>vI<k2>vI
+{#vI#}¦ r. 2nd cl. ({#veti#})
+.²1 To go, to move.
+.²2 To pervade.
+.²3 To conceive, to be impregnated.
+.²4 To desire.
+.²5 To throw or send.
+.²6 To eat. With {#sam#} prefixed, To invest, to inclose, to cover or wrap round
+or over.
+
+<LEND>
+; NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW
+<L>36288<pc>796<k1>vI<k2>vI
+{#vI#}¦ r. 2nd cl. ({#veti#})
+.²1 To go, to move.
+.²2 To pervade.
+.²3 To conceive, to be impregnated.
+.²4 To desire.
+.²5 To throw or send.
+.²6 To eat.
+<div n="p">With {#sam#} prefixed, To invest, to inclose, to cover or wrap round or over. 
+<LEND>
+; ===============================================
+;
+; Case 125
+; OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD
+<L>36408<pc>799<k1>vf<k2>vf
+{#vf#}¦ ({#qa,#}) {#vfN#} r. 9th cl. ({#vfRIte#}) To serve, to do homage or
+worship, to conciliate by service or adoration. ({#Ya#}) {#vfY#} r. 1st cl.
+({#varati-te#}) r. 5th cl. ({#vfRoti vfRute#}) r. 10th cl. ({#vArayati-te#})
+.²1 To choose, to select, to prepare.
+.²2 To appoint, to invite.
+.²3 To screen, to invest, to cover. With {#apa#} prefixed, To cover, to screen,
+to shield or defend. With {#AN,#} To inclose, to cover, to surround. With {#ni#}
+or {#nir,#} To cease, to refrain from, to finish or end. With {#pari,#}
+.²1 To surround.
+.²2 To depend upon. With {#vi,#} To become evident or apparent, to open or
+appear. With {#sam,#} To conceal. With {#sam#} and {#AN,#} To wrap up, to
+involve.
+
+<LEND>
+; NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW
+<L>36408<pc>799<k1>vf<k2>vf
+{#vf#}¦ ({#qa,#}) {#vfN#} r. 9th cl. ({#vfRIte#}) To serve, to do homage or
+worship, to conciliate by service or adoration. ({#Ya#}) {#vfY#} r. 1st cl.
+({#varati-te#}) r. 5th cl. ({#vfRoti vfRute#}) r. 10th cl. ({#vArayati-te#})
+.²1 To choose, to select, to prepare.
+.²2 To appoint, to invite.
+.²3 To screen, to invest, to cover.
+<div n="p">With {#apa#} prefixed, To cover, to screen, to shield or defend.
+<div n="p">With {#AN#}, To inclose, to cover, to surround.
+<div n="p">With {#ni#} or {#nir#}, To cease, to refrain from, to finish or end.
+<div n="p">With {#pari#}, 
+.²1 To surround. 
+.²2 To depend upon.
+<div n="p">With {#vi#}, To become evident or apparent, to open or appear.
+<div n="p">With {#sam#}, To conceal.
+<div n="p">With {#sam#} and {#AN#}, To wrap up, to involve. 
+<LEND>
+; ===============================================
+;
+; Case 126
+; OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD
+<L>36458<pc>800<k1>vfja<k2>vfja(I)vfjI
+{#vfja(I)vfjI#}¦ r. 1st cl. ({#varjati#}) 2nd cl. ({#vfkte#}) 7th cl.
+({#vfRakti#}) 10th cl. ({#varjjayati#})
+.²1 To quit, to shun, to avoid, to except, to abandon.
+.²2 (In the 7th cl.) To cover. With {#apa,#} To relinquish.
+
+<LEND>
+; NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW
+<L>36458<pc>800<k1>vfja<k2>vfja(I)vfjI
+{#vfja(I)vfjI#}¦ r. 1st cl. ({#varjati#}) 2nd cl. ({#vfkte#}) 7th cl.
+({#vfRakti#}) 10th cl. ({#varjjayati#})
+.²1 To quit, to shun, to avoid, to except, to abandon.
+.²2 (In the 7th cl.) To cover.
+<div n="p">With {#apa#}, To relinquish. 
+<LEND>
+; ===============================================
+;
+; Case 127
+; OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD
+<L>36466<pc>800<k1>vfta<k2>vfta
+{#vfta#}¦ ({#u#}) {#vftu#} r. 1st cl. ({#varttate#}) To be, to exist, to stay,
+to stand, to be fixed or stable. r. 4th cl. ({#vftyate#})
+.²1 To choose, to select or appoint.
+.²2 To serve. r. 10th cl. ({#varttayati#})
+.²1 To shine.
+.²2 To speak. With {#ati#} prefixed,
+.²1 To surpass or overcome.
+.²2 To pass over or beyond.
+.²3 To transgress. With {#anu,#}
+.²1 To follow, to imitate.
+.²2 To proceed. With {#apa,#} To turn back or round. With {#AN,#}
+.²1 To turn round, to revolve.
+.²2 To do repeatedly. With {#ni,#} To make artificially. With {#ni#} or {#nir,#}
+To stop, to cease, to complete or terminate. With {#pari,#}
+.²1 To surround.
+.²2 To exchange.
+.²3 To excel, to be pre-eminent.
+.²4 To advance.
+.²5 To retreat or return.
+.²6 To turn round. With {#pra,#} To engage in any active pursuit. With {#prati#}
+and {#ni,#} To go away, to depart. With {#vi,#}
+.²1 To roll, to whirl, to turn round.
+.²2 To revolve. With {#vi#} and {#ni,#} To return. With {#vi#} and {#pari,#} To
+revolve, (in the mind.) With {#sama#} and {#aBi,#} To leap.
+
+<LEND>
+; NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW
+<L>36466<pc>800<k1>vfta<k2>vfta
+{#vfta#}¦ ({#u#}) {#vftu#} r. 1st cl. ({#varttate#}) To be, to exist, to stay,
+to stand, to be fixed or stable. r. 4th cl. ({#vftyate#})
+.²1 To choose, to select or appoint.
+.²2 To serve. r. 10th cl. ({#varttayati#})
+.²1 To shine.
+.²2 To speak.
+<div n="p">With {#ati#} prefixed, 
+.²1 To surpass or overcome. 
+.²2 To pass over or beyond. 
+.²3 To transgress.
+<div n="p">With {#anu#}, 
+.²1 To follow, to imitate. 
+.²2 To proceed.
+<div n="p">With {#apa#}, To turn back or round.
+<div n="p">With {#AN#}, 
+.²1 To turn round, to revolve. 
+.²2 To do repeatedly.
+<div n="p">With {#ni#}, To make artificially.
+<div n="p">With {#ni#} or {#nir#}, To stop, to cease, to complete or terminate.
+<div n="p">With {#pari#}, 
+.²1 To surround. 
+.²2 To exchange. 
+.²3 To excel, to be pre-eminent. 
+.²4 To advance. 
+.²5 To retreat or return. 
+.²6 To turn round.
+<div n="p">With {#pra#}, To engage in any active pursuit.
+<div n="p">With {#prati#} and {#ni#}, To go away, to depart.
+<div n="p">With {#vi#}, 
+.²1 To roll, to whirl, to turn round. 
+.²2 To revolve.
+<div n="p">With {#vi#} and {#ni#}, To return.
+<div n="p">With {#vi#} and {#pari#}, To revolve, (in the mind.)
+<div n="p">With {#sama#} and {#aBi#}, To leap. 
+<LEND>
+; ===============================================
+;
+; Case 128
+; OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD
+<L>37346<pc>821<k1>vraja<k2>vraja
+{#vraja#}¦ r. 1st and 10th cls. ({#vrajati vrAjayati#}) To go, to travel. With
+{#pari#} prefixed, To wander about, as a mendicant. r. 10th cl. To prepare, to
+perfect.
+
+<LEND>
+; NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW
+<L>37346<pc>821<k1>vraja<k2>vraja
+{#vraja#}¦ r. 1st and 10th cls. ({#vrajati vrAjayati#}) To go, to travel.
+<div n="p">With {#pari#} prefixed, To wander about, as a mendicant. r. 10th cl. To prepare, to perfect. 
+<LEND>
+; ===============================================
+;
+; Case 129
+; OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD
+<L>37412<pc>823<k1>SaMsa<k2>SaMsa
+{#SaMsa#}¦ ({#u,#}) {#SaMsu#} r. 1st cl. ({#SaMsati#})
+.²1 To praise.
+.²2 To hurt.
+.²3 To wish.
+.²4 To calumniate. With {#aBi#} prefixed, To accuse wrongfully. With {#AN#}
+.²1 To hope.
+.²2 To speak. With {#pra,#} To praise, to flatter; this root and its derivatives
+are sometimes read with the palatal sibilant final or {#SaMSa,#} &c.
+
+<LEND>
+; NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW
+<L>37412<pc>823<k1>SaMsa<k2>SaMsa
+{#SaMsa#}¦ ({#u,#}) {#SaMsu#} r. 1st cl. ({#SaMsati#})
+.²1 To praise.
+.²2 To hurt.
+.²3 To wish.
+.²4 To calumniate.
+<div n="p">With {#aBi#} prefixed, To accuse wrongfully.
+<div n="p">With {#AN#} 
+.²1 To hope. 
+.²2 To speak.
+<div n="p">With {#pra#}, To praise, to flatter; this root and its derivatives are sometimes read with the palatal sibilant final or {#SaMSa#}, &c. 
+<LEND>
+; ===============================================
+;
+; Case 130
+; OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD
+<L>37419<pc>823<k1>Saka<k2>Saka
+{#Saka#}¦ r. 4th cl. ({#Sakyati-te#}) r. 5th cl. ({#ira x#}) {#iraSaktf#}
+({#Saknoti#})
+.²1 To bear patiently, to endure, to be patient.
+.²2 To be able to effect, to be competent or powerful. ({#i#}) {#Saki#} r. 1st
+cl. ({#SaNkate#})
+.²1 To think probable, to suspect.
+.²2 To fear, to apprehend. With {#AN,#} to dread.
+
+<LEND>
+; NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW
+<L>37419<pc>823<k1>Saka<k2>Saka
+{#Saka#}¦ r. 4th cl. ({#Sakyati-te#}) r. 5th cl. ({#ira x#}) {#iraSaktf#}
+({#Saknoti#})
+.²1 To bear patiently, to endure, to be patient.
+.²2 To be able to effect, to be competent or powerful. ({#i#}) {#Saki#} r. 1st
+cl. ({#SaNkate#})
+.²1 To think probable, to suspect.
+.²2 To fear, to apprehend.
+<div n="p">With {#AN#}, to dread. 
+<LEND>
+; ===============================================
+;
+; Case 131
+; OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD
+<L>37706<pc>830<k1>Sama<k2>Sama
+{#Sama#}¦ r. 4th cl. ({#ir u#}) {#iraSamu#} ({#SAmyati#})
+.²1 To be pacified, to be calmed or appeased.
+.²2 To pacify, to calm.
+.²3 To be tranquil, to have the passions tamed and quiescent. r. 10th cl.
+({#Samayate#}) To look, to look at or inspect. ({#Samayati#}) To allay, to
+appease. ({#SAmayati#}) To display. With {#upa#} prefixed, To tranquillize, to
+allay, to tame. With {#ni,#}
+.²1 To hear.
+.²2 To restrain or prevent. With {#pra,#}
+.²1 To destroy.
+.²2 To be very tranquil.
+
+<LEND>
+; NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW
+<L>37706<pc>830<k1>Sama<k2>Sama
+{#Sama#}¦ r. 4th cl. ({#ir u#}) {#iraSamu#} ({#SAmyati#})
+.²1 To be pacified, to be calmed or appeased.
+.²2 To pacify, to calm.
+.²3 To be tranquil, to have the passions tamed and quiescent. r. 10th cl.
+({#Samayate#}) To look, to look at or inspect. ({#Samayati#}) To allay, to
+appease. ({#SAmayati#}) To display.
+<div n="p">With {#upa#} prefixed, To tranquillize, to allay, to tame.
+<div n="p">With {#ni#}, 
+.²1 To hear. 
+.²2 To restrain or prevent.
+<div n="p">With {#pra#}, 
+.²1 To destroy. 
+.²2 To be very tranquil. 
+<LEND>
+; ===============================================
+;
+; Case 132
+; OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD
+<L>38878<pc>856<k1>SF<k2>SF
+{#SF#}¦ r. 9th cl. ({#SfRAti#}) To hurt, to injure, to wound or kill. With
+{#vi#} prefixed, pass. v. ({#viSIryyate#}) To be injured or impaired, to waste
+or decay.
+
+<LEND>
+; NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW
+<L>38878<pc>856<k1>SF<k2>SF
+{#SF#}¦ r. 9th cl. ({#SfRAti#}) To hurt, to injure, to wound or kill.
+<div n="p">With {#vi#} prefixed, pass. v. ({#viSIryyate#}) To be injured or impaired, to waste or decay. 
+<LEND>
+; ===============================================
+;
+; Case 133
+; OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD
+<L>39170<pc>863<k1>Sri<k2>Sri
+{#Sri#}¦ ({#Sri#}) r. 1st cl. ({#Srayati-te#}) To serve. With {#AN#} prefixed,
+.²1 To seek asylum, to depend upon, to have recourse to.
+.²2 To be near to.
+.²3 To use, to employ. With {#apa#} and {#AN,#} To quit, to forsake. With {#ut#}
+or {#sama#} and {#ut,#} To be high or elevated. With {#vi, apa,#} and {#AN,#}
+.²1 To fall, to prostrate, to worship.
+.²2 To expect, to rely upon, to trust to.
+
+<LEND>
+; NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW
+<L>39170<pc>863<k1>Sri<k2>Sri
+{#Sri#}¦ ({#Sri#}) r. 1st cl. ({#Srayati-te#}) To serve.
+<div n="p">With {#AN#} prefixed, 
+.²1 To seek asylum, to depend upon, to have recourse to. 
+.²2 To be near to. 
+.²3 To use, to employ.
+<div n="p">With {#apa#} and {#AN#}, To quit, to forsake.
+<div n="p">With {#ut#} or {#sama#} and {#ut#}, To be high or elevated.
+<div n="p">With {#vi, apa#}, and {#AN#}, 
+.²1 To fall, to prostrate, to worship. 
+.²2 To expect, to rely upon, to trust to. 
+<LEND>
+; ===============================================
+;
+; Case 134
+; OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD
+<L>39229<pc>864<k1>Sru<k2>Sru
+{#Sru#}¦ r. 1st cl. {%form irr.%} ({#SfRoti#}) To hear: {%form reg.%}
+({#Sravati#}) To go, to move, especially as a fluid, to drop, to ooze, to flow.
+With {#prati#} or {#sam#} prefixed, To promise, to assent or agree to. With
+{#vi,#} To be famous.
+
+<LEND>
+; NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW
+<L>39229<pc>864<k1>Sru<k2>Sru
+{#Sru#}¦ r. 1st cl. {%form irr.%} ({#SfRoti#}) To hear: {%form reg.%}
+({#Sravati#}) To go, to move, especially as a fluid, to drop, to ooze, to flow.
+With {#prati#} or {#sam#} prefixed, To promise, to assent or agree to.
+<div n="p">With {#vi#}, To be famous. 
+<LEND>
+; ===============================================
+;
+; Case 135
+; OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD
+<L>39366<pc>867<k1>Svasa<k2>Svasa
+{#Svasa#}¦ r. 2nd cl. ({#Svasiti#})
+.²1 To breathe.
+.²2 To live. With {#AN#} prefixed, To recover or revive, to console. With
+{#ut,#}
+.²1 To open, to expand.
+.²2 To console. With {#nir,#}
+.²1 To breathe out, to expire.
+.²2 To sigh. With {#vi,#} To have trust or faith in.
+
+<LEND>
+; NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW
+<L>39366<pc>867<k1>Svasa<k2>Svasa
+{#Svasa#}¦ r. 2nd cl. ({#Svasiti#})
+.²1 To breathe.
+.²2 To live.
+<div n="p">With {#AN#} prefixed, To recover or revive, to console.
+<div n="p">With {#ut#}, 
+.²1 To open, to expand. 
+.²2 To console.
+<div n="p">With {#nir#}, 
+.²1 To breathe out, to expire. 
+.²2 To sigh.
+<div n="p">With {#vi#}, To have trust or faith in. 
+<LEND>
+; ===============================================
+;
+; Case 136
+; OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD
+<L>39455<pc>869<k1>zaYja<k2>zaYja
+{#zaYja#}¦ r. 1st cl. ({#sajati#}) To embrace, to cling or adhere to, to be in
+contact or connexion with. With {#ava#} prefixed, to hand down from, to be
+suspended. With {#vi#} and {#AN,#} to struggle together. With {#AN,#} to be
+attached or devoted to. ({#u#}) {#zaYju#} r. 1st cl. ({#saYjati-te#}) To go.
+
+<LEND>
+; NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW
+<L>39455<pc>869<k1>zaYja<k2>zaYja
+{#zaYja#}¦ r. 1st cl. ({#sajati#}) To embrace, to cling or adhere to, to be in
+contact or connexion
+<div n="p">with.
+<div n="p">With {#ava#} prefixed, to hand down from, to be suspended.
+<div n="p">With {#vi#} and {#AN#}, to struggle together.
+<div n="p">With {#AN#}, to be attached or devoted to. ({#u#}) {#zaYju#} r. 1st cl. ({#saYjati-te#}) To go. 
+<LEND>
+; ===============================================
+;
+; Case 137
+; OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD
+<L>39499<pc>870<k1>zada<k2>zada
+{#zada#}¦ ({#O X#}) {#Ozadx#} r. 1st and 6th cls. ({#sIdati#})
+.²1 To wither, to wane, to perish gradually.
+.²2 To be low-spirited, to despond, to be weary or distressed, to lack energy.
+.²3 To break or destroy.
+.²4 To go or move. With {#AN#} prefixed, {#Ozadx#} r. 1st and 10th cls.
+({#AsAdati AsAdayati#})
+.²1 To go.
+.²2 To assail, to encounter. With {#ava#} prefixed,
+.²1 To be exhausted or languid.
+.²2 To finish. With {#AN,#} To obtain, to attain, to reach or arrive at. With
+{#ut,#}
+.²1 To ascend.
+.²2 To destroy. With {#upa,#} To approach. With {#ni,#}
+.²1 To sit in or on.
+.²2 To stand.
+.²3 To protect. With {#pra,#}
+.²1 To be propitious to, to favour or be pleased with.
+.²2 To please or propitiate.
+.²3 To purify.
+.²4 To smile. With {#vi,#} To be languid or sorrowful. With {#sam,#}
+.²1 To attain.
+.²2 To be in company or society with.
+
+<LEND>
+; NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW
+<L>39499<pc>870<k1>zada<k2>zada
+{#zada#}¦ ({#O X#}) {#Ozadx#} r. 1st and 6th cls. ({#sIdati#})
+.²1 To wither, to wane, to perish gradually.
+.²2 To be low-spirited, to despond, to be weary or distressed, to lack energy.
+.²3 To break or destroy.
+.²4 To go or move.
+<div n="p">With {#AN#} prefixed, {#Ozadx#} r. 1st and 10th cls. ({#AsAdati AsAdayati#}) 
+.²1 To go. 
+.²2 To assail, to encounter.
+<div n="p">With {#ava#} prefixed, 
+.²1 To be exhausted or languid. 
+.²2 To finish.
+<div n="p">With {#AN#}, To obtain, to attain, to reach or arrive at.
+<div n="p">With {#ut#}, 
+.²1 To ascend. 
+.²2 To destroy.
+<div n="p">With {#upa#}, To approach.
+<div n="p">With {#ni#}, 
+.²1 To sit in or on. 
+.²2 To stand. 
+.²3 To protect.
+<div n="p">With {#pra#}, 
+.²1 To be propitious to, to favour or be pleased with. 
+.²2 To please or propitiate. 
+.²3 To purify. 
+.²4 To smile.
+<div n="p">With {#vi#}, To be languid or sorrowful.
+<div n="p">With {#sam#}, 
+.²1 To attain. 
+.²2 To be in company or society with. 
+<LEND>
+; ===============================================
+;
+; Case 138
+; OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD
+<L>39527<pc>870<k1>zaha<k2>zaha
+{#zaha#}¦ r. 1st cl. ({#sahate#}) r. 4th cl. ({#sahyati#}) 1st and 10th cls.
+({#sahati sAhayati.#})
+.²1 To bear, to endure, to suffer or support, to forbear, to have patience.
+.²2 To be content or satisfied.
+.²3 To be able. With {#ut#} prefixed,
+.²1 To make effort or exertion, to persevere, to energize.
+.²2 To be happy or delighted. With {#pra,#} To be violent. With {#vi,#} To
+determine. 
+[Page871]
+
+<LEND>
+; NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW
+<L>39527<pc>870<k1>zaha<k2>zaha
+{#zaha#}¦ r. 1st cl. ({#sahate#}) r. 4th cl. ({#sahyati#}) 1st and 10th cls.
+({#sahati sAhayati.#})
+.²1 To bear, to endure, to suffer or support, to forbear, to have patience.
+.²2 To be content or satisfied.
+.²3 To be able.
+<div n="p">With {#ut#} prefixed, 
+.²1 To make effort or exertion, to persevere, to energize. 
+.²2 To be happy or delighted.
+<div n="p">With {#pra#}, To be violent.
+<div n="p">With {#vi#}, To determine.  
+[Page871]
+<LEND>
+; ===============================================
+;
+; Case 139
+; OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD
+<L>39538<pc>871<k1>zi<k2>zi
+{#zi#}¦ ({#Y#}) {#ziY#} r. 5th cl. ({#sinoti sinute#}) r. 9th cl.
+({#sinAtisinIte#}) To tie, to bind. With {#aDi#} and {#ava#} prefixed, To
+accomplish. With {#vi#} and {#ava,#} To transact as business. With {#vi,#} To be
+an object or purpose.
+
+<LEND>
+; NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW
+<L>39538<pc>871<k1>zi<k2>zi
+{#zi#}¦ ({#Y#}) {#ziY#} r. 5th cl. ({#sinoti sinute#}) r. 9th cl.
+({#sinAtisinIte#}) To tie, to bind.
+<div n="p">With {#aDi#} and {#ava#} prefixed, To accomplish.
+<div n="p">With {#vi#} and {#ava#}, To transact as business.
+<div n="p">With {#vi#}, To be an object or purpose. 
+<LEND>
+; ===============================================
+;
+; Case 140
+; OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD
+<L>39539<pc>871<k1>zica<k2>zica
+{#zica#}¦ ({#O#}) {#zicA#} r. 6th cl. ({#siYcati-te#}) To sprinkle. With
+{#aBi#} prefixed,
+.²1 To anoint, to initiate.
+.²2 To sprinkle.
+
+<LEND>
+; NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW
+<L>39539<pc>871<k1>zica<k2>zica
+{#zica#}¦ ({#O#}) {#zicA#} r. 6th cl. ({#siYcati-te#}) To sprinkle.
+<div n="p">With {#aBi#} prefixed, 
+.²1 To anoint, to initiate. 
+.²2 To sprinkle. 
+<LEND>
+; ===============================================
+;
+; Case 141
+; OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD
+<L>39542<pc>871<k1>ziDa<k2>ziDa
+{#ziDa#}¦ r. 1st cl. ({#seDati#}) To go. ({#U#}) {#ziDU#} r. 1st cl.
+({#seDati#})
+.²1 To command, to order.
+.²2 To ordain, especially with respect to holy observances.
+.²2 To do an auspicious act. or one indicating good fortune. ({#u#}) {#ziDa#}
+r. 4th cl. ({#siDyati#})
+.²1 To succeed, to effect fully or completely.
+.²2 To complete a series of mystical observances by which supernatural powers
+are attained, to be an adept, to be initiated.
+.²2 To be perfect, to be finished or accomplished.
+.²4 To be right or cortect. With {#ni#} or {#prati#} prefixed, ({#nizeDati#} 
+{#pratizeDati#}) To prevent, to prohibit. With {#pra,#} To be celebrated or
+notorious.
+
+<LEND>
+; NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW
+<L>39542<pc>871<k1>ziDa<k2>ziDa
+{#ziDa#}¦ r. 1st cl. ({#seDati#}) To go. ({#U#}) {#ziDU#} r. 1st cl.
+({#seDati#})
+.²1 To command, to order.
+.²2 To ordain, especially with respect to holy observances.
+.²2 To do an auspicious act. or one indicating good fortune. ({#u#}) {#ziDa#}
+r. 4th cl. ({#siDyati#})
+.²1 To succeed, to effect fully or completely.
+.²2 To complete a series of mystical observances by which supernatural powers
+are attained, to be an adept, to be initiated.
+.²2 To be perfect, to be finished or accomplished.
+.²4 To be right or cortect.
+<div n="p">With {#ni#} or {#prati#} prefixed, ({#nizeDati#}  {#pratizeDati#}) To prevent, to prohibit.
+<div n="p">With {#pra#}, To be celebrated or notorious. 
+<LEND>
+; ===============================================
+;
+; Case 142
+; OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD
+<L>39547<pc>871<k1>zu<k2>zu
+{#zu#}¦ r. 2nd cl. ({#sOti#})
+.²1 To bear, to bring forth.
+.²2 To possess power or supremacy. ({#Ya#}) {#zuY#} r. 5th cl. ({#sunoti#} 
+{#sunute#})
+.²1 To bathe, preparatory to a sacrifice.
+.²2 To distil, to extract a spirit.
+.²3 To churn, to stir or agitate.
+.²4 To pain. With {#aBi,#}
+.²1 To sprinkle.
+.²2 To bathe. With {#pra,#} To bear or bring forth.
+
+<LEND>
+; NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW
+<L>39547<pc>871<k1>zu<k2>zu
+{#zu#}¦ r. 2nd cl. ({#sOti#})
+.²1 To bear, to bring forth.
+.²2 To possess power or supremacy. ({#Ya#}) {#zuY#} r. 5th cl. ({#sunoti#} 
+{#sunute#})
+.²1 To bathe, preparatory to a sacrifice.
+.²2 To distil, to extract a spirit.
+.²3 To churn, to stir or agitate.
+.²4 To pain.
+<div n="p">With {#aBi#}, 
+.²1 To sprinkle. 
+.²2 To bathe.
+<div n="p">With {#pra#}, To bear or bring forth. 
+<LEND>
+; ===============================================
+;
+; Case 143
+; OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD
+<L>39602<pc>872<k1>zWA<k2>zWA
+{#zWA#}¦ r. 1st cl. ({#tizWati#})
+.²1 To stand, to stop, to be still, to refrain from moving.
+.²2 To abide, to stay, to be. ({#tizWate#})
+.²1 To apply or refer to, as an umpire or judge.
+.²2 To indicate or reveal one's thoughts to another. With {#aDi#} prefixed,
+({#aDitizWati#})
+.²1 To excel, to surpass, to overcome.
+.²2 To sit or stand upon or over.
+.²3 To be placed or preside over. With {#anu#} ({#anutizWati#})
+.²1 To practise as a duty, to obey or follow as a law.
+.²2 To apply or adhere to. With {#ava#} ({#avatizWati-te#})
+.²1 To stay or stand.
+.²2 To attend upon. With {#AN#} ({#AtizWate#})
+.²1 To affirm or assert.
+.²2 To apply; ({#AtizWati#})
+.²1 To ascend, to mount.
+.²2 To promise or engage. With {#ut#} ({#uttizWate#})
+.²1 To seek for, to endeavour to obtain; ({#uttizWati#}) To get up, to rise as
+from a seat, &c. With {#upa#} ({#upatizWati-te#})
+.²1 To propitiate (as a deity.)
+.²2 To praise or hymn, to worship, to adore.
+.²3 To embrace.
+.²4 To treat in a friendly manner, to form a friendship or connexion with.
+.²5 To pass or lie along or near to, that is, as a path or road.
+.²6 To arrive at or near; ({#upatizWate#}) To hope to gain or acquire. With
+{#ni#} ({#nitizWate#}) To be established. With {#pari#} and {#ava#}
+({#paryyavatizWate#}) To be stationary or immovable. With {#pra#}
+({#pratizWate#})
+.²1 To set off, to go forth, to depart.
+.²2 To go to. With {#pra#} and {#ut#} ({#prottizWati#}) To get up, to rise.
+With {#prati,#} ({#pratitizWati#}) To be erected for holy purposes, to be
+sacred or consecrated. With {#vi#} ({#vitizWate#})
+.²1 To stand apart, to be separated.
+.²2 To stay or be. With {#vi#} and {#ava#} ({#vyavatizWate#}) To decree, to
+pronounce. With {#sam#} ({#santizWate#})
+.²1 To be well.
+.²2 To be close to or together.
+.²3 To be of the same inclinations or opinions, to conform, to agree.
+.²4 To be completed or finished. With {#sama#} and {#AN#} ({#samAtizWate#}) To
+perform, to be engaged in. With {#sama#} and {#ut#} ({#samuttizWati#}) To rise
+or get up. With {#sama#} and {#pra,#} To go forth or on a journey. With {#pra#}
+in the causal ({#prasTApayati#}) To send.
+
+<LEND>
+; NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW
+<L>39602<pc>872<k1>zWA<k2>zWA
+{#zWA#}¦ r. 1st cl. ({#tizWati#})
+.²1 To stand, to stop, to be still, to refrain from moving.
+.²2 To abide, to stay, to be. ({#tizWate#})
+.²1 To apply or refer to, as an umpire or judge.
+.²2 To indicate or reveal one's thoughts to another.
+<div n="p">With {#aDi#} prefixed, ({#aDitizWati#}) 
+.²1 To excel, to surpass, to overcome. 
+.²2 To sit or stand upon or over. 
+.²3 To be placed or preside over.
+<div n="p">With {#anu#} ({#anutizWati#}) 
+.²1 To practise as a duty, to obey or follow as a law. 
+.²2 To apply or adhere to.
+<div n="p">With {#ava#} ({#avatizWati-te#}) 
+.²1 To stay or stand. 
+.²2 To attend upon.
+<div n="p">With {#AN#} ({#AtizWate#}) 
+.²1 To affirm or assert. 
+.²2 To apply; ({#AtizWati#}) 
+.²1 To ascend, to mount. 
+.²2 To promise or engage.
+<div n="p">With {#ut#} ({#uttizWate#}) 
+.²1 To seek for, to endeavour to obtain; ({#uttizWati#}) To get up, to rise as from a seat, &c.
+<div n="p">With {#upa#} ({#upatizWati-te#}) 
+.²1 To propitiate (as a deity.) 
+.²2 To praise or hymn, to worship, to adore. 
+.²3 To embrace. 
+.²4 To treat in a friendly manner, to form a friendship or connexion with. 
+.²5 To pass or lie along or near to, that is, as a path or road. 
+.²6 To arrive at or near; ({#upatizWate#}) To hope to gain or acquire.
+<div n="p">With {#ni#} ({#nitizWate#}) To be established.
+<div n="p">With {#pari#} and {#ava#} ({#paryyavatizWate#}) To be stationary or immovable.
+<div n="p">With {#pra#} ({#pratizWate#}) 
+.²1 To set off, to go forth, to depart. 
+.²2 To go to.
+<div n="p">With {#pra#} and {#ut#} ({#prottizWati#}) To get up, to rise.
+<div n="p">With {#prati#}, ({#pratitizWati#}) To be erected for holy purposes, to be sacred or consecrated.
+<div n="p">With {#vi#} ({#vitizWate#}) 
+.²1 To stand apart, to be separated. 
+.²2 To stay or be.
+<div n="p">With {#vi#} and {#ava#} ({#vyavatizWate#}) To decree, to pronounce.
+<div n="p">With {#sam#} ({#santizWate#}) 
+.²1 To be well. 
+.²2 To be close to or together. 
+.²3 To be of the same inclinations or opinions, to conform, to agree. 
+.²4 To be completed or finished.
+<div n="p">With {#sama#} and {#AN#} ({#samAtizWate#}) To perform, to be engaged in.
+<div n="p">With {#sama#} and {#ut#} ({#samuttizWati#}) To rise or get up.
+<div n="p">With {#sama#} and {#pra#}, To go forth or on a journey.
+<div n="p">With {#pra#} in the causal ({#prasTApayati#}) To send. 
+<LEND>
+; ===============================================
+;
+; Case 144
+; OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD
+<L>42675<pc>942<k1>sf<k2>sf
+{#sf#}¦ r. 1st cl. ({#sarati#}) r. 3d cl. ({#sasartti#}) To go. 1st cl.
+({#sarati#} or {#DAvati#}) To go fast, to run, ({#DE#} being substituted for
+the root.) With {#anu#} prefixed,
+.²1 To follow.
+.²2 To conform to. With {#apa,#} To go back, to withdraw or remove. With
+{#aBi,#}
+.²1 To spread out or abroad.
+.²2 To go to or with, to accompany or attend, or to meet upon appointment. With
+{#upa,#} To approach, to advance; With {#nir,#} To go forth or out. With
+{#pra,#}
+.²1 To proceed.
+.²2 To extend.
+.²3 To project. With {#vi,#}
+.²1 To go separately or apart.
+.²2 To come or arrive.
+.²3 To forego, to quit or leave.
+
+<LEND>
+; NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW
+<L>42675<pc>942<k1>sf<k2>sf
+{#sf#}¦ r. 1st cl. ({#sarati#}) r. 3d cl. ({#sasartti#}) To go. 1st cl.
+({#sarati#} or {#DAvati#}) To go fast, to run, ({#DE#} being substituted for
+the root.)
+<div n="p">With {#anu#} prefixed, 
+.²1 To follow. 
+.²2 To conform to.
+<div n="p">With {#apa#}, To go back, to withdraw or remove.
+<div n="p">With {#aBi#}, 
+.²1 To spread out or abroad. 
+.²2 To go to or with, to accompany or attend, or to meet upon appointment.
+<div n="p">With {#upa#}, To approach, to advance;
+<div n="p">With {#nir#}, To go forth or out.
+<div n="p">With {#pra#}, 
+.²1 To proceed. 
+.²2 To extend. 
+.²3 To project.
+<div n="p">With {#vi#}, 
+.²1 To go separately or apart. 
+.²2 To come or arrive. 
+.²3 To forego, to quit or leave. 
+<LEND>
+; ===============================================
+;
+; Case 145
+; OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD
+<L>42682<pc>942<k1>sfja<k2>sfja
+{#sfja#}¦ r. 4th cl. ({#sfjyate#}) r. 6th cl. ({#sfjati#})
+.²1 To leave, to quit.
+.²2 To be left or abandoned.
+.²2 To create, to make. With {#ut#} or {#vi#} prefixed, To abandon, to quit, to
+reject. With {#sam,#} To unite, to be in alliance or contact with.
+
+<LEND>
+; NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW
+<L>42682<pc>942<k1>sfja<k2>sfja
+{#sfja#}¦ r. 4th cl. ({#sfjyate#}) r. 6th cl. ({#sfjati#})
+.²1 To leave, to quit.
+.²2 To be left or abandoned.
+.²2 To create, to make.
+<div n="p">With {#ut#} or {#vi#} prefixed, To abandon, to quit, to reject.
+<div n="p">With {#sam#}, To unite, to be in alliance or contact with. 
+<LEND>
+; ===============================================
+;
+; Case 146
+; OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD
+<L>42693<pc>942<k1>sfpa<k2>sfpa
+{#sfpa#}¦ ({#x#}) {#sfpx#} r. 1st. cl. ({#sarpati#}) To go, to move. With
+{#apa,#} To go from, to depart. With {#upa,#} To go near.
+
+<LEND>
+; NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW
+<L>42693<pc>942<k1>sfpa<k2>sfpa
+{#sfpa#}¦ ({#x#}) {#sfpx#} r. 1st. cl. ({#sarpati#}) To go, to move.
+<div n="p">With {#apa#}, To go from, to depart.
+<div n="p">With {#upa#}, To go near. 
+<LEND>
+; ===============================================
+;
+; Case 147
+; OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD
+<L>42918<pc>947<k1>skanda<k2>skanda
+{#skanda#}¦ ({#ira#}) {#skandira#} r. 1st cl. ({#skandati#})
+.²1 To go, to move.
+.²2 To be dry or arid.
+.²3 To effuse or emit. With {#ava#} prefixed, To assail, to assault.
+
+<LEND>
+; NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW
+<L>42918<pc>947<k1>skanda<k2>skanda
+{#skanda#}¦ ({#ira#}) {#skandira#} r. 1st cl. ({#skandati#})
+.²1 To go, to move.
+.²2 To be dry or arid.
+.²3 To effuse or emit.
+<div n="p">With {#ava#} prefixed, To assail, to assault. 
+<LEND>
+; ===============================================
+;
+; Case 148
+; OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD
+<L>43018<pc>950<k1>stf<k2>stf
+{#stf#}¦ ({#stf,#}) r. 5th cl. ({#stfRoti stfRute#}) To cover, to clothe, to
+spread on or over, to strew. With {#vi#} prefixed.
+.²1 To spread widely, to extend.
+.²2 To be diffuse or prolix.
+
+<LEND>
+; NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW
+<L>43018<pc>950<k1>stf<k2>stf
+{#stf#}¦ ({#stf,#}) r. 5th cl. ({#stfRoti stfRute#}) To cover, to clothe, to
+spread on or over, to strew.
+<div n="p">With {#vi#} prefixed. 
+.²1 To spread widely, to extend. 
+.²2 To be diffuse or prolix. 
+<LEND>
+; ===============================================
+;
+; Case 149
+; OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD
+<L>43320<pc>956<k1>spfSa<k2>spfSa
+{#spfSa#}¦ r. 6th cl. ({#spfSati#}) To touch, to take with the hand. With
+{#upa,#}
+.²1 To tread upon.
+.²2 To bathe, to sip water, &c.
+
+<LEND>
+; NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW
+<L>43320<pc>956<k1>spfSa<k2>spfSa
+{#spfSa#}¦ r. 6th cl. ({#spfSati#}) To touch, to take
+<div n="p">with the hand.
+<div n="p">With {#upa#}, 
+.²1 To tread upon. 
+.²2 To bathe, to sip water, &c. 
+<LEND>
+; ===============================================
+;
+; Case 150
+; OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD
+<L>43456<pc>959<k1>smf<k2>smf
+{#smf#}¦ r. 1st cl. ({#smarati#})
+.²1 To remember, to recollect, to call to mind.
+.²2 To remember with regret, to miss. r. 5th cl. ({#smfRoti#})
+.²1 To please or delight.
+.²2 To guard, to protect, to cherish.
+.²3 To breathe or live. With {#vi#} prefixed, To forget.
+
+<LEND>
+; NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW
+<L>43456<pc>959<k1>smf<k2>smf
+{#smf#}¦ r. 1st cl. ({#smarati#})
+.²1 To remember, to recollect, to call to mind.
+.²2 To remember with regret, to miss. r. 5th cl. ({#smfRoti#})
+.²1 To please or delight.
+.²2 To guard, to protect, to cherish.
+.²3 To breathe or live.
+<div n="p">With {#vi#} prefixed, To forget. 
+<LEND>
+; ===============================================
+;
+; Case 151
+; OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD
+<L>43471<pc>959<k1>syanda<k2>syanda
+{#syanda#}¦ ({#U#}) {#syandU#} r. 1st cl. ({#syandate#})
+.²1 To sprinkle, to drop, to ooze or distil.
+.²2 To go. With {#anu#} prefixed, {#anuzyandate#} or {#anusyandate#} to drop,
+&c.; the sibilant being optionally changed after this and other prepositions.
+
+<LEND>
+; NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW
+<L>43471<pc>959<k1>syanda<k2>syanda
+{#syanda#}¦ ({#U#}) {#syandU#} r. 1st cl. ({#syandate#})
+.²1 To sprinkle, to drop, to ooze or distil.
+.²2 To go.
+<div n="p">With {#anu#} prefixed, {#anuzyandate#} or {#anusyandate#} to drop, &c.; the sibilant being optionally changed after this and other prepositions. 
+<LEND>
+; ===============================================
+;
+; Case 152
+; OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD
+<L>43599<pc>962<k1>svana<k2>svana
+{#svana#}¦ r. 1st. cl. ({#svanati#})
+.²1 To sound.
+.²2 ({#svanayati#}) To dress, to adorn. With {#vi#} or {#ava#} prefixed, in a
+limited sense, the initial is changed, ({#avazvaRati#} or {#vizvaRati#}) To make
+a noise whilst eating.
+
+<LEND>
+; NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW
+<L>43599<pc>962<k1>svana<k2>svana
+{#svana#}¦ r. 1st. cl. ({#svanati#})
+.²1 To sound.
+.²2 ({#svanayati#}) To dress, to adorn.
+<div n="p">With {#vi#} or {#ava#} prefixed, in a limited sense, the initial is changed, ({#avazvaRati#} or {#vizvaRati#}) To make a noise whilst eating. 
+<LEND>
+; ===============================================
+;
+; Case 153
+; OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD
+<L>43827<pc>966<k1>svf<k2>svf
+{#svf#}¦ r. 1st cl. ({#svarati#})
+.²1 To sound.
+.²2 To be diseased.
+.²3 To pain or torture. With {#sam#} prefixed, in an intransitive sense, the
+verb becomes deponent, ({#sesvarate#}) It sounds.
+
+<LEND>
+; NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW
+<L>43827<pc>966<k1>svf<k2>svf
+{#svf#}¦ r. 1st cl. ({#svarati#})
+.²1 To sound.
+.²2 To be diseased.
+.²3 To pain or torture.
+<div n="p">With {#sam#} prefixed, in an intransitive sense, the verb becomes deponent, ({#sesvarate#}) It sounds. 
+<LEND>
+; ===============================================
+;
+; Case 154
+; OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD
+<L>43911<pc>968<k1>hana<k2>hana
+{#hana#}¦ r. 2nd cl. ({#hanti#} {%pl.%} {#Gnanti#})
+.²1 To hurt, to strike, to injure, to do any act which tends to the destruction
+of life, to kill.
+.²2 To go, to move.
+.²3 To put an end to in any manner. With {#aBi,#} To sound a musical
+instrument. With {#AN,#} To smite. With {#ni#} or {#pari,#} To destroy,
+entirely. With {#pra,#}
+.²1 To strike.
+.²2 To place upon. With {#prati,#} To refute or destroy, an opposite argument.
+With {#vi#} and {#AN,#} To obstruct, to prevent, to hinder. With {#sam,#} To
+slaughter: ({#Gan#} or {#Dna#} is substituted for the radical letters of this
+verb in many of its inflections and derivatives; the root also takes most of the
+prefixes with little or no variation of the sense.)
+
+<LEND>
+; NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW
+<L>43911<pc>968<k1>hana<k2>hana
+{#hana#}¦ r. 2nd cl. ({#hanti#} {%pl.%} {#Gnanti#})
+.²1 To hurt, to strike, to injure, to do any act which tends to the destruction
+of life, to kill.
+.²2 To go, to move.
+.²3 To put an end to in any manner.
+<div n="p">With {#aBi#}, To sound a musical instrument.
+<div n="p">With {#AN#}, To smite.
+<div n="p">With {#ni#} or {#pari#}, To destroy, entirely.
+<div n="p">With {#pra#}, 
+.²1 To strike. 
+.²2 To place upon.
+<div n="p">With {#prati#}, To refute or destroy, an opposite argument.
+<div n="p">With {#vi#} and {#AN#}, To obstruct, to prevent, to hinder.
+<div n="p">With {#sam#}, To slaughter: ({#Gan#} or {#Dna#} is substituted for the radical letters of this verb in many of its inflections and derivatives; the root also takes most of the prefixes with little or no variation of the sense.) 
+<LEND>
+; ===============================================
+;
+; Case 155
+; OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD
+<L>44370<pc>977<k1>hf<k2>hf
+{#hf#}¦ r. 1st cl. ({#Y#}) {#hfY#} r. 1st cl. ({#harati-te#})
+.²1 To convey.
+.²2 To take or accept.
+.²3 To steal.
+.²4 To destroy or annul. r. 3rd cl. ({#hajartti#}) To take by violence. With
+{#anu#} prefixed, To imitate. With {#apa,#}
+.²1 To remove, to take away or apart.
+.²2 To leave behind. 
+[Page978]
+.²3 To steal. With {#aBi,#} To assault. With {#aBi#} and {#AN,#} To reason.
+With {#aBi#} and {#ut,#} To deliver. With {#aBi, vi,#} and {#AN,#} To utter,
+to pronounce. With {#ava,#}
+.²1 To regain.
+.²2 To punish or fine. With {#ut,#}
+.²1 To raise, to lift or take up.
+.²2 To expel. With {#ud#} and {#AN,#}
+.²1 To say or tell.
+.²2 To illustrate, to exemplify. With {#upa,#}
+.²1 To bring near to.
+.²2 To give. With {#upa#} and {#sam,#} To withhold. With {#ni#} changed to
+{#nI,#} To freeze. With {#nir,#} To shew disrespect. With {#nir#} and {#AN,#} To
+fast. With {#pari,#}
+.²1 To reproach, to abuse or censure.
+.²2 To leave, to shun, to abandon.
+.²3 To resist.
+.²4 To extract. With {#pra,#} To strike. With {#prati#} changed to {#pratI,#} To
+keep watch. With {#prati#} and {#AN,#} To think abstractedly by restraining the
+organs of sense. With {#prati#} and {#sam,#} To disregard, to abandon. With
+{#vi,#} To sport, to ramble for pleasure. With {#vi,#} or {#vi#} and {#AN,#} To
+say, to utter, to speak. With {#vi#} and {#ava,#}
+.²1 To transact business.
+.²2 To litigate. With {#sam,#} To kill. With {#sam,#} or {#sam,#} and {#AN,#} To
+collect, to assemble. With {#sam, aBi, vi#} and {#AN,#} To speak in concert.
+With {#sam, ut#} and {#AN,#} To relate. With {#sam#} and {#upa,#}
+.²1 To give.
+.²2 To assemble, to collect. With {#sam#} and {#pra,#} To fight. With {#vi#}
+and {#ati#} prefixed and implying reciprocity ({#vyatiharate#}) To steal or
+plunder mutually. In the first sense (to convey), this verb governs two
+accusatives, as {#BAraM harati grAmaM#} he takes the load (to) the village.
+
+<LEND>
+; NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW
+<L>44370<pc>977<k1>hf<k2>hf
+{#hf#}¦ r. 1st cl. ({#Y#}) {#hfY#} r. 1st cl. ({#harati-te#})
+.²1 To convey.
+.²2 To take or accept.
+.²3 To steal.
+.²4 To destroy or annul. r. 3rd cl. ({#hajartti#}) To take by violence.
+<div n="p">With {#anu#} prefixed, To imitate.
+<div n="p">With {#apa#}, 
+.²1 To remove, to take away or apart. 
+.²2 To leave behind.  
+[Page978] 
+.²3 To steal.
+<div n="p">With {#aBi#}, To assault.
+<div n="p">With {#aBi#} and {#AN#}, To reason.
+<div n="p">With {#aBi#} and {#ut#}, To deliver.
+<div n="p">With {#aBi, vi#}, and {#AN#}, To utter, to pronounce.
+<div n="p">With {#ava#}, 
+.²1 To regain. 
+.²2 To punish or fine.
+<div n="p">With {#ut#}, 
+.²1 To raise, to lift or take up. 
+.²2 To expel.
+<div n="p">With {#ud#} and {#AN#}, 
+.²1 To say or tell. 
+.²2 To illustrate, to exemplify.
+<div n="p">With {#upa#}, 
+.²1 To bring near to. 
+.²2 To give.
+<div n="p">With {#upa#} and {#sam#}, To withhold.
+<div n="p">With {#ni#} changed to {#nI#}, To freeze.
+<div n="p">With {#nir#}, To shew disrespect.
+<div n="p">With {#nir#} and {#AN#}, To fast.
+<div n="p">With {#pari#}, 
+.²1 To reproach, to abuse or censure. 
+.²2 To leave, to shun, to abandon. 
+.²3 To resist. 
+.²4 To extract.
+<div n="p">With {#pra#}, To strike.
+<div n="p">With {#prati#} changed to {#pratI#}, To keep watch.
+<div n="p">With {#prati#} and {#AN#}, To think abstractedly by restraining the organs of sense.
+<div n="p">With {#prati#} and {#sam#}, To disregard, to abandon.
+<div n="p">With {#vi#}, To sport, to ramble for pleasure.
+<div n="p">With {#vi#}, or {#vi#} and {#AN#}, To say, to utter, to speak.
+<div n="p">With {#vi#} and {#ava#}, 
+.²1 To transact business. 
+.²2 To litigate.
+<div n="p">With {#sam#}, To kill.
+<div n="p">With {#sam#}, or {#sam#}, and {#AN#}, To collect, to assemble.
+<div n="p">With {#sam, aBi, vi#} and {#AN#}, To speak in concert.
+<div n="p">With {#sam, ut#} and {#AN#}, To relate.
+<div n="p">With {#sam#} and {#upa#}, 
+.²1 To give. 
+.²2 To assemble, to collect.
+<div n="p">With {#sam#} and {#pra#}, To fight.
+<div n="p">With {#vi#} and {#ati#} prefixed and implying reciprocity ({#vyatiharate#}) To steal or plunder mutually. In the first sense (to convey), this verb governs two accusatives, as {#BAraM harati grAmaM#} he takes the load (to) the village. 
+<LEND>
+; ===============================================
+;
+; Case 156
+; OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD
+<L>44515<pc>981<k1>hnu<k2>hnu
+{#hnu#}¦ r. 2nd cl. ({#hnute#}) To take away, to withhold or secrete. With
+{#apa#} or {#ni#} prefixed, To conceal, to hide, to deny.
+
+<LEND>
+; NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW
+<L>44515<pc>981<k1>hnu<k2>hnu
+{#hnu#}¦ r. 2nd cl. ({#hnute#}) To take away, to
+<div n="p">withhold or secrete.
+<div n="p">With {#apa#} or {#ni#} prefixed, To conceal, to hide, to deny. 
+<LEND>
+; ===============================================
+;
+; Case 157
+; OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD
+<L>44578<pc>982<k1>hve<k2>hve
+{#hve#}¦ r. 1st cl. ({#hvayati#})
+.²1 To emulate, to vie with, to wish to overcome or surpass.
+.²2 To struggle or contend with.
+.²3 To call.
+.²4 To challenge. With {#upa, ni, vi#} or {#sam#} the verb is deponent
+({#upahnayate#}); also with {#AN#} if rivalry be signified, ({#Ahvayate#}) he
+challenges.
+<LEND>
+; NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW
+<L>44578<pc>982<k1>hve<k2>hve
+{#hve#}¦ r. 1st cl. ({#hvayati#})
+.²1 To emulate, to vie with, to wish to overcome or surpass.
+.²2 To struggle or contend with.
+.²3 To call.
+.²4 To challenge.
+<div n="p">With {#upa, ni, vi#} or {#sam#} the verb is deponent ({#upahnayate#}); also
+<div n="p">with {#AN#} if rivalry be signified, ({#Ahvayate#}) he challenges.
+<LEND>
+; ===============================================
+;

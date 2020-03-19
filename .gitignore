@@ -1,7 +1,7 @@
 # Emacs backup
 *~
-# Emacs . #history.txt#  - NOte this does NOT work
-*[#]*[#]
-*[#]*
 *.pyc
+__pycache__
 wiltab2011/step2Copy/*
+temp*
+unused*

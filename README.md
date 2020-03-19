@@ -47,3 +47,12 @@ wilmwroots
 (Begun Feb 2015). Continues work on the correspondence between Wilson and Monier-Williams roots.
 
 (Sep 2018).  Add L-numbers to the correspondence.  See step2a directory.
+
+verbs01
+-------
+
+March 2020.  Identify Wilson roots and prefixed verbs, and correspond with
+MW spellings.
+
+Note: This work is independent of previous work (such as that in wilmwroots mentioned above..  It would be of interestto compare verbs01 with previous work.
+

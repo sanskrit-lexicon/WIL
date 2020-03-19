@@ -1,0 +1,654 @@
+; code = 0,   8 cases
+12035: krIqa:anu,ava,A,pari,sam:{#anu, ava, AN, pari#}, or {#sam#} pre ...
+35838:  viSa:  ni,aBini:{#ni#} or {#aBi#} and {#ni#}, 
+39170:   Sri:  ud,samud:{#ut#} or {#sama#} and {#ut#}, To be high or e ...
+39170:   Sri:     vyapA:{#vi, apa#}, and {#AN#}, 
+44370:    hf:    aBivyA:{#aBi, vi#}, and {#AN#}, To utter, to pronounc ...
+44370:    hf: samaBivyA:{#sam, aBi, vi#} and {#AN#}, To speak in conce ...
+44370:    hf:    samudA:{#sam, ut#} and {#AN#}, To relate.
+44578:   hve:upa,ni,vi,sam:{#upa, ni, vi#} or {#sam#} the verb is depo ...
+; code = 1, 356 cases
+  597:  aYca:       pra:{#pra#}, to move in an eastern direction;
+  597:  aYca:     prati:{#prati#}, to go westerly;
+  597:  aYca:        ud:{#ut#}, to go northerly;
+  597:  aYca:       ava:{#ava#}, to move southerly;
+  597:  aYca:      parA:{#parA#}, to turn aside or away. r. 1st and 10 ...
+ 4449:   asa:       apa:{#apa#}, to quit or abandon:
+ 4449:   asa:        ni:{#ni#}, to deposit:
+ 4449:   asa:       nir:{#nir#}, to expel:
+ 4449:   asa:       pra:{#pra#}, to throw away, to reject, to confute:
+ 4449:   asa:        vi:{#vi#}, to divide:
+ 4449:   asa:       sam:{#sama#}, to collect, to combine or compound. 
+ 6028:   Asa:       aBi:{#aBi#}, to sit or apply to, to study, to lear ...
+ 6028:   Asa:        ud:{#ut#}, 
+ 6028:   Asa:       upa:{#upa#}, to worship, to do homage.
+ 6028:   Asa:       nir:{#nir#}, to expel.
+ 6163:     i:       ati:{#ati#}, 
+ 6163:     i:       anu:{#anu#}, 
+ 6163:     i:       aBi:{#aBi#}, 
+ 6163:     i:       upa:{#upa#}, 
+ 6163:     i:       nir:{#nir#}, to go forth or out from.
+ 6163:     i:     prati:{#prati#}, 
+ 6163:     i:        vi:{#vi#}, To expend, to waste, to depart.
+ 6403:   iza:       aBi:{#aBi#}, to desire:
+ 6403:   iza:     prati:{#prati#}, to engage, to promise. r. 9th cl. ( ...
+ 6444:  Ikza:       apa:{#apa#}, to expect;
+ 6444:  Ikza:       aBi:{#aBi#}, to gaze at;
+ 6444:  Ikza:       ava:{#ava#}, to inspect;
+ 6444:  Ikza:       upa:{#upa#}, to abandon;
+ 6444:  Ikza:       nir:{#nir#}, to see;  
+ 6444:  Ikza:      pari:{#pari#}, to try, to test, to assay;
+ 6444:  Ikza:       pra:{#pra#}, to see, to resemble, or look like;
+ 6444:  Ikza:        vi:{#vi#}, to inspect;
+ 6444:  Ikza:     prati:{#prati#}, 
+ 6444:  Ikza:       sam:{#sama#}, to compare, to contrast, to select;
+ 6615:  ucCa:       pra:{#pra#}, to wipe off. 
+ 6665:  uYJa:       pra:{#pra#}, to escape or avoid. 
+ 9482:  kala:      pari:{#pari#}, To keep in mind, to think or remembe ...
+ 9482:  kala:        vi:{#vi#}, To maim, to separate a part, to make d ...
+ 9482:  kala:       sam:{#sama#}, To sum up, to add. 
+10309:  kASa:       pra:{#pra#}, To make or become manifest. 
+10769:  kupa:       pra:{#pra#}, to be very much enraged. r. 10th cl.  ...
+11079:  kuza:       ava:{#ava#}, to prove, to display;
+11079:  kuza:       nir:{#nir#}, to extract. 
+11243:    kf:       ati:{#ati#}, ({#atikurute#}) To exceed, to do more ...
+11243:    kf:       aDi:{#aDi#}, ({#aDikurute#}) 
+11243:    kf:       upa:{#upa#}, and {#sa#} inserted ({#upaskurute#},  ...
+11243:    kf:      pari:{#pari#}, and {#sa#} inserted ({#parizkaroti#} ...
+11458:  kfza:       apa:{#apa#}, 
+11458:  kfza:       ava:{#ava#}, 
+11458:  kfza:         A:{#AN#}, To attract, to draw to.
+11458:  kfza:        ud:{#ut#}, 
+11458:  kfza:       sam:{#sama#}, To draw together.
+11553:    kF:       ava:{#ava#}, To throw, to cast. 
+11553:    kF:         A:{#AN#}, To fill up, to cover over. 
+11553:    kF:     prati:{#prati#}, To hurt, to injure. 
+11553:    kF:        vi:{#vi#}, To throw, to caste, to send, to scatte ...
+11553:    kF:       sam:{#sama#}, To gather, to collect. 
+11553:    kF:       aBi:{#aBi#}, in the passive voice, to be upset, ov ...
+11953: krama:         A:{#AN#}, ({#Akramate#}) To rise as the sun, &c. ...
+11953: krama:        ud:{#ut#}, ({#utkrAmati#}) To transgress.
+11953: krama:       upa:{#upa#}, ({#upakrAmati#}) To depart. ({#upakra ...
+11953: krama:       nir:{#nir#}, ({#nizkrAmati#}) To go forth.
+11953: krama:       pra:{#pra#}, ({#prakrAmati#}) To depart, to go or  ...
+11953: krama:      pari:{#pari#}, ({#parikrAmati#}) To wander about, t ...
+11953: krama:        vi:{#vi#}, ({#vikrAmati#}) 
+11953: krama:       sam:{#sam#}, ({#saMkrAmati#}) to remove. 
+12059: kruSa:         A:{#AN#}, To revile, to abuse or censure.
+12059: kruSa:       upa:{#upa#}, To reproach.
+12059: kruSa:       pra:{#pra#}, To cry aloud, to shout. 
+12266: kzara:       sam:{#saM#}, To flow.
+12266: kzara:         A:{#A#}, r. of the 10th cl. ({#AkzArayati#}) To  ...
+12337: kzipa:       ava:{#ava#}, To throw down.
+12337: kzipa:         A:{#AN#}. 
+12337: kzipa:        ud:{#ut#}, To raise up, &c.
+12337: kzipa:        ni:{#ni#}, To place, to deposit.
+12337: kzipa:       pra:{#pra#}, To throw far or violently.
+12337: kzipa:        vi:{#vi#}, To scatter, to disperse.
+12337: kzipa:       sam:{#sam#}. 
+12922:   KyA:         A:{#A#}, To be famous.
+12922:   KyA:        vi:{#vi#}, To celebrate.
+12922:   KyA:        su:{#su#}, To be approved.
+12922:   KyA:        ku:{#ku#}, To be infamous. With  {#prati#} and {# ...
+12922:   KyA:       sam:{#sam#}, To count, to reckon.
+13244:  gama:       aDi:{#aDi#}, 
+13244:  gama:       apa:{#apa#}, To go back or away, to separate.
+13244:  gama:       ava:{#ava#}, To know, to understand.
+13244:  gama:        ud:{#ut#}, 
+13244:  gama:       upa:{#upa#}, 
+13244:  gama:       dur:{#dur#}, To go with difficulty.
+13244:  gama:        ni:{#ni#}, To acquire knowledge.
+13244:  gama:       nir:{#nir#}, To go forth or out.
+13244:  gama:      pari:{#pari#}, 
+13244:  gama:        vi:{#vi#}, To go against as an enemy.
+13244:  gama:       sam:{#sam#}, ({#saMgacCate#}) 
+13244:  gama:        su:{#su#}, 
+13369:  gala:        vi:{#vi#}, 
+13516:  gAha:        vi:{#vi#}, To shake, to agitate. 
+14185: graha:       ava:{#ava#}, To oppose.
+14185: graha:        ud:{#ut#}, To deposit, to trust.
+14185: graha:       upa:{#upa#}, To provide. 
+14185: graha:        ni:{#ni#}, 
+14185: graha:      pari:{#pari#}, To lay hold of, to seize.
+14185: graha:     prati:{#prati#}, 
+14185: graha:        vi:{#vi#}, To quarrel, to fight.
+14185: graha:       sam:{#sam#}, To collect, to assemble. 
+14332: Gawwa:        vi:{#vi#}, To rub gently, to scratch. 
+14807:  cama:        vi:{#vi#}, ({#vicamati#}) To eat. 
+14838:  cara:       aBi:{#aBi#}, 
+14838:  cara:       anu:{#anu#}. 
+14838:  cara:         A:{#AN#}, 
+14838:  cara:        ud:{#ut#}, ({#uccarate#}) 
+14838:  cara:       upa:{#upa#}, 
+14838:  cara:      pari:{#pari#}, To serve.
+14838:  cara:       pra:{#pra#}, 
+15083:    ci:       apa:{#apa#}, To lose, to squander.
+15083:    ci:       nir:{#nir#}, To determine.
+16386:  jIva:         A:{#AN#}, To use or enjoy, to get a living.
+16386:  jIva:       upa:{#upa#}, To be dependant on for a living.
+16521:   jYA:       apa:{#apa#}, To conceal.
+16521:   jYA:       ava:{#ava#}, To disrespect, to despise.
+16521:   jYA:       upa:{#upa#}, To deny knowledge of any thing.
+16521:   jYA:      pari:{#pari#}, To ascertain.
+16521:   jYA:       pra:{#pra#}, To know well.
+16521:   jYA:        vi:{#vi#}, To discriminate, to know.
+16521:   jYA:       sam:{#sam#}, To recollect or possess the power of  ...
+16787:    qI:        ud:{#ut#}, To fly up, to soar.
+16787:    qI:      pari:{#pari#}, To fly round.
+16787:    qI:       pra:{#pra#}, To fly well or swiftly.
+16787:    qI:       sam:{#sam#}, To fly well or in flocks.
+16819:  Rama:       pra:{#pra#}, To bow, to salute.
+16819:  Rama:        ud:{#ut#}, To lift up, to raise, to make straight ...
+16835:    RI:       anu:{#anu#}, 
+16835:    RI:       apa:{#apa#}, 
+16835:    RI:       aBi:{#aBi#}, 
+16835:    RI:         A:{#AN#}, To bring. 
+16835:    RI:        ud:{#ut#}, To raise up. 
+16835:    RI:       upa:{#upa#}, To approach, to go near to, (see also ...
+16835:    RI:       dur:{#dur#}, To act or behave wickedly. 
+16835:    RI:       nir:{#nir#}, 
+16835:    RI:      pari:{#pari#}, 
+16835:    RI:       pra:{#pra#}, 
+16835:    RI:        vi:{#vi#}, 
+16835:    RI:       sam:{#sam#}, 
+16839:  Ruda:       apa:{#apa#}, To remove.
+16839:  Ruda:       nir:{#nir#}, 
+16839:  Ruda:        vi:{#vi#}, To be happy.
+17852:    tF:         A:{#AN#}, To cross by a boat, &c.
+17852:    tF:        ud:{#ut#}, 
+17852:    tF:       dur:{#dur#}, To cross with difficulty.
+17852:    tF:       nir:{#nir#}, To cross safely, to obtain salvation.
+17852:    tF:       pra:{#pra#}, To excel or surpass.
+17852:    tF:        vi:{#vi#}, 
+17852:    tF:       sam:{#sam#}, To swim over. 
+18669:  daSa:       upa:{#upa#}, to be in trouble, to be reduced in ci ...
+18669:  daSa:       sam:{#sam#}, to pinch, to nip, to bite. 
+18752:    dA:       pra:{#pra#}, To give, to give to.
+19039:  diSa:         A:{#AN#}, 
+19039:  diSa:        ud:{#ud#}, 
+19039:  diSa:       upa:{#upa#}, To point out (literally or metaphoric ...
+19039:  diSa:       nir:{#nir#}, 
+19039:  diSa:       pra:{#pra#}, To appoint, to order.
+19039:  diSa:       sam:{#sam#}, 
+19989:   dru:       aBi:{#aBi#}, To swim, to float, to descend.
+19989:   dru:         A:{#AN#}, To flee.
+19989:   dru:       upa:{#upa#}, To oppress, to destroy.
+19989:   dru:       pra:{#pra#}, To fly, to retreat, to run away.
+19989:   dru:        vi:{#vi#}, 
+20521:    DA:       api:{#api#}, To cover.
+20521:    DA:       aBi:{#aBi#}, 
+20521:    DA:       ava:{#ava#}, 
+20521:    DA:         A:{#AN#}, To take, to receive.
+20521:    DA:       upa:{#upa#}, 
+20521:    DA:        ni:{#ni#}, 
+20521:    DA:      pari:{#pari#}, To assume, to put on, as clothes, &c ...
+20521:    DA:       pra:{#pra#}. 
+20521:    DA:        vi:{#vi#}, 
+20521:    DA:       sam:{#sama#}, 
+20521:    DA:       upa:{#upa#}, To understand. 
+20617:  DAva:       anu:{#anu#}, 
+20617:  DAva:         A:{#AN#}, To alight.
+20617:  DAva:      pari:{#pari#}, To run fast.
+20617:  DAva:        vi:{#vi#}, To shed or sprinkle.
+20641:    DI:     antar:{#antar#}, To disappear, to become invisible. 
+20688:    DU:       nir:{#nir#}, 
+20688:    DU:        vi:{#vi#}, To make tremble or agitate. 
+21009:  nada:     prati:{#prati#}, To be thankful. 
+22921:  pawa:        vi:{#vi#}, To fly, to run away. 
+23013:  pata:         A:{#AN#}, To arrive, to come.
+23013:  pata:        ud:{#ut#}, To ascend.
+23013:  pata:        ni:{#ni#}, To gain or get. 
+23013:  pata:       nir:{#nir#}, To abscond.
+23013:  pata:      pari:{#pari#}, 
+23013:  pata:       sam:{#sam#}, 
+23124:  pada:       anu:{#anu#}, To follow.
+23124:  pada:         A:{#AN#}, 
+23124:  pada:        ud:{#ut#}, To be born or produced.
+23124:  pada:       upa:{#upa#}, 
+23124:  pada:       pra:{#pra#}, 
+23124:  pada:     prati:{#prati#}, 
+23124:  pada:        vi:{#vi#}, To suffer misfortune or pain.
+23124:  pada:       sam:{#sam#}, 
+25304:  pUja:       sam:{#sam#}, to pay respect to. 
+27366:   plu:        vi:{#vi#}, To plunge in, to be submerged or inund ...
+27599: banDa:       anu:{#anu#}, 
+27599: banDa:        ni:{#ni#}, to disunite.
+27599: banDa:       sam:{#sama#}, to connect. 
+27932:  buDa:     prati:{#prati#}, to look for, expect.
+28182:  BaRa:     prati:{#prati#}, to reply. 
+28378:    BA:         A:{#AN#}, to flash.
+28669:    BU:       aDi:{#aDi#}, To rule or preside over.
+28669:    BU:       anu:{#anu#}, 
+28669:    BU:       aBi:{#aBi#}, 
+28669:    BU:        ud:{#ut#}, To be born or produced.
+28669:    BU:      parA:{#parA#}, To be vanquished.
+28669:    BU:       pra:{#pra#}, 
+28669:    BU:     prati:{#prati#}, To be substituted for.
+28669:    BU:      pari:{#pari#}, 
+28669:    BU:        vi:{#vi#}, 
+28669:    BU:       sam:{#saM#}, 
+28960: Brama:      pari:{#pari#}, To wander about.
+28960: Brama:        vi:{#vi#}, To play, to wanton.
+28960: Brama:       sam:{#sam#}, 
+29221: matra:         A:{#AN#}, To address or salute.
+29221: matra:        ni:{#ni#}, To invite. 
+29446:  mana:       aBi:{#aBi#}, To desire.
+29446:  mana:       ava:{#ava#}, To disrespect.
+29446:  mana:       sam:{#sama#}, To concur, to agree. 
+30523:  muca:       pra:{#pra#}, To give much.
+30523:  muca:        vi:{#vi#}, 
+30885:  mfSa:      parA:{#parA#}, To counsel, to advise.
+30885:  mfSa:        vi:{#vi#}, To consider, to discuss. 
+30886:  mfza:         A:{#AN#}, To be angry.
+30886:  mfza:        vi:{#vi#}, To be distressed, to bear hardly. 
+31283:  yama:        ud:{#ut#}, 
+31283:  yama:         A:{#AN#}, prefix, ({#AyacCate#}) To put forth, t ...
+31283:  yama:       sam:{#sam#}, ({#saMyacCate#}) To heap together any ...
+31283:  yama:       upa:{#upa#}, ({#upayacCate#}) 
+31364:  yasa:       nir:{#nir#}, To exude. 
+31368:    yA:       aBi:{#aBi#}, To approach, to reach.
+31368:    yA:         A:{#AN#}, To come, to arrive.
+31368:    yA:       upa:{#upa#}, To give way, to yield.
+31368:    yA:       nir:{#nir#}, 
+31368:    yA:       pra:{#pra#}, To go to.
+31368:    yA:     prati:{#prati#}, To go to or towards.
+31496:  yuja:       aBi:{#aBi#}, 
+31496:  yuja:        ud:{#ut#}, To make effort.
+31496:  yuja:       upa:{#upa#}, 
+31496:  yuja:        ni:{#ni#}, 
+31496:  yuja:       pra:{#pra#}, 
+31496:  yuja:        vi:{#vi#}, 
+31496:  yuja:       sam:{#sam#}, To unite, to combine.
+31723: rakza:      pari:{#pari#}, To save from ruin. 
+32048:  raha:        vi:{#vi#}, To be separate or away from. ({#i#}) { ...
+32249:  rADa:         A:{#AN#}, To worship, to propitiate by worship. 
+32340:  rica:        vi:{#vi#}, To purge. 
+32433:  ruDa:       ava:{#ava#}, To guard.
+32433:  ruDa:       upa:{#upa#}, To blockade.
+32455:  ruha:       ava:{#ava#}, To descend.
+32455:  ruha:         A:{#AN#}. 
+32455:  ruha:       pra:{#pra#}, To grow, to shoot forth as a branch o ...
+32659: lakza:       sam:{#sam#}, To know, to understand. 
+32778:  lapa:       apa:{#apa#}, To deny.
+32778:  lapa:         A:{#AN#}, To address, to speak to,
+32778:  lapa:       pra:{#pra#}, To talk incuherently.
+32778:  lapa:     prati:{#prati#}, To gain, to get.
+32778:  lapa:        vi:{#vi#}, To lament, to bewail.
+32778:  lapa:       sam:{#sama#}, 
+32781:  laba:         A:{#AN#}, To trust in, to depend on.
+32781:  laba:        vi:{#vi#}, To delay, to detain. 
+32862:  lasa:        vi:{#vi#}, To gambol, to sport, especially amorou ...
+32985:    lI:         A:{#AN#}, To waste away.
+33119:  loca:         A:{#AN#}, To consider. 
+33347:  vaca:       pra:{#pra#}, To begin to speak. 
+33461:  vada:       anu:{#anu#}, ({#anuvadate#}) To speak similarly or ...
+33461:  vada:       aBi:{#aBi#}, To salute respectfully or by name.
+33461:  vada:       upa:{#upa#}, ({#upavadate#}) To explain.
+33461:  vada:       nir:{#nir#}, To speak out or  
+33461:  vada:      pari:{#pari#}, ({#parivadati#}) To speak against.
+33461:  vada:       pra:{#pra#}, To rumour, to slander.
+33461:  vada:     prati:{#prati#}, ({#prativadati#}) To reply to or an ...
+33461:  vada:        vi:{#vi#}, ({#vivadate#}) To dispute.
+33980:  vasa:       upa:{#upa#}, To fast.
+33980:  vasa:        ni:{#ni#}, 
+33980:  vasa:       pra:{#pra#}, To dwell abroad.
+33980:  vasa:       sam:{#sam#}, To cohabit. 
+35063:  vida:       sam:{#sam#}, ({#saMvitte#}) To meditate, to know,  ...
+35063:  vida:        ni:{#ni#}, or {#vi#} and {#ni#} prefixed, To deli ...
+35063:  vida:     prati:{#prati#}, To deliver, to give. ({#O x#}) {#O# ...
+35063:  vida:      pari:{#pari#}, To marry first. 
+35838:  viSa:       upa:{#upa#}, 
+35838:  viSa:        ni:{#ni#}, 
+35838:  viSa:       nir:{#nir#}, To go out or forth.
+35838:  viSa:      pari:{#pari#}, To, place before, to present.
+35838:  viSa:       sam:{#sama#}, To lie down, to repose.
+36408:    vf:         A:{#AN#}, To inclose, to cover, to surround.
+36408:    vf:      pari:{#pari#}, 
+36408:    vf:        vi:{#vi#}, To become evident or apparent, to open ...
+36408:    vf:       sam:{#sam#}, To conceal.
+36458:  vfja:       apa:{#apa#}, To relinquish. 
+36466:  vfta:       anu:{#anu#}, 
+36466:  vfta:       apa:{#apa#}, To turn back or round.
+36466:  vfta:         A:{#AN#}, 
+36466:  vfta:        ni:{#ni#}, To make artificially.
+36466:  vfta:      pari:{#pari#}, 
+36466:  vfta:       pra:{#pra#}, To engage in any active pursuit.
+36466:  vfta:        vi:{#vi#}, 
+37412: SaMsa:       pra:{#pra#}, To praise, to flatter; this root and  ...
+37419:  Saka:         A:{#AN#}, to dread. 
+37706:  Sama:        ni:{#ni#}, 
+37706:  Sama:       pra:{#pra#}, 
+39229:   Sru:        vi:{#vi#}, To be famous. 
+39366: Svasa:        ud:{#ut#}, 
+39366: Svasa:       nir:{#nir#}, 
+39366: Svasa:        vi:{#vi#}, To have trust or faith in. 
+39455: zaYja:         A:{#AN#}, to be attached or devoted to. ({#u#})  ...
+39499:  zada:         A:{#AN#}, To obtain, to attain, to reach or arri ...
+39499:  zada:        ud:{#ut#}, 
+39499:  zada:       upa:{#upa#}, To approach.
+39499:  zada:        ni:{#ni#}, 
+39499:  zada:       pra:{#pra#}, 
+39499:  zada:        vi:{#vi#}, To be languid or sorrowful.
+39499:  zada:       sam:{#sam#}, 
+39527:  zaha:       pra:{#pra#}, To be violent.
+39527:  zaha:        vi:{#vi#}, To determine.  
+39538:    zi:        vi:{#vi#}, To be an object or purpose. 
+39542:  ziDa:       pra:{#pra#}, To be celebrated or notorious. 
+39547:    zu:       aBi:{#aBi#}, 
+39547:    zu:       pra:{#pra#}, To bear or bring forth. 
+39602:   zWA:     prati:{#prati#}, ({#pratitizWati#}) To be erected fo ...
+42675:    sf:       apa:{#apa#}, To go back, to withdraw or remove.
+42675:    sf:       aBi:{#aBi#}, 
+42675:    sf:       upa:{#upa#}, To approach, to advance;
+42675:    sf:       nir:{#nir#}, To go forth or out.
+42675:    sf:       pra:{#pra#}, 
+42675:    sf:        vi:{#vi#}, 
+42682:  sfja:       sam:{#sam#}, To unite, to be in alliance or contac ...
+42693:  sfpa:       apa:{#apa#}, To go from, to depart.
+42693:  sfpa:       upa:{#upa#}, To go near. 
+43320: spfSa:       upa:{#upa#}, 
+43911:  hana:       aBi:{#aBi#}, To sound a musical instrument.
+43911:  hana:         A:{#AN#}, To smite.
+43911:  hana:       pra:{#pra#}, 
+43911:  hana:     prati:{#prati#}, To refute or destroy, an opposite a ...
+43911:  hana:       sam:{#sam#}, To slaughter: ({#Gan#} or {#Dna#} is  ...
+44370:    hf:       apa:{#apa#}, 
+44370:    hf:       aBi:{#aBi#}, To assault.
+44370:    hf:       ava:{#ava#}, 
+44370:    hf:        ud:{#ut#}, 
+44370:    hf:       upa:{#upa#}, 
+44370:    hf:       nir:{#nir#}, To shew disrespect.
+44370:    hf:      pari:{#pari#}, 
+44370:    hf:       pra:{#pra#}, To strike.
+44370:    hf:        vi:{#vi#}, To sport, to ramble for pleasure.
+44370:    hf:        vi:{#vi#}, or {#vi#} and {#AN#}, To say, to utter ...
+44370:    hf:       sam:{#sam#}, To kill.
+44370:    hf:       sam:{#sam#}, or {#sam#} and {#AN#}, To collect, to ...
+; code = 1a,  91 cases
+ 4195:   aSa:       pra:{#pra#} prefixed, to begin to eat. 
+ 4449:   asa:       anu:{#anu#} prefixed, to sit down:
+ 6028:   Asa:       aDi:{#aDi#} prefixed. 
+ 6163:     i:        ud:{#ut#} prefixed, to rise or ascend, as the sun ...
+ 6403:   iza:       anu:{#anu#} prefixed, to search after, to investig ...
+ 6525:   Iha:       sam:{#sam#} prefixed, to wish, to desire. 
+ 6615:  ucCa:        vi:{#vi#} prefixed, ({#vyucCati#}) 
+ 8657:  kaWa:        ud:{#ud#} prefixed, to regret or miss, to lament, ...
+ 8940:  kapa:       anu:{#anu#} prefixed, to feel tenderness or compas ...
+ 9482:  kala:         A:{#AN#} prefixed, 
+10309:  kASa:       nir:{#nir#} prefixed, To expel, 
+10905:  kula:         A:{#AN#} prefixed, to be attentive;
+11168:  kUja:      pari:{#pari#} prefixed, to moan. 
+11553:    kF:       apa:{#apa#} prefixed, 
+12059: kruSa:       anu:{#anu#} prefixed, To feel for, to sympathise w ...
+12922:   KyA:       aBi:{#aBi#} prefixed, To shine or be glorious.
+13244:  gama:       anu:{#anu#} prefixed, To follow, to imitate.
+13369:  gala:       ava:{#ava#} prefixed, To fall, to fall down or off ...
+14159:granTa:        ud:{#ud#} prefixed, To untie, to loosen. 
+14185: graha:       anu:{#anu#} prefixed, To favour, to shew kindness  ...
+14332: Gawwa:      pari:{#pari#} prefixed, To spread or diffuse.
+14467:  Guza:         A:{#AN#} prefixed, To weep incessantly. 
+14807:  cama:         A:{#AN#} prefixed, ({#AcAmati#}) To sip as water ...
+14838:  cara:        vi:{#vi#} prefixed, To discuss, to dispute, to re ...
+15866:  japa:       upa:{#upa#} prefixed, To divide. 
+16521:   jYA:       anu:{#anu#} prefixed, 
+16760:  qaba:        vi:{#vi#} prefixed, to deceive, to disgrace. 
+16787:    qI:       ava:{#ava#} prefixed, To fly down, to alight.
+16838:    Ru:         A:{#AN#} prefixed ({#Anute#}) To utter a cry of  ...
+17020:  tapa:       anu:{#anu#} prefixed, ({#anutapate#}) To repent, t ...
+17852:    tF:       ava:{#ava#} prefixed, To descend, as from heaven.
+18296: tviza:       ava:{#ava#} prefixed, 
+18752:    dA:       sam:{#sam#} prefixed {#saMyacCate;#}) also ({#qu Y ...
+18752:    dA:         A:{#AN#} prefixed ({#Adatte#}), To take, to acce ...
+19039:  diSa:       apa:{#apa#} prefixed, To change, to disguise.
+19544:  dfSa:        ud:{#ut#} prefixed, 
+19989:   dru:       anu:{#anu#} prefixed, To pursue, to follow.
+20617:  DAva:       aBi:{#aBi#} prefixed, To approach, to come before.
+20688:    DU:       ava:{#ava#} prefixed, 
+21009:  nada:         A:{#AN#} prefixed,) To be happy, to be pleased o ...
+21009:  nada:       aBi:{#aBi#} prefixed, 
+22921:  pawa:        ud:{#ut#} prefixed, To pluck up, to eradicate, to ...
+23013:  pata:       ati:{#ati#} prefixed, To excel or surpass.
+23124:  pada:       aBi:{#aBi#} prefixed, 
+27366:   plu:        ud:{#ut#} prefixed, To leap up.
+27599: banDa:         A:{#AN#} prefixed, To loosen, to let loose.
+29255:  mada:        ni:{#ni#} prefixed, ({#nimAdayati#}) To articulat ...
+29446:  mana:       anu:{#anu#} prefixed, To assent to, to agree.
+30700:  mUla:        ud:{#ud#} prefixed, to root up or out, to eradica ...
+31283:  yama:        ni:{#ni#} prefixed, 
+31364:  yasa:         A:{#AN#} prefixed, To labour.
+31368:    yA:       anu:{#anu#} prefixed, To follow.
+31806: raYja:       anu:{#anu#} prefixed, To be fond of or attached to ...
+32082:  rAja:       nir:{#nir#} prefixed, To overcome, to subdue. 
+32249:  rADa:       apa:{#apa#} prefixed, To offend, to be in fault.
+32340:  rica:       ati:{#ati#} prefixed, To exceed, to be more than e ...
+32455:  ruha:       aDi:{#aDi#} prefixed, To go up or over, to ascend.
+32466:  rUpa:        ni:{#ni#} prefixed, 
+32659: lakza:       upa:{#upa#} prefixed, To remark.
+32778:  lapa:       anu:{#anu#} prefixed, 
+32781:  laba:       ava:{#ava#} prefixed, 
+32792:  laBa:       upa:{#upa#} prefixed. 
+32862:  lasa:        ud:{#ut#} prefixed, 
+32947:  liga:         A:{#AN#} prefixed, To embrace. 
+33461:  vada:       apa:{#apa#} prefixed, ({#apavadati-te#}) To reprov ...
+33980:  vasa:       aDi:{#aDi#} prefixed, To sit upon, to occupy.
+34122:    vA:       nir:{#nir#} prefixed, To blow out, to extinguish. 
+34913:  vija:        ud:{#ud#} prefixed {#udvijate#}) also r. 7th cl.  ...
+35063:  vida:        ni:{#ni#} prefixed, To be sad or depressed.
+36288:    vI:       sam:{#sam#} prefixed, To invest, to inclose, to co ...
+36408:    vf:       apa:{#apa#} prefixed, To cover, to screen, to shie ...
+36466:  vfta:       ati:{#ati#} prefixed, 
+37346: vraja:      pari:{#pari#} prefixed, To wander about, as a mendi ...
+37412: SaMsa:       aBi:{#aBi#} prefixed, To accuse wrongfully.
+37706:  Sama:       upa:{#upa#} prefixed, To tranquillize, to allay, t ...
+38878:    SF:        vi:{#vi#} prefixed, pass. v. ({#viSIryyate#}) To  ...
+39170:   Sri:         A:{#AN#} prefixed, 
+39366: Svasa:         A:{#AN#} prefixed, To recover or revive, to cons ...
+39455: zaYja:       ava:{#ava#} prefixed, to hand down from, to be sus ...
+39499:  zada:         A:{#AN#} prefixed, {#Ozadx#} r. 1st and 10th cls ...
+39499:  zada:       ava:{#ava#} prefixed, 
+39527:  zaha:        ud:{#ut#} prefixed, 
+39539:  zica:       aBi:{#aBi#} prefixed, 
+39602:   zWA:       aDi:{#aDi#} prefixed, ({#aDitizWati#}) 
+42675:    sf:       anu:{#anu#} prefixed, 
+42918:skanda:       ava:{#ava#} prefixed, To assail, to assault. 
+43018:   stf:        vi:{#vi#} prefixed. 
+43456:   smf:        vi:{#vi#} prefixed, To forget. 
+43471:syanda:       anu:{#anu#} prefixed, {#anuzyandate#} or {#anusyan ...
+43827:   svf:       sam:{#sam#} prefixed, in an intransitive sense, th ...
+44370:    hf:       anu:{#anu#} prefixed, To imitate.
+; code = 1b,  28 cases
+11243:    kf:       anu:{#anu#} ({#anukaroti#}) To copy, to imitate, t ...
+11243:    kf:       apa:{#apa#} ({#apakurute#}) 
+11243:    kf:         A:{#AN#} ({#Akurute#}) 
+11243:    kf:        ud:{#ut#} ({#utkurute#}) 
+11243:    kf:       upa:{#upa#} ({#upakurute#}) To befriend, to serve  ...
+11243:    kf:     tiras:{#tiras#} ({#tiraskaroti#}) To abuse, to revil ...
+11243:    kf:       dur:{#dur#} ({#duzkaroti#}) To do evil. 
+11243:    kf:       pra:{#pra#} ({#prakurute#}) 
+11243:    kf:     prati:{#prati#} ({#pratikurute#}) 
+11243:    kf:        vi:{#vi#} ({#vikurute#}) 
+11243:    kf:       sam:{#sama#} ({#saMskaroti#}) 
+11243:    kf:        su:{#su#} ({#sukaroti#}) To do well. 
+11953: krama:       ati:{#ati#} ({#atikrAmati#}) 
+11953: krama:       anu:{#anu#} ({#anukramate#}) To proceed regularly  ...
+11953: krama:       aBi:{#aBi#} ({#aBikrAmati#}) 
+11953: krama:       apa:{#apa#} ({#apakramate#}) To go away, to depart ...
+13244:  gama:         A:{#AN#} ({#AgacCati#}) 
+13910:    gE:        vi:{#vi#} ({#vigAyati#}) To assert repeatedly. 
+14838:  cara:       sam:{#sam#} ({#saYcarate#}) 
+39602:   zWA:       anu:{#anu#} ({#anutizWati#}) 
+39602:   zWA:       ava:{#ava#} ({#avatizWati-te#}) 
+39602:   zWA:         A:{#AN#} ({#AtizWate#}) 
+39602:   zWA:        ud:{#ut#} ({#uttizWate#}) 
+39602:   zWA:       upa:{#upa#} ({#upatizWati-te#}) 
+39602:   zWA:        ni:{#ni#} ({#nitizWate#}) To be established.
+39602:   zWA:       pra:{#pra#} ({#pratizWate#}) 
+39602:   zWA:        vi:{#vi#} ({#vitizWate#}) 
+39602:   zWA:       sam:{#sam#} ({#santizWate#}) 
+; code = 1c,  10 cases
+ 3039:   aya:     prati:{#prati#} to believe, to rely on. A prepositio ...
+ 6163:     i:       apa:{#apa#} 
+10574:  kuca:        ud:{#ut#} to bribe;
+12035: krIqa:       sam:{#sam#} implies inarticulate sound, as {#taman ...
+16839:  Ruda:       sam:{#saM#} in the causal To drive, (as horses.) 
+37412: SaMsa:         A:{#AN#} 
+39602:   zWA:       pra:{#pra#} in the causal ({#prasTApayati#}) To se ...
+44370:    hf:        ni:{#ni#} changed to {#nI#}, To freeze.
+44370:    hf:     prati:{#prati#} changed to {#pratI#}, To keep watch.
+44578:   hve:         A:{#AN#} if rivalry be signified, ({#Ahvayate#}) ...
+; code = 2, 123 cases
+ 4449:   asa:   paryupa:{#pari#} and {#upa#}, to sit around:
+ 4449:   asa:       vyA:{#vi#} and {#AN#}, to class, to arrange:
+ 4449:   asa:     saMni:{#sama#} and {#ni#}, to abandon the world:
+ 6028:   Asa:    pranir:{#pra#} and {#nir#}, to reject, to refute, to  ...
+ 6163:     i:     aByud:{#aBi#} and {#ut#} the same, or to rise in the ...
+ 6163:     i:    aByupa:{#aBi#} and {#upa#}, To arrive.
+ 6163:     i:    samupa:{#sama#} and {#upa#}, To obtain, &c. 
+ 6444:  Ikza:   pratyud:{#prati#} and {#ut#}, to look up at. 
+ 7860:   uha:     vyapa:{#vi#} and {#apa#} pre, to destroy, to remove. ...
+10574:  kuca:       vyA:{#vi#} and {#A#}, to expand. 
+10905:  kula:       vyA:{#vi#} and {#AN#} to be bewildered, flurried o ...
+11243:    kf:       udA:{#ud#} and {#AN#} ({#udAkurute#}) To reproach. ...
+11243:    kf:      nirA:{#nir#} and {#AN#} ({#nirAkurute#}) 
+11243:    kf:      parA:{#para#} and {#AN#} ({#parAkaroti#}) To act we ...
+11243:    kf:  pratyupa:{#prati#} and {#upa#} ({#pratyupakurute#}) To  ...
+11243:    kf:       vyA:{#vi#} and {#AN#} ({#vyAkurute#}) 
+11458:  kfza:     saMni:{#sama#} and {#ni#}, To bring near or close to ...
+11953: krama:      parA:{#para#} and {#AN#} ({#parAkramati#}) To displ ...
+11953: krama:       vyA:{#vi#} and {#AN#} ({#vyAkramate#}) To transgre ...
+12337: kzipa:      vini:{#vi#} and {#ni#}, To deliver over, to resign, ...
+12337: kzipa:      samA:{#sama#} and {#AN#}, To remove, to send away.
+12922:   KyA:      samA:{#saM#} and {#A#}, To denominate. 
+13244:  gama:       upA:{#upa#} and {#AN#}, To approach.
+13244:  gama:    paryud:{#pari#} and {#ut#}, To rise as from a seat, & ...
+13244:  gama:    pratyA:{#prati#} and {#AN#}, To return or arrive at.
+13244:  gama:      samA:{#sama#} and {#AN#} To meet, to unite.
+13244:  gama:    samupa:{#sama#} and {#upa#}, To submit to, to yield.
+13897:    gF:     samud:{#sam#} and {#ut#}, 
+14838:  cara:      atyA:{#ati#} and {#AN#} prefixed, To transgress, to ...
+14838:  cara:     vyaBi:{#vi#} and {#aBi#}, To go astray, to act wicke ...
+14838:  cara:      samA:{#sama#} and {#AN#}, 
+15083:    ci:     vinir:{#vi#} and {#nira#}, To determine exactly. ({# ...
+16521:   jYA:  pratyaBi:{#prati#} and {#aBi#}, To recognise.
+16787:    qI:     samud:{#sam#} and {#ut#}, To fly up by degrees. 
+16835:    RI:     vyapa:{#vi#} and {#apa#}, To remove, to dispel, to d ...
+16835:    RI:     vinir:{#vi#} and {#nir#}, To decide by law. 
+16835:    RI:    samanu:{#sam#} and {#anu#}, To intreat. 
+16835:    RI:      samA:{#sama#} and {#AN#}, To assemble, to collect,  ...
+16845:  taka:     vyati:{#vi#} and {#ati#} prefixed, and implying reci ...
+18752:    dA:       vyA:{#vi#} and {#AN#}, To open.
+18752:    dA:      samA:{#sama#} and {#AN#}, To select. ({#pa#}) {#dAp ...
+19039:  diSa:  pratisam:{#prati#} and {#sam#}, To command, to return,  ...
+19039:  diSa:     vyapa:{#vi#} and {#apa#}, To plead in excuse, to sta ...
+19039:  diSa:     vinir:{#vi#} and {#nir#}, To declare.
+19039:  diSa:      samA:{#sam#} and {#AN#}, To approve, to permit.
+19039:  diSa:    samupa:{#sama#} and {#upa#}, To point out at a distan ...
+19385:  duza:       prA:{#pra#} and {#AN#} prefixed, To become manifes ...
+19989:   dru:      samA:{#sam#} and {#AN#}, To run together.
+19989:   dru:    samupa:{#sam#} and {#upa#}, To flee. 
+20521:    DA:    anusam:{#anu#} and {#sam#} prefixed, To search after.
+20521:    DA:    aBisam:{#aBi#} and {#sama#}, To overcome.
+20521:    DA:       upA:{#upa#} and {#AN#}, To support.
+20521:    DA:     prani:{#pra#} and {#ni#}, 
+20521:    DA:   prativi:{#prati#} and {#vi#}, To do, to perform.
+20521:    DA:     vyava:{#vi#} and {#ava#}, To hide, to veil, to conce ...
+20521:    DA:    sampra:{#sama#} and {#pra#}, To doubt, to discuss; (a ...
+20521:    DA:  pratisam:{#prati#} and {#sam#}.)
+20521:    DA:      samA:{#sama#} and {#AN#}, To instruct, to teach.
+20521:    DA:     saMni:{#sama#} and {#ni#}, To place or have near at  ...
+20617:  DAva:   samugra:{#sam#} and {#ugra#}, To run to meet. 
+21009:  nada:     vyanu:{#vi#} and {#anu#}, To fill with noise or soun ...
+23013:  pata:     prani:{#pra#} and {#ni#}, To fall prostrate, to salu ...
+23013:  pata:     vinir:{#vi#} and {#nir#}, To turn, to turn back.
+23013:  pata:      samA:{#sam#} and {#AN#}, To purify or cleanse.
+23013:  pata:     samud:{#sam#} and {#ut#}, To fly.
+23013:  pata:     saMni:{#sam#} and {#ni#}, To go forth or out. 
+23124:  pada:    upasam:{#upa#} and {#sam#}, To offer oblations.
+23124:  pada:     pravi:{#pra#} and {#vi#}, To establish, to enact.
+23124:  pada:       vyA:{#vi#} and {#AN#}, To injure or kill.
+23124:  pada:      vyud:{#vi#} and {#ut#}, To discriminate, to analyze ...
+23124:  pada:      samA:{#sam#} and {#AN#}, 
+27932:  buDa:   prativi:{#prati#} and {#vi#}, to wake. 
+28518:  BAsa:     prani:{#pra#} and {#ni#} prefixed, To appear to, to  ...
+28669:    BU:     vyati:{#vi#} and {#ati#}, {#vyatiBavate#}, To be mut ...
+31110: mluca:     aBini:{#aBi#} and {#ni#} prefixed, To go down, to se ...
+31283:  yama:       vyA:{#vi#} and {#AN#}, To exercise.
+31283:  yama:     saMni:{#sam#} and {#ni#}, To restrain. In some sense ...
+31368:    yA:   pratyud:{#prati#} and {#ut#}, To meet, to advance to.
+31368:    yA:    samaBi:{#sama#} and {#aBi#}, To approach.
+31368:    yA:      samA:{#sama#} and {#AN#}, To arrive. 
+31496:  yuja:      vini:{#vi#} and {#ni#}, 
+31496:  yuja:     vipra:{#vi#} and {#pra#}, to separate, to part, to d ...
+31496:  yuja:      samA:{#sam#} and {#AN#}, To think profoundly. 
+31806: raYja:     apavi:{#apa#} and {#vi#}, To be averse, to dislike. 
+32414:  ruda:       upA:{#upa#} and {#AN#}, To weep for another, to sy ...
+32433:  ruDa:    aBisam:{#aBi#} and {#sam#} prefixed, To prevent.
+32433:  ruDa:     saMni:{#sam#} and {#ni#}, To shut up, to surround or ...
+32455:  ruha:      aDyA:{#aDi#} and {#AN#}, To ascend.
+32778:  lapa:     vipra:{#vi#} and {#pra#}, To contradict, to dispute.
+32792:  laBa:       upA:{#upa#} and {#AN#}, To revile, to abuse. 
+32985:    lI:     pravi:{#pra#} and {#vi#}, To acquire or gain. 
+33461:  vada:     vipra:{#vi#} and {#pra#}, ({#vipravadati#} or -{#te# ...
+33461:  vada:     visam:{#vi#} and {#saM#}, To break a promise.
+33461:  vada:    sampra:{#sama#} and {#pra#}, ({#sazpravadate#}) To sp ...
+35838:  viSa:     saMni:{#sam#} and {#ni#}, To be near, to be close to ...
+35838:  viSa:      samA:{#sam#} and {#AN#}, To introduce. 
+36408:    vf:      samA:{#sam#} and {#AN#}, To wrap up, to involve. 
+36466:  vfta:   pratini:{#prati#} and {#ni#}, To go away, to depart.
+36466:  vfta:      vini:{#vi#} and {#ni#}, To return.
+36466:  vfta:    vipari:{#vi#} and {#pari#}, To revolve, (in the mind. ...
+36466:  vfta:    samaBi:{#sama#} and {#aBi#}, To leap. 
+39170:   Sri:       apA:{#apa#} and {#AN#}, To quit, to forsake.
+39455: zaYja:       vyA:{#vi#} and {#AN#}, to struggle together.
+39538:    zi:    aDyava:{#aDi#} and {#ava#} prefixed, To accomplish.
+39538:    zi:     vyava:{#vi#} and {#ava#}, To transact as business.
+39602:   zWA:   paryava:{#pari#} and {#ava#} ({#paryyavatizWate#}) To  ...
+39602:   zWA:      prod:{#pra#} and {#ut#} ({#prottizWati#}) To get up ...
+39602:   zWA:     vyava:{#vi#} and {#ava#} ({#vyavatizWate#}) To decre ...
+39602:   zWA:      samA:{#sama#} and {#AN#} ({#samAtizWate#}) To perfo ...
+39602:   zWA:     samud:{#sama#} and {#ut#} ({#samuttizWati#}) To rise ...
+39602:   zWA:    sampra:{#sama#} and {#pra#}, To go forth or on a jour ...
+43911:  hana:       vyA:{#vi#} and {#AN#}, To obstruct, to prevent, to ...
+44370:    hf:      aByA:{#aBi#} and {#AN#}, To reason.
+44370:    hf:     aByud:{#aBi#} and {#ut#}, To deliver.
+44370:    hf:       udA:{#ud#} and {#AN#}, 
+44370:    hf:    upasam:{#upa#} and {#sam#}, To withhold.
+44370:    hf:      nirA:{#nir#} and {#AN#}, To fast.
+44370:    hf:    pratyA:{#prati#} and {#AN#}, To think abstractedly by ...
+44370:    hf:  pratisam:{#prati#} and {#sam#}, To disregard, to abando ...
+44370:    hf:     vyava:{#vi#} and {#ava#}, 
+44370:    hf:    samupa:{#sam#} and {#upa#}, 
+44370:    hf:    sampra:{#sam#} and {#pra#}, To fight.
+44370:    hf:     vyati:{#vi#} and {#ati#} prefixed and implying recip ...
+; code = 3,  12 cases
+ 6444:  Ikza:    ud,upa:{#ut#} or {#upa#}, to expect or await;
+15083:    ci:   upa,sam:{#upa#} or {#sam#}, To collect or acquire.
+16386:  jIva:   sam,pra:{#saM#} or {#pra#}, To live agreeably. 
+16521:   jYA: prati,sam:{#prati#} or {#sam#}, To assent, to admit, to  ...
+23013:  pata:   aBi,ava:{#aBi#} or {#ava#}, To descend.
+25199:  puza:  pari,sam:{#pari#} or {#sam#}, to cherish much, or bring ...
+28378:    BA:    pra,vi:{#pra#} or {#vi#}, to shine brightly. 
+32433:  ruDa:  prati,vi:{#prati#} or {#vi#}, To oppose, to resist.
+33027:  luBa:   pra,sam:{#pra#} or {#saM#}, To attract or allure. 
+36408:    vf:    ni,nir:{#ni#} or {#nir#}, To cease, to refrain from,  ...
+36466:  vfta:    ni,nir:{#ni#} or {#nir#}, To stop, to cease, to compl ...
+43911:  hana:   ni,pari:{#ni#} or {#pari#}, To destroy, entirely.
+; code = 3a,  14 cases
+13516:  gAha:    ava,vi:{#ava#} or {#vi#} prefixed, To bathe, to perfo ...
+13897:    gF:    nir,ud:{#nir#} or {#ut#} prefixed, To reject, to vomi ...
+13910:    gE:    ud,pra:{#ud#} or {#pra#} prefixed; ({#udgAyati pragAy ...
+16280:    ji:   vi,parA:{#vi#} or {#parA#} prefixed, ({#vijayate parAj ...
+20761:    Df:   apa,nir:{#apa#} or {#nir#} prefixed, To verify, to mak ...
+30183:  mAna:   apa,ava:{#apa#} or {#ava#} prefixed, to treat with dis ...
+30801:  mfja:   apa,pra:{#apa#} or {#pra#} prefixed, 
+31195:  yata:    nir,ni:{#nir#} or {#ni#} prefixed, To chastise, to pu ...
+32688:  laGa:     ud,vi:{#ut#} or {#vi#} prefixed, To go beyond or ove ...
+35838:  viSa:     A,pra:{#AN#} or {#pra#} prefixed, 
+39542:  ziDa:  ni,prati:{#ni#} or {#prati#} prefixed, ({#nizeDati#}  { ...
+42682:  sfja:     ud,vi:{#ut#} or {#vi#} prefixed, To abandon, to quit ...
+43599: svana:    vi,ava:{#vi#} or {#ava#} prefixed, in a limited sense ...
+44515:   hnu:    apa,ni:{#apa#} or {#ni#} prefixed, To conceal, to hid ...
+; code = 3b,   1 cases
+17020:  tapa:  pari,sam:{#pari#} or {#sam#} ({#paritapati santapati#}, ...
+; code = 4,   1 cases
+16819:  Rama: ava,A,sam:{#ava#} or {#AN#} or {#sam#} prefixed, To bend ...
