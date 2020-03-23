@@ -124,3 +124,6 @@ some of the spelling conventions of MW come into play.
 682 upasargas found in 157 WIL entries
 
 ---------------------------------------------------------------
+wil_preverb1_deva.txt  Devanagari version of wil_preverb1.txt
+python transcode_preverb1.py deva wil_preverb1.txt wil_preverb1_deva.txt
+

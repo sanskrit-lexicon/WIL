@@ -1,0 +1,2562 @@
+;; Case 0001: L=3, k1=अंश, k2=अंश, code=r, #upasargas=0, mw=अंश् (diff)
+;; Case 0002: L=29, k1=अंस, k2=अंस, code=r, #upasargas=0, mw=अंस् (diff)
+;; Case 0003: L=40, k1=अक्, k2=अक्, code=r, #upasargas=0, mw=अक् (same)
+;; Case 0004: L=90, k1=अक्ष्, k2=अक्ष्, code=r, #upasargas=0, mw=अक्ष् (same)
+;; Case 0005: L=91, k1=अक्ष्, k2=अक्ष्, code=r, #upasargas=0, mw=अक्ष् (same)
+;; Case 0006: L=173, k1=अग्, k2=अग्, code=r, #upasargas=0, mw=अग् (same)
+;; Case 0007: L=174, k1=अग, k2=अग, code=r, #upasargas=0, mw=अग् (diff)
+;; Case 0008: L=308, k1=अघ्, k2=अघ्, code=r, #upasargas=0, mw=अघ् (same)
+;; Case 0009: L=309, k1=अघ, k2=अघ, code=r, #upasargas=0, mw=अघ् (diff)
+;; Case 0010: L=323, k1=अङ्क, k2=अङ्क, code=r, #upasargas=0, mw=अङ्क् (diff)
+;; Case 0011: L=349, k1=अङ्ग, k2=अङ्ग, code=r, #upasargas=0, mw=अङ्ग् (diff)
+;; Case 0012: L=433, k1=अच्, k2=अच्, code=r, #upasargas=0, mw=अच् (same)
+;; Case 0013: L=434, k1=अच्, k2=अच्, code=r, #upasargas=0, mw=अच् (same)
+;; Case 0014: L=461, k1=अज्, k2=अज्, code=r, #upasargas=0, mw=अज् (same)
+;; Case 0015: L=462, k1=अज्, k2=अज्, code=r, #upasargas=0, mw=अज् (same)
+;; Case 0016: L=525, k1=अञ्च, k2=अञ्च, code=r, #upasargas=0, mw=अञ्च् (diff)
+;; Case 0017: L=526, k1=अञ्च, k2=अञ्च, code=r, #upasargas=0, mw=अञ्च् (diff)
+;; Case 0018: L=527, k1=अञ्च, k2=अञ्च, code=r, #upasargas=0, mw=अञ्च् (diff)
+;; Case 0019: L=545, k1=अट्, k2=अट्, code=r, #upasargas=1 (1/0), mw=अट् (same)
+01       परि         अट्               पर्यट्               पर्यट् yes परि+अट्
+;
+;; Case 0020: L=546, k1=अट्, k2=अट्, code=r, #upasargas=0, mw=अट् (same)
+;; Case 0021: L=555, k1=अट्ट, k2=अट्ट, code=r, #upasargas=0, mw=अट्ट् (diff)
+;; Case 0022: L=556, k1=अट्ट, k2=अट्ट, code=r, #upasargas=0, mw=अट्ट् (diff)
+;; Case 0023: L=568, k1=अठ्, k2=अठ्, code=r, #upasargas=0, mw=अठ् (same)
+;; Case 0024: L=569, k1=अठ्, k2=अठ्, code=r, #upasargas=0, mw=अठ् (same)
+;; Case 0025: L=570, k1=अड्, k2=अड्, code=r, #upasargas=0, mw=अड् (same)
+;; Case 0026: L=571, k1=अड्, k2=अड्, code=r, #upasargas=0, mw=अड् (same)
+;; Case 0027: L=572, k1=अड्ड, k2=अड्ड, code=r, #upasargas=0, mw=अड्ड् (diff)
+;; Case 0028: L=573, k1=अण्, k2=अण्, code=r, #upasargas=0, mw=अण् (same)
+;; Case 0029: L=574, k1=अण्, k2=अण्, code=r, #upasargas=1 (1/0), mw=अण् (same)
+01        प्र         अण्                 प्राण्                 प्राण् yes प्र+अन्
+;
+;; Case 0030: L=595, k1=अत्, k2=अत्, code=r, #upasargas=0, mw=अत् (same)
+;; Case 0031: L=596, k1=अत्, k2=अत्, code=r, #upasargas=0, mw=अत् (same)
+;; Case 0032: L=739, k1=अद्, k2=अद्, code=r, #upasargas=1 (0/1), mw=अद् (same)
+01      व्यति         अद्              व्यत्यद्              व्यत्यद् no 
+;
+;; Case 0033: L=740, k1=अद्, k2=अद्, code=r, #upasargas=0, mw=अद् (same)
+;; Case 0034: L=976, k1=अन्, k2=अन्, code=r, #upasargas=0, mw=अन् (same)
+;; Case 0035: L=977, k1=अन्, k2=अन्, code=r, #upasargas=0, mw=अन् (same)
+;; Case 0036: L=1519, k1=अन्दोल, k2=अन्दोल, code=r, #upasargas=0, mw=अन्दोलय (diff)
+;; Case 0037: L=1520, k1=अन्ध, k2=अन्ध, code=r, #upasargas=0, mw=अन्ध् (diff)
+;; Case 0038: L=1945, k1=अब्, k2=अब्, code=r, #upasargas=0, mw=अम्ब् (diff)
+;; Case 0039: L=1986, k1=अभ्, k2=अभ्, code=r, #upasargas=0, mw=अम्भ् (diff)
+;; Case 0040: L=2280, k1=अभ्र, k2=अभ्र, code=r, #upasargas=0, mw=अभ्र् (diff)
+;; Case 0041: L=2303, k1=अम्, k2=अम्, code=r, #upasargas=0, mw=अम् (same)
+;; Case 0042: L=2440, k1=अम्ब्, k2=अम्ब्, code=r, #upasargas=0, mw=अम्ब् (same)
+;; Case 0043: L=2528, k1=अय्, k2=अय्, code=r, #upasargas=0, mw=अय् (same)
+;; Case 0044: L=2685, k1=अर्क्, k2=अर्क्, code=r, #upasargas=0, mw=अर्क् (same)
+;; Case 0045: L=2711, k1=अर्घ्, k2=अर्घ्,, code=r, #upasargas=0, mw=अर्घ् (same)
+;; Case 0046: L=2719, k1=अर्च्, k2=अर्च्, code=r, #upasargas=0, mw=अर्च् (same)
+;; Case 0047: L=2720, k1=अर्च, k2=अर्च, code=r, #upasargas=0, mw=अर्च् (diff)
+;; Case 0048: L=2729, k1=अर्ज्, k2=अर्ज्, code=r, #upasargas=0, mw=अर्ज् (same)
+;; Case 0049: L=2751, k1=अर्थ, k2=अर्थ, code=r, #upasargas=0, mw=अर्थ् (diff)
+;; Case 0050: L=2812, k1=अर्द्द्, k2=अर्द्द्, code=r, #upasargas=0, mw=अर्द् (diff)
+;; Case 0051: L=2813, k1=अर्द, k2=अर्द, code=r, #upasargas=0, mw=अर्द् (diff)
+;; Case 0052: L=2861, k1=अर्ब्ब, k2=अर्ब्ब, code=r, #upasargas=0, mw=अर्ब् (diff)
+;; Case 0053: L=2870, k1=अर्व्व, k2=अर्व्व, code=r, #upasargas=0, mw=अर्व् (diff)
+;; Case 0054: L=2887, k1=अर्ह, k2=अर्ह, code=r, #upasargas=0, mw=अर्ह् (diff)
+;; Case 0055: L=2888, k1=अर्ह, k2=अर्ह, code=r, #upasargas=0, mw=अर्ह् (diff)
+;; Case 0056: L=2895, k1=अल, k2=अल, code=r, #upasargas=0, mw=अल् (diff)
+;; Case 0057: L=3034, k1=अव्, k2=अव्, code=r, #upasargas=0, mw=अव् (same)
+;; Case 0058: L=3167, k1=अवधीर, k2=अवधीर, code=r, #upasargas=0, mw=अवधीर् (diff)
+;; Case 0059: L=3579, k1=अश्, k2=अश्, code=r, #upasargas=0, mw=अश् (same)
+;; Case 0060: L=3580, k1=अश्, k2=अश्, code=r, #upasargas=0, mw=अश् (same)
+;; Case 0061: L=3759, k1=अष्, k2=अष्, code=r, #upasargas=0, mw=अष् (same)
+;; Case 0062: L=3802, k1=अस्, k2=अस्, code=r, #upasargas=0, mw=अस् (same)
+;; Case 0063: L=3803, k1=अस्, k2=अस्, code=r, #upasargas=0, mw=अस् (same)
+;; Case 0064: L=3804, k1=अस्, k2=अस्, code=r, #upasargas=11 (10/1), mw=अस् (same)
+01        अनु         अस्                अन्वस्                अन्वस् yes अनु+अस्
+02        अप         अस्                 अपास्                 अपास् yes अप+अस्
+03         उद्         अस्                 उदस्                 उदस् yes उद्+अस्
+04         नि         अस्                 न्यस्                 न्यस् yes नि+अस्
+05        निर्         अस्                निरस्                निरस् yes निर्+अस्
+06        प्र         अस्                 प्रास्                 प्रास् yes प्र+अस्
+07         वि         अस्                 व्यस्                 व्यस् yes वि+अस्
+08        सम्         अस्                समस्                समस् yes सम्+अस्
+09    पर्युप         अस्             पर्युपास्             पर्युपास् yes परि+उप+आस्
+10        व्या         अस्                 व्यास्                 व्यास् no 
+11      संनि         अस्              संन्यस्              संन्यस् yes सम्+नि+अस्
+;
+;; Case 0065: L=4061, k1=अस्त, k2=अस्त, code=r, #upasargas=0, mw=?
+;; Case 0066: L=4208, k1=अह्, k2=अह्, code=r, #upasargas=0, mw=अह् (same)
+;; Case 0067: L=4501, k1=आच्छ्, k2=आच्छ्, code=r, #upasargas=0, mw=?
+;; Case 0068: L=4848, k1=आन्दोल, k2=आन्दोल, code=r, #upasargas=0, mw=आन्दोलय (diff)
+;; Case 0069: L=5407, k1=आस्, k2=आस्, code=r, #upasargas=6 (3/3), mw=आस् (same)
+01        अधि         आस्                अध्यास्                अध्यास् yes अधि+आस्
+02        अभि         आस्                अभ्यास्                अभ्यास् no 
+03         उद्         आस्                 उदास्                 उदास् yes उद्+आस्
+04        उप         आस्                 उपास्                 उपास् yes उप+अस्,उप+आस्
+05        निर्         आस्                निरास्                निरास् no 
+06     प्रनिर्         आस्             प्रनिरास्             प्रनिरास् no 
+;
+;; Case 0070: L=5542, k1=इ, k2=इ, code=r, #upasargas=2 (2/0), mw=इ (same)
+01         उद्          इ                  उदि                  उदि yes उद्+इ
+02      अभ्युद्          इ               अभ्युदि               अभ्युदि yes अभि+उद्+इ
+;
+;; Case 0071: L=5544, k1=इ, k2=इ, code=r, #upasargas=11 (11/0), mw=इ (same)
+01        अति          इ                  अती                  अती yes अति+इ
+02        अधि          इ                  अधी                  अधी yes अधि+इ
+03        अनु          इ                 अन्वि                 अन्वि yes अनु+इ
+04        अभि          इ                  अभी                  अभी yes अभि+इ
+05        अप          इ                  अपे                  अपे yes अप+इ
+06        उप          इ                  उपे                  उपे yes उप+इ
+07        निर्          इ                 निरि                 निरि yes निर्+इ
+08      प्रति          इ                प्रती                प्रती yes प्रति+इ
+09         वि          इ                   वी                   वी yes वि+इ
+10     अभ्युप          इ               अभ्युपे               अभ्युपे yes अभि+उप+इ
+11     समुप          इ               समुपे               समुपे yes सम्+उप+इ
+;
+;; Case 0072: L=5580, k1=इख्, k2=इख्, code=r, #upasargas=0, mw=इख् (same)
+;; Case 0073: L=5581, k1=इख्, k2=इख्, code=r, #upasargas=0, mw=इख् (same)
+;; Case 0074: L=5582, k1=इग्, k2=इग्, code=r, #upasargas=0, mw=इङ्ग् (diff)
+;; Case 0075: L=5602, k1=इट्, k2=इट्, code=r, #upasargas=0, mw=इट् (same)
+;; Case 0076: L=5637, k1=इद्, k2=इद्, code=r, #upasargas=0, mw=इन्द् (diff)
+;; Case 0077: L=5746, k1=इभ्, k2=इभ्, code=r, #upasargas=0, mw=?
+;; Case 0078: L=5774, k1=इल्, k2=इल्, code=r, #upasargas=0, mw=इल् (same)
+;; Case 0079: L=5775, k1=इल्, k2=इल्, code=r, #upasargas=0, mw=इल् (same)
+;; Case 0080: L=5789, k1=इव, k2=इव, code=r, #upasargas=0, mw=इन्व् (diff)
+;; Case 0081: L=5792, k1=इष्, k2=इष्, code=r, #upasargas=2 (2/0), mw=इष् (same)
+01        अभि         इष्                 अभीष्                 अभीष् yes अभि+इष्
+02      प्रति         इष्               प्रतीष्               प्रतीष् yes प्रति+इष्
+;
+;; Case 0082: L=5831, k1=ई, k2=ई, code=r, #upasargas=1 (0/1), mw=ई (same)
+01         उद्          ई                  उदी                  उदी no 
+;
+;; Case 0083: L=5832, k1=ईक्ष्, k2=ईक्ष्, code=r, #upasargas=12 (12/0), mw=ईक्ष् (same)
+01        अप        ईक्ष्                अपेक्ष्                अपेक्ष् yes अप+ईक्ष्
+02         उद्        ईक्ष्                उदीक्ष्                उदीक्ष् yes उद्+ईक्ष्
+03        अभि        ईक्ष्                अभीक्ष्                अभीक्ष् yes अभि+ईक्ष्
+04        अव        ईक्ष्                अवेक्ष्                अवेक्ष् yes अव+ईक्ष्
+05        उप        ईक्ष्                उपेक्ष्                उपेक्ष् yes उप+ईक्ष्
+06        निर्        ईक्ष्               निरीक्ष्               निरीक्ष् yes निर्+ईक्ष्
+07       परि        ईक्ष्               परीक्ष्               परीक्ष् yes परि+ईक्ष्
+08        प्र        ईक्ष्                प्रेक्ष्                प्रेक्ष् yes प्र+ईक्ष्
+09         वि        ईक्ष्                 वीक्ष्                 वीक्ष् yes वि+ईक्ष्
+10      प्रति        ईक्ष्              प्रतीक्ष्              प्रतीक्ष् yes प्रति+ईक्ष्
+11        सम्        ईक्ष्               समीक्ष्               समीक्ष् yes सम्+ईक्ष्
+12    प्रत्युद्        ईक्ष्           प्रत्युदीक्ष्           प्रत्युदीक्ष् yes प्रति+उद्+ईक्ष्
+;
+;; Case 0084: L=5839, k1=ईख्, k2=ईख्, code=r, #upasargas=0, mw=ईख् (same)
+;; Case 0085: L=5840, k1=ईख, k2=ईख, code=r, #upasargas=0, mw=ईख् (diff)
+;; Case 0086: L=5847, k1=ईत्, k2=ईत्, code=r, #upasargas=0, mw=ईन्त् (diff)
+;; Case 0087: L=5858, k1=ईर्, k2=ईर्, code=r, #upasargas=0, mw=ईर् (same)
+;; Case 0088: L=5859, k1=ईर्, k2=ईर्, code=r, #upasargas=3 (3/0), mw=ईर् (same)
+01         उद्         ईर्                 उदीर्                 उदीर् yes उद्+ईर्
+02        प्र         ईर्                 प्रेर्                 प्रेर् yes प्र+ईर्
+03        सम्         ईर्                समीर्                समीर् yes सम्+ईर्
+;
+;; Case 0089: L=5863, k1=ईर्क्ष्य्, k2=ईर्क्ष्य्, code=r, #upasargas=0, mw=ईर्क्ष्य् (same)
+;; Case 0090: L=5870, k1=ईर्ष्य, k2=ईर्ष्य, code=r, #upasargas=0, mw=ईर्ष्य् (diff)
+;; Case 0091: L=5894, k1=ईष्, k2=ईष्, code=r, #upasargas=0, mw=ईष् (same)
+;; Case 0092: L=5895, k1=ईष्, k2=ईष्, code=r, #upasargas=0, mw=ईष् (same)
+;; Case 0093: L=5919, k1=ईह, k2=ईह, code=r, #upasargas=0, mw=ईह् (diff)
+;; Case 0094: L=5928, k1=उ, k2=उ, code=r, #upasargas=0, mw=उ (same)
+;; Case 0095: L=5944, k1=उख्, k2=उख्, code=r, #upasargas=0, mw=उख् (same)
+;; Case 0096: L=5965, k1=उच्, k2=उच्, code=r, #upasargas=0, mw=उच् (same)
+;; Case 0097: L=6007, k1=उच्छ्, k2=उच्छ्, code=r, #upasargas=0, mw=उछ् (diff)
+;; Case 0098: L=6008, k1=उच्छ्, k2=उच्छ्, code=r, #upasargas=2 (0/2), mw=उछ् (diff)
+01         वि        उच्छ्                व्युच्छ्                 व्युछ् no 
+02        प्र        उच्छ्                प्रोच्छ्                 प्रोछ् no 
+;
+;; Case 0099: L=6058, k1=उञ्झ्, k2=उञ्झ्, code=r, #upasargas=1 (1/0), mw=उज्झ् (diff)
+01        प्र        उञ्झ्                प्रोञ्झ्                प्रोज्झ् yes प्र+उज्झ्
+;
+;; Case 0100: L=6063, k1=उठ्, k2=उठ्, code=r, #upasargas=0, mw=उठ् (same)
+;; Case 0101: L=6161, k1=उत्तम्भ, k2=उत्तम्भ, code=r, #upasargas=0, mw=उत्तम्भ् (diff)
+;; Case 0102: L=6457, k1=उद्ग्, k2=उद्ग्, code=r, #upasargas=0, mw=?
+;; Case 0103: L=6488, k1=उद्ज्, k2=उद्ज्, code=r, #upasargas=0, mw=?
+;; Case 0104: L=6489, k1=उद्झ्, k2=उद्-झ्, code=r, #upasargas=0, mw=उज्झ् (diff)
+;; Case 0105: L=6623, k1=उध्रस्, k2=उध्रस्, code=r, #upasargas=0, mw=उध्रस् (same)
+;; Case 0106: L=6624, k1=उन्द, k2=उन्द, code=r, #upasargas=0, mw=उन्द् (diff)
+;; Case 0107: L=7081, k1=उब्ज, k2=उब्ज, code=r, #upasargas=0, mw=उब्ज् (diff)
+;; Case 0108: L=7082, k1=उभ्, k2=उभ्, code=r, #upasargas=0, mw=उभ् (same)
+;; Case 0109: L=7105, k1=उम्भ, k2=उम्भ, code=r, #upasargas=0, mw=उम्भ् (diff)
+;; Case 0110: L=7159, k1=उर्द्, k2=उर्द्, code=r, #upasargas=0, mw=उर्द् (same)
+;; Case 0111: L=7161, k1=उर्व्, k2=उर्व्, code=r, #upasargas=0, mw=उर्व् (same)
+;; Case 0112: L=7171, k1=उल्, k2=उल्, code=r, #upasargas=0, mw=उल् (same)
+;; Case 0113: L=7213, k1=उब्ज, k2=उब्ज, code=r, #upasargas=0, mw=उब्ज् (diff)
+;; Case 0114: L=7220, k1=उष्, k2=उष्, code=r, #upasargas=0, mw=उष् (same)
+;; Case 0115: L=7272, k1=उह, k2=उह, code=r, #upasargas=1 (1/0), mw=उह् (diff)
+01      व्यप        उह              व्यपोह               व्यपोह् yes वि+अप+ऊह्
+;
+;; Case 0116: L=7284, k1=ऊन, k2=ऊन, code=r, #upasargas=0, mw=ऊनय (diff)
+;; Case 0117: L=7287, k1=ऊय्, k2=ऊय्, code=r, #upasargas=0, mw=ऊय् (same)
+;; Case 0118: L=7300, k1=ऊर्ज्, k2=ऊर्ज्, code=r, #upasargas=0, mw=ऊर्ज् (same)
+;; Case 0119: L=7311, k1=ऊर्णु, k2=ऊर्णु, code=r, #upasargas=0, mw=ऊर्णु (same)
+;; Case 0120: L=7361, k1=ऊष्, k2=ऊष्, code=r, #upasargas=0, mw=ऊष् (same)
+;; Case 0121: L=7367, k1=ऊह, k2=ऊह, code=r, #upasargas=3 (2/1), mw=ऊह् (diff)
+01         वि        ऊह                व्यूह                 व्यूह् yes वि+ऊह्
+02        सम्        ऊह               समूह                समूह् yes सम्+ऊह्
+03      प्रवि        ऊह             प्रव्यूह              प्रव्यूह् no 
+;
+;; Case 0122: L=7376, k1=ऋ, k2=ऋ, code=r, #upasargas=0, mw=ऋ (same)
+;; Case 0123: L=7387, k1=ऋक्ष्, k2=ऋक्ष्, code=r, #upasargas=0, mw=?
+;; Case 0124: L=7397, k1=ऋच्, k2=ऋच्, code=r, #upasargas=0, mw=ऋच् (same)
+;; Case 0125: L=7400, k1=ऋच्छ्, k2=ऋच्छ्, code=r, #upasargas=0, mw=ऋछ् (diff)
+;; Case 0126: L=7402, k1=ऋज्, k2=ऋज्, code=r, #upasargas=0, mw=ऋज् (same)
+;; Case 0127: L=7403, k1=ऋज्, k2=ऋज्, code=r, #upasargas=0, mw=ऋज् (same)
+;; Case 0128: L=7414, k1=ऋण्, k2=ऋण्, code=r, #upasargas=0, mw=ऋण् (same)
+;; Case 0129: L=7436, k1=ऋत्, k2=ऋत्, code=r, #upasargas=0, mw=ऋत् (same)
+;; Case 0130: L=7463, k1=ऋध्, k2=ऋध्, code=r, #upasargas=0, mw=ऋध् (same)
+;; Case 0131: L=7464, k1=ऋफ्, k2=ऋफ्, code=r, #upasargas=0, mw=ऋफ् (same)
+;; Case 0132: L=7468, k1=ऋम्फ्, k2=ऋम्फ्, code=r, #upasargas=0, mw=ऋम्फ् (same)
+;; Case 0133: L=7470, k1=ऋष, k2=ऋष, code=r, #upasargas=0, mw=ऋष् (diff)
+;; Case 0134: L=7471, k1=ऋष्, k2=ऋष्, code=r, #upasargas=0, mw=ऋष् (same)
+;; Case 0135: L=7492, k1=ॠ, k2=ॠ, code=r, #upasargas=0, mw=ॠ (same)
+;; Case 0136: L=7633, k1=एज्, k2=एज्, code=r, #upasargas=0, mw=एज् (same)
+;; Case 0137: L=7634, k1=एज्, k2=एज्, code=r, #upasargas=0, mw=एज् (same)
+;; Case 0138: L=7638, k1=एठ्, k2=एठ्, code=r, #upasargas=0, mw=एठ् (same)
+;; Case 0139: L=7661, k1=एध्, k2=एध्, code=r, #upasargas=0, mw=एध् (same)
+;; Case 0140: L=7690, k1=एष्, k2=एष्, code=r, #upasargas=0, mw=एष् (same)
+;; Case 0141: L=7762, k1=ओख्, k2=ओख्, code=r, #upasargas=0, mw=ओख् (same)
+;; Case 0142: L=7765, k1=ओज्, k2=ओज्, code=r, #upasargas=0, mw=ओज् (same)
+;; Case 0143: L=7775, k1=ओण्, k2=ओण्, code=r, #upasargas=0, mw=ओण् (same)
+;; Case 0144: L=7781, k1=ओलड, k2=ओलड, code=r, #upasargas=0, mw=ओलण्ड् (diff)
+;; Case 0145: L=7892, k1=कक्, k2=कक्, code=r, #upasargas=0, mw=कक् (same)
+;; Case 0146: L=7893, k1=कक्, k2=कक्, code=r, #upasargas=0, mw=कक् (same)
+;; Case 0147: L=7909, k1=कक्ख्, k2=कक्ख्, code=r, #upasargas=0, mw=कक्ख् (same)
+;; Case 0148: L=7922, k1=कग, k2=कग, code=r, #upasargas=0, mw=कग् (diff)
+;; Case 0149: L=7954, k1=कच्, k2=कच्, code=r, #upasargas=0, mw=कच् (same)
+;; Case 0150: L=7984, k1=कज्, k2=कज्, code=r, #upasargas=0, mw=कज् (same)
+;; Case 0151: L=8006, k1=कट्, k2=कट्, code=r, #upasargas=0, mw=कट् (same)
+;; Case 0152: L=8007, k1=कट्, k2=कट्, code=r, #upasargas=1 (0/1), mw=कट् (same)
+01        प्र        कट्               प्रकट्               प्रकट् no 
+;
+;; Case 0153: L=8083, k1=कठ्, k2=कठ्, code=r, #upasargas=0, mw=कठ् (same)
+;; Case 0154: L=8105, k1=कड्, k2=कड्, code=r, #upasargas=0, mw=कड् (same)
+;; Case 0155: L=8106, k1=कड्, k2=कड्, code=r, #upasargas=0, mw=कड् (same)
+;; Case 0156: L=8107, k1=कड्, k2=कड्, code=r, #upasargas=0, mw=कड् (same)
+;; Case 0157: L=8120, k1=कण्, k2=कण्, code=r, #upasargas=0, mw=कण् (same)
+;; Case 0158: L=8121, k1=कण्, k2=कण्, code=r, #upasargas=0, mw=कण् (same)
+;; Case 0159: L=8122, k1=कण, k2=कण, code=r, #upasargas=0, mw=कण् (diff)
+;; Case 0160: L=8186, k1=कण्डू, k2=कण्डू, code=r, #upasargas=0, mw=कण्डूय (diff)
+;; Case 0161: L=8215, k1=कत्थ्, k2=कत्थ्, code=r, #upasargas=0, mw=कत्थ् (same)
+;; Case 0162: L=8216, k1=कत्र, k2=कत्र, code=r, #upasargas=0, mw=कत्र् (diff)
+;; Case 0163: L=8218, k1=कथ, k2=कथ, code=r, #upasargas=0, mw=कथ् (diff)
+;; Case 0164: L=8245, k1=कद्, k2=कद्, code=r, #upasargas=0, mw=कद् (same)
+;; Case 0165: L=8246, k1=कद्, k2=कद्, code=r, #upasargas=0, mw=कद् (same)
+;; Case 0166: L=8283, k1=कन्, k2=कन्, code=r, #upasargas=0, mw=कन् (same)
+;; Case 0167: L=8371, k1=कप्, k2=कप्, code=r, #upasargas=1 (1/0), mw=कम्प् (diff)
+01        अनु        कप्               अनुकप्              अनुकम्प् yes अनु+कम्प्
+;
+;; Case 0168: L=8462, k1=कब्, k2=कब्, code=r, #upasargas=0, mw=कब् (same)
+;; Case 0169: L=8467, k1=कम्, k2=कम्, code=r, #upasargas=0, mw=कम् (same)
+;; Case 0170: L=8494, k1=कम्ब, k2=कम्ब, code=r, #upasargas=0, mw=कम्ब् (diff)
+;; Case 0171: L=8696, k1=कर्घ, k2=कर्घ-, code=r, #upasargas=0, mw=?
+;; Case 0172: L=8699, k1=कर्ज्, k2=कर्ज्, code=r, #upasargas=0, mw=कर्ज् (same)
+;; Case 0173: L=8700, k1=कर्ण, k2=कर्ण, code=r, #upasargas=2 (1/1), mw=कर्ण् (diff)
+01        उप      कर्ण             उपकर्ण              उपकर्ण् no 
+02       समा      कर्ण            समाकर्ण             समाकर्ण् yes सम्+आ+कर्ण्
+;
+;; Case 0174: L=8769, k1=कर्त्त, k2=कर्त्त, code=r, #upasargas=0, mw=कर्त् (diff)
+;; Case 0175: L=8783, k1=कर्त्र, k2=कर्त्र, code=r, #upasargas=0, mw=कर्त्र् (diff)
+;; Case 0176: L=8807, k1=कर्ब्, k2=कर्ब्, code=r, #upasargas=0, mw=कर्ब् (same)
+;; Case 0177: L=8897, k1=कर्व्, k2=कर्व्, code=r, #upasargas=0, mw=कर्व् (same)
+;; Case 0178: L=8914, k1=कल्, k2=कल्, code=r, #upasargas=0, mw=कल् (same)
+;; Case 0179: L=8915, k1=कल्, k2=कल्, code=r, #upasargas=0, mw=कल् (same)
+;; Case 0180: L=8916, k1=कल, k2=कल, code=r, #upasargas=4 (3/1), mw=कल् (diff)
+01          आ       कल                आकल                 आकल् yes आ+कल्
+02       परि       कल             परिकल              परिकल् yes परि+कल्
+03         वि       कल               विकल                विकल् no 
+04        सम्       कल              संकल               संकल् yes सम्+कल्
+;
+;; Case 0181: L=9066, k1=कल्ल्, k2=कल्ल्, code=r, #upasargas=0, mw=कल्ल् (same)
+;; Case 0182: L=9071, k1=कब्, k2=कब्, code=r, #upasargas=0, mw=कब् (same)
+;; Case 0183: L=9104, k1=कश्, k2=कश्, code=r, #upasargas=0, mw=कश् (same)
+;; Case 0184: L=9120, k1=कष्, k2=कष्, code=r, #upasargas=1 (1/0), mw=कष् (same)
+01         नि        कष्                निकष्                निकष् yes नि+कष्
+;
+;; Case 0185: L=9143, k1=कस्, k2=कस्, code=r, #upasargas=1 (1/0), mw=कस् (same)
+01         वि        कस्                विकस्                विकस् yes वि+कस्
+;
+;; Case 0186: L=9144, k1=कस्, k2=कस्, code=r, #upasargas=0, mw=कस् (same)
+;; Case 0187: L=9235, k1=काक्ष, k2=काक्ष, code=r, #upasargas=1 (1/0), mw=काङ्क्ष् (diff)
+01          आ      काक्ष               आकाक्ष               आकाङ्क्ष् yes आ+काङ्क्ष्
+;
+;; Case 0188: L=9243, k1=काच्, k2=काच्, code=r, #upasargas=0, mw=काञ्च् (diff)
+;; Case 0189: L=9619, k1=काल, k2=काल, code=r, #upasargas=0, mw=कालय (diff)
+;; Case 0190: L=9747, k1=काश्, k2=काश्, code=r, #upasargas=2 (1/1), mw=काश् (same)
+01        निर्        काश्               निर्काश्               निर्काश् no 
+02        प्र        काश्               प्रकाश्               प्रकाश् yes प्र+काश्
+;
+;; Case 0191: L=9795, k1=कास्, k2=कास्, code=r, #upasargas=0, mw=कास् (same)
+;; Case 0192: L=9813, k1=कि, k2=कि, code=r, #upasargas=1 (0/1), mw=कि (same)
+01        निर्         कि                निर्कि                निर्कि no 
+;
+;; Case 0193: L=9837, k1=किट्, k2=किट्, code=r, #upasargas=0, mw=किट् (same)
+;; Case 0194: L=9847, k1=कित्, k2=कित्, code=r, #upasargas=0, mw=कित् (same)
+;; Case 0195: L=9903, k1=किल्, k2=किल्, code=r, #upasargas=0, mw=किल् (same)
+;; Case 0196: L=9923, k1=किष्क्, k2=किष्क्, code=r, #upasargas=0, mw=किष्क् (same)
+;; Case 0197: L=9939, k1=कीट, k2=कीट, code=r, #upasargas=0, mw=कीट् (diff)
+;; Case 0198: L=9964, k1=कील्, k2=कील्, code=r, #upasargas=0, mw=कील् (same)
+;; Case 0199: L=9974, k1=कु, k2=कु, code=r, #upasargas=0, mw=कु (same)
+;; Case 0200: L=9976, k1=कुक्, k2=कुक्, code=r, #upasargas=0, mw=कुक् (same)
+;; Case 0201: L=10016, k1=कुच्, k2=कुच्, code=r, #upasargas=2 (2/0), mw=कुच् (same)
+01        सम्        कुच्               संकुच्               संकुच् yes सम्+कुच्
+02         उद्        कुच्                उत्कुच्                उत्कुच् yes उद्+कुच्
+;
+;; Case 0202: L=10032, k1=कुज्, k2=कुज्, code=r, #upasargas=0, mw=कुज् (same)
+;; Case 0203: L=10039, k1=कुञ्च्, k2=कुञ्च्, code=r, #upasargas=0, mw=कुञ्च् (same)
+;; Case 0204: L=10053, k1=कुट्, k2=कुट्, code=r, #upasargas=1 (0/1), mw=कुट् (same)
+01        सम्        कुट्               संकुट्               संकुट् no 
+;
+;; Case 0205: L=10080, k1=कुटुम्ब्, k2=कुटुम्ब्, code=r, #upasargas=0, mw=कुटुम्बय (diff)
+;; Case 0206: L=10089, k1=कुट्ट, k2=कुट्ट, code=r, #upasargas=0, mw=कुट्ट् (diff)
+;; Case 0207: L=10102, k1=कुठ्, k2=कुठ्, code=r, #upasargas=0, mw=कुण्ठ् (diff)
+;; Case 0208: L=10116, k1=कुड्, k2=कुड्, code=r, #upasargas=0, mw=कुड् (same)
+;; Case 0209: L=10130, k1=कुण्, k2=कुण्, code=r, #upasargas=0, mw=कुण् (same)
+;; Case 0210: L=10174, k1=कुत्स, k2=कुत्स, code=r, #upasargas=0, mw=कुत्स् (diff)
+;; Case 0211: L=10182, k1=कुद्, k2=कुद्, code=r, #upasargas=0, mw=कुद् (same)
+;; Case 0212: L=10190, k1=कुद्र्, k2=कुद्र्, code=r, #upasargas=0, mw=कुन्द्र् (diff)
+;; Case 0213: L=10204, k1=कुन्थ्, k2=कुन्थ्, code=r, #upasargas=0, mw=कुन्थ् (same)
+;; Case 0214: L=10214, k1=कुप्, k2=कुप्, code=r, #upasargas=0, mw=कुप् (same)
+;; Case 0215: L=10235, k1=कुब्, k2=कुब्, code=r, #upasargas=0, mw=कुम्ब् (diff)
+;; Case 0216: L=10243, k1=कुभ्, k2=कुभ्, code=r, #upasargas=0, mw=कुम्भ् (diff)
+;; Case 0217: L=10244, k1=कुमार, k2=कुमार, code=r, #upasargas=0, mw=कुमारय (diff)
+;; Case 0218: L=10254, k1=कुमाल, k2=कुमाल, code=r, #upasargas=0, mw=कुमालय (diff)
+;; Case 0219: L=10343, k1=कुर्द, k2=कुर्द, code=r, #upasargas=0, mw=कुर्द् (diff)
+;; Case 0220: L=10350, k1=कुल्, k2=कुल्, code=r, #upasargas=2 (0/2), mw=कुल् (same)
+01          आ        कुल्                 आकुल्                 आकुल् no 
+02        व्या        कुल्               व्याकुल्               व्याकुल् no 
+;
+;; Case 0221: L=10484, k1=कुश्, k2=कुश्, code=r, #upasargas=0, mw=कुश् (same)
+;; Case 0222: L=10524, k1=कुष्, k2=कुष्, code=r, #upasargas=2 (1/1), mw=कुष् (same)
+01        अव        कुष्               अवकुष्               अवकुष् yes अव+कुष्
+02        निर्        कुष्               निर्कुष्               निर्कुष् no 
+;
+;; Case 0223: L=10543, k1=कुस्, k2=कुस्, code=r, #upasargas=0, mw=कुस् (same)
+;; Case 0224: L=10583, k1=कुस्म्, k2=कुस्म्, code=r, #upasargas=0, mw=कुस्मय (diff)
+;; Case 0225: L=10584, k1=कुह, k2=कुह, code=r, #upasargas=0, mw=कुह् (diff)
+;; Case 0226: L=10609, k1=कू, k2=कू, code=r, #upasargas=0, mw=कू (same)
+;; Case 0227: L=10614, k1=कूज्, k2=कूज्, code=r, #upasargas=1 (0/1), mw=कूज् (same)
+01       परि        कूज्              परिकूज्              परिकूज् no 
+;
+;; Case 0228: L=10617, k1=कूट्, k2=कूट्, code=r, #upasargas=0, mw=कूट् (same)
+;; Case 0229: L=10636, k1=कूड्, k2=कूड्, code=r, #upasargas=0, mw=कूड् (same)
+;; Case 0230: L=10638, k1=कूण्, k2=कूण्, code=r, #upasargas=0, mw=कूण् (same)
+;; Case 0231: L=10644, k1=कून, k2=कून, code=r, #upasargas=0, mw=?
+;; Case 0232: L=10645, k1=कूप्, k2=कूप्, code=r, #upasargas=0, mw=कूप् (same)
+;; Case 0233: L=10660, k1=कूर्द, k2=कूर्द, code=r, #upasargas=0, mw=कूर्द् (diff)
+;; Case 0234: L=10671, k1=कूल्, k2=कूल्, code=r, #upasargas=1 (0/1), mw=कूल् (same)
+01        अनु        कूल्               अनुकूल्               अनुकूल् no 
+;
+;; Case 0235: L=10689, k1=कृ, k2=कृ, code=r, #upasargas=24 (21/3), mw=कृ (same)
+01        अनु         कृ                अनुकृ                अनुकृ yes अनु+कृ
+02        अप         कृ                अपकृ                अपकृ yes अप+कृ
+03        उप         कृ                उपकृ                उपकृ yes उप+कृ
+04        उप         कृ                उपकृ                उपकृ yes उप+कृ
+05        दुर्         कृ                दुर्कृ                दुर्कृ no 
+06       परि         कृ               परिकृ               परिकृ yes परि+कृ
+07        सम्         कृ                संकृ                संकृ yes सम्+कृ
+08      प्रति         कृ              प्रतिकृ              प्रतिकृ yes प्रति+कृ
+09   प्रतिसम्         कृ           प्रतिसंकृ          प्रतिसंस्कृ yes प्रति+सम्+स्कृ
+10         वि         कृ                 विकृ                 विकृ yes वि+कृ
+11         सु         कृ                 सुकृ                 सुकृ no 
+12       परा         कृ               पराकृ               पराकृ yes परा+कृ
+13        अति         कृ                अतिकृ                अतिकृ no 
+14        अधि         कृ                अधिकृ                अधिकृ yes अधि+कृ
+15          आ         कृ                  आकृ                  आकृ yes आ+कृ
+16         उद्         कृ                 उत्कृ                 उत्कृ yes उद्+कृ
+17        उप         कृ                उपकृ                उपकृ yes उप+कृ
+18        प्र         कृ                प्रकृ                प्रकृ yes प्र+कृ
+19      प्रति         कृ              प्रतिकृ              प्रतिकृ yes प्रति+कृ
+20         वि         कृ                 विकृ                 विकृ yes वि+कृ
+21        उदा         कृ                उदाकृ                उदाकृ yes उद्+आ+कृ
+22       निरा         कृ               निराकृ               निराकृ yes निर्+आ+कृ
+23   प्रत्युप         कृ           प्रत्युपकृ           प्रत्युपकृ yes प्रति+उप+कृ
+24        व्या         कृ                व्याकृ                व्याकृ yes वि+आ+कृ
+;
+;; Case 0236: L=10690, k1=कृ, k2=कृ, code=r, #upasargas=0, mw=कृ (same)
+;; Case 0237: L=10705, k1=कृड्, k2=कृड्, code=r, #upasargas=0, mw=कृड् (same)
+;; Case 0238: L=10707, k1=कृत्, k2=कृत्, code=r, #upasargas=0, mw=कृत् (same)
+;; Case 0239: L=10860, k1=कृप्, k2=कृप्, code=r, #upasargas=0, mw=कृप् (same)
+;; Case 0240: L=10876, k1=कृब्, k2=कृब्, code=r, #upasargas=0, mw=कॄ (diff)
+;; Case 0241: L=10893, k1=कृव्, k2=कृव्, code=r, #upasargas=0, mw=कृव् (same)
+;; Case 0242: L=10895, k1=कृश्, k2=कृश्, code=r, #upasargas=0, mw=कृश् (same)
+;; Case 0243: L=10908, k1=कृष्, k2=कृष्, code=r, #upasargas=6 (6/0), mw=कृष् (same)
+01        अव        कृष्               अवकृष्               अवकृष् yes अव+कृष्
+02        अप        कृष्               अपकृष्               अपकृष् yes अप+कृष्
+03          आ        कृष्                 आकृष्                 आकृष् yes आ+कृष्
+04         उद्        कृष्                उत्कृष्                उत्कृष् yes उद्+कृष्
+05        सम्        कृष्               संकृष्               संकृष् yes सम्+कृष्
+06      संनि        कृष्             संनिकृष्             संनिकृष् yes सम्+नि+कृष्
+;
+;; Case 0244: L=11003, k1=कॄ, k2=कॄ, code=r, #upasargas=7 (7/0), mw=कॄ (same)
+01        अप         कॄ                अपकॄ                अपकॄ yes अप+कॄ
+02        अव         कॄ                अवकॄ                अवकॄ yes अव+कॄ
+03          आ         कॄ                  आकॄ                  आकॄ yes आ+कॄ
+04      प्रति         कॄ              प्रतिकॄ              प्रतिकॄ yes प्रति+कॄ
+05         वि         कॄ                 विकॄ                 विकॄ yes वि+कॄ
+06        सम्         कॄ                संकॄ                संकॄ yes सम्+कॄ
+07        अभि         कॄ                अभिकॄ                अभिकॄ yes अभि+कॄ
+;
+;; Case 0245: L=11004, k1=कॄत्, k2=कॄत्, code=r, #upasargas=0, mw=कॄत् (same)
+;; Case 0246: L=11018, k1=केत्, k2=केत्, code=r, #upasargas=0, mw=केतय (diff)
+;; Case 0247: L=11038, k1=केप्, k2=केप्, code=r, #upasargas=0, mw=केप् (same)
+;; Case 0248: L=11058, k1=केव्, k2=केव्, code=r, #upasargas=0, mw=केव् (same)
+;; Case 0249: L=11369, k1=क्नथ्, k2=क्नथ्(कि), code=r, #upasargas=0, mw=क्नथ् (same)
+;; Case 0250: L=11370, k1=क्नस्, k2=क्नस्, code=r, #upasargas=0, mw=क्नस् (same)
+;; Case 0251: L=11371, k1=क्नु, k2=क्नु, code=r, #upasargas=0, mw=क्नु (same)
+;; Case 0252: L=11372, k1=क्नू, k2=क्नू, code=r, #upasargas=0, mw=क्नू (same)
+;; Case 0253: L=11373, k1=क्नूय, k2=क्नूय, code=r, #upasargas=0, mw=क्नूय् (diff)
+;; Case 0254: L=11375, k1=क्मर्, k2=क्मर्, code=r, #upasargas=0, mw=क्मर् (same)
+;; Case 0255: L=11396, k1=क्रथ्, k2=क्रथ्, code=r, #upasargas=0, mw=क्रथ् (same)
+;; Case 0256: L=11399, k1=क्रद्, k2=क्रद्, code=r, #upasargas=0, mw=क्रद् (same)
+;; Case 0257: L=11401, k1=क्रन्द्, k2=क्रन्द्, code=r, #upasargas=1 (1/0), mw=क्रन्द् (same)
+01          आ      क्रन्द्               आक्रन्द्               आक्रन्द् yes आ+क्रन्द्
+;
+;; Case 0258: L=11404, k1=क्रप्, k2=क्रप्, code=r, #upasargas=0, mw=क्रप् (same)
+;; Case 0259: L=11405, k1=क्रम्, k2=क्रम्, code=r, #upasargas=18 (17/1), mw=क्रम् (same)
+01        अति       क्रम्              अतिक्रम्              अतिक्रम् yes अति+क्रम्
+02        अभि       क्रम्              अभिक्रम्              अभिक्रम् yes अभि+क्रम्
+03          आ       क्रम्                आक्रम्                आक्रम् yes आ+क्रम्
+04         उद्       क्रम्               उत्क्रम्               उत्क्रम् yes उद्+क्रम्
+05        उप       क्रम्              उपक्रम्              उपक्रम् yes उप+क्रम्
+06        निर्       क्रम्              निर्क्रम्              निष्क्रम् yes निस्+क्रम्
+07        प्र       क्रम्              प्रक्रम्              प्रक्रम् yes प्र+क्रम्
+08       परि       क्रम्             परिक्रम्             परिक्रम् yes परि+क्रम्
+09         वि       क्रम्               विक्रम्               विक्रम् yes वि+क्रम्
+10        सम्       क्रम्              संक्रम्              संक्रम् yes सम्+क्रम्
+11        अनु       क्रम्              अनुक्रम्              अनुक्रम् yes अनु+क्रम्
+12        अप       क्रम्              अपक्रम्              अपक्रम् yes अप+क्रम्
+13          आ       क्रम्                आक्रम्                आक्रम् yes आ+क्रम्
+14        उप       क्रम्              उपक्रम्              उपक्रम् yes उप+क्रम्
+15        प्र       क्रम्              प्रक्रम्              प्रक्रम् yes प्र+क्रम्
+16         वि       क्रम्               विक्रम्               विक्रम् yes वि+क्रम्
+17    अनुपरि       क्रम्          अनुपरिक्रम्          अनुपरिक्रम् yes अनु+परि+क्रम्
+18        व्या       क्रम्              व्याक्रम्              व्याक्रम् no 
+;
+;; Case 0260: L=11485, k1=क्री, k2=क्री, code=r, #upasargas=1 (1/0), mw=क्री (same)
+01         वि        क्री                विक्री                विक्री yes वि+क्री
+;
+;; Case 0261: L=11486, k1=क्रीड, k2=क्रीड, code=r, #upasargas=5 (5/0), mw=क्रीड् (diff)
+01        अनु      क्रीड             अनुक्रीड              अनुक्रीड् yes अनु+क्रीड्
+02        अव      क्रीड             अवक्रीड              अवक्रीड् yes अव+क्रीड्
+03          आ      क्रीड               आक्रीड                आक्रीड् yes आ+क्रीड्
+04       परि      क्रीड            परिक्रीड             परिक्रीड् yes परि+क्रीड्
+05        सम्      क्रीड             संक्रीड              संक्रीड् yes सम्+क्रीड्
+;
+;; Case 0262: L=11499, k1=क्रुञ्च्, k2=क्रुञ्च्, code=r, #upasargas=0, mw=क्रुञ्च् (same)
+;; Case 0263: L=11502, k1=क्रुड, k2=क्रुड-, code=r, #upasargas=0, mw=क्रुड् (diff)
+;; Case 0264: L=11504, k1=क्रुध्, k2=क्रुध्, code=r, #upasargas=0, mw=क्रुध् (same)
+;; Case 0265: L=11507, k1=क्रुन्थ्, k2=क्रुन्थ्, code=r, #upasargas=0, mw=क्रुन्थ् (same)
+;; Case 0266: L=11569, k1=क्लथ्, k2=क्लथ्, code=r, #upasargas=0, mw=क्लथ् (same)
+;; Case 0267: L=11570, k1=क्लद्, k2=क्लद्, code=r, #upasargas=0, mw=क्लद् (same)
+;; Case 0268: L=11571, k1=क्लप्, k2=क्लप्, code=r, #upasargas=0, mw=क्लप् (same)
+;; Case 0269: L=11572, k1=क्लम्, k2=क्लम्, code=r, #upasargas=0, mw=क्लम् (same)
+;; Case 0270: L=11579, k1=क्लव्, k2=क्लव्, code=r, #upasargas=1 (1/0), mw=क्लव् (same)
+01         वि       क्लव्               विक्लव्               विक्लव् yes वि+क्लव्
+;
+;; Case 0271: L=11585, k1=क्लिद्, k2=क्लिद्, code=r, #upasargas=0, mw=क्लिद् (same)
+;; Case 0272: L=11589, k1=क्लिश्, k2=क्लिश्, code=r, #upasargas=0, mw=क्लिश् (same)
+;; Case 0273: L=11596, k1=क्लीब्, k2=क्लीब्, code=r, #upasargas=0, mw=क्लीब् (same)
+;; Case 0274: L=11597, k1=क्लीव्, k2=क्लीव्, code=r, #upasargas=0, mw=क्लीव् (same)
+;; Case 0275: L=11606, k1=क्लेश्, k2=क्लेश्, code=r, #upasargas=0, mw=क्लेश् (same)
+;; Case 0276: L=11618, k1=क्वण्, k2=क्वण्, code=r, #upasargas=0, mw=क्वण् (same)
+;; Case 0277: L=11623, k1=क्वथ्, k2=क्वथ्, code=r, #upasargas=0, mw=क्वथ् (same)
+;; Case 0278: L=11631, k1=क्षज्, k2=क्षज्, code=r, #upasargas=0, mw=क्षज् (same)
+;; Case 0279: L=11632, k1=क्षण्, k2=क्षण्, code=r, #upasargas=0, mw=क्षण् (same)
+;; Case 0280: L=11677, k1=क्षद्, k2=क्षद्, code=r, #upasargas=0, mw=क्षद् (same)
+;; Case 0281: L=11681, k1=क्षप्, k2=क्षप्, code=r, #upasargas=0, mw=क्षप् (same)
+;; Case 0282: L=11696, k1=क्षम्, k2=क्षम्, code=r, #upasargas=0, mw=क्षम् (same)
+;; Case 0283: L=11729, k1=क्षल्, k2=क्षल्, code=r, #upasargas=1 (1/0), mw=क्षल् (same)
+01        प्र       क्षल्              प्रक्षल्              प्रक्षल् yes प्र+क्षल्
+;
+;; Case 0284: L=11759, k1=क्षि, k2=क्षि, code=r, #upasargas=0, mw=क्षि (same)
+;; Case 0285: L=11761, k1=क्षिण्, k2=क्षिण्, code=r, #upasargas=0, mw=क्षिण् (same)
+;; Case 0286: L=11791, k1=क्षिद्, k2=क्षिद्, code=r, #upasargas=0, mw=?
+;; Case 0287: L=11792, k1=क्षिप्, k2=क्षिप्, code=r, #upasargas=10 (10/0), mw=क्षिप् (same)
+01        अधि       क्षिप्              अधिक्षिप्              अधिक्षिप् yes अधि+क्षिप्
+02        अव       क्षिप्              अवक्षिप्              अवक्षिप् yes अव+क्षिप्
+03          आ       क्षिप्                आक्षिप्                आक्षिप् yes आ+क्षिप्
+04         उद्       क्षिप्               उत्क्षिप्               उत्क्षिप् yes उद्+क्षिप्
+05         नि       क्षिप्               निक्षिप्               निक्षिप् yes नि+क्षिप्
+06        प्र       क्षिप्              प्रक्षिप्              प्रक्षिप् yes प्र+क्षिप्
+07         वि       क्षिप्               विक्षिप्               विक्षिप् yes वि+क्षिप्
+08        सम्       क्षिप्              संक्षिप्              संक्षिप् yes सम्+क्षिप्
+09       विनि       क्षिप्             विनिक्षिप्             विनिक्षिप् yes वि+नि+क्षिप्
+10       समा       क्षिप्             समाक्षिप्             समाक्षिप् yes सम्+आ+क्षिप्
+;
+;; Case 0288: L=11807, k1=क्षिव्, k2=क्षिव्, code=r, #upasargas=0, mw=क्षिव् (same)
+;; Case 0289: L=11808, k1=क्षी, k2=क्षी, code=r, #upasargas=0, mw=क्षी (same)
+;; Case 0290: L=11823, k1=क्षीब्, k2=क्षीब्, code=r, #upasargas=0, mw=क्षीब् (same)
+;; Case 0291: L=11869, k1=क्षीव्, k2=क्षीव्, code=r, #upasargas=0, mw=क्षीव् (same)
+;; Case 0292: L=11872, k1=क्षु, k2=क्षु, code=r, #upasargas=0, mw=क्षु (same)
+;; Case 0293: L=11882, k1=क्षुद्, k2=क्षुद्, code=r, #upasargas=0, mw=क्षुद् (same)
+;; Case 0294: L=11908, k1=क्षुध, k2=क्षुध, code=r, #upasargas=0, mw=क्षुध् (diff)
+;; Case 0295: L=11921, k1=क्षुभ्, k2=क्षुभ्, code=r, #upasargas=0, mw=क्षुभ् (same)
+;; Case 0296: L=11924, k1=क्षुर्, k2=क्षुर्, code=r, #upasargas=0, mw=क्षुर् (same)
+;; Case 0297: L=11937, k1=क्षेड्, k2=क्षेड्, code=r, #upasargas=0, mw=?
+;; Case 0298: L=11971, k1=क्षेव्, k2=क्षेव्, code=r, #upasargas=0, mw=क्षेव् (same)
+;; Case 0299: L=11972, k1=क्षै, k2=क्षै, code=r, #upasargas=0, mw=क्षै (same)
+;; Case 0300: L=11997, k1=क्ष्णु, k2=क्ष्णु, code=r, #upasargas=1 (1/0), mw=क्ष्णु (same)
+01        सम्       क्ष्णु              संक्ष्णु              संक्ष्णु yes सम्+क्ष्णु
+;
+;; Case 0301: L=12003, k1=क्ष्माय्, k2=क्ष्माय्, code=r, #upasargas=0, mw=क्ष्माय् (same)
+;; Case 0302: L=12006, k1=क्ष्मील्, k2=क्ष्मील्, code=r, #upasargas=0, mw=क्ष्मील् (same)
+;; Case 0303: L=12008, k1=क्ष्विद्, k2=क्ष्विद्, code=r, #upasargas=0, mw=क्ष्विद् (same)
+;; Case 0304: L=12011, k1=क्ष्वेल्, k2=क्ष्वेल्, code=r, #upasargas=0, mw=क्ष्वेल् (same)
+;; Case 0305: L=12034, k1=खच, k2=खच, code=r, #upasargas=0, mw=खच् (diff)
+;; Case 0306: L=12038, k1=खज्, k2=खज्, code=r, #upasargas=0, mw=खज् (same)
+;; Case 0307: L=12055, k1=खट्, k2=खट्, code=r, #upasargas=0, mw=खट् (same)
+;; Case 0308: L=12063, k1=खट्ट, k2=खट्ट, code=r, #upasargas=0, mw=खट्ट् (diff)
+;; Case 0309: L=12077, k1=खड्, k2=खड्, code=r, #upasargas=0, mw=खड् (same)
+;; Case 0310: L=12137, k1=खद, k2=खद, code=r, #upasargas=0, mw=खद् (diff)
+;; Case 0311: L=12147, k1=खन्, k2=खन्, code=r, #upasargas=0, mw=खन् (same)
+;; Case 0312: L=12210, k1=खर्ब, k2=खर्ब, code=r, #upasargas=0, mw=खर्ब् (diff)
+;; Case 0313: L=12217, k1=खल्, k2=खल्, code=r, #upasargas=0, mw=खल् (same)
+;; Case 0314: L=12248, k1=खव्, k2=खव्, code=r, #upasargas=0, mw=खव् (same)
+;; Case 0315: L=12259, k1=खष्, k2=खष्, code=r, #upasargas=0, mw=खष् (same)
+;; Case 0316: L=12282, k1=खाद्, k2=खाद्, code=r, #upasargas=0, mw=खाद् (same)
+;; Case 0317: L=12305, k1=खिट्, k2=खिट्, code=r, #upasargas=0, mw=खिट् (same)
+;; Case 0318: L=12306, k1=खिद्, k2=खिद्, code=r, #upasargas=0, mw=खिद् (same)
+;; Case 0319: L=12312, k1=खु, k2=खु, code=r, #upasargas=0, mw=खु (same)
+;; Case 0320: L=12314, k1=खुज, k2=खुज, code=r, #upasargas=0, mw=खुज् (diff)
+;; Case 0321: L=12316, k1=खुड्, k2=खुड्, code=r, #upasargas=0, mw=खुड् (same)
+;; Case 0322: L=12317, k1=खुर्, k2=खुर्, code=r, #upasargas=0, mw=खुर् (same)
+;; Case 0323: L=12330, k1=खुर्द, k2=खुर्द, code=r, #upasargas=0, mw=खुर्द् (diff)
+;; Case 0324: L=12335, k1=खूर्द, k2=खूर्द, code=r, #upasargas=0, mw=खूर्द् (diff)
+;; Case 0325: L=12339, k1=खेट्, k2=खेट्, code=r, #upasargas=0, mw=खेट् (same)
+;; Case 0326: L=12344, k1=खेड्, k2=खेड्, code=r, #upasargas=0, mw=खेड् (same)
+;; Case 0327: L=12352, k1=खेल, k2=खेल, code=r, #upasargas=0, mw=खेल् (diff)
+;; Case 0328: L=12356, k1=खेव्, k2=खेव्, code=r, #upasargas=0, mw=खेव् (same)
+;; Case 0329: L=12360, k1=खोट्, k2=खोट्, code=r, #upasargas=0, mw=खोट् (same)
+;; Case 0330: L=12363, k1=खोड्, k2=खोड्, code=r, #upasargas=0, mw=खोड् (same)
+;; Case 0331: L=12366, k1=खोर्, k2=खोर्, code=r, #upasargas=0, mw=खोर् (same)
+;; Case 0332: L=12368, k1=खोल, k2=खोल, code=r, #upasargas=0, mw=खोल् (diff)
+;; Case 0333: L=12374, k1=ख्या, k2=ख्या, code=r, #upasargas=8 (6/2), mw=ख्या (same)
+01        अभि        ख्या               अभिख्या               अभिख्या yes अभि+ख्या
+02          आ        ख्या                 आख्या                 आख्या yes आ+ख्या
+03         कु        ख्या                कुख्या                कुख्या no 
+04         वि        ख्या                विख्या                विख्या yes वि+ख्या
+05        सम्        ख्या               संख्या               संख्या yes सम्+ख्या
+06         सु        ख्या                सुख्या                सुख्या no 
+07     प्रत्या        ख्या            प्रत्याख्या            प्रत्याख्या yes प्रति+आ+ख्या
+08       समा        ख्या              समाख्या              समाख्या yes सम्+आ+ख्या
+;
+;; Case 0334: L=12394, k1=गग्घ्, k2=गग्घ्, code=r, #upasargas=0, mw=गग्घ् (same)
+;; Case 0335: L=12414, k1=गज, k2=गज, code=r, #upasargas=0, mw=गज् (diff)
+;; Case 0336: L=12457, k1=गड्, k2=गड्, code=r, #upasargas=0, mw=गड् (same)
+;; Case 0337: L=12474, k1=गण, k2=गण, code=r, #upasargas=0, mw=गण् (diff)
+;; Case 0338: L=12577, k1=गद्, k2=गद्, code=r, #upasargas=0, mw=गद् (same)
+;; Case 0339: L=12601, k1=गन्ध, k2=गन्ध, code=r, #upasargas=0, mw=गन्ध् (diff)
+;; Case 0340: L=12698, k1=गम्, k2=गम्, code=r, #upasargas=19 (17/2), mw=गम् (same)
+01        अनु        गम्               अनुगम्               अनुगम् yes अनु+गम्
+02        अधि        गम्               अधिगम्               अधिगम् yes अधि+गम्
+03        अप        गम्               अपगम्               अपगम् yes अप+गम्
+04        अव        गम्               अवगम्               अवगम् yes अव+गम्
+05          आ        गम्                 आगम्                 आगम् yes आ+गम्
+06         उद्        गम्                उद्गम्                उद्गम् yes उद्+गम्
+07        उप        गम्               उपगम्               उपगम् yes उप+गम्
+08        दुर्        गम्               दुर्गम्               दुर्गम् no 
+09         नि        गम्                निगम्                निगम् yes नि+गम्
+10        निर्        गम्               निर्गम्               निर्गम् yes निर्+गम्
+11       परि        गम्              परिगम्              परिगम् yes परि+गम्
+12         वि        गम्                विगम्                विगम् yes वि+गम्
+13        सम्        गम्               सम्गम्               संगम् yes सम्+गम्
+14        उपा        गम्               उपागम्               उपागम् yes उप+आ+गम्
+15     पर्युद्        गम्            पर्युद्गम्            पर्युद्गम् no 
+16     प्रत्या        गम्            प्रत्यागम्            प्रत्यागम् yes प्रति+आ+गम्
+17    प्रत्युद्        गम्           प्रत्युद्गम्           प्रत्युद्गम् yes प्रति+उद्+गम्
+18       समा        गम्              समागम्              समागम् yes सम्+आ+गम्
+19     समुप        गम्            समुपगम्            समुपगम् yes सम्+उप+गम्
+;
+;; Case 0341: L=12708, k1=गम्ब, k2=गम्ब, code=r, #upasargas=0, mw=गम्ब् (diff)
+;; Case 0342: L=12747, k1=गर्घ्, k2=गर्घ्, code=r, #upasargas=0, mw=?
+;; Case 0343: L=12748, k1=गर्ज, k2=गर्ज, code=r, #upasargas=0, mw=गर्ज् (diff)
+;; Case 0344: L=12759, k1=गर्द्द, k2=गर्द्द, code=r, #upasargas=0, mw=गर्द् (diff)
+;; Case 0345: L=12769, k1=गर्ध्, k2=गर्ध्, code=r, #upasargas=0, mw=गृध् (diff)
+;; Case 0346: L=12770, k1=गर्ब्ब्, k2=गर्ब्ब्, code=r, #upasargas=0, mw=गर्ब् (diff)
+;; Case 0347: L=12816, k1=गर्ह्, k2=गर्ह्, code=r, #upasargas=0, mw=गर्ह् (same)
+;; Case 0348: L=12823, k1=गल्, k2=गल्, code=r, #upasargas=2 (2/0), mw=गल् (same)
+01        अव        गल्               अवगल्               अवगल् yes अव+गल्
+02         वि        गल्                विगल्                विगल् yes वि+गल्
+;
+;; Case 0349: L=12849, k1=गल्भ, k2=गल्भ, code=r, #upasargas=0, mw=गल्भ् (diff)
+;; Case 0350: L=12856, k1=गल्ह्, k2=गल्ह्, code=r, #upasargas=0, mw=गल्ह् (same)
+;; Case 0351: L=12874, k1=गवेष, k2=गवेष, code=r, #upasargas=0, mw=गवेष् (diff)
+;; Case 0352: L=12881, k1=गह्, k2=गह्, code=r, #upasargas=0, mw=गह् (same)
+;; Case 0353: L=12886, k1=गा, k2=गा, code=r, #upasargas=0, mw=गा (same)
+;; Case 0354: L=12919, k1=गाध्, k2=गाध्, code=r, #upasargas=0, mw=गाध् (same)
+;; Case 0355: L=12969, k1=गाह, k2=गाह, code=r, #upasargas=2 (2/0), mw=गाह् (diff)
+01        अव       गाह              अवगाह               अवगाह् yes अव+गाह्
+02         वि       गाह               विगाह                विगाह् yes वि+गाह्
+;
+;; Case 0356: L=13027, k1=गु, k2=गु, code=r, #upasargas=0, mw=गु (same)
+;; Case 0357: L=13036, k1=गुज्, k2=गुज्, code=r, #upasargas=0, mw=गुज् (same)
+;; Case 0358: L=13045, k1=गुठ्, k2=गुठ्, code=r, #upasargas=0, mw=गुण्ठ् (diff)
+;; Case 0359: L=13046, k1=गुड, k2=गुड, code=r, #upasargas=0, mw=गुड् (diff)
+;; Case 0360: L=13074, k1=गुण, k2=गुण, code=r, #upasargas=0, mw=गुणय (diff)
+;; Case 0361: L=13147, k1=गुद्, k2=गुद्, code=r, #upasargas=0, mw=गुद् (same)
+;; Case 0362: L=13154, k1=गुद्र, k2=गुद्र, code=r, #upasargas=0, mw=गुन्द्र् (diff)
+;; Case 0363: L=13155, k1=गुध्, k2=गुध्, code=r, #upasargas=0, mw=गुध् (same)
+;; Case 0364: L=13162, k1=गुप्, k2=गुप्, code=r, #upasargas=0, mw=गुप् (same)
+;; Case 0365: L=13168, k1=गुफ्, k2=गुफ्, code=r, #upasargas=0, mw=गुफ् (same)
+;; Case 0366: L=13170, k1=गुम्फ्, k2=गुम्फ्, code=r, #upasargas=0, mw=गुम्फ् (same)
+;; Case 0367: L=13173, k1=गुर्, k2=गुर्, code=r, #upasargas=0, mw=गुर् (same)
+;; Case 0368: L=13203, k1=गुर्द्, k2=गुर्द्, code=r, #upasargas=0, mw=गुर्द् (same)
+;; Case 0369: L=13204, k1=गुर्व्, k2=गुर्व्, code=r, #upasargas=0, mw=गुर्व् (same)
+;; Case 0370: L=13222, k1=गुह्, k2=गुह्, code=r, #upasargas=0, mw=गुह् (same)
+;; Case 0371: L=13237, k1=गू, k2=गू, code=r, #upasargas=0, mw=गू (same)
+;; Case 0372: L=13259, k1=गूर्द्, k2=गूर्द्, code=r, #upasargas=0, mw=गूर्द् (same)
+;; Case 0373: L=13263, k1=गृ, k2=गृ, code=r, #upasargas=0, mw=गृ (same)
+;; Case 0374: L=13264, k1=गृज्, k2=गृज्, code=r, #upasargas=0, mw=गृज् (same)
+;; Case 0375: L=13268, k1=गृध्, k2=गृध्, code=r, #upasargas=0, mw=गृध् (same)
+;; Case 0376: L=13280, k1=गृह, k2=गृह, code=r, #upasargas=0, mw=गृहय (diff)
+;; Case 0377: L=13351, k1=गॄ, k2=गॄ, code=r, #upasargas=3 (1/2), mw=गॄ (same)
+01        निर्         गॄ                निर्गॄ                निर्गॄ no 
+02         उत्         गॄ                 उद्गॄ                 उद्गॄ yes उद्+गॄ
+03      समुत्         गॄ              समुद्गॄ              समुद्गॄ no 
+;
+;; Case 0378: L=13354, k1=गेप्, k2=गेप्, code=r, #upasargas=0, mw=गेप् (same)
+;; Case 0379: L=13356, k1=गेव्, k2=गेव्, code=r, #upasargas=0, mw=गेव् (same)
+;; Case 0380: L=13357, k1=गेष्, k2=गेष्, code=r, #upasargas=0, mw=गेष् (same)
+;; Case 0381: L=13364, k1=गै, k2=गै, code=r, #upasargas=3 (3/0), mw=गै (same)
+01         उद्         गै                 उद्गै                 उद्गै yes उद्+गै
+02        प्र         गै                प्रगै                प्रगै yes प्र+गै
+03         वि         गै                 विगै                 विगै yes वि+गै
+;
+;; Case 0382: L=13483, k1=गोम्, k2=गोम्, code=r, #upasargas=0, mw=गोमय (diff)
+;; Case 0383: L=13552, k1=गोष्ठ, k2=गोष्ठ, code=r, #upasargas=0, mw=गोष्ठ (same)
+;; Case 0384: L=13613, k1=ग्रथ्, k2=ग्रथ्, code=r, #upasargas=0, mw=ग्रथ् (same)
+;; Case 0385: L=13615, k1=ग्रन्थ्, k2=ग्रन्थ्, code=r, #upasargas=1 (1/0), mw=ग्रन्थ् (same)
+01         उद्      ग्रन्थ्              उद्ग्रन्थ्              उद्ग्रन्थ् yes उद्+ग्रन्थ्
+;
+;; Case 0386: L=13636, k1=ग्रस, k2=ग्रस, code=r, #upasargas=0, mw=ग्रस् (diff)
+;; Case 0387: L=13642, k1=ग्रह्, k2=ग्रह्, code=r, #upasargas=9 (9/0), mw=ग्रह् (same)
+01        अनु       ग्रह्              अनुग्रह्              अनुग्रह् yes अनु+ग्रह्
+02        अव       ग्रह्              अवग्रह्              अवग्रह् yes अव+ग्रह्
+03        उप       ग्रह्              उपग्रह्              उपग्रह् yes उप+ग्रह्
+04         उद्       ग्रह्               उद्ग्रह्               उद्ग्रह् yes उद्+ग्रह्
+05         नि       ग्रह्               निग्रह्               निग्रह् yes नि+ग्रह्
+06       परि       ग्रह्             परिग्रह्             परिग्रह् yes परि+ग्रह्
+07      प्रति       ग्रह्            प्रतिग्रह्            प्रतिग्रह् yes प्रति+ग्रह्
+08         वि       ग्रह्               विग्रह्               विग्रह् yes वि+ग्रह्
+09        सम्       ग्रह्              सम्ग्रह्              संग्रह् yes सम्+ग्रह्
+;
+;; Case 0388: L=13743, k1=ग्रुच्, k2=ग्रुच्, code=r, #upasargas=0, mw=ग्रुच् (same)
+;; Case 0389: L=13749, k1=ग्लस्, k2=ग्लस्, code=r, #upasargas=0, mw=ग्लस् (same)
+;; Case 0390: L=13751, k1=ग्लह्, k2=ग्लह्, code=r, #upasargas=0, mw=ग्लह् (same)
+;; Case 0391: L=13756, k1=ग्लुच्, k2=ग्लुच्, code=r, #upasargas=0, mw=ग्लुच् (same)
+;; Case 0392: L=13757, k1=ग्लुञ्च्, k2=ग्लुञ्च्, code=r, #upasargas=0, mw=ग्लुञ्च् (same)
+;; Case 0393: L=13758, k1=ग्लेप्, k2=ग्लेप्, code=r, #upasargas=0, mw=ग्लेप् (same)
+;; Case 0394: L=13760, k1=ग्लेव्, k2=ग्लेव्, code=r, #upasargas=0, mw=ग्लेव् (same)
+;; Case 0395: L=13761, k1=ग्लेष्, k2=ग्लेष्, code=r, #upasargas=0, mw=ग्लेष् (same)
+;; Case 0396: L=13762, k1=ग्लै, k2=ग्लै, code=r, #upasargas=0, mw=ग्लै (same)
+;; Case 0397: L=13767, k1=घग्घ्, k2=घग्घ्, code=r, #upasargas=0, mw=घग्घ् (same)
+;; Case 0398: L=13768, k1=घघ्, k2=घघ्, code=r, #upasargas=0, mw=घघ् (same)
+;; Case 0399: L=13769, k1=घट्, k2=घट्, code=r, #upasargas=0, mw=घट् (same)
+;; Case 0400: L=13789, k1=घट्ट्, k2=घट्ट्, code=r, #upasargas=2 (2/0), mw=घट्ट् (same)
+01       परि       घट्ट्             परिघट्ट्             परिघट्ट् yes परि+घट्ट्
+02         वि       घट्ट्               विघट्ट्               विघट्ट् yes वि+घट्ट्
+;
+;; Case 0401: L=13793, k1=घण, k2=घण, code=r, #upasargas=0, mw=घण् (diff)
+;; Case 0402: L=13865, k1=घम्ब्, k2=घम्ब्, code=r, #upasargas=0, mw=घम्ब् (same)
+;; Case 0403: L=13871, k1=घर्ब, k2=घर्ब, code=r, #upasargas=0, mw=घर्ब् (diff)
+;; Case 0404: L=13887, k1=घष्, k2=घष्, code=r, #upasargas=0, mw=घंष् (diff)
+;; Case 0405: L=13888, k1=घस्, k2=घस्, code=r, #upasargas=0, mw=घस् (same)
+;; Case 0406: L=13909, k1=घिंण्, k2=घिंण्, code=r, #upasargas=0, mw=घिण्ण् (diff)
+;; Case 0407: L=13910, k1=घु, k2=घु, code=r, #upasargas=0, mw=घु (same)
+;; Case 0408: L=13912, k1=घुट्, k2=घुट्, code=r, #upasargas=0, mw=घुट् (same)
+;; Case 0409: L=13916, k1=घुण्, k2=घुण्, code=r, #upasargas=0, mw=घुण् (same)
+;; Case 0410: L=13921, k1=घुर्, k2=घुर्, code=r, #upasargas=0, mw=घुर् (same)
+;; Case 0411: L=13922, k1=घुर, k2=घुर, code=r, #upasargas=0, mw=घुर् (diff)
+;; Case 0412: L=13924, k1=घुष, k2=घुष, code=r, #upasargas=1 (1/0), mw=घुष् (diff)
+01          आ       घुष                आघुष                 आघुष् yes आ+घुष्
+;
+;; Case 0413: L=13932, k1=घूर्, k2=घूर्, code=r, #upasargas=0, mw=घूर् (same)
+;; Case 0414: L=13933, k1=घूर्ण, k2=घूर्ण, code=r, #upasargas=0, mw=घूर्ण् (diff)
+;; Case 0415: L=13940, k1=घृ, k2=घृ, code=r, #upasargas=0, mw=घृ (same)
+;; Case 0416: L=13941, k1=घृण्, k2=घृण्, code=r, #upasargas=0, mw=घृण् (same)
+;; Case 0417: L=13970, k1=घृष्, k2=घृष्, code=r, #upasargas=0, mw=घृष् (same)
+;; Case 0418: L=13983, k1=घोर्, k2=घोर्, code=r, #upasargas=0, mw=?
+;; Case 0419: L=14011, k1=ङु, k2=ङु, code=r, #upasargas=0, mw=ङु (same)
+;; Case 0420: L=14014, k1=चक्, k2=चक्, code=r, #upasargas=0, mw=चक् (same)
+;; Case 0421: L=14015, k1=चकास्, k2=चकास्, code=r, #upasargas=0, mw=चकास् (same)
+;; Case 0422: L=14021, k1=चक्क्, k2=चक्क्, code=r, #upasargas=0, mw=चक्क् (same)
+;; Case 0423: L=14086, k1=चघ्, k2=चघ्, code=r, #upasargas=0, mw=चघ् (same)
+;; Case 0424: L=14093, k1=चञ्च, k2=चञ्च, code=r, #upasargas=0, mw=चञ्च् (diff)
+;; Case 0425: L=14110, k1=चट्, k2=चट्, code=r, #upasargas=0, mw=चट् (same)
+;; Case 0426: L=14119, k1=चड, k2=चड, code=r, #upasargas=0, mw=चण्ड् (diff)
+;; Case 0427: L=14120, k1=चण्, k2=चण्, code=r, #upasargas=0, mw=चण् (same)
+;; Case 0428: L=14192, k1=चद्, k2=चद्, code=r, #upasargas=0, mw=चद् (same)
+;; Case 0429: L=14194, k1=चन्, k2=चन्, code=r, #upasargas=0, mw=चन् (same)
+;; Case 0430: L=14254, k1=चप्, k2=चप्, code=r, #upasargas=0, mw=चप् (same)
+;; Case 0431: L=14262, k1=चम्, k2=चम्, code=r, #upasargas=1 (1/0), mw=चम् (same)
+01          आ        चम्                 आचम्                 आचम् yes आ+चम्
+;
+;; Case 0432: L=14289, k1=चय्, k2=चय्, code=r, #upasargas=0, mw=चय् (same)
+;; Case 0433: L=14293, k1=चर्, k2=चर्, code=r, #upasargas=12 (11/1), mw=चर् (same)
+01        अभि        चर्               अभिचर्               अभिचर् yes अभि+चर्
+02        अनु        चर्               अनुचर्               अनुचर् yes अनु+चर्
+03          आ        चर्                 आचर्                 आचर् yes आ+चर्
+04         उद्        चर्                उत्चर्                उच्चर् yes उद्+चर्
+05        उप        चर्               उपचर्               उपचर् yes उप+चर्
+06       परि        चर्              परिचर्              परिचर् yes परि+चर्
+07        प्र        चर्               प्रचर्               प्रचर् yes प्र+चर्
+08         वि        चर्                विचर्                विचर् yes वि+चर्
+09        सम्        चर्               संचर्               संचर् yes सम्+चर्
+10       अत्या        चर्              अत्याचर्              अत्याचर् no 
+11      व्यभि        चर्             व्यभिचर्             व्यभिचर् yes वि+अभि+चर्
+12       समा        चर्              समाचर्              समाचर् yes सम्+आ+चर्
+;
+;; Case 0434: L=14335, k1=चर्च्, k2=चर्च्, code=r, #upasargas=0, mw=चर्च् (same)
+;; Case 0435: L=14341, k1=चर्च्च, k2=चर्च्च, code=r, #upasargas=0, mw=चर्च् (diff)
+;; Case 0436: L=14344, k1=चर्ब, k2=चर्ब, code=r, #upasargas=0, mw=चर्ब् (diff)
+;; Case 0437: L=14385, k1=चर्व्, k2=चर्व्, code=r, #upasargas=0, mw=चर्व् (same)
+;; Case 0438: L=14392, k1=चल्, k2=चल्, code=r, #upasargas=0, mw=चल् (same)
+;; Case 0439: L=14418, k1=चष्, k2=चष्, code=r, #upasargas=0, mw=चष् (same)
+;; Case 0440: L=14422, k1=चह्, k2=चह्, code=r, #upasargas=0, mw=चह् (same)
+;; Case 0441: L=14484, k1=चाय्, k2=चाय्, code=r, #upasargas=0, mw=चाय् (same)
+;; Case 0442: L=14555, k1=चिक्क्, k2=चिक्क्, code=r, #upasargas=0, mw=चिक्क् (same)
+;; Case 0443: L=14571, k1=चिट्, k2=चिट्, code=r, #upasargas=0, mw=चिट् (same)
+;; Case 0444: L=14572, k1=चित्, k2=चित्, code=r, #upasargas=0, mw=चित् (same)
+;; Case 0445: L=14612, k1=चित्र, k2=चित्र, code=r, #upasargas=0, mw=चित्रय (diff)
+;; Case 0446: L=14745, k1=चिरि, k2=चिरि, code=r, #upasargas=0, mw=चिरि (same)
+;; Case 0447: L=14754, k1=चिल्, k2=चिल्, code=r, #upasargas=0, mw=चिल् (same)
+;; Case 0448: L=14757, k1=चिल्ल्, k2=चिल्ल्, code=r, #upasargas=0, mw=चिल्ल् (same)
+;; Case 0449: L=14766, k1=चिह्न, k2=चिह्न, code=r, #upasargas=0, mw=चिह्नय (diff)
+;; Case 0450: L=14771, k1=चीक्, k2=चीक्, code=r, #upasargas=0, mw=चीक् (same)
+;; Case 0451: L=14779, k1=चीव्, k2=चीव्, code=r, #upasargas=0, mw=चीव् (same)
+;; Case 0452: L=14780, k1=चीभ्, k2=चीभ्, code=r, #upasargas=0, mw=चीभ् (same)
+;; Case 0453: L=14781, k1=चीय्, k2=चीय्, code=r, #upasargas=0, mw=चीय् (same)
+;; Case 0454: L=14789, k1=चीव्, k2=चीव्, code=r, #upasargas=0, mw=चीव् (same)
+;; Case 0455: L=14792, k1=चुक्क्, k2=चुक्क्, code=r, #upasargas=0, mw=चुक्क् (same)
+;; Case 0456: L=14799, k1=चुच्य्, k2=चुच्य्, code=r, #upasargas=0, mw=चुच्य् (same)
+;; Case 0457: L=14802, k1=चुट्, k2=चुट्, code=r, #upasargas=0, mw=चुट् (same)
+;; Case 0458: L=14803, k1=चुट्ट, k2=चुट्ट, code=r, #upasargas=0, mw=चुट्ट् (diff)
+;; Case 0459: L=14804, k1=चुड्, k2=चुड्, code=r, #upasargas=0, mw=चुड् (same)
+;; Case 0460: L=14805, k1=चुड्ड्, k2=चुड्ड्,, code=r, #upasargas=0, mw=चुड्ड् (same)
+;; Case 0461: L=14806, k1=चुण, k2=चुण, code=r, #upasargas=0, mw=चुण् (diff)
+;; Case 0462: L=14809, k1=चुत, k2=चुत, code=r, #upasargas=0, mw=चुत् (diff)
+;; Case 0463: L=14812, k1=चुद्, k2=चुद्, code=r, #upasargas=0, mw=चुद् (same)
+;; Case 0464: L=14814, k1=चुप्, k2=चुप्, code=r, #upasargas=0, mw=चुप् (same)
+;; Case 0465: L=14815, k1=चुब्, k2=चुब्, code=r, #upasargas=0, mw=चुम्ब् (diff)
+;; Case 0466: L=14822, k1=चुर्, k2=चुर्, code=r, #upasargas=0, mw=चुर् (same)
+;; Case 0467: L=14825, k1=चुल्, k2=चुल्, code=r, #upasargas=0, mw=चुल् (same)
+;; Case 0468: L=14830, k1=चुलुम्प्, k2=चुलुम्प्, code=r, #upasargas=0, mw=चुलुम्प् (same)
+;; Case 0469: L=14833, k1=चुल्ल्, k2=चुल्ल्, code=r, #upasargas=0, mw=चुल्ल् (same)
+;; Case 0470: L=14849, k1=चूण, k2=चूण, code=r, #upasargas=0, mw=चूण् (diff)
+;; Case 0471: L=14853, k1=चूर्, k2=चूर्, code=r, #upasargas=0, mw=चूर् (same)
+;; Case 0472: L=14854, k1=चूर्ण, k2=चूर्ण, code=r, #upasargas=0, mw=चूर्ण् (diff)
+;; Case 0473: L=14872, k1=चूष्, k2=चूष्, code=r, #upasargas=0, mw=चूष् (same)
+;; Case 0474: L=14875, k1=चृत्, k2=चृत्, code=r, #upasargas=0, mw=चृत् (same)
+;; Case 0475: L=14876, k1=चृप्, k2=चृप्, code=r, #upasargas=0, mw=चृप् (same)
+;; Case 0476: L=14895, k1=चेल्, k2=चेल्, code=r, #upasargas=0, mw=चेल् (same)
+;; Case 0477: L=14902, k1=चेल्ल, k2=चेल्ल, code=r, #upasargas=0, mw=चेल्ल् (diff)
+;; Case 0478: L=14904, k1=चेष्ट्, k2=चेष्ट्, code=r, #upasargas=0, mw=चेष्ट् (same)
+;; Case 0479: L=14962, k1=च्यु, k2=च्यु, code=r, #upasargas=0, mw=च्यु (same)
+;; Case 0480: L=14963, k1=च्युत्, k2=च्युत्, code=r, #upasargas=0, mw=च्युत् (same)
+;; Case 0481: L=14975, k1=च्युस्, k2=च्युस्, code=r, #upasargas=0, mw=च्युस् (same)
+;; Case 0482: L=15002, k1=छद्, k2=छद्, code=r, #upasargas=0, mw=छद् (same)
+;; Case 0483: L=15021, k1=छप्, k2=छप्, code=r, #upasargas=0, mw=छम्प् (diff)
+;; Case 0484: L=15022, k1=छम्, k2=छम्, code=r, #upasargas=0, mw=छम् (same)
+;; Case 0485: L=15024, k1=छर्द, k2=छर्द, code=r, #upasargas=0, mw=छृद् (diff)
+;; Case 0486: L=15031, k1=छर्ष, k2=छर्ष, code=r, #upasargas=0, mw=?
+;; Case 0487: L=15077, k1=छिद्, k2=छिद्, code=r, #upasargas=2 (2/0), mw=छिद् (same)
+01          आ        छिद्                 आछिद्                आच्छिद् yes आ+छिद्
+02         उद्        छिद्                उत्छिद्                उच्छिद् yes उद्+छिद्
+;
+;; Case 0488: L=15084, k1=छिद्र, k2=छिद्र, code=r, #upasargas=0, mw=छिद्रय (diff)
+;; Case 0489: L=15106, k1=छुट्, k2=छुट्, code=r, #upasargas=0, mw=छुट् (same)
+;; Case 0490: L=15107, k1=छुड्, k2=छुड्, code=r, #upasargas=0, mw=छुड् (same)
+;; Case 0491: L=15109, k1=छुप, k2=छुप, code=r, #upasargas=0, mw=छुप् (diff)
+;; Case 0492: L=15111, k1=छुर्, k2=छुर्, code=r, #upasargas=0, mw=छुर् (same)
+;; Case 0493: L=15118, k1=छृद्, k2=छृद्, code=r, #upasargas=0, mw=छृद् (same)
+;; Case 0494: L=15119, k1=छृप्, k2=छृप्, code=r, #upasargas=0, mw=छृप् (same)
+;; Case 0495: L=15135, k1=छो, k2=छो, code=r, #upasargas=0, mw=छो (same)
+;; Case 0496: L=15140, k1=छ्यु, k2=छ्यु, code=r, #upasargas=0, mw=छ्यु (same)
+;; Case 0497: L=15144, k1=जक्ष्, k2=जक्ष्, code=r, #upasargas=0, mw=जक्ष् (same)
+;; Case 0498: L=15214, k1=जज्, k2=जज्, code=r, #upasargas=0, mw=जज् (same)
+;; Case 0499: L=15218, k1=जट्, k2=जट्, code=r, #upasargas=0, mw=जट् (same)
+;; Case 0500: L=15328, k1=जप्, k2=जप्, code=r, #upasargas=0, mw=जप् (same)
+;; Case 0501: L=15337, k1=जभ्, k2=जभ्, code=r, #upasargas=0, mw=जभ् (same)
+;; Case 0502: L=15338, k1=जम्, k2=जम्, code=r, #upasargas=0, mw=जम् (same)
+;; Case 0503: L=15414, k1=जर्च, k2=जर्च, code=r, #upasargas=0, mw=जर्च् (diff)
+;; Case 0504: L=15415, k1=जर्च्छ, k2=जर्च्छ, code=r, #upasargas=0, mw=जर्छ् (diff)
+;; Case 0505: L=15416, k1=जर्ज, k2=जर्ज, code=r, #upasargas=0, mw=जर्ज् (diff)
+;; Case 0506: L=15420, k1=जर्झ्, k2=जर्झ्, code=r, #upasargas=0, mw=जर्झ् (same)
+;; Case 0507: L=15424, k1=जर्त्स, k2=जर्त्स, code=r, #upasargas=0, mw=जर्त्स् (diff)
+;; Case 0508: L=15602, k1=जल्प्, k2=जल्प्, code=r, #upasargas=0, mw=जल्प् (same)
+;; Case 0509: L=15608, k1=जव, k2=जव, code=r, #upasargas=0, mw=?
+;; Case 0510: L=15619, k1=जष, k2=जष, code=r, #upasargas=0, mw=जष् (diff)
+;; Case 0511: L=15620, k1=जस्, k2=जस्, code=r, #upasargas=0, mw=जस् (same)
+;; Case 0512: L=15637, k1=जागृ, k2=जागृ, code=r, #upasargas=0, mw=जागृ (same)
+;; Case 0513: L=15747, k1=जि, k2=जि, code=r, #upasargas=2 (2/0), mw=जि (same)
+01         वि         जि                 विजि                 विजि yes वि+जि
+02       परा         जि               पराजि               पराजि yes परा+जि
+;
+;; Case 0514: L=15802, k1=जिम्, k2=जिम्, code=r, #upasargas=0, mw=जिम् (same)
+;; Case 0515: L=15803, k1=जिरि, k2=जिरि, code=r, #upasargas=0, mw=जिरि (same)
+;; Case 0516: L=15804, k1=जिव्, k2=जिव्, code=r, #upasargas=0, mw=जिन्व् (diff)
+;; Case 0517: L=15806, k1=जिवि, k2=जिवि, code=r, #upasargas=0, mw=?
+;; Case 0518: L=15808, k1=जिष्, k2=जिष्, code=r, #upasargas=0, mw=जिष् (same)
+;; Case 0519: L=15856, k1=जीव, k2=जीव, code=r, #upasargas=4 (3/1), mw=जीव् (diff)
+01          आ       जीव                आजीव                 आजीव् yes आ+जीव्
+02        उप       जीव              उपजीव               उपजीव् yes उप+जीव्
+03        प्र       जीव              प्रजीव               प्रजीव् no 
+04        सम्       जीव              सम्जीव               संजीव् yes सम्+जीव्
+;
+;; Case 0520: L=15913, k1=जु, k2=जु, code=r, #upasargas=0, mw=जु (same)
+;; Case 0521: L=15915, k1=जुग्, k2=जुग्, code=r, #upasargas=0, mw=जुङ्ग् (diff)
+;; Case 0522: L=15922, k1=जुड्, k2=जुड्, code=r, #upasargas=0, mw=जुड् (same)
+;; Case 0523: L=15923, k1=जुत्, k2=जुत्, code=r, #upasargas=0, mw=जुत् (same)
+;; Case 0524: L=15924, k1=जुन्, k2=जुन्, code=r, #upasargas=0, mw=जुन् (same)
+;; Case 0525: L=15926, k1=जुर्व, k2=जुर्व, code=r, #upasargas=0, mw=जूर्व् (diff)
+;; Case 0526: L=15927, k1=जुल्, k2=जुल्, code=r, #upasargas=0, mw=जुल् (same)
+;; Case 0527: L=15928, k1=जुष, k2=जुष, code=r, #upasargas=0, mw=जुष् (diff)
+;; Case 0528: L=15941, k1=जूर्, k2=जूर्, code=r, #upasargas=0, mw=जूर् (same)
+;; Case 0529: L=15945, k1=जूर्व्व, k2=जूर्व्व, code=r, #upasargas=0, mw=जूर्व् (diff)
+;; Case 0530: L=15946, k1=जूष, k2=जूष, code=r, #upasargas=0, mw=जूष् (diff)
+;; Case 0531: L=15949, k1=जृ, k2=जृ, code=r, #upasargas=0, mw=जृ (same)
+;; Case 0532: L=15950, k1=जृभ, k2=जृभ, code=r, #upasargas=0, mw=जृम्भ् (diff)
+;; Case 0533: L=15959, k1=जॄ, k2=जॄ, code=r, #upasargas=0, mw=जॄ (same)
+;; Case 0534: L=15965, k1=जेष, k2=जेष, code=r, #upasargas=0, mw=जेष् (diff)
+;; Case 0535: L=15966, k1=जेह्, k2=जेह्, code=r, #upasargas=0, mw=जेह् (same)
+;; Case 0536: L=15967, k1=जै, k2=जै, code=r, #upasargas=0, mw=जै (same)
+;; Case 0537: L=15986, k1=ज्ञप्, k2=ज्ञप्, code=r, #upasargas=0, mw=ज्ञा (diff)
+;; Case 0538: L=15990, k1=ज्ञा, k2=ज्ञा, code=r, #upasargas=13 (13/0), mw=ज्ञा (same)
+01        अनु        ज्ञा               अनुज्ञा               अनुज्ञा yes अनु+ज्ञा
+02        अप        ज्ञा               अपज्ञा               अपज्ञा yes अप+ज्ञा
+03        अव        ज्ञा               अवज्ञा               अवज्ञा yes अव+ज्ञा
+04          आ        ज्ञा                 आज्ञा                 आज्ञा yes आ+ज्ञा
+05        प्र        ज्ञा               प्रज्ञा               प्रज्ञा yes प्र+ज्ञा
+06        उप        ज्ञा               उपज्ञा               उपज्ञा yes उप+ज्ञा
+07       परि        ज्ञा              परिज्ञा              परिज्ञा yes परि+ज्ञा
+08      प्रति        ज्ञा             प्रतिज्ञा             प्रतिज्ञा yes प्रति+ज्ञा
+09        सम्        ज्ञा               सम्ज्ञा               संज्ञा yes सम्+ज्ञा
+10         वि        ज्ञा                विज्ञा                विज्ञा yes वि+ज्ञा
+11        सम्        ज्ञा               सम्ज्ञा               संज्ञा yes सम्+ज्ञा
+12   प्रत्यभि        ज्ञा          प्रत्यभिज्ञा          प्रत्यभिज्ञा yes प्रति+अभि+ज्ञा
+13          आ        ज्ञा                 आज्ञा                 आज्ञा yes आ+ज्ञा
+;
+;; Case 0539: L=16025, k1=ज्या, k2=ज्या, code=r, #upasargas=0, mw=ज्या (same)
+;; Case 0540: L=16030, k1=ज्यु, k2=ज्यु, code=r, #upasargas=0, mw=ज्यु (same)
+;; Case 0541: L=16031, k1=ज्युत्, k2=ज्युत्, code=r, #upasargas=0, mw=ज्युत् (same)
+;; Case 0542: L=16050, k1=ज्यो, k2=ज्यो, code=r, #upasargas=0, mw=ज्यो (same)
+;; Case 0543: L=16075, k1=ज्रि, k2=ज्रि, code=r, #upasargas=0, mw=ज्रि (same)
+;; Case 0544: L=16076, k1=ज्री, k2=ज्री, code=r, #upasargas=0, mw=ज्री (same)
+;; Case 0545: L=16077, k1=ज्वर, k2=ज्वर, code=r, #upasargas=0, mw=ज्वर् (diff)
+;; Case 0546: L=16087, k1=ज्वल्, k2=ज्वल्, code=r, #upasargas=0, mw=ज्वल् (same)
+;; Case 0547: L=16108, k1=झट्, k2=झट्, code=r, #upasargas=0, mw=झट् (same)
+;; Case 0548: L=16113, k1=झम्, k2=झम्, code=r, #upasargas=0, mw=झम् (same)
+;; Case 0549: L=16120, k1=झर्च्, k2=झर्च्, code=r, #upasargas=0, mw=झर्च् (same)
+;; Case 0550: L=16121, k1=झर्छ्, k2=झर्छ्, code=r, #upasargas=0, mw=झर्छ् (same)
+;; Case 0551: L=16122, k1=झर्ज्, k2=झर्ज्, code=r, #upasargas=0, mw=झर्झ् (diff)
+;; Case 0552: L=16123, k1=झर्झ्, k2=झर्झ्, code=r, #upasargas=0, mw=झर्झ् (same)
+;; Case 0553: L=16138, k1=झष्, k2=झष्, code=r, #upasargas=0, mw=झष् (same)
+;; Case 0554: L=16169, k1=झु, k2=झु, code=r, #upasargas=0, mw=झु (same)
+;; Case 0555: L=16173, k1=झूष्, k2=झूष्, code=r, #upasargas=0, mw=झूष् (same)
+;; Case 0556: L=16174, k1=झॄ, k2=झॄ, code=r, #upasargas=0, mw=झॄ (same)
+;; Case 0557: L=16176, k1=झ्यु, k2=झ्यु, code=r, #upasargas=0, mw=झ्यु (same)
+;; Case 0558: L=16181, k1=टक्, k2=टक्, code=r, #upasargas=0, mw=टङ्क् (diff)
+;; Case 0559: L=16199, k1=टल्, k2=टल्, code=r, #upasargas=0, mw=टल् (same)
+;; Case 0560: L=16203, k1=टिक, k2=टिक, code=r, #upasargas=0, mw=टिक् (diff)
+;; Case 0561: L=16207, k1=टिप्, k2=टिप्, code=r, #upasargas=0, mw=टिप् (same)
+;; Case 0562: L=16209, k1=टीक्, k2=टीक्, code=r, #upasargas=0, mw=टीक् (same)
+;; Case 0563: L=16216, k1=टौक, k2=टौक, code=r, #upasargas=0, mw=टौक् (diff)
+;; Case 0564: L=16217, k1=ट्वल, k2=ट्वल, code=r, #upasargas=0, mw=ट्वल् (diff)
+;; Case 0565: L=16225, k1=डप्, k2=डप्, code=r, #upasargas=0, mw=डप् (same)
+;; Case 0566: L=16226, k1=डब्, k2=डब्, code=r, #upasargas=1 (1/0), mw=डम्ब् (diff)
+01         वि        डब्                विडब्               विडम्ब् yes वि+डम्ब्
+;
+;; Case 0567: L=16227, k1=डभ्, k2=डभ्, code=r, #upasargas=0, mw=डम्भ् (diff)
+;; Case 0568: L=16244, k1=डिप्, k2=डिप्, code=r, #upasargas=0, mw=डिप् (same)
+;; Case 0569: L=16245, k1=डिब्, k2=डिब्, code=r, #upasargas=0, mw=डिम्ब् (diff)
+;; Case 0570: L=16246, k1=डिभ्, k2=डिभ्, code=r, #upasargas=0, mw=डिम्भ् (diff)
+;; Case 0571: L=16253, k1=डी, k2=डी, code=r, #upasargas=5 (1/4), mw=डी (same)
+01        अव         डी                अवडी                अवडी no 
+02         उद्         डी                 उड्डी                 उड्डी yes उद्+डी
+03       परि         डी               परिडी               परिडी no 
+04        प्र         डी                प्रडी                प्रडी no 
+05      समुत्         डी              समुड्डी              समुड्डी no 
+;
+;; Case 0572: L=16271, k1=ढुढ्, k2=ढुढ्, code=r, #upasargas=0, mw=ढुण्ढ् (diff)
+;; Case 0573: L=16276, k1=ढौक, k2=ढौक, code=r, #upasargas=0, mw=ढौक् (diff)
+;; Case 0574: L=16280, k1=णक्ष्, k2=णक्ष्, code=r, #upasargas=0, mw=नक्ष् (diff)
+;; Case 0575: L=16281, k1=णख्, k2=णख्, code=r, #upasargas=0, mw=नख् (diff)
+;; Case 0576: L=16282, k1=णट्, k2=णट्, code=r, #upasargas=0, mw=नट् (diff)
+;; Case 0577: L=16283, k1=णद्, k2=णद्, code=r, #upasargas=0, mw=नद् (diff)
+;; Case 0578: L=16284, k1=णद्, k2=णद्, code=r, #upasargas=0, mw=नद् (diff)
+;; Case 0579: L=16285, k1=णभ्, k2=णभ्, code=r, #upasargas=0, mw=नभ् (diff)
+;; Case 0580: L=16286, k1=णम्, k2=णम्, code=r, #upasargas=5 (5/0), mw=नम् (diff)
+01        अव        णम्               अवणम्               अवनम् yes अव+नम्
+02          आ        णम्                 आणम्                 आनम् yes आ+नम्
+03        सम्        णम्               सम्णम्               संनम् yes सम्+नम्
+04         उद्        णम्                उद्णम्                उन्नम् yes उद्+नम्
+05        प्र        णम्               प्रणम्               प्रणम् yes प्र+नम्
+;
+;; Case 0581: L=16287, k1=णय, k2=णय, code=r, #upasargas=0, mw=नय् (diff)
+;; Case 0582: L=16288, k1=णर्द्, k2=णर्द्, code=r, #upasargas=0, mw=नर्द् (diff)
+;; Case 0583: L=16289, k1=णल्, k2=णल्, code=r, #upasargas=0, mw=नल् (diff)
+;; Case 0584: L=16290, k1=णश्, k2=णश्, code=r, #upasargas=0, mw=नश् (diff)
+;; Case 0585: L=16291, k1=णस्, k2=णस्, code=r, #upasargas=0, mw=नस् (diff)
+;; Case 0586: L=16292, k1=णह्, k2=णह्, code=r, #upasargas=1 (1/0), mw=नह् (diff)
+01        सम्        णह्               सम्णह्               संनह् yes सम्+नह्
+;
+;; Case 0587: L=16293, k1=णास्, k2=णास्, code=r, #upasargas=0, mw=नास् (diff)
+;; Case 0588: L=16294, k1=णिक्ष्, k2=णिक्ष्, code=r, #upasargas=0, mw=निक्ष् (diff)
+;; Case 0589: L=16295, k1=णिज्, k2=णिज्, code=r, #upasargas=0, mw=निज् (diff)
+;; Case 0590: L=16296, k1=णिद्, k2=णिद्, code=r, #upasargas=0, mw=निद् (diff)
+;; Case 0591: L=16297, k1=णिल्, k2=णिल्, code=r, #upasargas=0, mw=निल् (diff)
+;; Case 0592: L=16298, k1=णिव्, k2=णिव्, code=r, #upasargas=0, mw=निन्व् (diff)
+;; Case 0593: L=16299, k1=णिश्, k2=णिश्, code=r, #upasargas=0, mw=निश् (diff)
+;; Case 0594: L=16300, k1=णिष्, k2=णिष्, code=r, #upasargas=0, mw=निष् (diff)
+;; Case 0595: L=16301, k1=णिस्, k2=णिस्, code=r, #upasargas=0, mw=निंस् (diff)
+;; Case 0596: L=16302, k1=णी, k2=णी, code=r, #upasargas=17 (14/3), mw=नी (diff)
+01        अनु         णी                अनुणी                अनुनी yes अनु+नी
+02        अप         णी                अपणी                अपनी yes अप+नी
+03        अभि         णी                अभिणी                अभिनी yes अभि+नी,अभि+नि+इ
+04          आ         णी                  आणी                  आनी yes आ+नी
+05         उद्         णी                 उद्णी                 उन्नी yes उद्+नी
+06        उप         णी                उपणी                उपनी yes उप+नी,उप+नि+इ
+07        दुर्         णी                दुर्णी                दुर्नी no 
+08        निर्         णी                निर्णी                निर्णी yes निर्+नी
+09       परि         णी               परिणी               परिणी yes परि+नी
+10        प्र         णी                प्रणी                प्रणी yes प्र+नी
+11         वि         णी                 विणी                 विनी yes वि+नी
+12         सु         णी                 सुणी                 सुनी no 
+13        सम्         णी                सम्णी                संनी yes सम्+नी
+14      व्यप         णी              व्यपणी              व्यपनी yes वि+अप+नी
+15      विनिर्         णी              विनिर्णी              विनिर्णी yes वि+निर्+नी
+16     समनु         णी             समनुणी             समनुनी no 
+17       समा         णी               समाणी               समानी yes सम्+आ+नी
+;
+;; Case 0597: L=16303, k1=णील्, k2=णील्, code=r, #upasargas=0, mw=नील् (diff)
+;; Case 0598: L=16304, k1=णीव्, k2=णीव्, code=r, #upasargas=0, mw=नीव् (diff)
+;; Case 0599: L=16305, k1=णु, k2=णु, code=r, #upasargas=1 (1/0), mw=नु (diff)
+01          आ         णु                  आणु                  आनु yes आ+नु
+;
+;; Case 0600: L=16306, k1=णुद्, k2=णुद्, code=r, #upasargas=5 (5/0), mw=नुद् (diff)
+01        अप        णुद्               अपणुद्               अपनुद् yes अप+नुद्
+02        निर्        णुद्               निर्णुद्               निर्णुद् yes निर्+नुद्
+03        प्र        णुद्               प्रणुद्               प्रणुद् yes प्र+नुद्
+04         वि        णुद्                विणुद्                विनुद् yes वि+नुद्
+05        सम्        णुद्               सम्णुद्               संनुद् yes सम्+नुद्
+;
+;; Case 0601: L=16307, k1=णू, k2=णू, code=r, #upasargas=0, mw=नू (diff)
+;; Case 0602: L=16308, k1=णेद्, k2=णेद्, code=r, #upasargas=0, mw=नेद् (diff)
+;; Case 0603: L=16309, k1=णेष्, k2=णेष्, code=r, #upasargas=0, mw=नेष् (diff)
+;; Case 0604: L=16312, k1=तक्, k2=तक्, code=r, #upasargas=1 (0/1), mw=तक् (same)
+01      व्यति        तक्             व्यतितक्             व्यतितक् no 
+;
+;; Case 0605: L=16320, k1=तक्ष्, k2=तक्ष्, code=r, #upasargas=0, mw=तक्ष् (same)
+;; Case 0606: L=16325, k1=तग्, k2=तग्, code=r, #upasargas=0, mw=तङ्ग् (diff)
+;; Case 0607: L=16330, k1=तञ्च्, k2=तञ्च्, code=r, #upasargas=0, mw=तञ्च् (same)
+;; Case 0608: L=16331, k1=तञ्ज, k2=तञ्ज, code=r, #upasargas=0, mw=तञ्ज् (diff)
+;; Case 0609: L=16332, k1=तट्, k2=तट्, code=r, #upasargas=0, mw=तट् (same)
+;; Case 0610: L=16337, k1=तड्, k2=तड्, code=r, #upasargas=0, mw=तड् (same)
+;; Case 0611: L=16386, k1=तत्र्, k2=तत्र्, code=r, #upasargas=0, mw=तन्त्रय (diff)
+;; Case 0612: L=16400, k1=तद्, k2=तद्, code=r, #upasargas=0, mw=तन्द् (diff)
+;; Case 0613: L=16420, k1=तन्, k2=तन्, code=r, #upasargas=0, mw=तन् (same)
+;; Case 0614: L=16492, k1=तप्, k2=तप्, code=r, #upasargas=3 (3/0), mw=तप् (same)
+01        अनु        तप्               अनुतप्               अनुतप् yes अनु+तप्
+02       परि        तप्              परितप्              परितप् yes परि+तप्
+03        सम्        तप्               संतप्               संतप् yes सम्+तप्
+;
+;; Case 0615: L=16537, k1=तम्, k2=तम्, code=r, #upasargas=0, mw=तम् (same)
+;; Case 0616: L=16574, k1=तम्ब्, k2=तम्ब्, code=r, #upasargas=0, mw=तम्ब् (same)
+;; Case 0617: L=16640, k1=तर्क, k2=तर्क, code=r, #upasargas=0, mw=तर्क् (diff)
+;; Case 0618: L=16658, k1=तर्ज्, k2=तर्ज्, code=r, #upasargas=0, mw=तर्ज् (same)
+;; Case 0619: L=16666, k1=तर्द्, k2=तर्द्, code=r, #upasargas=0, mw=तर्द् (same)
+;; Case 0620: L=16672, k1=तर्ब्, k2=तर्ब्, code=r, #upasargas=0, mw=तर्ब् (same)
+;; Case 0621: L=16679, k1=तल्, k2=तल्, code=r, #upasargas=0, mw=तल् (same)
+;; Case 0622: L=16825, k1=ताय्, k2=ताय्, code=r, #upasargas=0, mw=ताय् (same)
+;; Case 0623: L=16904, k1=तिक्, k2=तिक्, code=r, #upasargas=0, mw=तिक् (same)
+;; Case 0624: L=16918, k1=तिग्, k2=तिग्, code=r, #upasargas=0, mw=तिग् (same)
+;; Case 0625: L=16925, k1=तिज्, k2=तिज्, code=r, #upasargas=0, mw=तिज् (same)
+;; Case 0626: L=16952, k1=तिप्, k2=तिप्, code=r, #upasargas=0, mw=तिप् (same)
+;; Case 0627: L=16953, k1=तिम्, k2=तिम्, code=r, #upasargas=0, mw=तिम् (same)
+;; Case 0628: L=16985, k1=तिल्, k2=तिल्, code=r, #upasargas=0, mw=तिल् (same)
+;; Case 0629: L=17015, k1=तिल्ल्, k2=तिल्ल्, code=r, #upasargas=0, mw=तिल्ल् (same)
+;; Case 0630: L=17024, k1=तीक्, k2=तीक्, code=r, #upasargas=0, mw=तीक् (same)
+;; Case 0631: L=17042, k1=तीम्, k2=तीम्, code=r, #upasargas=0, mw=तीम् (same)
+;; Case 0632: L=17043, k1=तीर, k2=तीर, code=r, #upasargas=0, mw=तीरय (diff)
+;; Case 0633: L=17062, k1=तीव्, k2=तीव्, code=r, #upasargas=0, mw=तीव् (same)
+;; Case 0634: L=17066, k1=तु, k2=तु(ल), code=r, #upasargas=0, mw=तु (same)
+;; Case 0635: L=17079, k1=तुच्छ्, k2=तुच्छ्, code=r, #upasargas=0, mw=तुच्छय (diff)
+;; Case 0636: L=17083, k1=तुज्, k2=तुज्, code=r, #upasargas=0, mw=तुज् (same)
+;; Case 0637: L=17086, k1=तुट्, k2=तुट्, code=r, #upasargas=0, mw=तुट् (same)
+;; Case 0638: L=17088, k1=तुड्, k2=तुड्, code=r, #upasargas=0, mw=तुड् (same)
+;; Case 0639: L=17089, k1=तुड्ड, k2=तुड्ड, code=r, #upasargas=0, mw=तुड्ड् (diff)
+;; Case 0640: L=17090, k1=तुण्, k2=तुण्, code=r, #upasargas=0, mw=तुण् (same)
+;; Case 0641: L=17100, k1=तुत्थ्, k2=तुत्थ्, code=r, #upasargas=0, mw=तुत्थय (diff)
+;; Case 0642: L=17104, k1=तुद्, k2=तुद्, code=r, #upasargas=0, mw=तुद् (same)
+;; Case 0643: L=17120, k1=तुप्, k2=तुप्, code=r, #upasargas=0, mw=तुप् (same)
+;; Case 0644: L=17121, k1=तुफ्, k2=तुफ्, code=r, #upasargas=0, mw=तुफ् (same)
+;; Case 0645: L=17122, k1=तुब्, k2=तुब्, code=r, #upasargas=0, mw=तुम्ब् (diff)
+;; Case 0646: L=17123, k1=तुभ, k2=तुभ, code=r, #upasargas=0, mw=तुभ् (diff)
+;; Case 0647: L=17126, k1=तुम्प, k2=तुम्प, code=r, #upasargas=0, mw=तुम्प् (diff)
+;; Case 0648: L=17127, k1=तुम्फ, k2=तुम्फ, code=r, #upasargas=0, mw=तुम्फ् (diff)
+;; Case 0649: L=17134, k1=तुर, k2=तुर, code=r, #upasargas=0, mw=तुर् (diff)
+;; Case 0650: L=17163, k1=तुर्व, k2=तुर्व, code=r, #upasargas=0, mw=तुर्व् (diff)
+;; Case 0651: L=17165, k1=तुल, k2=तुल, code=r, #upasargas=0, mw=तुल् (diff)
+;; Case 0652: L=17198, k1=तुष, k2=तुष, code=r, #upasargas=0, mw=तुष् (diff)
+;; Case 0653: L=17217, k1=तुस्, k2=तुस्, code=r, #upasargas=0, mw=तुस् (same)
+;; Case 0654: L=17220, k1=तुह्, k2=तुह्, code=r, #upasargas=0, mw=तुह् (same)
+;; Case 0655: L=17226, k1=तूण्, k2=तूण्, code=r, #upasargas=0, mw=तूण् (same)
+;; Case 0656: L=17232, k1=तूर्, k2=तूर्, code=r, #upasargas=0, mw=?
+;; Case 0657: L=17239, k1=तूल्, k2=तूल्, code=r, #upasargas=0, mw=तूल् (same)
+;; Case 0658: L=17251, k1=तूष्, k2=तूष्, code=r, #upasargas=0, mw=तूष् (same)
+;; Case 0659: L=17258, k1=तृक्ष्, k2=तृक्ष्, code=r, #upasargas=0, mw=तृक्ष् (same)
+;; Case 0660: L=17262, k1=तृण्, k2=तृण्, code=r, #upasargas=0, mw=तृण् (same)
+;; Case 0661: L=17303, k1=तृद्, k2=तृद्, code=r, #upasargas=0, mw=तृद् (same)
+;; Case 0662: L=17305, k1=तृप्, k2=तृप्, code=r, #upasargas=0, mw=तृप् (same)
+;; Case 0663: L=17314, k1=तृफ्, k2=तृफ्, code=r, #upasargas=0, mw=तृफ् (same)
+;; Case 0664: L=17317, k1=तृम्प्, k2=तृम्प्, code=r, #upasargas=0, mw=तृम्प् (same)
+;; Case 0665: L=17318, k1=तृम्फ्, k2=तृम्फ्, code=r, #upasargas=0, mw=तृम्फ् (same)
+;; Case 0666: L=17319, k1=तृष्, k2=तृष्, code=r, #upasargas=0, mw=तृष् (same)
+;; Case 0667: L=17330, k1=तृह्, k2=तृह्, code=r, #upasargas=0, mw=तृह् (same)
+;; Case 0668: L=17331, k1=तॄ, k2=तॄ, code=r, #upasargas=8 (7/1), mw=तॄ (same)
+01        अव         तॄ                अवतॄ                अवतॄ yes अव+तॄ
+02          आ         तॄ                  आतॄ                  आतॄ yes आ+तॄ
+03         उद्         तॄ                 उत्तॄ                 उत्तॄ yes उद्+तॄ
+04        दुर्         तॄ                दुर्तॄ                दुर्तॄ no 
+05        निर्         तॄ                निर्तॄ                निस्तॄ yes निस्+तॄ
+06        प्र         तॄ                प्रतॄ                प्रतॄ yes प्र+तॄ
+07         वि         तॄ                 वितॄ                 वितॄ yes वि+तॄ
+08        सम्         तॄ                संतॄ                संतॄ yes सम्+तॄ
+;
+;; Case 0669: L=17332, k1=तेज, k2=तेज, code=r, #upasargas=0, mw=तेज् (diff)
+;; Case 0670: L=17352, k1=तेप, k2=तेप, code=r, #upasargas=0, mw=तेप् (diff)
+;; Case 0671: L=17355, k1=तेव्, k2=तेव्, code=r, #upasargas=0, mw=तेव् (same)
+;; Case 0672: L=17391, k1=तोड्, k2=तोड्, code=r, #upasargas=0, mw=तोड् (same)
+;; Case 0673: L=17423, k1=तौक्, k2=तौक्, code=r, #upasargas=0, mw=?
+;; Case 0674: L=17439, k1=त्यज्, k2=त्यज्, code=r, #upasargas=0, mw=त्यज् (same)
+;; Case 0675: L=17450, k1=त्रक्, k2=त्रक्, code=r, #upasargas=0, mw=त्रङ्क् (diff)
+;; Case 0676: L=17451, k1=त्रख्, k2=त्रख्, code=r, #upasargas=0, mw=त्रख् (same)
+;; Case 0677: L=17454, k1=त्रद्, k2=त्रद्, code=r, #upasargas=0, mw=त्रन्द् (diff)
+;; Case 0678: L=17455, k1=त्रप्, k2=त्रप्, code=r, #upasargas=0, mw=त्रप् (same)
+;; Case 0679: L=17481, k1=त्रस्, k2=त्रस्, code=r, #upasargas=0, mw=त्रस् (same)
+;; Case 0680: L=17489, k1=त्रा, k2=त्रा, code=r, #upasargas=0, mw=त्रै (diff)
+;; Case 0681: L=17518, k1=त्रिख्, k2=त्रिख्, code=r, #upasargas=0, mw=त्रिङ्ख् (diff)
+;; Case 0682: L=17663, k1=त्रुट्, k2=त्रुट्, code=r, #upasargas=0, mw=त्रुट् (same)
+;; Case 0683: L=17668, k1=त्रुप्, k2=त्रुप्, code=r, #upasargas=0, mw=त्रुप् (same)
+;; Case 0684: L=17669, k1=त्रुफ्, k2=त्रुफ्, code=r, #upasargas=0, mw=त्रुफ् (same)
+;; Case 0685: L=17670, k1=त्रुम्प्, k2=त्रुम्प्, code=r, #upasargas=0, mw=त्रुम्प् (same)
+;; Case 0686: L=17671, k1=त्रुम्फ्, k2=त्रुम्फ्, code=r, #upasargas=0, mw=त्रुम्फ् (same)
+;; Case 0687: L=17676, k1=त्रै, k2=त्रै, code=r, #upasargas=0, mw=त्रै (same)
+;; Case 0688: L=17699, k1=त्रौक्, k2=त्रौक्, code=r, #upasargas=0, mw=त्रौक् (same)
+;; Case 0689: L=17731, k1=त्वक्ष, k2=त्वक्ष, code=r, #upasargas=0, mw=त्वक्ष् (diff)
+;; Case 0690: L=17732, k1=त्वग्, k2=त्वग्, code=r, #upasargas=0, mw=त्वङ्ग् (diff)
+;; Case 0691: L=17743, k1=त्वच्, k2=त्वच्, code=r, #upasargas=0, mw=त्वच् (same)
+;; Case 0692: L=17750, k1=त्वञ्च्, k2=त्वञ्च्, code=r, #upasargas=0, mw=त्वञ्च् (same)
+;; Case 0693: L=17754, k1=त्वर्, k2=त्वर्, code=r, #upasargas=0, mw=त्वर् (same)
+;; Case 0694: L=17771, k1=त्विष्, k2=त्विष्, code=r, #upasargas=1 (1/0), mw=त्विष् (same)
+01        अव       त्विष्              अवत्विष्              अवत्विष् yes अव+त्विष्
+;
+;; Case 0695: L=17776, k1=त्सर्, k2=त्सर्, code=r, #upasargas=0, mw=त्सर् (same)
+;; Case 0696: L=17780, k1=थुड्, k2=थुड्, code=r, #upasargas=0, mw=थुड् (same)
+;; Case 0697: L=17783, k1=थुध्, k2=थुध्, code=r, #upasargas=0, mw=?
+;; Case 0698: L=17784, k1=थुर्व्, k2=थुर्व्, code=r, #upasargas=0, mw=थुर्व् (same)
+;; Case 0699: L=17801, k1=दक्ष, k2=दक्ष, code=r, #upasargas=0, mw=दक्ष् (diff)
+;; Case 0700: L=17846, k1=दघ्, k2=दघ्, code=r, #upasargas=0, mw=दघ् (same)
+;; Case 0701: L=17847, k1=दण्ड, k2=दण्ड, code=r, #upasargas=0, mw=दण्डय (diff)
+;; Case 0702: L=17918, k1=दद्, k2=दद्, code=r, #upasargas=0, mw=दद् (same)
+;; Case 0703: L=17933, k1=दध्, k2=दध्, code=r, #upasargas=0, mw=दध् (same)
+;; Case 0704: L=18016, k1=दभ्, k2=दभ्, code=r, #upasargas=0, mw=दभ् (same)
+;; Case 0705: L=18018, k1=दम्, k2=दम्, code=r, #upasargas=0, mw=दम् (same)
+;; Case 0706: L=18035, k1=दम्भ्, k2=दम्भ्, code=r, #upasargas=0, mw=दम्भ् (same)
+;; Case 0707: L=18041, k1=दय्, k2=दय्, code=r, #upasargas=0, mw=दय् (same)
+;; Case 0708: L=18065, k1=दरिद्रा, k2=दरिद्रा, code=r, #upasargas=0, mw=द्रा (diff)
+;; Case 0709: L=18113, k1=दल्, k2=दल्, code=r, #upasargas=0, mw=दल् (same)
+;; Case 0710: L=18134, k1=दव्, k2=दव्, code=r, #upasargas=0, mw=दन्व् (diff)
+;; Case 0711: L=18141, k1=दश्, k2=दश्, code=r, #upasargas=2 (2/0), mw=दंश् (diff)
+01        उप        दश्               उपदश्              उपदंश् yes उप+दंश्
+02        सम्        दश्               सम्दश्              संदंश् yes सम्+दंश्
+;
+;; Case 0712: L=18204, k1=दस्, k2=दस्, code=r, #upasargas=0, mw=दस् (same)
+;; Case 0713: L=18213, k1=दह्, k2=दह्, code=r, #upasargas=0, mw=दह् (same)
+;; Case 0714: L=18265, k1=दान्, k2=दान्, code=r, #upasargas=0, mw=दान् (same)
+;; Case 0715: L=18298, k1=दाय, k2=दाय, code=r, #upasargas=0, mw=दाय् (diff)
+;; Case 0716: L=18360, k1=दाश्, k2=दाश्, code=r, #upasargas=0, mw=दाश् (same)
+;; Case 0717: L=18372, k1=दास्, k2=दास्, code=r, #upasargas=0, mw=दास् (same)
+;; Case 0718: L=18453, k1=दिभ, k2=दिभ, code=r, #upasargas=0, mw=दिम्भ् (diff)
+;; Case 0719: L=18454, k1=दिम्प्, k2=दिम्प्, code=r, #upasargas=0, mw=दिम्प् (same)
+;; Case 0720: L=18455, k1=दिम्भ्, k2=दिम्भ्, code=r, #upasargas=0, mw=दिम्भ् (same)
+;; Case 0721: L=18459, k1=दिव्, k2=दिव्, code=r, #upasargas=0, mw=दिव् (same)
+;; Case 0722: L=18511, k1=दिश्, k2=दिश्, code=r, #upasargas=12 (12/0), mw=दिश् (same)
+01        अप        दिश्               अपदिश्               अपदिश् yes अप+दिश्
+02          आ        दिश्                 आदिश्                 आदिश् yes आ+दिश्
+03         उद्        दिश्                उद्दिश्                उद्दिश् yes उद्+दिश्
+04        उप        दिश्               उपदिश्               उपदिश् yes उप+दिश्
+05        निर्        दिश्               निर्दिश्               निर्दिश् yes निर्+दिश्
+06        प्र        दिश्               प्रदिश्               प्रदिश् yes प्र+दिश्
+07        सम्        दिश्               सम्दिश्               संदिश् yes सम्+दिश्
+08   प्रतिसम्        दिश्          प्रतिसम्दिश्          प्रतिसंदिश् yes प्रति+सम्+दिश्
+09      व्यप        दिश्             व्यपदिश्             व्यपदिश् yes वि+अप+दिश्
+10      विनिर्        दिश्             विनिर्दिश्             विनिर्दिश् yes वि+निर्+दिश्
+11       समा        दिश्              समादिश्              समादिश् yes सम्+आ+दिश्
+12     समुप        दिश्            समुपदिश्            समुपदिश् yes सम्+उप+दिश्
+;
+;; Case 0723: L=18521, k1=दी, k2=दी, code=r, #upasargas=0, mw=दी (same)
+;; Case 0724: L=18523, k1=दीक्ष्, k2=दीक्ष्, code=r, #upasargas=0, mw=दीक्ष् (same)
+;; Case 0725: L=18532, k1=दीधी, k2=दीधी, code=r, #upasargas=0, mw=दीधी (same)
+;; Case 0726: L=18538, k1=दीप्, k2=दीप्, code=r, #upasargas=0, mw=दीप् (same)
+;; Case 0727: L=18651, k1=दु, k2=दु, code=r, #upasargas=0, mw=दु (same)
+;; Case 0728: L=18652, k1=दुःख्, k2=दुःख्, code=r, #upasargas=0, mw=दुःखय (diff)
+;; Case 0729: L=18813, k1=दुर्ब्ब्, k2=दुर्ब्ब्, code=r, #upasargas=0, mw=?
+;; Case 0730: L=18854, k1=दुल्, k2=दुल्, code=r, #upasargas=0, mw=दुल् (same)
+;; Case 0731: L=18863, k1=दुष्, k2=दुष्, code=r, #upasargas=1 (0/1), mw=दुष् (same)
+01        प्रा        दुष्               प्रादुष्               प्रादुष् no 
+;
+;; Case 0732: L=18906, k1=दू, k2=दू, code=r, #upasargas=0, mw=दू (same)
+;; Case 0733: L=18953, k1=दूष, k2=दूष, code=r, #upasargas=0, mw=दूषय (diff)
+;; Case 0734: L=18964, k1=दृ, k2=दृ, code=r, #upasargas=1 (1/0), mw=दृ (same)
+01          आ         दृ                  आदृ                  आदृ yes आ+दृ
+;
+;; Case 0735: L=19010, k1=दृप्, k2=दृप्, code=r, #upasargas=0, mw=दृप् (same)
+;; Case 0736: L=19013, k1=दृफ्, k2=दृफ्, code=r, #upasargas=0, mw=दृफ् (same)
+;; Case 0737: L=19015, k1=दृभ्, k2=दृभ्, code=r, #upasargas=0, mw=दृभ् (same)
+;; Case 0738: L=19016, k1=दृम्प्, k2=दृम्प्, code=r, #upasargas=0, mw=दृम्प् (same)
+;; Case 0739: L=19017, k1=दृम्फ्, k2=दृम्फ्, code=r, #upasargas=0, mw=दृम्फ् (same)
+;; Case 0740: L=19020, k1=दृश्, k2=दृश्, code=r, #upasargas=1 (1/0), mw=दृश् (same)
+01         उद्        दृश्                उद्दृश्                उद्दृश् yes उद्+दृश्
+;
+;; Case 0741: L=19049, k1=दृह्, k2=दृह्, code=r, #upasargas=0, mw=दृह् (same)
+;; Case 0742: L=19051, k1=दॄ, k2=दॄ, code=r, #upasargas=0, mw=दॄ (same)
+;; Case 0743: L=19052, k1=दे, k2=दे, code=r, #upasargas=0, mw=दे (same)
+;; Case 0744: L=19055, k1=देव्, k2=देव्, code=r, #upasargas=0, mw=देव् (same)
+;; Case 0745: L=19230, k1=दै, k2=दै, code=r, #upasargas=0, mw=दै (same)
+;; Case 0746: L=19285, k1=दो, k2=दो, code=r, #upasargas=0, mw=दो (same)
+;; Case 0747: L=19362, k1=द्यु, k2=द्यु, code=r, #upasargas=0, mw=द्यु (same)
+;; Case 0748: L=19368, k1=द्युत्, k2=द्युत्, code=r, #upasargas=0, mw=द्युत् (same)
+;; Case 0749: L=19398, k1=द्यै, k2=द्यै, code=r, #upasargas=0, mw=द्यै (same)
+;; Case 0750: L=19417, k1=द्रम्, k2=द्रम्, code=r, #upasargas=0, mw=द्रम् (same)
+;; Case 0751: L=19449, k1=द्रा, k2=द्रा, code=r, #upasargas=0, mw=द्रा (same)
+;; Case 0752: L=19451, k1=द्राक्ष्, k2=द्राक्ष्, code=r, #upasargas=0, mw=द्राङ्क्ष् (diff)
+;; Case 0753: L=19453, k1=द्राख्, k2=द्राख्, code=r, #upasargas=0, mw=द्राख् (same)
+;; Case 0754: L=19454, k1=द्राघ्, k2=द्राघ्, code=r, #upasargas=0, mw=द्राघ् (same)
+;; Case 0755: L=19459, k1=द्राड्, k2=द्राड्, code=r, #upasargas=0, mw=द्राड् (same)
+;; Case 0756: L=19473, k1=द्राह्, k2=द्राह्, code=r, #upasargas=0, mw=द्राह् (same)
+;; Case 0757: L=19474, k1=द्रु, k2=द्रु, code=r, #upasargas=8 (8/0), mw=द्रु (same)
+01        अनु        द्रु               अनुद्रु               अनुद्रु yes अनु+द्रु
+02        अभि        द्रु               अभिद्रु               अभिद्रु yes अभि+द्रु
+03          आ        द्रु                 आद्रु                 आद्रु yes आ+द्रु
+04        उप        द्रु               उपद्रु               उपद्रु yes उप+द्रु
+05        प्र        द्रु               प्रद्रु               प्रद्रु yes प्र+द्रु
+06         वि        द्रु                विद्रु                विद्रु yes वि+द्रु
+07       समा        द्रु              समाद्रु              समाद्रु yes सम्+आ+द्रु
+08     समुप        द्रु            समुपद्रु            समुपद्रु yes सम्+उप+द्रु
+;
+;; Case 0758: L=19478, k1=द्रुड्, k2=द्रुड्, code=r, #upasargas=0, mw=द्रुड् (same)
+;; Case 0759: L=19479, k1=द्रुण्, k2=द्रुण्, code=r, #upasargas=0, mw=द्रुण् (same)
+;; Case 0760: L=19502, k1=द्रुह्, k2=द्रुह्, code=r, #upasargas=0, mw=द्रुह् (same)
+;; Case 0761: L=19507, k1=द्रू, k2=द्रू, code=r, #upasargas=0, mw=द्रू (same)
+;; Case 0762: L=19511, k1=द्रेक्, k2=द्रेक्, code=r, #upasargas=0, mw=द्रेक् (same)
+;; Case 0763: L=19514, k1=द्रै, k2=द्रै, code=r, #upasargas=1 (0/1), mw=द्रै (same)
+01         नि        द्रै                निद्रै                निद्रै no 
+;
+;; Case 0764: L=19702, k1=द्विष्, k2=द्विष्, code=r, #upasargas=0, mw=द्विष् (same)
+;; Case 0765: L=19726, k1=द्वृ, k2=द्वृ, code=r, #upasargas=0, mw=द्वृ (same)
+;; Case 0766: L=19775, k1=धक्क्, k2=धक्क्, code=r, #upasargas=0, mw=धक्क् (same)
+;; Case 0767: L=19780, k1=धण्, k2=धण्, code=r, #upasargas=0, mw=धण् (same)
+;; Case 0768: L=19782, k1=धन्, k2=धन्, code=r, #upasargas=0, mw=धन् (same)
+;; Case 0769: L=20001, k1=धव्, k2=धव्, code=r, #upasargas=0, mw=धव् (same)
+;; Case 0770: L=20012, k1=धा, k2=धा, code=r, #upasargas=18 (17/1), mw=धा (same)
+01        अभि         धा                अभिधा                अभिधा yes अभि+धा
+02        अव         धा                अवधा                अवधा yes अव+धा
+03          आ         धा                  आधा                  आधा yes आ+धा
+04        उप         धा                उपधा                उपधा yes उप+धा
+05         नि         धा                 निधा                 निधा yes नि+धा
+06       परि         धा               परिधा               परिधा yes परि+धा
+07        प्र         धा                प्रधा                प्रधा yes प्र+धा
+08         वि         धा                 विधा                 विधा yes वि+धा
+09        सम्         धा                सम्धा                संधा yes सम्+धा
+10     अनुसम्         धा             अनुसम्धा             अनुसंधा yes अनु+सम्+धा
+11     अभिसम्         धा             अभिसम्धा             अभिसंधा yes अभि+सम्+धा
+12        उपा         धा                उपाधा                उपाधा yes उप+आ+धा
+13      प्रनि         धा              प्रनिधा              प्रणिधा yes प्र+नि+धा
+14    प्रतिवि         धा            प्रतिविधा            प्रतिविधा yes प्रति+वि+धा
+15      व्यव         धा              व्यवधा              व्यवधा yes वि+अव+धा
+16       समा         धा               समाधा               समाधा yes सम्+आ+धा
+17      संनि         धा              संनिधा              संनिधा yes सम्+नि+धा
+18     सम्प्र         धा             सम्प्रधा             सम्प्रधा no 
+;
+;; Case 0771: L=20108, k1=धाव्, k2=धाव्, code=r, #upasargas=5 (5/0), mw=धाव् (same)
+01        अभि        धाव्               अभिधाव्               अभिधाव् yes अभि+धाव्
+02          आ        धाव्                 आधाव्                 आधाव् yes आ+धाव्
+03       परि        धाव्              परिधाव्              परिधाव् yes परि+धाव्
+04         वि        धाव्                विधाव्                विधाव् yes वि+धाव्
+05     समुप        धाव्            समुपधाव्            समुपधाव् yes सम्+उप+धाव्
+;
+;; Case 0772: L=20115, k1=धि, k2=धि, code=r, #upasargas=0, mw=धि (same)
+;; Case 0773: L=20121, k1=धिक्ष्, k2=धिक्ष्, code=r, #upasargas=0, mw=धिक्ष् (same)
+;; Case 0774: L=20132, k1=धी, k2=धी, code=r, #upasargas=0, mw=धी (same)
+;; Case 0775: L=20153, k1=धु, k2=धु, code=r, #upasargas=0, mw=धु (same)
+;; Case 0776: L=20155, k1=धुक्ष्, k2=धुक्ष्, code=r, #upasargas=0, mw=धुक्ष् (same)
+;; Case 0777: L=20173, k1=धुर्व्व, k2=धुर्व्व, code=r, #upasargas=0, mw=धुर्व् (diff)
+;; Case 0778: L=20180, k1=धू, k2=धू, code=r, #upasargas=3 (3/0), mw=धू (same)
+01        अव         धू                अवधू                अवधू yes अव+धू
+02        निर्         धू                निर्धू                निर्धू yes निर्+धू
+03         वि         धू                 विधू                 विधू yes वि+धू
+;
+;; Case 0779: L=20182, k1=धूक्ष, k2=धूक्ष, code=r, #upasargas=0, mw=?
+;; Case 0780: L=20189, k1=धूप्, k2=धूप्, code=r, #upasargas=0, mw=धूप् (same)
+;; Case 0781: L=20225, k1=धूर्, k2=धूर्, code=r, #upasargas=0, mw=धूर् (same)
+;; Case 0782: L=20248, k1=धूश्, k2=धूश्_, code=r, #upasargas=0, mw=धूश् (same)
+;; Case 0783: L=20249, k1=धूष्, k2=धूष्, code=r, #upasargas=0, mw=धूष् (same)
+;; Case 0784: L=20250, k1=धूस, k2=धूस, code=r, #upasargas=0, mw=धूस् (diff)
+;; Case 0785: L=20254, k1=धृ, k2=धृ, code=r, #upasargas=2 (1/1), mw=धृ (same)
+01        अप         धृ                अपधृ                अपधृ no 
+02        निर्         धृ                निर्धृ                निर्धृ yes निर्+धृ
+;
+;; Case 0786: L=20255, k1=धृज्, k2=धृज्, code=r, #upasargas=0, mw=धृज् (same)
+;; Case 0787: L=20272, k1=धृष्, k2=धृष्, code=r, #upasargas=0, mw=धृष् (same)
+;; Case 0788: L=20278, k1=धॄ, k2=धॄ, code=r, #upasargas=0, mw=धॄ (same)
+;; Case 0789: L=20279, k1=धे, k2=धे, code=r, #upasargas=0, mw=धे (same)
+;; Case 0790: L=20293, k1=धोर्, k2=धोर्, code=r, #upasargas=0, mw=धोर् (same)
+;; Case 0791: L=20308, k1=ध्मा, k2=ध्मा, code=r, #upasargas=0, mw=ध्मा (same)
+;; Case 0792: L=20310, k1=ध्माक्ष्, k2=ध्माक्ष्, code=r, #upasargas=0, mw=ध्माङ्क्ष् (diff)
+;; Case 0793: L=20327, k1=ध्यै, k2=ध्यै, code=r, #upasargas=1 (1/0), mw=ध्यै (same)
+01         नि        ध्यै                निध्यै                निध्यै yes नि+ध्यै
+;
+;; Case 0794: L=20328, k1=ध्रज्, k2=ध्रज्, code=r, #upasargas=0, mw=ध्रज् (same)
+;; Case 0795: L=20329, k1=ध्रण्, k2=ध्रण्, code=r, #upasargas=0, mw=ध्रण् (same)
+;; Case 0796: L=20330, k1=ध्रस्, k2=ध्रस्, code=r, #upasargas=0, mw=ध्रस् (same)
+;; Case 0797: L=20331, k1=ध्राक्ष्, k2=ध्राक्ष्, code=r, #upasargas=0, mw=ध्राङ्क्ष् (diff)
+;; Case 0798: L=20332, k1=ध्राख्, k2=ध्राख्, code=r, #upasargas=0, mw=ध्राख् (same)
+;; Case 0799: L=20333, k1=ध्राघ्, k2=ध्राघ्, code=r, #upasargas=0, mw=ध्राघ् (same)
+;; Case 0800: L=20335, k1=ध्राड्, k2=ध्राड्, code=r, #upasargas=0, mw=ध्राड् (same)
+;; Case 0801: L=20337, k1=ध्रिज्, k2=ध्रिज्, code=r, #upasargas=0, mw=ध्रिज् (same)
+;; Case 0802: L=20339, k1=ध्रु, k2=ध्रु, code=r, #upasargas=0, mw=ध्रु (same)
+;; Case 0803: L=20340, k1=ध्रुव्, k2=ध्रुव्, code=r, #upasargas=0, mw=ध्रुव् (same)
+;; Case 0804: L=20343, k1=ध्रू, k2=ध्रू, code=r, #upasargas=0, mw=ध्रु (diff)
+;; Case 0805: L=20344, k1=ध्रेक, k2=ध्रेक, code=r, #upasargas=0, mw=ध्रेक् (diff)
+;; Case 0806: L=20345, k1=ध्रै, k2=ध्रै, code=r, #upasargas=0, mw=ध्रै (same)
+;; Case 0807: L=20347, k1=ध्वंस, k2=ध्वंस, code=r, #upasargas=0, mw=ध्वंस् (diff)
+;; Case 0808: L=20353, k1=ध्वज्, k2=ध्वज्, code=r, #upasargas=0, mw=ध्वज् (same)
+;; Case 0809: L=20364, k1=ध्वण्, k2=ध्वण्, code=r, #upasargas=0, mw=ध्वण् (same)
+;; Case 0810: L=20365, k1=ध्वन्, k2=ध्वन्, code=r, #upasargas=0, mw=ध्वन् (same)
+;; Case 0811: L=20374, k1=ध्वाक्ष, k2=ध्वाक्ष, code=r, #upasargas=0, mw=ध्वाङ्क्ष् (diff)
+;; Case 0812: L=20386, k1=ध्वृ, k2=ध्वृ, code=r, #upasargas=0, mw=ध्वृ (same)
+;; Case 0813: L=20397, k1=नक्क्, k2=नक्क्, code=r, #upasargas=0, mw=नक्क् (same)
+;; Case 0814: L=20414, k1=नख, k2=नख, code=r, #upasargas=0, mw=नख् (diff)
+;; Case 0815: L=20467, k1=नज्, k2=नज्, code=r, #upasargas=0, mw=नज् (same)
+;; Case 0816: L=20469, k1=नट्, k2=नट्, code=r, #upasargas=0, mw=नट् (same)
+;; Case 0817: L=20481, k1=नड्, k2=नड्, code=r, #upasargas=0, mw=नड् (same)
+;; Case 0818: L=20503, k1=नट्, k2=नट्, code=r, #upasargas=1 (0/1), mw=नट् (same)
+01          आ        नट्                 आनट्                 आनट् no 
+;
+;; Case 0819: L=20594, k1=नम, k2=नम, code=r, #upasargas=0, mw=नम् (diff)
+;; Case 0820: L=20606, k1=नम्ब्, k2=नम्ब्, code=r, #upasargas=0, mw=नम्ब् (same)
+;; Case 0821: L=20612, k1=नय, k2=नय, code=r, #upasargas=0, mw=नय् (diff)
+;; Case 0822: L=20664, k1=नर्द्द, k2=नर्द्द, code=r, #upasargas=0, mw=नर्द् (diff)
+;; Case 0823: L=20668, k1=नर्ब्ब, k2=नर्ब्ब, code=r, #upasargas=0, mw=नर्ब् (diff)
+;; Case 0824: L=20680, k1=नल्, k2=नल्, code=r, #upasargas=0, mw=नल् (same)
+;; Case 0825: L=20771, k1=नह, k2=नह, code=r, #upasargas=0, mw=नह् (diff)
+;; Case 0826: L=20879, k1=नाथ्, k2=नाथ्, code=r, #upasargas=0, mw=नाथ् (same)
+;; Case 0827: L=20887, k1=नाध्, k2=नाध्, code=r, #upasargas=0, mw=नाध् (same)
+;; Case 0828: L=21083, k1=निक्ष्, k2=निक्ष्, code=r, #upasargas=0, mw=निक्ष् (same)
+;; Case 0829: L=21167, k1=निद्, k2=निद्, code=r, #upasargas=0, mw=निद् (same)
+;; Case 0830: L=21730, k1=निष, k2=निष, code=r, #upasargas=0, mw=निष् (diff)
+;; Case 0831: L=21752, k1=निष्क्, k2=निष्क्, code=r, #upasargas=0, mw=निष्क् (same)
+;; Case 0832: L=21984, k1=नुड्, k2=नुड्, code=r, #upasargas=0, mw=नुड् (same)
+;; Case 0833: L=21997, k1=नृ, k2=नृ, code=r, #upasargas=0, mw=नॄ (diff)
+;; Case 0834: L=22003, k1=नृत, k2=नृत, code=r, #upasargas=0, mw=नृत् (diff)
+;; Case 0835: L=22193, k1=पक्ष्, k2=पक्ष्, code=r, #upasargas=0, mw=पक्ष् (same)
+;; Case 0836: L=22269, k1=पच्, k2=पच्, code=r, #upasargas=0, mw=पच् (same)
+;; Case 0837: L=22391, k1=पट्, k2=पट्, code=r, #upasargas=1 (1/0), mw=पट् (same)
+01         वि        पट्                विपट्                विपट् yes वि+पट्
+;
+;; Case 0838: L=22442, k1=पठ्, k2=पठ्, code=r, #upasargas=0, mw=पठ् (same)
+;; Case 0839: L=22451, k1=पड्, k2=पड्, code=r, #upasargas=0, mw=पण्ड् (diff)
+;; Case 0840: L=22452, k1=पण्, k2=पण्, code=r, #upasargas=0, mw=पण् (same)
+;; Case 0841: L=22484, k1=पत्, k2=पत्, code=r, #upasargas=14 (12/2), mw=पत् (same)
+01        अति        पत्               अतिपत्               अतिपत् yes अति+पत्
+02        अभि        पत्               अभिपत्               अभिपत् yes अभि+पत्
+03        अव        पत्               अवपत्               अवपत् yes अव+पत्
+04          आ        पत्                 आपत्                 आपत् yes आ+पत्
+05         उद्        पत्                उत्पत्                उत्पत् yes उद्+पत्
+06         नि        पत्                निपत्                निपत् yes नि+पत्
+07        निर्        पत्               निर्पत्               निर्पत् no 
+08       परि        पत्              परिपत्              परिपत् yes परि+पत्
+09        सम्        पत्               संपत्               सम्पत् yes सम्+पत्
+10      प्रनि        पत्             प्रनिपत्             प्रणिपत् yes प्र+नि+पत्
+11      विनिर्        पत्             विनिर्पत्             विनिर्पत् no 
+12       समा        पत्              समापत्              समापत् yes सम्+आ+पत्
+13      समुद्        पत्             समुत्पत्             समुत्पत् yes सम्+उद्+पत्
+14      संनि        पत्             संनिपत्             संनिपत् yes सम्+नि+पत्
+;
+;; Case 0842: L=22584, k1=पथ, k2=पथ, code=r, #upasargas=0, mw=पथ् (diff)
+;; Case 0843: L=22597, k1=पद्, k2=पद्, code=r, #upasargas=14 (13/1), mw=पद् (same)
+01        अभि        पद्               अभिपद्               अभिपद् yes अभि+पद्
+02        अनु        पद्               अनुपद्               अनुपद् yes अनु+पद्
+03          आ        पद्                 आपद्                 आपद् yes आ+पद्
+04         उद्        पद्                उत्पद्                उत्पद् yes उद्+पद्
+05        उप        पद्               उपपद्               उपपद् yes उप+पद्
+06        प्र        पद्               प्रपद्               प्रपद् yes प्र+पद्
+07      प्रति        पद्             प्रतिपद्             प्रतिपद् yes प्रति+पद्
+08         वि        पद्                विपद्                विपद् yes वि+पद्
+09        सम्        पद्               संपद्               सम्पद् yes सम्+पद्
+10     उपसम्        पद्            उपसंपद्            उपसंपद् yes उप+सम्+पद्
+11      प्रवि        पद्             प्रविपद्             प्रविपद् no 
+12        व्या        पद्               व्यापद्               व्यापद् yes वि+आ+पद्
+13       व्युद्        पद्              व्युत्पद्              व्युत्पद् yes वि+उद्+पद्
+14       समा        पद्              समापद्              समापद् yes सम्+आ+पद्
+;
+;; Case 0844: L=22683, k1=पन्, k2=पन्, code=r, #upasargas=0, mw=पन् (same)
+;; Case 0845: L=22698, k1=पय्, k2=पय्, code=r, #upasargas=0, mw=पय् (same)
+;; Case 0846: L=23340, k1=पर्ण, k2=पर्ण, code=r, #upasargas=0, mw=पर्ण् (diff)
+;; Case 0847: L=23362, k1=पर्द, k2=पर्द, code=r, #upasargas=0, mw=पर्द् (diff)
+;; Case 0848: L=23365, k1=पर्प, k2=पर्प, code=r, #upasargas=0, mw=पर्प् (diff)
+;; Case 0849: L=23371, k1=पर्व, k2=पर्व, code=r, #upasargas=0, mw=पर्व् (diff)
+;; Case 0850: L=23420, k1=पर्व, k2=पर्व, code=r, #upasargas=0, mw=पर्व् (diff)
+;; Case 0851: L=23450, k1=पर्ष, k2=पर्ष, code=r, #upasargas=0, mw=पर्ष् (diff)
+;; Case 0852: L=23453, k1=पल्, k2=पल्, code=r, #upasargas=0, mw=पल् (same)
+;; Case 0853: L=23489, k1=पल्युल, k2=पल्युल, code=r, #upasargas=0, mw=पल्युल (same)
+;; Case 0854: L=23490, k1=पल्यूल, k2=पल्यूल, code=r, #upasargas=0, mw=पल्यूल (same)
+;; Case 0855: L=23491, k1=पल्ल्, k2=पल्ल्, code=r, #upasargas=0, mw=पल्ल् (same)
+;; Case 0856: L=23531, k1=पश्, k2=पश्, code=r, #upasargas=0, mw=पश् (same)
+;; Case 0857: L=23566, k1=पष्, k2=पष्, code=r, #upasargas=0, mw=पष् (same)
+;; Case 0858: L=23567, k1=पस्, k2=पस्, code=r, #upasargas=0, mw=पस् (same)
+;; Case 0859: L=23571, k1=पा, k2=पा, code=r, #upasargas=0, mw=पा (same)
+;; Case 0860: L=23922, k1=पार, k2=पार, code=r, #upasargas=0, mw=पारय (diff)
+;; Case 0861: L=24051, k1=पाल्, k2=पाल्, code=r, #upasargas=0, mw=पाल् (same)
+;; Case 0862: L=24102, k1=पि, k2=पि, code=r, #upasargas=0, mw=पि (same)
+;; Case 0863: L=24133, k1=पिच्च, k2=पिच्च, code=r, #upasargas=0, mw=पिच्च् (diff)
+;; Case 0864: L=24135, k1=पिच्छ्, k2=पिच्छ्, code=r, #upasargas=0, mw=पिछ् (diff)
+;; Case 0865: L=24143, k1=पिज्, k2=पिज्, code=r, #upasargas=0, mw=पिञ्ज् (diff)
+;; Case 0866: L=24155, k1=पिट्, k2=पिट्, code=r, #upasargas=0, mw=पिट् (same)
+;; Case 0867: L=24162, k1=पिठ्, k2=पिठ्, code=r, #upasargas=0, mw=पिठ् (same)
+;; Case 0868: L=24165, k1=पिड्, k2=पिड्, code=r, #upasargas=0, mw=पिण्ड् (diff)
+;; Case 0869: L=24298, k1=पिल्, k2=पिल्, code=r, #upasargas=0, mw=पिल् (same)
+;; Case 0870: L=24303, k1=पिव्, k2=पिव्, code=r, #upasargas=0, mw=पिन्व् (diff)
+;; Case 0871: L=24305, k1=पिश्, k2=पिश्, code=r, #upasargas=0, mw=पिश् (same)
+;; Case 0872: L=24335, k1=पिस्, k2=पिस्, code=r, #upasargas=0, mw=पिस् (same)
+;; Case 0873: L=24337, k1=पी, k2=पी, code=r, #upasargas=0, mw=पी (same)
+;; Case 0874: L=24344, k1=पीड्, k2=पीड्, code=r, #upasargas=0, mw=पीड् (same)
+;; Case 0875: L=24407, k1=पील्, k2=पील्, code=r, #upasargas=0, mw=पील् (same)
+;; Case 0876: L=24411, k1=पीव्, k2=पीव्, code=r, #upasargas=0, mw=पीव (diff)
+;; Case 0877: L=24421, k1=पुंस्, k2=पुंस्, code=r, #upasargas=0, mw=पुंस् (same)
+;; Case 0878: L=24429, k1=पुच्छ्, k2=पुच्छ्, code=r, #upasargas=0, mw=पुछ् (diff)
+;; Case 0879: L=24435, k1=पुट्, k2=पुट्, code=r, #upasargas=0, mw=पुट् (same)
+;; Case 0880: L=24447, k1=पुट्ट्, k2=पुट्ट्, code=r, #upasargas=0, mw=पुट्ट् (same)
+;; Case 0881: L=24448, k1=पुड्, k2=पुड्, code=r, #upasargas=0, mw=पुड् (same)
+;; Case 0882: L=24449, k1=पुण्, k2=पुण्, code=r, #upasargas=0, mw=पुण् (same)
+;; Case 0883: L=24514, k1=पुथ्, k2=पुथ्, code=r, #upasargas=0, mw=पुथ् (same)
+;; Case 0884: L=24546, k1=पुर्, k2=पुर्, code=r, #upasargas=0, mw=पुर् (same)
+;; Case 0885: L=24652, k1=पुर्व, k2=पुर्व, code=r, #upasargas=0, mw=पुर्व् (diff)
+;; Case 0886: L=24653, k1=पुल्, k2=पुल्, code=r, #upasargas=0, mw=पुल् (same)
+;; Case 0887: L=24680, k1=पुष्, k2=पुष्, code=r, #upasargas=0, mw=पुष् (same)
+;; Case 0888: L=24696, k1=पुष्प्, k2=पुष्प्, code=r, #upasargas=0, mw=पुष्प्य (diff)
+;; Case 0889: L=24773, k1=पुस्त्, k2=पुस्त्, code=r, #upasargas=0, mw=पुस्त् (same)
+;; Case 0890: L=24778, k1=पू, k2=पू, code=r, #upasargas=0, mw=पू (same)
+;; Case 0891: L=24786, k1=पूज्, k2=पूज्, code=r, #upasargas=0, mw=पूज् (same)
+;; Case 0892: L=24798, k1=पूण्, k2=पूण्, code=r, #upasargas=0, mw=पूण् (same)
+;; Case 0893: L=24840, k1=पूय्, k2=पूय्, code=r, #upasargas=0, mw=पूय् (same)
+;; Case 0894: L=24848, k1=पूर्, k2=पूर्, code=r, #upasargas=0, mw=पॄ (diff)
+;; Case 0895: L=24857, k1=पूर्ण, k2=पूर्ण, code=r, #upasargas=0, mw=?
+;; Case 0896: L=24873, k1=पूर्व्व, k2=पूर्व्व, code=r, #upasargas=0, mw=?
+;; Case 0897: L=24933, k1=पूल्, k2=पूल्, code=r, #upasargas=0, mw=पूल् (same)
+;; Case 0898: L=24934, k1=पूष्, k2=पूष्, code=r, #upasargas=0, mw=पूष् (same)
+;; Case 0899: L=24939, k1=पृ, k2=पृ, code=r, #upasargas=1 (1/0), mw=पृ (same)
+01        व्या         पृ                व्यापृ                व्यापृ yes वि+आ+पृ
+;
+;; Case 0900: L=24943, k1=पृच्, k2=पृच्, code=r, #upasargas=0, mw=पृच् (same)
+;; Case 0901: L=24947, k1=पृज्, k2=पृज्, code=r, #upasargas=0, mw=पृज् (same)
+;; Case 0902: L=24948, k1=पृड्, k2=पृड्, code=r, #upasargas=0, mw=पृड् (same)
+;; Case 0903: L=24949, k1=पृण्, k2=पृण्, code=r, #upasargas=0, mw=पृण् (same)
+;; Case 0904: L=24952, k1=पृथ्, k2=पृथ्, code=r, #upasargas=0, mw=पृथ् (same)
+;; Case 0905: L=24999, k1=पृष्, k2=पृष्, code=r, #upasargas=0, mw=पृष् (same)
+;; Case 0906: L=25031, k1=पॄ, k2=पॄ, code=r, #upasargas=0, mw=पॄ (same)
+;; Case 0907: L=25042, k1=पेण्, k2=पेण्, code=r, #upasargas=0, mw=पेण् (same)
+;; Case 0908: L=25049, k1=पेल्, k2=पेल्, code=r, #upasargas=0, mw=पेल् (same)
+;; Case 0909: L=25053, k1=पेव्, k2=पेव्, code=r, #upasargas=0, mw=पेव् (same)
+;; Case 0910: L=25060, k1=पेष्, k2=पेष्, code=r, #upasargas=0, mw=पेष् (same)
+;; Case 0911: L=25065, k1=पेस्, k2=पेस्, code=r, #upasargas=0, mw=पेस् (same)
+;; Case 0912: L=25068, k1=पै, k2=पै, code=r, #upasargas=0, mw=पै (same)
+;; Case 0913: L=25072, k1=पैण्, k2=पैण्, code=r, #upasargas=0, mw=पैण् (same)
+;; Case 0914: L=25190, k1=प्याय्, k2=प्याय्, code=r, #upasargas=0, mw=प्याय् (same)
+;; Case 0915: L=25191, k1=प्युष्, k2=प्युष्, code=r, #upasargas=0, mw=प्युष् (same)
+;; Case 0916: L=25192, k1=प्युस्, k2=प्युस्, code=r, #upasargas=0, mw=प्युस् (same)
+;; Case 0917: L=25193, k1=प्यै, k2=प्यै, code=r, #upasargas=0, mw=प्यै (same)
+;; Case 0918: L=25344, k1=प्रच्छ्, k2=प्रच्छ्, code=r, #upasargas=0, mw=प्रछ् (diff)
+;; Case 0919: L=25858, k1=प्रथ, k2=प्रथ, code=r, #upasargas=0, mw=प्रथ् (diff)
+;; Case 0920: L=26281, k1=प्रस्, k2=प्रस्, code=r, #upasargas=0, mw=प्रस् (same)
+;; Case 0921: L=26428, k1=प्रा, k2=प्रा, code=r, #upasargas=0, mw=प्रा (same)
+;; Case 0922: L=26715, k1=प्री, k2=प्री, code=r, #upasargas=0, mw=प्री (same)
+;; Case 0923: L=26732, k1=प्रु, k2=प्रु, code=r, #upasargas=0, mw=प्रु (same)
+;; Case 0924: L=26733, k1=प्रुष, k2=प्रुष, code=r, #upasargas=0, mw=प्रुष् (diff)
+;; Case 0925: L=26786, k1=प्रेष, k2=प्रे_ष, code=r, #upasargas=0, mw=प्रेष् (diff)
+;; Case 0926: L=26815, k1=प्रोथ्, k2=प्रोथ्, code=r, #upasargas=0, mw=प्रोथ् (same)
+;; Case 0927: L=26843, k1=प्लक्ष्, k2=प्लक्ष्, code=r, #upasargas=0, mw=प्लक्ष् (same)
+;; Case 0928: L=26860, k1=प्लिह्, k2=प्लिह्, code=r, #upasargas=0, mw=प्लिह् (same)
+;; Case 0929: L=26863, k1=प्ली, k2=प्ली, code=r, #upasargas=0, mw=प्ली (same)
+;; Case 0930: L=26868, k1=प्लु, k2=प्लु, code=r, #upasargas=2 (2/0), mw=प्लु (same)
+01         उद्        प्लु                उत्प्लु                उत्प्लु yes उद्+प्लु
+02         वि        प्लु                विप्लु                विप्लु yes वि+प्लु
+;
+;; Case 0931: L=26871, k1=प्लुष्, k2=प्लुष्, code=r, #upasargas=0, mw=प्लुष् (same)
+;; Case 0932: L=26874, k1=प्लुस्, k2=प्लुस्, code=r, #upasargas=0, mw=प्लुस् (same)
+;; Case 0933: L=26875, k1=प्लेव, k2=प्लेव, code=r, #upasargas=0, mw=प्लेव् (diff)
+;; Case 0934: L=26877, k1=प्सा, k2=प्सा, code=r, #upasargas=0, mw=प्सा (same)
+;; Case 0935: L=26883, k1=फक्क, k2=फक्क, code=r, #upasargas=0, mw=फक्क् (diff)
+;; Case 0936: L=26890, k1=फण्, k2=फण्, code=r, #upasargas=0, mw=फण् (same)
+;; Case 0937: L=26914, k1=फल, k2=फल, code=r, #upasargas=0, mw=फल् (diff)
+;; Case 0938: L=27012, k1=फुल्ल्, k2=फुल्ल्, code=r, #upasargas=0, mw=फुल्ल् (same)
+;; Case 0939: L=27041, k1=फेल, k2=फेल, code=r, #upasargas=0, mw=फेल् (diff)
+;; Case 0940: L=27045, k1=फ्वल, k2=फ्वल, code=r, #upasargas=0, mw=?
+;; Case 0941: L=27050, k1=बठ्, k2=बठ्, code=r, #upasargas=0, mw=बठ् (same)
+;; Case 0942: L=27057, k1=बण्, k2=बण्, code=r, #upasargas=0, mw=बण् (same)
+;; Case 0943: L=27066, k1=बद्, k2=बद्, code=r, #upasargas=0, mw=बद् (same)
+;; Case 0944: L=27080, k1=बध्, k2=बध्, code=r, #upasargas=0, mw=बध् (same)
+;; Case 0945: L=27103, k1=बन्, k2=बन्, code=r, #upasargas=0, mw=?
+;; Case 0946: L=27104, k1=बन्ध्, k2=बन्ध्, code=r, #upasargas=4 (4/0), mw=बन्ध् (same)
+01          आ       बन्ध्                आबन्ध्                आबन्ध् yes आ+बन्ध्
+02        अनु       बन्ध्              अनुबन्ध्              अनुबन्ध् yes अनु+बन्ध्
+03         नि       बन्ध्               निबन्ध्               निबन्ध् yes नि+बन्ध्
+04        सम्       बन्ध्              सम्बन्ध्              सम्बन्ध् yes सम्+बन्ध्
+;
+;; Case 0947: L=27130, k1=बभ्र, k2=बभ्र, code=r, #upasargas=0, mw=बभ्र् (diff)
+;; Case 0948: L=27137, k1=बर्ब्ब्, k2=बर्ब्ब्, code=r, #upasargas=0, mw=बर्ब् (diff)
+;; Case 0949: L=27141, k1=बर्ह्, k2=बर्ह्, code=r, #upasargas=0, mw=बर्ह् (same)
+;; Case 0950: L=27143, k1=बल्, k2=बल्, code=r, #upasargas=0, mw=बल् (same)
+;; Case 0951: L=27222, k1=बह्, k2=बह्, code=r, #upasargas=0, mw=बंह् (diff)
+;; Case 0952: L=27304, k1=बह्ल्, k2=बह्ल्, code=r, #upasargas=0, mw=बल्ह् (diff)
+;; Case 0953: L=27311, k1=बाड्, k2=बाड्, code=r, #upasargas=0, mw=बाड् (same)
+;; Case 0954: L=27324, k1=बाध्, k2=बाध्, code=r, #upasargas=0, mw=बाध् (same)
+;; Case 0955: L=27392, k1=बाह्, k2=बाह्, code=r, #upasargas=0, mw=बाह् (same)
+;; Case 0956: L=27413, k1=बिट्, k2=बिट्, code=r, #upasargas=0, mw=बिट् (same)
+;; Case 0957: L=27414, k1=बिद्, k2=बिद्, code=r, #upasargas=0, mw=बिद् (same)
+;; Case 0958: L=27418, k1=बिस्, k2=बिस्, code=r, #upasargas=0, mw=बिस् (same)
+;; Case 0959: L=27420, k1=बुक्क्, k2=बुक्क्, code=r, #upasargas=0, mw=बुक्क् (same)
+;; Case 0960: L=27425, k1=बुड्, k2=बुड्, code=r, #upasargas=0, mw=बुड् (same)
+;; Case 0961: L=27426, k1=बुट्, k2=बुट्, code=r, #upasargas=0, mw=बुट् (same)
+;; Case 0962: L=27441, k1=बुध्, k2=बुध्, code=r, #upasargas=3 (3/0), mw=बुध् (same)
+01      प्रति        बुध्             प्रतिबुध्             प्रतिबुध् yes प्रति+बुध्
+02         वि        बुध्                विबुध्                विबुध् yes वि+बुध्
+03    प्रतिवि        बुध्           प्रतिविबुध्           प्रतिविबुध् yes प्रति+वि+बुध्
+;
+;; Case 0963: L=27451, k1=बुन्द, k2=बुन्द, code=r, #upasargas=0, mw=बुन्द् (diff)
+;; Case 0964: L=27452, k1=बुन्ध्, k2=बुन्ध्, code=r, #upasargas=0, mw=बुन्ध् (same)
+;; Case 0965: L=27462, k1=बुल्, k2=बुल्, code=r, #upasargas=0, mw=बुल् (same)
+;; Case 0966: L=27465, k1=बुस्, k2=बुस्, code=r, #upasargas=0, mw=बुस् (same)
+;; Case 0967: L=27467, k1=बुस्त, k2=बुस्त, code=r, #upasargas=0, mw=बुस्त् (diff)
+;; Case 0968: L=27471, k1=बॄ, k2=बॄ, code=r, #upasargas=0, mw=बॄ (same)
+;; Case 0969: L=27485, k1=ब्युष, k2=ब्युष, code=r, #upasargas=0, mw=ब्युस् (diff)
+;; Case 0970: L=27486, k1=ब्रण्, k2=ब्रण्, code=r, #upasargas=0, mw=ब्रण् (same)
+;; Case 0971: L=27610, k1=ब्रू, k2=ब्रू-(ल), code=r, #upasargas=0, mw=ब्रू (same)
+;; Case 0972: L=27631, k1=भक्ष्, k2=भक्ष्, code=r, #upasargas=0, mw=भक्ष् (same)
+;; Case 0973: L=27675, k1=भज्, k2=भज्, code=r, #upasargas=2 (2/0), mw=भज् (same)
+01         वि        भज्                विभज्                विभज् yes वि+भज्
+02      प्रवि        भज्             प्रविभज्             प्रविभज् yes प्र+वि+भज्
+;
+;; Case 0974: L=27679, k1=भञ्ज्, k2=भञ्ज्, code=r, #upasargas=0, mw=भञ्ज् (same)
+;; Case 0975: L=27684, k1=भट्, k2=भट्, code=r, #upasargas=0, mw=भट् (same)
+;; Case 0976: L=27692, k1=भड्, k2=भड्, code=r, #upasargas=0, mw=भण्ड् (diff)
+;; Case 0977: L=27694, k1=भण्, k2=भण्, code=r, #upasargas=1 (1/0), mw=भण् (same)
+01      प्रति        भण्             प्रतिभण्             प्रतिभण् yes प्रति+भण्
+;
+;; Case 0978: L=27708, k1=भद्, k2=भद्, code=r, #upasargas=0, mw=भन्द् (diff)
+;; Case 0979: L=27810, k1=भर्त्स, k2=भर्त्स, code=r, #upasargas=0, mw=भर्त्स् (diff)
+;; Case 0980: L=27812, k1=भर्भ, k2=भर्भ, code=r, #upasargas=0, mw=भर्भ् (diff)
+;; Case 0981: L=27816, k1=भर्व्, k2=भर्व्, code=r, #upasargas=0, mw=भर्व् (same)
+;; Case 0982: L=27817, k1=भल्, k2=भल्, code=r, #upasargas=0, mw=भल् (same)
+;; Case 0983: L=27819, k1=भल्ल, k2=भल्ल, code=r, #upasargas=0, mw=भल्ल् (diff)
+;; Case 0984: L=27864, k1=भष्, k2=भष्, code=r, #upasargas=0, mw=भष् (same)
+;; Case 0985: L=27869, k1=भस्, k2=भस्, code=r, #upasargas=0, mw=भस् (same)
+;; Case 0986: L=27892, k1=भा, k2=भा, code=r, #upasargas=3 (3/0), mw=भा (same)
+01          आ         भा                  आभा                  आभा yes आ+भा
+02        प्र         भा                प्रभा                प्रभा yes प्र+भा
+03         वि         भा                 विभा                 विभा yes वि+भा
+;
+;; Case 0987: L=27915, k1=भाज्, k2=भाज्, code=r, #upasargas=1 (1/0), mw=भज् (diff)
+01         वि        भाज्                विभाज्                विभज् yes वि+भज्
+;
+;; Case 0988: L=27950, k1=भाम्, k2=भाम्, code=r, #upasargas=0, mw=भाम् (same)
+;; Case 0989: L=28020, k1=भाष्, k2=भाष्, code=r, #upasargas=2 (2/0), mw=भाष् (same)
+01       परि        भाष्              परिभाष्              परिभाष् yes परि+भाष्
+02        सम्        भाष्               सम्भाष्               सम्भाष् yes सम्+भाष्
+;
+;; Case 0990: L=28030, k1=भास्, k2=भास्, code=r, #upasargas=1 (0/1), mw=भास् (same)
+01      प्रनि        भास्             प्रनिभास्             प्रनिभास् no 
+;
+;; Case 0991: L=28096, k1=भिल्, k2=भिल्, code=r, #upasargas=0, mw=भिल् (same)
+;; Case 0992: L=28103, k1=भी, k2=भी, code=r, #upasargas=0, mw=भी (same)
+;; Case 0993: L=28104, k1=भी, k2=भी, code=r, #upasargas=0, mw=भी (same)
+;; Case 0994: L=28142, k1=भुज्, k2=भुज्, code=r, #upasargas=0, mw=भुज् (same)
+;; Case 0995: L=28168, k1=भुड, k2=भुड, code=r, #upasargas=0, mw=भुण्ड् (diff)
+;; Case 0996: L=28177, k1=भू, k2=भू, code=r, #upasargas=11 (10/1), mw=भू (same)
+01        अधि         भू                अधिभू                अधिभू no 
+02        अनु         भू                अनुभू                अनुभू yes अनु+भू
+03        अभि         भू                अभिभू                अभिभू yes अभि+भू
+04         उद्         भू                 उद्भू                 उद्भू yes उद्+भू
+05       परा         भू               पराभू               पराभू yes परा+भू
+06        प्र         भू                प्रभू                प्रभू yes प्र+भू
+07      प्रति         भू              प्रतिभू              प्रतिभू yes प्रति+भू
+08       परि         भू               परिभू               परिभू yes परि+भू
+09         वि         भू                 विभू                 विभू yes वि+भू
+10        सम्         भू                सम्भू                सम्भू yes सम्+भू
+11      व्यति         भू              व्यतिभू              व्यतिभू yes वि+अति+भू
+;
+;; Case 0997: L=28320, k1=भूष्, k2=भूष्, code=r, #upasargas=0, mw=भूष् (same)
+;; Case 0998: L=28331, k1=भृ, k2=भृ, code=r, #upasargas=0, mw=भृ (same)
+;; Case 0999: L=28354, k1=भृज्, k2=भृज्, code=r, #upasargas=0, mw=भृज् (same)
+;; Case 1000: L=28374, k1=भृश्, k2=भृश्, code=r, #upasargas=0, mw=भृश् (same)
+;; Case 1001: L=28381, k1=भॄ, k2=भॄ, code=r, #upasargas=0, mw=भॄ (same)
+;; Case 1002: L=28403, k1=भेष्, k2=भेष्, code=r, #upasargas=0, mw=भेष् (same)
+;; Case 1003: L=28465, k1=भ्यस्, k2=भ्यस्, code=r, #upasargas=0, mw=भ्यस् (same)
+;; Case 1004: L=28466, k1=भ्रंश्, k2=भ्रंश्, code=r, #upasargas=0, mw=भ्रंश् (same)
+;; Case 1005: L=28468, k1=भ्रंस्, k2=भ्रंस्, code=r, #upasargas=0, mw=भ्रंस् (same)
+;; Case 1006: L=28471, k1=भ्रण्, k2=भ्रण्, code=r, #upasargas=0, mw=भ्रण् (same)
+;; Case 1007: L=28472, k1=भ्रम्, k2=भ्रम्, code=r, #upasargas=3 (3/0), mw=भ्रम् (same)
+01       परि       भ्रम्             परिभ्रम्             परिभ्रम् yes परि+भ्रम्
+02         वि       भ्रम्               विभ्रम्               विभ्रम् yes वि+भ्रम्
+03        सम्       भ्रम्              सम्भ्रम्              सम्भ्रम् yes सम्+भ्रम्
+;
+;; Case 1008: L=28485, k1=भ्रश्, k2=भ्रश्, code=r, #upasargas=0, mw=भ्रश् (same)
+;; Case 1009: L=28489, k1=भ्रस्ज, k2=भ्रस्ज, code=r, #upasargas=0, mw=भ्रज्ज् (diff)
+;; Case 1010: L=28490, k1=भ्राज, k2=भ्राज, code=r, #upasargas=0, mw=भ्राज् (diff)
+;; Case 1011: L=28515, k1=भ्राश्, k2=भ्राश्, code=r, #upasargas=0, mw=भ्राश् (same)
+;; Case 1012: L=28517, k1=भ्री, k2=भ्री, code=r, #upasargas=0, mw=भ्री (same)
+;; Case 1013: L=28520, k1=भ्रुड, k2=भ्रुड, code=r, #upasargas=0, mw=भ्रुड् (diff)
+;; Case 1014: L=28525, k1=भ्रूण, k2=भ्रूण, code=r, #upasargas=0, mw=भ्रूण् (diff)
+;; Case 1015: L=28531, k1=भ्रेज्, k2=भ्रेज्, code=r, #upasargas=0, mw=भ्रेज् (same)
+;; Case 1016: L=28532, k1=भ्रेष्, k2=भ्रेष्, code=r, #upasargas=0, mw=भ्रेष् (same)
+;; Case 1017: L=28535, k1=भ्लक्ष्, k2=भ्लक्ष्, code=r, #upasargas=0, mw=भ्लक्ष् (same)
+;; Case 1018: L=28536, k1=भ्लाश्, k2=भ्लाश्, code=r, #upasargas=0, mw=भ्लाश् (same)
+;; Case 1019: L=28537, k1=भ्लेष्, k2=भ्लेष्, code=r, #upasargas=0, mw=भ्लेष् (same)
+;; Case 1020: L=28540, k1=मक्, k2=मक्, code=r, #upasargas=0, mw=मङ्क् (diff)
+;; Case 1021: L=28561, k1=मक्क्, k2=मक्क्, code=r, #upasargas=0, mw=मक्क् (same)
+;; Case 1022: L=28564, k1=मक्ष्, k2=मक्ष्, code=r, #upasargas=0, mw=मक्ष् (same)
+;; Case 1023: L=28568, k1=मख्, k2=मख्, code=r, #upasargas=0, mw=मख् (same)
+;; Case 1024: L=28574, k1=मग्, k2=मग्, code=r, #upasargas=0, mw=मङ्ग् (diff)
+;; Case 1025: L=28578, k1=मघ्, k2=मघ्, code=r, #upasargas=0, mw=मङ्घ् (diff)
+;; Case 1026: L=28600, k1=मच्, k2=मच्, code=r, #upasargas=0, mw=मच् (same)
+;; Case 1027: L=28612, k1=मञ्च्, k2=मञ्च्, code=r, #upasargas=0, mw=मञ्च् (same)
+;; Case 1028: L=28617, k1=मञ्ज्, k2=मञ्ज्, code=r, #upasargas=0, mw=मञ्ज् (same)
+;; Case 1029: L=28645, k1=मठ्, k2=मठ्, code=r, #upasargas=0, mw=मठ् (same)
+;; Case 1030: L=28649, k1=मड्, k2=मड्, code=r, #upasargas=0, mw=मण्ड् (diff)
+;; Case 1031: L=28652, k1=मण्, k2=मण्, code=r, #upasargas=0, mw=मण् (same)
+;; Case 1032: L=28733, k1=मत्र्, k2=मत्र्, code=r, #upasargas=3 (3/0), mw=मन्त्र् (diff)
+01        अभि       मत्र्              अभिमत्र्             अभिमन्त्र् yes अभि+मन्त्र्
+02          आ       मत्र्                आमत्र्               आमन्त्र् yes आ+मन्त्र्
+03         नि       मत्र्               निमत्र्              निमन्त्र् yes नि+मन्त्र्
+;
+;; Case 1033: L=28760, k1=मथ्, k2=मथ्, code=r, #upasargas=0, mw=मथ् (same)
+;; Case 1034: L=28767, k1=मद्, k2=मद्, code=r, #upasargas=1 (1/0), mw=मद् (same)
+01         नि        मद्                निमद्                निमद् yes नि+मद्
+;
+;; Case 1035: L=28961, k1=मन्, k2=मन्, code=r, #upasargas=4 (4/0), mw=मन् (same)
+01        अनु        मन्               अनुमन्               अनुमन् yes अनु+मन्
+02        अभि        मन्               अभिमन्               अभिमन् yes अभि+मन्
+03        अव        मन्               अवमन्               अवमन् yes अव+मन्
+04        सम्        मन्               सम्मन्               सम्मन् yes सम्+मन्
+;
+;; Case 1036: L=29048, k1=मन्थ्, k2=मन्थ्, code=r, #upasargas=0, mw=मन्थ् (same)
+;; Case 1037: L=29116, k1=मभ्र्, k2=मभ्र्, code=r, #upasargas=0, mw=मभ्र् (same)
+;; Case 1038: L=29120, k1=मय्, k2=मय्, code=r, #upasargas=0, mw=मय् (same)
+;; Case 1039: L=29195, k1=मर्च, k2=मर्च, code=r, #upasargas=0, mw=मर्च् (diff)
+;; Case 1040: L=29206, k1=मर्ब्, k2=मर्ब्, code=r, #upasargas=0, mw=मर्ब् (same)
+;; Case 1041: L=29221, k1=मर्व्, k2=मर्व्, code=r, #upasargas=0, mw=मर्व् (same)
+;; Case 1042: L=29228, k1=मल्, k2=मल्, code=r, #upasargas=0, mw=मल् (same)
+;; Case 1043: L=29259, k1=मल्ल्, k2=मल्ल्, code=r, #upasargas=0, mw=मल्ल् (same)
+;; Case 1044: L=29276, k1=मव्, k2=मव्, code=r, #upasargas=0, mw=मव् (same)
+;; Case 1045: L=29278, k1=मव्य्, k2=मव्य्, code=r, #upasargas=0, mw=मव्य् (same)
+;; Case 1046: L=29279, k1=मश्, k2=मश्, code=r, #upasargas=0, mw=मश् (same)
+;; Case 1047: L=29286, k1=मष्, k2=मष्, code=r, #upasargas=0, mw=मष् (same)
+;; Case 1048: L=29288, k1=मस्, k2=मस्, code=r, #upasargas=0, mw=मस् (same)
+;; Case 1049: L=29312, k1=मस्क्, k2=मस्क्, code=r, #upasargas=0, mw=मस्क् (same)
+;; Case 1050: L=29315, k1=मस्ज्, k2=मस्ज्, code=r, #upasargas=0, mw=मज्ज् (diff)
+;; Case 1051: L=29325, k1=मह्, k2=मह्, code=r, #upasargas=0, mw=मह् (same)
+;; Case 1052: L=29603, k1=मा, k2=मा, code=r, #upasargas=4 (4/0), mw=मा (same)
+01        अनु         मा                अनुमा                अनुमा yes अनु+मा
+02        उप         मा                उपमा                उपमा yes उप+मा
+03       परि         मा               परिमा               परिमा yes परि+मा
+04        प्र         मा                प्रमा                प्रमा yes प्र+मा
+;
+;; Case 1053: L=29622, k1=माक्ष्, k2=माक्ष्, code=r, #upasargas=0, mw=माङ्क्ष् (diff)
+;; Case 1054: L=29641, k1=माड्, k2=माड्, code=r, #upasargas=0, mw=माड् (same)
+;; Case 1055: L=29690, k1=माथ्, k2=माथ्, code=r, #upasargas=0, mw=मान्थ् (diff)
+;; Case 1056: L=29715, k1=मान्, k2=मान्, code=r, #upasargas=2 (0/2), mw=मान् (same)
+01        अप        मान्               अपमान्               अपमान् no 
+02        अव        मान्               अवमान्               अवमान् no 
+;
+;; Case 1057: L=29792, k1=मार्ग, k2=मार्ग, code=r, #upasargas=0, mw=मार्ग् (diff)
+;; Case 1058: L=29804, k1=मार्ज, k2=मार्ज, code=r, #upasargas=0, mw=मार्ज् (diff)
+;; Case 1059: L=29871, k1=माह्, k2=माह्, code=r, #upasargas=0, mw=माह् (same)
+;; Case 1060: L=29887, k1=मि, k2=मि, code=r, #upasargas=0, mw=मि (same)
+;; Case 1061: L=29888, k1=मिच्छ्, k2=मिच्छ्, code=r, #upasargas=0, mw=मिछ् (diff)
+;; Case 1062: L=29911, k1=मिथ्, k2=मिथ्, code=r, #upasargas=0, mw=मिथ् (same)
+;; Case 1063: L=29931, k1=मिद्, k2=मिद्, code=r, #upasargas=0, mw=मिद् (same)
+;; Case 1064: L=29938, k1=मिल्, k2=मिल्, code=r, #upasargas=0, mw=मिल् (same)
+;; Case 1065: L=29941, k1=मिव्, k2=मिव्, code=r, #upasargas=0, mw=मिन्व् (diff)
+;; Case 1066: L=29942, k1=मिश्, k2=मिश्, code=r, #upasargas=0, mw=मिश् (same)
+;; Case 1067: L=29944, k1=मिश्र, k2=मिश्र, code=r, #upasargas=0, mw=मिश्र् (diff)
+;; Case 1068: L=29951, k1=मिष्, k2=मिष्, code=r, #upasargas=0, mw=मिष् (same)
+;; Case 1069: L=29959, k1=मिस्र्, k2=मिस्र्, code=r, #upasargas=0, mw=मिस्र् (same)
+;; Case 1070: L=29960, k1=मिह्, k2=मिह्, code=r, #upasargas=0, mw=मिह् (same)
+;; Case 1071: L=29964, k1=मी, k2=मी, code=r, #upasargas=0, mw=मी (same)
+;; Case 1072: L=29977, k1=मीम, k2=मीम, code=r, #upasargas=0, mw=मीम् (diff)
+;; Case 1073: L=29981, k1=मील्, k2=मील्, code=r, #upasargas=1 (1/0), mw=मील् (same)
+01         उद्        मील्                उन्मील्                उन्मील् yes उद्+मील्
+;
+;; Case 1074: L=29986, k1=मीव्, k2=मीव्, code=r, #upasargas=0, mw=मीव् (same)
+;; Case 1075: L=30071, k1=मुच्, k2=मुच्, code=r, #upasargas=2 (2/0), mw=मुच् (same)
+01        प्र        मुच्               प्रमुच्               प्रमुच् yes प्र+मुच्
+02         वि        मुच्                विमुच्                विमुच् yes वि+मुच्
+;
+;; Case 1076: L=30076, k1=मुज्, k2=मुज्, code=r, #upasargas=0, mw=मुज् (same)
+;; Case 1077: L=30077, k1=मुञ्च्, k2=मुञ्च्, code=r, #upasargas=0, mw=मुञ्च् (same)
+;; Case 1078: L=30085, k1=मुट्, k2=मुट्, code=r, #upasargas=0, mw=मुट् (same)
+;; Case 1079: L=30086, k1=मुठ्, k2=मुठ्, code=r, #upasargas=0, mw=मुण्ठ् (diff)
+;; Case 1080: L=30087, k1=मुड्, k2=मुड्, code=r, #upasargas=0, mw=मुड् (same)
+;; Case 1081: L=30088, k1=मुण्, k2=मुण्, code=r, #upasargas=0, mw=मुण् (same)
+;; Case 1082: L=30103, k1=मुथ्, k2=मुथ्, code=r, #upasargas=0, mw=?
+;; Case 1083: L=30104, k1=मुद्, k2=मुद्, code=r, #upasargas=0, mw=मुद् (same)
+;; Case 1084: L=30138, k1=मुर्, k2=मुर्, code=r, #upasargas=0, mw=मुर् (same)
+;; Case 1085: L=30153, k1=मुर्च्छ, k2=मुर्च्छ, code=r, #upasargas=0, mw=मुर्छ् (diff)
+;; Case 1086: L=30156, k1=मुर्व्, k2=मुर्व्, code=r, #upasargas=0, mw=मुर्व् (same)
+;; Case 1087: L=30157, k1=मुल्, k2=मुल्, code=r, #upasargas=0, mw=मुल् (same)
+;; Case 1088: L=30160, k1=मुष्, k2=मुष्, code=r, #upasargas=0, mw=मुष् (same)
+;; Case 1089: L=30183, k1=मुस्, k2=मुस्, code=r, #upasargas=0, mw=मुस् (same)
+;; Case 1090: L=30187, k1=मुस्त्, k2=मुस्त्, code=r, #upasargas=0, mw=मुस्त् (same)
+;; Case 1091: L=30193, k1=मुह्, k2=मुह्, code=r, #upasargas=0, mw=मुह् (same)
+;; Case 1092: L=30199, k1=मू, k2=मू, code=r, #upasargas=0, mw=मू (same)
+;; Case 1093: L=30210, k1=मूत्र, k2=मूत्र, code=r, #upasargas=0, mw=मूत्रय (diff)
+;; Case 1094: L=30247, k1=मूल्, k2=मूल्, code=r, #upasargas=1 (1/0), mw=मूल् (same)
+01         उद्        मूल्                उन्मूल्               उन्मूल yes 
+;
+;; Case 1095: L=30271, k1=मूष्, k2=मूष्, code=r, #upasargas=0, mw=मूष् (same)
+;; Case 1096: L=30288, k1=मृ, k2=मृ, code=r, #upasargas=0, mw=मृ (same)
+;; Case 1097: L=30291, k1=मृक्ष्, k2=मृक्ष्, code=r, #upasargas=0, mw=मृक्ष् (same)
+;; Case 1098: L=30292, k1=मृग्, k2=मृग्, code=r, #upasargas=0, mw=मृग् (same)
+;; Case 1099: L=30355, k1=मृड्, k2=मृड्, code=r, #upasargas=0, mw=मृड् (same)
+;; Case 1100: L=30359, k1=मृण्, k2=मृण्, code=r, #upasargas=0, mw=मृण् (same)
+;; Case 1101: L=30401, k1=मृद्, k2=मृद्, code=r, #upasargas=0, mw=मृद् (same)
+;; Case 1102: L=30430, k1=मृध, k2=मृध, code=r, #upasargas=0, mw=मृध् (diff)
+;; Case 1103: L=30435, k1=मृश्, k2=मृश्, code=r, #upasargas=2 (2/0), mw=मृश् (same)
+01       परा        मृश्              परामृश्              परामृश् yes परा+मृश्
+02         वि        मृश्                विमृश्                विमृश् yes वि+मृश्
+;
+;; Case 1104: L=30436, k1=मृष्, k2=मृष्, code=r, #upasargas=2 (2/0), mw=मृष् (same)
+01          आ        मृष्                 आमृष्                 आमृष् yes आ+मृष्
+02         वि        मृष्                विमृष्                विमृष् yes वि+मृष्
+;
+;; Case 1105: L=30447, k1=मॄ, k2=मॄ, code=r, #upasargas=0, mw=मॄ (same)
+;; Case 1106: L=30448, k1=मे, k2=मे, code=r, #upasargas=0, mw=मे (same)
+;; Case 1107: L=30493, k1=मेट्, k2=मेट्, code=r, #upasargas=0, mw=मेट् (same)
+;; Case 1108: L=30496, k1=मेड्, k2=मेड्, code=r, #upasargas=0, mw=मेड् (same)
+;; Case 1109: L=30502, k1=मेथ्, k2=मेथ्, code=r, #upasargas=0, mw=मेथ् (same)
+;; Case 1110: L=30504, k1=मेद, k2=मेद, code=r, #upasargas=0, mw=मेद् (diff)
+;; Case 1111: L=30519, k1=मेध, k2=मेध, code=r, #upasargas=0, mw=मेध् (diff)
+;; Case 1112: L=30537, k1=मेप, k2=मेप, code=r, #upasargas=0, mw=मेप् (diff)
+;; Case 1113: L=30538, k1=मेब, k2=मेब, code=r, #upasargas=0, mw=मेब् (diff)
+;; Case 1114: L=30550, k1=मेब, k2=मेब, code=r, #upasargas=0, mw=मेब् (diff)
+;; Case 1115: L=30581, k1=मोक्ष्, k2=मोक्ष्, code=r, #upasargas=0, mw=मोक्ष् (same)
+;; Case 1116: L=30644, k1=म्ना, k2=म्ना, code=r, #upasargas=0, mw=म्ना (same)
+;; Case 1117: L=30645, k1=म्रक्ष्, k2=म्रक्ष्, code=r, #upasargas=0, mw=म्रक्ष् (same)
+;; Case 1118: L=30648, k1=म्रच्, k2=म्रच्, code=r, #upasargas=0, mw=?
+;; Case 1119: L=30649, k1=म्रद्, k2=म्रद्, code=r, #upasargas=0, mw=म्रद् (same)
+;; Case 1120: L=30655, k1=म्रुच्, k2=म्रुच्, code=r, #upasargas=0, mw=म्रुच् (same)
+;; Case 1121: L=30656, k1=म्रुच्, k2=म्रुच्, code=r, #upasargas=0, mw=म्रुच् (same)
+;; Case 1122: L=30657, k1=म्रेट्, k2=म्रेट्, code=r, #upasargas=0, mw=म्रेट् (same)
+;; Case 1123: L=30658, k1=म्रेड्, k2=म्रेड्, code=r, #upasargas=0, mw=म्रेड् (same)
+;; Case 1124: L=30659, k1=म्लक्ष्, k2=म्लक्ष्, code=r, #upasargas=0, mw=म्लक्ष् (same)
+;; Case 1125: L=30665, k1=म्लुच्, k2=म्लुच्, code=r, #upasargas=2 (1/1), mw=म्लुच् (same)
+01        अभि       म्लुच्              अभिम्लुच्              अभिम्लुच् no 
+02         नि       म्लुच्               निम्लुच्               निम्लुच् yes नि+म्लुच्
+;
+;; Case 1126: L=30666, k1=म्लुञ्च्, k2=म्लुञ्च्, code=r, #upasargas=0, mw=म्लुञ्च् (same)
+;; Case 1127: L=30667, k1=म्लेच्छ, k2=म्लेच्छ, code=r, #upasargas=0, mw=म्लेछ् (diff)
+;; Case 1128: L=30679, k1=म्लेट, k2=म्लेट, code=r, #upasargas=0, mw=म्लेट् (diff)
+;; Case 1129: L=30680, k1=म्लेड्, k2=म्लेड्, code=r, #upasargas=0, mw=म्लेड् (same)
+;; Case 1130: L=30681, k1=म्लेव, k2=म्लेव, code=r, #upasargas=0, mw=म्लेव् (diff)
+;; Case 1131: L=30682, k1=म्लै, k2=म्लै, code=r, #upasargas=0, mw=म्लै (same)
+;; Case 1132: L=30689, k1=यक्ष्, k2=यक्ष्, code=r, #upasargas=0, mw=यक्ष् (same)
+;; Case 1133: L=30709, k1=यज्, k2=यज्, code=r, #upasargas=0, mw=यज् (same)
+;; Case 1134: L=30750, k1=यत्, k2=यत्, code=r, #upasargas=2 (2/0), mw=यत् (same)
+01        निर्        यत्               निर्यत्               निर्यत् yes निर्+यत्
+02         वि        यत्                वियत्                वियत् yes वि+यत्
+;
+;; Case 1135: L=30780, k1=यत्र्, k2=यत्र्, code=r, #upasargas=0, mw=यन्त्र् (diff)
+;; Case 1136: L=30834, k1=यन्त्र, k2=यन्त्र, code=r, #upasargas=0, mw=यन्त्र् (diff)
+;; Case 1137: L=30843, k1=यभ्, k2=यभ्, code=r, #upasargas=0, mw=यभ् (same)
+;; Case 1138: L=30844, k1=यम्, k2=यम्, code=r, #upasargas=7 (7/0), mw=यम् (same)
+01         उद्        यम्                उद्यम्                उद्यम् yes उद्+यम्
+02         नि        यम्                नियम्                नियम् yes नि+यम्
+03        सम्        यम्               संयम्               संयम् yes सम्+यम्
+04        व्या        यम्               व्यायम्               व्यायम् yes वि+आ+यम्
+05          आ        यम्                 आयम्                 आयम् yes आ+यम्
+06        उप        यम्               उपयम्               उपयम् yes उप+यम्
+07        सम्        यम्               संयम्               संयम् yes सम्+यम्
+;
+;; Case 1139: L=30924, k1=यस्, k2=यस्, code=r, #upasargas=2 (1/1), mw=यस् (same)
+01          आ        यस्                 आयस्                 आयस् yes आ+यस्
+02        निर्        यस्               निर्यस्               निर्यस् no 
+;
+;; Case 1140: L=30928, k1=या, k2=या, code=r, #upasargas=10 (10/0), mw=या (same)
+01        अनु         या                अनुया                अनुया yes अनु+या
+02        अभि         या                अभिया                अभिया yes अभि+या
+03          आ         या                  आया                  आया yes आ+या
+04        उप         या                उपया                उपया yes उप+या
+05        निर्         या                निर्या                निर्या yes निर्+या
+06        प्र         या                प्रया                प्रया yes प्र+या
+07      प्रति         या              प्रतिया              प्रतिया yes प्रति+या
+08    प्रत्युद्         या            प्रत्युद्या            प्रत्युद्या yes प्रति+उद्+या
+09     समभि         या             समभिया             समभिया yes सम्+अभि+या
+10       समा         या               समाया               समाया yes सम्+आ+या
+;
+;; Case 1141: L=30930, k1=याच्, k2=याच्, code=r, #upasargas=0, mw=याच् (same)
+;; Case 1142: L=31035, k1=यु, k2=यु, code=r, #upasargas=0, mw=यु (same)
+;; Case 1143: L=31041, k1=युग्, k2=युग्, code=r, #upasargas=0, mw=युङ्ग् (diff)
+;; Case 1144: L=31060, k1=युच्छ्, k2=युच्छ्, code=r, #upasargas=0, mw=युछ् (diff)
+;; Case 1145: L=31061, k1=युज्, k2=युज्, code=r, #upasargas=11 (11/0), mw=युज् (same)
+01        अनु        युज्               अनुयुज्               अनुयुज् yes अनु+युज्
+02        अभि        युज्               अभियुज्               अभियुज् yes अभि+युज्
+03         उद्        युज्                उद्युज्                उद्युज् yes उद्+युज्
+04        उप        युज्               उपयुज्               उपयुज् yes उप+युज्
+05         नि        युज्                नियुज्                नियुज् yes नि+युज्
+06        प्र        युज्               प्रयुज्               प्रयुज् yes प्र+युज्
+07         वि        युज्                वियुज्                वियुज् yes वि+युज्
+08        सम्        युज्               संयुज्               संयुज् yes सम्+युज्
+09       विनि        युज्              विनियुज्              विनियुज् yes वि+नि+युज्
+10      विप्र        युज्             विप्रयुज्             विप्रयुज् yes वि+प्र+युज्
+11       समा        युज्              समायुज्              समायुज् yes सम्+आ+युज्
+;
+;; Case 1146: L=31064, k1=युत्, k2=युत्, code=r, #upasargas=0, mw=युत् (same)
+;; Case 1147: L=31074, k1=युध्, k2=युध्, code=r, #upasargas=0, mw=युध् (same)
+;; Case 1148: L=31080, k1=युप्, k2=युप्, code=r, #upasargas=0, mw=युप् (same)
+;; Case 1149: L=31116, k1=यूष, k2=यूष, code=r, #upasargas=0, mw=यूष् (diff)
+;; Case 1150: L=31118, k1=येष, k2=येष, code=r, #upasargas=0, mw=येष् (diff)
+;; Case 1151: L=31184, k1=यौट्, k2=यौट्, code=r, #upasargas=0, mw=यौट् (same)
+;; Case 1152: L=31205, k1=रक्, k2=रक्, code=r, #upasargas=0, mw=रक् (same)
+;; Case 1153: L=31288, k1=रक्ष्, k2=रक्ष्, code=r, #upasargas=1 (1/0), mw=रक्ष् (same)
+01       परि       रक्ष्             परिरक्ष्             परिरक्ष् yes परि+रक्ष्
+;
+;; Case 1154: L=31311, k1=रख्, k2=रख्, code=r, #upasargas=0, mw=रख् (same)
+;; Case 1155: L=31312, k1=रग्, k2=रग्, code=r, #upasargas=0, mw=रग् (same)
+;; Case 1156: L=31339, k1=रच्, k2=रच्, code=r, #upasargas=0, mw=रच् (same)
+;; Case 1157: L=31373, k1=रञ्ज्, k2=रञ्ज्, code=r, #upasargas=3 (3/0), mw=रञ्ज् (same)
+01        अनु       रञ्ज्              अनुरञ्ज्              अनुरञ्ज् yes अनु+रञ्ज्
+02        अप       रञ्ज्              अपरञ्ज्              अपरञ्ज् yes अप+रञ्ज्
+03         वि       रञ्ज्               विरञ्ज्               विरञ्ज् yes वि+रञ्ज्
+;
+;; Case 1158: L=31377, k1=रट्, k2=रट्, code=r, #upasargas=0, mw=रट् (same)
+;; Case 1159: L=31381, k1=रठ्, k2=रठ्, code=r, #upasargas=0, mw=रठ् (same)
+;; Case 1160: L=31382, k1=रण्, k2=रण्, code=r, #upasargas=0, mw=रण् (same)
+;; Case 1161: L=31482, k1=रद्, k2=रद्, code=r, #upasargas=0, mw=रद् (same)
+;; Case 1162: L=31490, k1=रध्, k2=रध्, code=r, #upasargas=0, mw=रध् (same)
+;; Case 1163: L=31500, k1=रप्, k2=रप्, code=r, #upasargas=0, mw=रप् (same)
+;; Case 1164: L=31501, k1=रफ्, k2=रफ्, code=r, #upasargas=0, mw=रफ् (same)
+;; Case 1165: L=31502, k1=रब्, k2=रब्, code=r, #upasargas=0, mw=रम्ब् (diff)
+;; Case 1166: L=31505, k1=रभ, k2=रभ, code=r, #upasargas=1 (1/0), mw=रभ् (diff)
+01       परि       रभ             परिरभ              परिरभ् yes परि+रभ्
+;
+;; Case 1167: L=31507, k1=रम्, k2=रम्, code=r, #upasargas=3 (3/0), mw=रम् (same)
+01          आ        रम्                 आरम्                 आरम् yes आ+रम्
+02        उप        रम्               उपरम्               उपरम् yes उप+रम्
+03         वि        रम्                विरम्                विरम् yes वि+रम्
+;
+;; Case 1168: L=31527, k1=रय्, k2=रय्, code=r, #upasargas=0, mw=रय् (same)
+;; Case 1169: L=31531, k1=रव्, k2=रव्, code=r, #upasargas=0, mw=रम्ब् (diff)
+;; Case 1170: L=31550, k1=रस्, k2=रस्, code=r, #upasargas=0, mw=रस् (same)
+;; Case 1171: L=31614, k1=रह्, k2=रह्, code=r, #upasargas=1 (1/0), mw=रह् (same)
+01         वि        रह्                विरह्                विरह् yes वि+रह्
+;
+;; Case 1172: L=31623, k1=रा, k2=रा, code=r, #upasargas=0, mw=रा (same)
+;; Case 1173: L=31629, k1=राख्, k2=राख्, code=r, #upasargas=0, mw=राख् (same)
+;; Case 1174: L=31644, k1=राघ्, k2=राघ्, code=r, #upasargas=0, mw=राघ् (same)
+;; Case 1175: L=31648, k1=राज्, k2=राज्, code=r, #upasargas=1 (0/1), mw=राज् (same)
+01        निर्        राज्               निर्राज्               निर्राज् no 
+;
+;; Case 1176: L=31818, k1=राध्, k2=राध्, code=r, #upasargas=2 (2/0), mw=राध् (same)
+01        अप        राध्               अपराध्               अपराध् yes अप+राध्
+02          आ        राध्                 आराध्                 आराध् yes आ+राध्
+;
+;; Case 1177: L=31859, k1=राश्, k2=राश्, code=r, #upasargas=0, mw=राश् (same)
+;; Case 1178: L=31874, k1=रास्, k2=रास्, code=r, #upasargas=0, mw=रास् (same)
+;; Case 1179: L=31894, k1=रि, k2=रि, code=r, #upasargas=0, mw=रि (same)
+;; Case 1180: L=31906, k1=रिख्, k2=रिख्, code=r, #upasargas=0, mw=रिख् (same)
+;; Case 1181: L=31907, k1=रिग्, k2=रिग्, code=r, #upasargas=0, mw=रिङ्ग् (diff)
+;; Case 1182: L=31911, k1=रिच्, k2=रिच्, code=r, #upasargas=2 (2/0), mw=रिच् (same)
+01        अति        रिच्               अतिरिच्               अतिरिच् yes अति+रिच्
+02         वि        रिच्                विरिच्                विरिच् yes वि+रिच्
+;
+;; Case 1183: L=31912, k1=रिज्, k2=रिज्, code=r, #upasargas=0, mw=रिज् (same)
+;; Case 1184: L=31919, k1=रिफ्, k2=रिफ्, code=r, #upasargas=0, mw=रिफ् (same)
+;; Case 1185: L=31920, k1=रिम्फ्, k2=रिम्फ्, code=r, #upasargas=0, mw=रिम्फ् (same)
+;; Case 1186: L=31928, k1=रिव्, k2=रिव्, code=r, #upasargas=0, mw=रिण्व् (diff)
+;; Case 1187: L=31929, k1=रिश्, k2=रिश्, code=r, #upasargas=0, mw=रिश् (same)
+;; Case 1188: L=31931, k1=रिष्, k2=रिष्, code=r, #upasargas=0, mw=रिष् (same)
+;; Case 1189: L=31938, k1=रिह्, k2=रिह्, code=r, #upasargas=0, mw=रिह् (same)
+;; Case 1190: L=31939, k1=री, k2=री, code=r, #upasargas=0, mw=री (same)
+;; Case 1191: L=31947, k1=रीव, k2=रीव, code=r, #upasargas=0, mw=रीव् (diff)
+;; Case 1192: L=31948, k1=रु, k2=रु, code=r, #upasargas=0, mw=रु (same)
+;; Case 1193: L=31963, k1=रुच्, k2=रुच्, code=r, #upasargas=0, mw=रुच् (same)
+;; Case 1194: L=31976, k1=रुज्, k2=रुज्, code=r, #upasargas=0, mw=रुज् (same)
+;; Case 1195: L=31980, k1=रुट्, k2=रुट्, code=r, #upasargas=0, mw=रुट् (same)
+;; Case 1196: L=31981, k1=रुठ्, k2=रुठ्, code=r, #upasargas=0, mw=रुठ् (same)
+;; Case 1197: L=31988, k1=रुद्, k2=रुद्, code=r, #upasargas=1 (1/0), mw=रुद् (same)
+01        उपा        रुद्               उपारुद्               उपारुद् yes उप+आ+रुद्
+;
+;; Case 1198: L=32007, k1=रुध्, k2=रुध्, code=r, #upasargas=3 (3/0), mw=रुध् (same)
+01        अनु        रुध्               अनुरुध्               अनुरुध् yes अनु+रुध्
+02        अव        रुध्               अवरुध्               अवरुध् yes अव+रुध्
+03        उप        रुध्               उपरुध्               उपरुध् yes उप+रुध्
+;
+;; Case 1199: L=32010, k1=रुप्, k2=रुप्, code=r, #upasargas=0, mw=रुप् (same)
+;; Case 1200: L=32019, k1=रुश्, k2=रुश्, code=r, #upasargas=0, mw=रुश् (same)
+;; Case 1201: L=32021, k1=रुष्, k2=रुष्, code=r, #upasargas=0, mw=रुष् (same)
+;; Case 1202: L=32026, k1=रुह्, k2=रुह्, code=r, #upasargas=3 (3/0), mw=रुह् (same)
+01        अधि        रुह्               अधिरुह्               अधिरुह् yes अधि+रुह्
+02        अव        रुह्               अवरुह्               अवरुह् yes अव+रुह्
+03          आ        रुह्                 आरुह्                 आरुह् yes आ+रुह्
+;
+;; Case 1203: L=32031, k1=रूक्ष्, k2=रूक्ष्, code=r, #upasargas=0, mw=रूक्ष् (same)
+;; Case 1204: L=32038, k1=रूप्, k2=रूप्, code=r, #upasargas=1 (1/0), mw=रूप् (same)
+01         नि        रूप्                निरूप्                निरूप् yes नि+रूप्
+;
+;; Case 1205: L=32056, k1=रूष्, k2=रूष्, code=r, #upasargas=0, mw=रूष् (same)
+;; Case 1206: L=32060, k1=रेक्, k2=रेक्, code=r, #upasargas=1 (0/1), mw=रेक् (same)
+01          आ        रेक्                 आरेक्                 आरेक् no 
+;
+;; Case 1207: L=32069, k1=रेट्, k2=रेट्, code=r, #upasargas=0, mw=रेट् (same)
+;; Case 1208: L=32081, k1=रेप, k2=रेप, code=r, #upasargas=0, mw=रेप् (diff)
+;; Case 1209: L=32086, k1=रेब्, k2=रेब्, code=r, #upasargas=0, mw=रेब् (same)
+;; Case 1210: L=32087, k1=रेभ्, k2=रेभ्, code=r, #upasargas=0, mw=रेभ् (same)
+;; Case 1211: L=32090, k1=रेव, k2=रेव, code=r, #upasargas=0, mw=रेव् (diff)
+;; Case 1212: L=32101, k1=रेष, k2=रेष, code=r, #upasargas=0, mw=रेष् (diff)
+;; Case 1213: L=32106, k1=रै, k2=रै, code=r, #upasargas=0, mw=रै (same)
+;; Case 1214: L=32141, k1=रोड्, k2=रोड्, code=r, #upasargas=0, mw=रोड् (same)
+;; Case 1215: L=32212, k1=रौट्, k2=रौट्, code=r, #upasargas=0, mw=रौट् (same)
+;; Case 1216: L=32213, k1=रौड्, k2=रौड्, code=r, #upasargas=0, mw=रौड् (same)
+;; Case 1217: L=32228, k1=लक्, k2=लक्, code=r, #upasargas=0, mw=लक् (same)
+;; Case 1218: L=32234, k1=लक्ष्, k2=लक्ष्, code=r, #upasargas=2 (2/0), mw=लक्ष् (same)
+01        उप       लक्ष्              उपलक्ष्              उपलक्ष् yes उप+लक्ष्
+02        सम्       लक्ष्              संलक्ष्              संलक्ष् yes सम्+लक्ष्
+;
+;; Case 1219: L=32253, k1=लख्, k2=लख्, code=r, #upasargas=0, mw=लख् (same)
+;; Case 1220: L=32254, k1=लग्, k2=लग्, code=r, #upasargas=0, mw=लग् (same)
+;; Case 1221: L=32264, k1=लघ्, k2=लघ्, code=r, #upasargas=2 (2/0), mw=लङ्घ् (diff)
+01         उद्        लघ्                उल्लघ्               उल्लङ्घ् yes उद्+लङ्घ्
+02         वि        लघ्                विलघ्               विलङ्घ् yes वि+लङ्घ्
+;
+;; Case 1222: L=32305, k1=लच्छ, k2=लच्छ, code=r, #upasargas=0, mw=लछ् (diff)
+;; Case 1223: L=32306, k1=लज्, k2=लज्, code=r, #upasargas=0, mw=लज् (same)
+;; Case 1224: L=32320, k1=लञ्ज्, k2=लञ्ज्, code=r, #upasargas=0, mw=लञ्ज् (same)
+;; Case 1225: L=32323, k1=लट्, k2=लट्, code=r, #upasargas=0, mw=लट् (same)
+;; Case 1226: L=32328, k1=लड्, k2=लड्, code=r, #upasargas=0, mw=लड् (same)
+;; Case 1227: L=32354, k1=लप्, k2=लप्, code=r, #upasargas=7 (6/1), mw=लप् (same)
+01        अप        लप्               अपलप्               अपलप् yes अप+लप्
+02          आ        लप्                 आलप्                 आलप् yes आ+लप्
+03        प्र        लप्               प्रलप्               प्रलप् yes प्र+लप्
+04      प्रति        लप्             प्रतिलप्             प्रतिलप् no 
+05         वि        लप्                विलप्                विलप् yes वि+लप्
+06        सम्        लप्               संलप्               संलप् yes सम्+लप्
+07      विप्र        लप्             विप्रलप्             विप्रलप् yes वि+प्र+लप्
+;
+;; Case 1228: L=32357, k1=लब्, k2=लब्, code=r, #upasargas=3 (3/0), mw=लम्ब् (diff)
+01        अव        लब्               अवलब्              अवलम्ब् yes अव+लम्ब्
+02          आ        लब्                 आलब्                आलम्ब् yes आ+लम्ब्
+03         वि        लब्                विलब्               विलम्ब् yes वि+लम्ब्
+;
+;; Case 1229: L=32372, k1=लभ्, k2=लभ्, code=r, #upasargas=2 (2/0), mw=लभ् (same)
+01        उप        लभ्               उपलभ्               उपलभ् yes उप+लभ्
+02        उपा        लभ्               उपालभ्               उपालभ् yes उप+आ+लभ्
+;
+;; Case 1230: L=32394, k1=लय्, k2=लय्, code=r, #upasargas=0, mw=लय् (same)
+;; Case 1231: L=32398, k1=लर्व, k2=लर्व, code=r, #upasargas=0, mw=लर्ब् (diff)
+;; Case 1232: L=32399, k1=लल्, k2=लल्, code=r, #upasargas=0, mw=लल् (same)
+;; Case 1233: L=32436, k1=लश्, k2=लश्, code=r, #upasargas=0, mw=लश् (same)
+;; Case 1234: L=32439, k1=लष्, k2=लष्, code=r, #upasargas=0, mw=लष् (same)
+;; Case 1235: L=32441, k1=लस्, k2=लस्, code=r, #upasargas=2 (2/0), mw=लस् (same)
+01         उद्        लस्                उल्लस्                उल्लस् yes उद्+लस्
+02         वि        लस्                विलस्                विलस् yes वि+लस्
+;
+;; Case 1236: L=32444, k1=लस्ज्, k2=लस्ज्, code=r, #upasargas=0, mw=लज्ज् (diff)
+;; Case 1237: L=32449, k1=ला, k2=ला, code=r, #upasargas=0, mw=ला (same)
+;; Case 1238: L=32457, k1=लाख्, k2=लाख्, code=r, #upasargas=0, mw=लाख् (same)
+;; Case 1239: L=32458, k1=लाघ्, k2=लाघ्, code=r, #upasargas=0, mw=लाघ् (same)
+;; Case 1240: L=32470, k1=लाच्छ, k2=लाच्छ, code=r, #upasargas=0, mw=लाञ्छ् (diff)
+;; Case 1241: L=32471, k1=लाज्, k2=लाज्, code=r, #upasargas=0, mw=लाज् (same)
+;; Case 1242: L=32478, k1=लाभ्, k2=लाभ्, code=r, #upasargas=0, mw=लाभ् (same)
+;; Case 1243: L=32519, k1=लिख्, k2=लिख्, code=r, #upasargas=0, mw=लिख् (same)
+;; Case 1244: L=32524, k1=लिग, k2=लिग, code=r, #upasargas=1 (1/0), mw=लिङ्ग् (diff)
+01          आ       लिग                आलिग                आलिङ्ग् yes आ+लिङ्ग्
+;
+;; Case 1245: L=32541, k1=लिप्, k2=लिप्, code=r, #upasargas=0, mw=लिप् (same)
+;; Case 1246: L=32562, k1=लिश्, k2=लिश्, code=r, #upasargas=0, mw=लिश् (same)
+;; Case 1247: L=32565, k1=ली, k2=ली, code=r, #upasargas=3 (3/0), mw=ली (same)
+01          आ         ली                  आली                  आली yes आ+ली
+02         उद्         ली                 उल्ली                 उल्ली yes उद्+ली
+03      प्रवि         ली              प्रविली              प्रविली yes प्र+वि+ली
+;
+;; Case 1248: L=32579, k1=लुच्, k2=लुच्, code=r, #upasargas=0, mw=लुञ्च् (diff)
+;; Case 1249: L=32582, k1=लुज्, k2=लुज्, code=r, #upasargas=0, mw=लुञ्ज् (diff)
+;; Case 1250: L=32583, k1=लुट्, k2=लुट्, code=r, #upasargas=0, mw=लुट् (same)
+;; Case 1251: L=32584, k1=लुठ्, k2=लुठ्, code=r, #upasargas=0, mw=लुठ् (same)
+;; Case 1252: L=32587, k1=लुड्, k2=लुड्, code=r, #upasargas=0, mw=लुड् (same)
+;; Case 1253: L=32596, k1=लुथ्, k2=लुथ्, code=r, #upasargas=0, mw=लुन्थ् (diff)
+;; Case 1254: L=32597, k1=लुप्, k2=लुप्, code=r, #upasargas=0, mw=लुप् (same)
+;; Case 1255: L=32602, k1=लुब्, k2=लुब्, code=r, #upasargas=0, mw=लुम्ब् (diff)
+;; Case 1256: L=32605, k1=लुभ्, k2=लुभ्, code=r, #upasargas=2 (2/0), mw=लुभ् (same)
+01        प्र        लुभ्               प्रलुभ्               प्रलुभ् yes प्र+लुभ्
+02        सम्        लुभ्               संलुभ्               संलुभ् yes सम्+लुभ्
+;
+;; Case 1257: L=32608, k1=लुल्, k2=लुल्, code=r, #upasargas=0, mw=लुल् (same)
+;; Case 1258: L=32611, k1=लुष्, k2=लुष्, code=r, #upasargas=0, mw=लुष् (same)
+;; Case 1259: L=32613, k1=लू, k2=लू, code=r, #upasargas=0, mw=लू (same)
+;; Case 1260: L=32621, k1=लूष्, k2=लूष्, code=r, #upasargas=0, mw=लूष् (same)
+;; Case 1261: L=32622, k1=लृञ्च्, k2=लृञ्च्, code=r, #upasargas=0, mw=?
+;; Case 1262: L=32641, k1=लेप्, k2=लेप्, code=r, #upasargas=0, mw=लेप् (same)
+;; Case 1263: L=32664, k1=लैण्, k2=लैण्, code=r, #upasargas=0, mw=लैण् (same)
+;; Case 1264: L=32665, k1=लोक्, k2=लोक्, code=r, #upasargas=0, mw=लोक् (same)
+;; Case 1265: L=32702, k1=लोच्, k2=लोच्, code=r, #upasargas=1 (1/0), mw=लोच् (same)
+01          आ        लोच्                 आलोच्                 आलोच् yes आ+लोच्
+;
+;; Case 1266: L=32708, k1=लोट्, k2=लोट्, code=r, #upasargas=0, mw=लोट् (same)
+;; Case 1267: L=32710, k1=लोड, k2=लोड, code=r, #upasargas=0, mw=लोड् (diff)
+;; Case 1268: L=32758, k1=लोष्ट्, k2=लोष्ट्, code=r, #upasargas=0, mw=लोष्ट् (same)
+;; Case 1269: L=32813, k1=ल्पी, k2=ल्पी, code=r, #upasargas=0, mw=ल्पी (same)
+;; Case 1270: L=32814, k1=ल्वी, k2=ल्वी, code=r, #upasargas=0, mw=ल्वी (same)
+;; Case 1271: L=32849, k1=वक्, k2=वक्, code=r, #upasargas=0, mw=वक् (same)
+;; Case 1272: L=32865, k1=वक्क, k2=वक्क, code=r, #upasargas=0, mw=वक्क् (diff)
+;; Case 1273: L=32907, k1=वक्ष्, k2=वक्ष्, code=r, #upasargas=0, mw=वक्ष् (same)
+;; Case 1274: L=32915, k1=वख्, k2=वख्, code=r, #upasargas=0, mw=वख् (same)
+;; Case 1275: L=32916, k1=वग्, k2=वग्, code=r, #upasargas=0, mw=वङ्ग् (diff)
+;; Case 1276: L=32919, k1=वघ्, k2=वघ्, code=r, #upasargas=0, mw=वङ्घ् (diff)
+;; Case 1277: L=32932, k1=वच्, k2=वच्, code=r, #upasargas=1 (1/0), mw=वच् (same)
+01        प्र        वच्               प्रवच्               प्रवच् yes प्र+वच्
+;
+;; Case 1278: L=32950, k1=वज्, k2=वज्, code=r, #upasargas=0, mw=वज् (same)
+;; Case 1279: L=32988, k1=वञ्च, k2=वञ्च, code=r, #upasargas=0, mw=वञ्च् (diff)
+;; Case 1280: L=32998, k1=वट्, k2=वट्, code=r, #upasargas=0, mw=वट् (same)
+;; Case 1281: L=33011, k1=वठ्, k2=वठ्, code=r, #upasargas=0, mw=वठ् (same)
+;; Case 1282: L=33013, k1=वड्, k2=वड्, code=r, #upasargas=0, mw=वण्ड् (diff)
+;; Case 1283: L=33019, k1=वण्, k2=वण्, code=r, #upasargas=0, mw=वण् (same)
+;; Case 1284: L=33020, k1=वण्ट, k2=वण्ट, code=r, #upasargas=0, mw=वण्ट् (diff)
+;; Case 1285: L=33051, k1=वद्, k2=वद्, code=r, #upasargas=10 (10/0), mw=वद् (same)
+01        अनु        वद्               अनुवद्               अनुवद् yes अनु+वद्
+02        अप        वद्               अपवद्               अपवद् yes अप+वद्
+03        अभि        वद्               अभिवद्               अभिवद् yes अभि+वद्
+04        उप        वद्               उपवद्               उपवद् yes उप+वद्
+05        निर्        वद्               निर्वद्               निर्वद् yes निर्+वद्
+06       परि        वद्              परिवद्              परिवद् yes परि+वद्
+07      प्रति        वद्             प्रतिवद्             प्रतिवद् yes प्रति+वद्
+08         वि        वद्                विवद्                विवद् yes वि+वद्
+09      विप्र        वद्             विप्रवद्             विप्रवद् yes वि+प्र+वद्
+10     सम्प्र        वद्            सम्प्रवद्            सम्प्रवद् yes सम्+प्र+वद्
+;
+;; Case 1286: L=33071, k1=वन्, k2=वन्, code=r, #upasargas=0, mw=वन् (same)
+;; Case 1287: L=33178, k1=वप्, k2=वप्, code=r, #upasargas=0, mw=वप् (same)
+;; Case 1288: L=33196, k1=वभ्र्, k2=वभ्र्, code=r, #upasargas=0, mw=वभ्र् (same)
+;; Case 1289: L=33197, k1=वम्, k2=वम्, code=r, #upasargas=0, mw=वम् (same)
+;; Case 1290: L=33206, k1=वय्, k2=वय्, code=r, #upasargas=0, mw=वय् (same)
+;; Case 1291: L=33216, k1=वर, k2=वर, code=r, #upasargas=0, mw=वृ (diff)
+;; Case 1292: L=33306, k1=वर्घ, k2=वर्घ, code=r, #upasargas=0, mw=?
+;; Case 1293: L=33307, k1=वर्च, k2=वर्च, code=r, #upasargas=0, mw=वर्च् (diff)
+;; Case 1294: L=33318, k1=वर्ण, k2=वर्ण, code=r, #upasargas=0, mw=वर्ण् (diff)
+;; Case 1295: L=33402, k1=वर्ध, k2=वर्ध, code=r, #upasargas=0, mw=वर्ध् (diff)
+;; Case 1296: L=33404, k1=वर्फ, k2=वर्फ, code=r, #upasargas=0, mw=वर्फ् (diff)
+;; Case 1297: L=33417, k1=वर्ष, k2=वर्ष, code=r, #upasargas=0, mw=वृष् (diff)
+;; Case 1298: L=33479, k1=वल, k2=वल, code=r, #upasargas=0, mw=वल् (diff)
+;; Case 1299: L=33500, k1=वल्क, k2=वल्क, code=r, #upasargas=0, mw=वल्क् (diff)
+;; Case 1300: L=33506, k1=वल्ग्, k2=वल्ग्, code=r, #upasargas=0, mw=वल्ग् (same)
+;; Case 1301: L=33514, k1=वल्भ्, k2=वल्भ्, code=r, #upasargas=0, mw=वल्भ् (same)
+;; Case 1302: L=33520, k1=वल्युल, k2=वल्युल,, code=r, #upasargas=0, mw=वल्युल (same)
+;; Case 1303: L=33521, k1=वल्ल्, k2=वल्ल्, code=r, #upasargas=0, mw=वल्ल् (same)
+;; Case 1304: L=33535, k1=वल्ह, k2=वल्ह, code=r, #upasargas=0, mw=वल्ह् (diff)
+;; Case 1305: L=33562, k1=वष्, k2=वष्, code=r, #upasargas=0, mw=वष् (same)
+;; Case 1306: L=33567, k1=वष्क्, k2=वष्क्, code=r, #upasargas=0, mw=वष्क् (same)
+;; Case 1307: L=33570, k1=वस्, k2=वस्, code=r, #upasargas=5 (5/0), mw=वस् (same)
+01        अधि        वस्               अधिवस्               अधिवस् yes अधि+वस्
+02        उप        वस्               उपवस्               उपवस् yes उप+वस्
+03         नि        वस्                निवस्                निवस् yes नि+वस्
+04        प्र        वस्               प्रवस्               प्रवस् yes प्र+वस्
+05        सम्        वस्               संवस्               संवस् yes सम्+वस्
+;
+;; Case 1308: L=33616, k1=वस्क्, k2=वस्क्, code=r, #upasargas=0, mw=वस्क् (same)
+;; Case 1309: L=33621, k1=वस्त, k2=वस्त, code=r, #upasargas=0, mw=वस्त् (diff)
+;; Case 1310: L=33658, k1=वह्, k2=वह्, code=r, #upasargas=2 (2/0), mw=वह् (same)
+01         उद्        वह्                उद्वह्                उद्वह् yes उद्+वह्
+02        अप        वह्               अपवह्               अपवह् yes अप+वह्
+;
+;; Case 1311: L=33711, k1=वा, k2=वा, code=r, #upasargas=1 (1/0), mw=वा (same)
+01        निर्         वा                निर्वा                निर्वा yes निर्+वा
+;
+;; Case 1312: L=33738, k1=वाक्ष्, k2=वाक्ष्, code=r, #upasargas=0, mw=वाङ्क्ष् (diff)
+;; Case 1313: L=33799, k1=वाछ्, k2=वाछ्, code=r, #upasargas=0, mw=वाञ्छ् (diff)
+;; Case 1314: L=33831, k1=वाड्, k2=वाड्, code=r, #upasargas=0, mw=वाड् (same)
+;; Case 1315: L=33851, k1=वात, k2=वात, code=r, #upasargas=0, mw=वात् (diff)
+;; Case 1316: L=33954, k1=वाध्, k2=वाध्, code=r, #upasargas=0, mw=वाध् (same)
+;; Case 1317: L=34164, k1=वावृत्, k2=वावृत्, code=r, #upasargas=0, mw=वावृत् (same)
+;; Case 1318: L=34167, k1=वाश्, k2=वाश्, code=r, #upasargas=0, mw=वाश् (same)
+;; Case 1319: L=34182, k1=वास, k2=वास, code=r, #upasargas=0, mw=वास् (diff)
+;; Case 1320: L=34238, k1=वाह, k2=वाह, code=r, #upasargas=0, mw=वाह् (diff)
+;; Case 1321: L=34450, k1=विच्, k2=विच्, code=r, #upasargas=0, mw=विच् (same)
+;; Case 1322: L=34493, k1=विच्छ्, k2=विच्छ्, code=r, #upasargas=0, mw=विछ् (diff)
+;; Case 1323: L=34505, k1=विज्, k2=विज्, code=r, #upasargas=1 (0/1), mw=विज् (same)
+01        उप        विज्               उपविज्               उपविज् no 
+;
+;; Case 1324: L=34569, k1=विट्, k2=विट्, code=r, #upasargas=0, mw=विट् (same)
+;; Case 1325: L=34587, k1=विड्, k2=विड्, code=r, #upasargas=0, mw=विड् (same)
+;; Case 1326: L=34643, k1=वित्त्, k2=वित्त्, code=r, #upasargas=0, mw=वित्त् (same)
+;; Case 1327: L=34656, k1=विथ्, k2=विथ्, code=r, #upasargas=0, mw=विथ् (same)
+;; Case 1328: L=34659, k1=विट्, k2=विट्, code=r, #upasargas=6 (0/6), mw=विट् (same)
+01         नि        विट्                निविट्                निविट् no 
+02        सम्        विट्               संविट्               संविट् no 
+03         वि        विट्                विविट्                विविट् no 
+04       विनि        विट्              विनिविट्              विनिविट् no 
+05      प्रति        विट्             प्रतिविट्             प्रतिविट् no 
+06       परि        विट्              परिविट्              परिविट् no 
+;
+;; Case 1329: L=34767, k1=विध्, k2=विध्, code=r, #upasargas=0, mw=विध् (same)
+;; Case 1330: L=34926, k1=विप, k2=विप, code=r, #upasargas=0, mw=विप् (diff)
+;; Case 1331: L=35276, k1=विल्, k2=विल्, code=r, #upasargas=0, mw=विल् (same)
+;; Case 1332: L=35443, k1=विश्, k2=विश्, code=r, #upasargas=10 (10/0), mw=विश् (same)
+01          आ        विश्                 आविश्                 आविश् yes आ+विश्
+02        प्र        विश्               प्रविश्               प्रविश् yes प्र+विश्
+03        उप        विश्               उपविश्               उपविश् yes उप+विश्
+04         नि        विश्                निविश्                निविश् yes नि+विश्
+05         नि        विश्                निविश्                निविश् yes नि+विश्
+06      अभिनि        विश्             अभिनिविश्             अभिनिविश् yes अभि+नि+विश्
+07        निर्        विश्               निर्विश्               निर्विश् yes निर्+विश्
+08       परि        विश्              परिविश्              परिविश् yes परि+विश्
+09        सम्        विश्               संविश्               संविश् yes सम्+विश्
+10      संनि        विश्             संनिविश्             संनिविश् yes सम्+नि+विश्
+;
+;; Case 1333: L=35613, k1=विष्, k2=विष्, code=r, #upasargas=0, mw=विष् (same)
+;; Case 1334: L=35728, k1=विष्क्, k2=विष्क्, code=r, #upasargas=0, mw=विष्क् (same)
+;; Case 1335: L=35779, k1=विस्, k2=विस्, code=r, #upasargas=0, mw=विस् (same)
+;; Case 1336: L=35900, k1=वी, k2=वी, code=r, #upasargas=0, mw=वी (same)
+;; Case 1337: L=35915, k1=वीज, k2=वीज, code=r, #upasargas=0, mw=वीज् (diff)
+;; Case 1338: L=35971, k1=वीभ, k2=वीभ, code=r, #upasargas=0, mw=वीभ् (diff)
+;; Case 1339: L=35972, k1=वीर्, k2=वीर्, code=r, #upasargas=0, mw=वीर् (same)
+;; Case 1340: L=36016, k1=वुग्, k2=वुग्, code=r, #upasargas=0, mw=वुङ्ग् (diff)
+;; Case 1341: L=36017, k1=वुट्, k2=वुट्, code=r, #upasargas=0, mw=वुण्ट् (diff)
+;; Case 1342: L=36018, k1=वुध्, k2=वुध्, code=r, #upasargas=0, mw=वुन्ध् (diff)
+;; Case 1343: L=36019, k1=वुस्, k2=वुस्, code=r, #upasargas=0, mw=?
+;; Case 1344: L=36020, k1=वूष्, k2=वूष्, code=r, #upasargas=0, mw=?
+;; Case 1345: L=36021, k1=वृ, k2=वृ, code=r, #upasargas=4 (4/0), mw=वृ (same)
+01        अप         वृ                अपवृ                अपवृ yes अप+वृ
+02         नि         वृ                 निवृ                 निवृ yes नि+वृ
+03        निर्         वृ                निर्वृ                निर्वृ yes निर्+वृ
+04         वि         वृ                 विवृ                 विवृ yes वि+वृ
+;
+;; Case 1346: L=36025, k1=वृक्, k2=वृक्, code=r, #upasargas=0, mw=वृक् (same)
+;; Case 1347: L=36034, k1=वृक्ष, k2=वृक्ष, code=r, #upasargas=0, mw=वृक्ष् (diff)
+;; Case 1348: L=36070, k1=वृच्, k2=वृच्, code=r, #upasargas=0, mw=?
+;; Case 1349: L=36071, k1=वृज्, k2=वृज्, code=r, #upasargas=0, mw=वृज् (same)
+;; Case 1350: L=36077, k1=वृण, k2=वृण, code=r, #upasargas=0, mw=वृण् (diff)
+;; Case 1351: L=36079, k1=वृत, k2=वृत, code=r, #upasargas=14 (14/0), mw=वृत् (diff)
+01        अति       वृत              अतिवृत               अतिवृत् yes अति+वृत्
+02        अनु       वृत              अनुवृत               अनुवृत् yes अनु+वृत्
+03        अप       वृत              अपवृत               अपवृत् yes अप+वृत्
+04          आ       वृत                आवृत                 आवृत् yes आ+वृत्
+05         नि       वृत               निवृत                निवृत् yes नि+वृत्
+06         नि       वृत               निवृत                निवृत् yes नि+वृत्
+07        निर्       वृत              निर्वृत               निर्वृत् yes निर्+वृत्
+08       परि       वृत             परिवृत              परिवृत् yes परि+वृत्
+09        प्र       वृत              प्रवृत               प्रवृत् yes प्र+वृत्
+10    प्रतिनि       वृत          प्रतिनिवृत           प्रतिनिवृत् yes प्रति+नि+वृत्
+11         वि       वृत               विवृत                विवृत् yes वि+वृत्
+12       विनि       वृत             विनिवृत              विनिवृत् yes वि+नि+वृत्
+13     विपरि       वृत           विपरिवृत            विपरिवृत् yes वि+परि+वृत्
+14     समभि       वृत           समभिवृत            समभिवृत् yes सम्+अभि+वृत्
+;
+;; Case 1352: L=36153, k1=वृध्, k2=वृध्, code=r, #upasargas=0, mw=वृध् (same)
+;; Case 1353: L=36166, k1=वृश्, k2=वृश्, code=r, #upasargas=0, mw=वृश् (same)
+;; Case 1354: L=36172, k1=वृष्, k2=वृष्, code=r, #upasargas=0, mw=वृष् (same)
+;; Case 1355: L=36223, k1=वृह्, k2=वृह्, code=r, #upasargas=0, mw=वृह् (same)
+;; Case 1356: L=36261, k1=वॄ, k2=वॄ, code=r, #upasargas=0, mw=वॄ (same)
+;; Case 1357: L=36262, k1=वे, k2=वे, code=r, #upasargas=0, mw=वे (same)
+;; Case 1358: L=36279, k1=वेण, k2=वेण, code=r, #upasargas=0, mw=वेण् (diff)
+;; Case 1359: L=36307, k1=वेथ, k2=वेथ, code=r, #upasargas=0, mw=वेथ् (diff)
+;; Case 1360: L=36381, k1=वेन्, k2=वेन्, code=r, #upasargas=0, mw=वेन् (same)
+;; Case 1361: L=36384, k1=वेप, k2=वेप, code=r, #upasargas=0, mw=वेप् (diff)
+;; Case 1362: L=36394, k1=वेल्, k2=वेल्, code=r, #upasargas=0, mw=वेल् (same)
+;; Case 1363: L=36401, k1=वेल्ल, k2=वेल्ल, code=r, #upasargas=0, mw=वेल्ल् (diff)
+;; Case 1364: L=36409, k1=वेवी, k2=वेवी, code=r, #upasargas=0, mw=वेवी (same)
+;; Case 1365: L=36433, k1=वेष्ट, k2=वेष्ट, code=r, #upasargas=0, mw=वेष्ट् (diff)
+;; Case 1366: L=36442, k1=वेस, k2=वेस, code=r, #upasargas=0, mw=वेस् (diff)
+;; Case 1367: L=36445, k1=वेह्, k2=वेह्, code=r, #upasargas=0, mw=वेह् (same)
+;; Case 1368: L=36447, k1=वेह्ल, k2=वेह्ल, code=r, #upasargas=0, mw=वेह्ल् (diff)
+;; Case 1369: L=36448, k1=वै, k2=वै, code=r, #upasargas=0, mw=वै (same)
+;; Case 1370: L=36661, k1=व्यच्, k2=व्यच्, code=r, #upasargas=0, mw=व्यच् (same)
+;; Case 1371: L=36690, k1=व्यथ्, k2=व्यथ्, code=r, #upasargas=0, mw=व्यथ् (same)
+;; Case 1372: L=36699, k1=व्यध्, k2=व्यध्, code=r, #upasargas=0, mw=व्यध् (same)
+;; Case 1373: L=36706, k1=व्यप्, k2=व्यप्, code=r, #upasargas=0, mw=व्यप् (same)
+;; Case 1374: L=36730, k1=व्यय्, k2=व्यय्, code=r, #upasargas=0, mw=व्यय् (same)
+;; Case 1375: L=36947, k1=व्युष्, k2=व्युष्, code=r, #upasargas=0, mw=व्युष् (same)
+;; Case 1376: L=36951, k1=व्युस्, k2=व्युस्, code=r, #upasargas=0, mw=?
+;; Case 1377: L=36963, k1=व्ये, k2=व्ये, code=r, #upasargas=0, mw=व्ये (same)
+;; Case 1378: L=36982, k1=व्रज्, k2=व्रज्, code=r, #upasargas=1 (1/0), mw=व्रज् (same)
+01       परि       व्रज्             परिव्रज्             परिव्रज् yes परि+व्रज्
+;
+;; Case 1379: L=36989, k1=व्रण्, k2=व्रण्, code=r, #upasargas=0, mw=व्रण् (same)
+;; Case 1380: L=37010, k1=व्रश्च, k2=व्रश्च, code=r, #upasargas=0, mw=व्रश्च् (diff)
+;; Case 1381: L=37019, k1=व्री, k2=व्री, code=r, #upasargas=0, mw=व्री (same)
+;; Case 1382: L=37020, k1=व्रीड, k2=व्रीड, code=r, #upasargas=0, mw=व्रीड् (diff)
+;; Case 1383: L=37026, k1=व्रीस्, k2=व्रीस्, code=r, #upasargas=0, mw=व्रीस् (same)
+;; Case 1384: L=37035, k1=व्रुड्, k2=व्रुड्, code=r, #upasargas=0, mw=व्रुड् (same)
+;; Case 1385: L=37036, k1=व्रूस्, k2=व्रूस्, code=r, #upasargas=0, mw=व्रूस् (same)
+;; Case 1386: L=37039, k1=व्ली, k2=व्ली, code=r, #upasargas=0, mw=व्ली (same)
+;; Case 1387: L=37040, k1=व्लेक्ष, k2=व्लेक्ष, code=r, #upasargas=0, mw=व्लेक्ष् (diff)
+;; Case 1388: L=37047, k1=शंस, k2=शंस, code=r, #upasargas=2 (2/0), mw=शंस् (diff)
+01          आ      शंस               आशंस                आशंस् yes आ+शंस्
+02        प्र      शंस             प्रशंस              प्रशंस् yes प्र+शंस्
+;
+;; Case 1389: L=37053, k1=शक, k2=शक, code=r, #upasargas=0, mw=शक् (diff)
+;; Case 1390: L=37182, k1=शच्, k2=शच्, code=r, #upasargas=0, mw=शच् (same)
+;; Case 1391: L=37185, k1=शट्, k2=शट्, code=r, #upasargas=0, mw=शट् (same)
+;; Case 1392: L=37189, k1=शठ्, k2=शठ्, code=r, #upasargas=0, mw=शठ् (same)
+;; Case 1393: L=37192, k1=शड्, k2=शड्, code=r, #upasargas=0, mw=शण्ड् (diff)
+;; Case 1394: L=37193, k1=शण्, k2=शण्, code=r, #upasargas=0, mw=शण् (same)
+;; Case 1395: L=37297, k1=शद्, k2=शद्, code=r, #upasargas=0, mw=शद् (same)
+;; Case 1396: L=37311, k1=शप्, k2=शप्, code=r, #upasargas=0, mw=शप् (same)
+;; Case 1397: L=37321, k1=शब्द, k2=शब्द, code=r, #upasargas=0, mw=शब्द् (diff)
+;; Case 1398: L=37345, k1=शम्, k2=शम्, code=r, #upasargas=0, mw=शम् (same)
+;; Case 1399: L=37365, k1=शम्ब, k2=शम्ब, code=r, #upasargas=0, mw=शम्ब् (diff)
+;; Case 1400: L=37482, k1=शर्घ, k2=शर्घ, code=r, #upasargas=0, mw=?
+;; Case 1401: L=37485, k1=शर्ब्ब, k2=शर्ब्ब, code=r, #upasargas=0, mw=शर्ब् (diff)
+;; Case 1402: L=37492, k1=शर्व्व, k2=शर्व्व, code=r, #upasargas=0, mw=शर्व् (diff)
+;; Case 1403: L=37498, k1=शल, k2=शल, code=r, #upasargas=0, mw=शल् (diff)
+;; Case 1404: L=37516, k1=शल्भ, k2=शल्भ, code=r, #upasargas=0, mw=शल्भ् (diff)
+;; Case 1405: L=37531, k1=शव्, k2=शव्, code=r, #upasargas=0, mw=शव् (same)
+;; Case 1406: L=37547, k1=शश्, k2=शश्, code=r, #upasargas=0, mw=शश् (same)
+;; Case 1407: L=37572, k1=शष्, k2=शष्, code=r, #upasargas=0, mw=शष् (same)
+;; Case 1408: L=37575, k1=शस्, k2=शस्, code=r, #upasargas=0, mw=शस् (same)
+;; Case 1409: L=37577, k1=शस्त, k2=शस्त, code=r, #upasargas=0, mw=?
+;; Case 1410: L=37655, k1=शाख्, k2=शाख्, code=r, #upasargas=0, mw=शाख् (same)
+;; Case 1411: L=37675, k1=शाड्, k2=शाड्, code=r, #upasargas=0, mw=शाड् (same)
+;; Case 1412: L=37696, k1=शान्, k2=शान्, code=r, #upasargas=0, mw=शान् (same)
+;; Case 1413: L=37721, k1=शान्त्व, k2=शान्त्व, code=r, #upasargas=0, mw=शान्त्व् (diff)
+;; Case 1414: L=37747, k1=शार्, k2=शार्, code=r, #upasargas=0, mw=शार् (same)
+;; Case 1415: L=37779, k1=शाल, k2=शाल, code=r, #upasargas=0, mw=शाल् (diff)
+;; Case 1416: L=37829, k1=शास्, k2=शास्, code=r, #upasargas=1 (1/0), mw=शास् (same)
+01          आ        शास्                 आशास्                 आशास् yes आ+शास्
+;
+;; Case 1417: L=37871, k1=शि, k2=शि, code=r, #upasargas=0, mw=शि (same)
+;; Case 1418: L=37879, k1=शिक्ष्, k2=शिक्ष्, code=r, #upasargas=0, mw=शिक्ष् (same)
+;; Case 1419: L=37889, k1=शिख, k2=शिख, code=r, #upasargas=0, mw=शिङ्ख् (diff)
+;; Case 1420: L=37922, k1=शिघ्, k2=शिघ्, code=r, #upasargas=0, mw=शिङ्घ् (diff)
+;; Case 1421: L=37932, k1=शिट्, k2=शिट्, code=r, #upasargas=0, mw=शिट् (same)
+;; Case 1422: L=38008, k1=शिल्, k2=शिल्, code=r, #upasargas=0, mw=शिल् (same)
+;; Case 1423: L=38112, k1=शिष्, k2=शिष्, code=r, #upasargas=1 (1/0), mw=शिष् (same)
+01         वि        शिष्                विशिष्                विशिष् yes वि+शिष्
+;
+;; Case 1424: L=38122, k1=शी, k2=शी, code=r, #upasargas=0, mw=शी (same)
+;; Case 1425: L=38124, k1=शीक, k2=शीक, code=r, #upasargas=0, mw=शीक् (diff)
+;; Case 1426: L=38188, k1=शीभ, k2=शीभ, code=r, #upasargas=0, mw=शीभ् (diff)
+;; Case 1427: L=38212, k1=शील, k2=शील, code=r, #upasargas=0, mw=शील् (diff)
+;; Case 1428: L=38226, k1=शुक्, k2=शुक्, code=r, #upasargas=0, mw=शुक् (same)
+;; Case 1429: L=38286, k1=शुच्, k2=शुच्, code=r, #upasargas=0, mw=शुच् (same)
+;; Case 1430: L=38298, k1=शुच्य्, k2=शुच्य्, code=r, #upasargas=0, mw=शुच्य् (same)
+;; Case 1431: L=38302, k1=शुण्, k2=शुण्, code=r, #upasargas=0, mw=?
+;; Case 1432: L=38335, k1=शुध्, k2=शुध्, code=r, #upasargas=0, mw=शुध् (same)
+;; Case 1433: L=38341, k1=शुन्ध्, k2=शुन्ध्, code=r, #upasargas=0, mw=शुन्ध् (same)
+;; Case 1434: L=38344, k1=शुभ्, k2=शुभ्, code=r, #upasargas=0, mw=शुभ् (same)
+;; Case 1435: L=38373, k1=शुम्भ, k2=शुम्भ, code=r, #upasargas=0, mw=शुम्भ् (diff)
+;; Case 1436: L=38378, k1=शुर्, k2=शुर्, code=r, #upasargas=0, mw=शूर् (diff)
+;; Case 1437: L=38380, k1=शुल्क, k2=शुल्क, code=r, #upasargas=0, mw=शुल्क् (diff)
+;; Case 1438: L=38385, k1=शुल्व्, k2=शुल्व्, code=r, #upasargas=0, mw=शुल्व् (same)
+;; Case 1439: L=38395, k1=शुष्, k2=शुष्, code=r, #upasargas=0, mw=शुष् (same)
+;; Case 1440: L=38466, k1=शूर्प, k2=शूर्प, code=r, #upasargas=0, mw=शूर्प् (diff)
+;; Case 1441: L=38478, k1=शूल्, k2=शूल्, code=r, #upasargas=0, mw=शूल् (same)
+;; Case 1442: L=38498, k1=शूष्, k2=शूष्, code=r, #upasargas=0, mw=शूष् (same)
+;; Case 1443: L=38529, k1=शृध्, k2=शृध्, code=r, #upasargas=0, mw=शृध् (same)
+;; Case 1444: L=38531, k1=शॄ, k2=शॄ, code=r, #upasargas=0, mw=शॄ (same)
+;; Case 1445: L=38543, k1=शेल्, k2=शेल्, code=r, #upasargas=0, mw=शेल् (same)
+;; Case 1446: L=38561, k1=शै, k2=शै, code=r, #upasargas=0, mw=शै (same)
+;; Case 1447: L=38602, k1=शो, k2=शो, code=r, #upasargas=0, mw=शो (same)
+;; Case 1448: L=38630, k1=शोण्, k2=शोण्, code=r, #upasargas=0, mw=शोण् (same)
+;; Case 1449: L=38677, k1=शौट, k2=शौट, code=r, #upasargas=0, mw=शौट् (diff)
+;; Case 1450: L=38680, k1=शौड, k2=शौड, code=r, #upasargas=0, mw=शौड् (diff)
+;; Case 1451: L=38705, k1=श्चुत, k2=श्चुत, code=r, #upasargas=0, mw=श्चुत् (diff)
+;; Case 1452: L=38707, k1=श्च्युत्, k2=श्च्युत्, code=r, #upasargas=0, mw=श्च्युत् (same)
+;; Case 1453: L=38719, k1=श्मील, k2=श्मील, code=r, #upasargas=0, mw=श्मील् (diff)
+;; Case 1454: L=38749, k1=श्यै, k2=श्यै, code=r, #upasargas=0, mw=श्यै (same)
+;; Case 1455: L=38752, k1=श्रक, k2=श्रक, code=r, #upasargas=0, mw=श्रङ्क् (diff)
+;; Case 1456: L=38753, k1=श्रग, k2=श्रग, code=r, #upasargas=0, mw=श्रङ्ग् (diff)
+;; Case 1457: L=38754, k1=श्रण, k2=श्रण, code=r, #upasargas=0, mw=श्रण् (diff)
+;; Case 1458: L=38756, k1=श्रथ्, k2=श्रथ्, code=r, #upasargas=0, mw=श्रथ् (same)
+;; Case 1459: L=38767, k1=श्रन्थ्, k2=श्रन्थ्, code=r, #upasargas=0, mw=श्रन्थ् (same)
+;; Case 1460: L=38773, k1=श्रम्, k2=श्रम्, code=r, #upasargas=0, mw=श्रम् (same)
+;; Case 1461: L=38782, k1=श्रम्भ, k2=श्रम्भ, code=r, #upasargas=0, mw=श्रम्भ् (diff)
+;; Case 1462: L=38798, k1=श्रा, k2=श्रा, code=r, #upasargas=0, mw=श्रा (same)
+;; Case 1463: L=38814, k1=श्राम्, k2=श्राम्, code=r, #upasargas=0, mw=श्राम् (same)
+;; Case 1464: L=38829, k1=श्रि, k2=श्रि, code=r, #upasargas=4 (2/2), mw=श्रि (same)
+01          आ        श्रि                 आश्रि                 आश्रि yes आ+श्रि
+02        अप        श्रि               अपश्रि               अपश्रि yes अप+श्रि
+03      उत्सम्        श्रि             उत्संश्रि             उत्संश्रि no 
+04      व्यप        श्रि             व्यपश्रि             व्यपश्रि no 
+;
+;; Case 1465: L=38833, k1=श्रिष्, k2=श्रिष्, code=r, #upasargas=0, mw=श्रिष् (same)
+;; Case 1466: L=38834, k1=श्री, k2=श्री, code=r, #upasargas=0, mw=श्री (same)
+;; Case 1467: L=38888, k1=श्रु, k2=श्रु, code=r, #upasargas=3 (3/0), mw=श्रु (same)
+01      प्रति        श्रु             प्रतिश्रु             प्रतिश्रु yes प्रति+श्रु
+02        सम्        श्रु               संश्रु               संश्रु yes सम्+श्रु
+03         वि        श्रु                विश्रु                विश्रु yes वि+श्रु
+;
+;; Case 1468: L=38940, k1=श्रोण, k2=श्रोण, code=r, #upasargas=0, mw=श्रोण् (diff)
+;; Case 1469: L=38961, k1=श्लक्, k2=श्लक्, code=r, #upasargas=0, mw=श्लङ्क् (diff)
+;; Case 1470: L=38963, k1=श्लग्, k2=श्लग्, code=r, #upasargas=0, mw=श्लङ्ग् (diff)
+;; Case 1471: L=38964, k1=श्लथ, k2=श्लथ, code=r, #upasargas=0, mw=श्लथ् (diff)
+;; Case 1472: L=38966, k1=श्लाख्, k2=श्लाख्, code=r, #upasargas=0, mw=श्लाख् (same)
+;; Case 1473: L=38967, k1=श्लाघ, k2=श्लाघ, code=r, #upasargas=0, mw=श्लाघ् (diff)
+;; Case 1474: L=38972, k1=श्लिष्, k2=श्लिष्, code=r, #upasargas=0, mw=श्लिष् (same)
+;; Case 1475: L=38989, k1=श्लोक, k2=श्लोक, code=r, #upasargas=0, mw=श्लोक् (diff)
+;; Case 1476: L=38992, k1=श्लोण, k2=श्लोण, code=r, #upasargas=0, mw=श्लोण् (diff)
+;; Case 1477: L=38994, k1=श्वक, k2=श्वक, code=r, #upasargas=0, mw=श्वङ्क् (diff)
+;; Case 1478: L=38996, k1=श्वग, k2=श्वग, code=r, #upasargas=0, mw=श्वङ्ग् (diff)
+;; Case 1479: L=39000, k1=श्वच, k2=श्वच, code=r, #upasargas=0, mw=श्वच् (diff)
+;; Case 1480: L=39001, k1=श्वज, k2=श्वज, code=r, #upasargas=0, mw=श्वज् (diff)
+;; Case 1481: L=39002, k1=श्वठ्, k2=श्वठ्, code=r, #upasargas=0, mw=श्वठ् (same)
+;; Case 1482: L=39012, k1=श्वभ्र, k2=श्वभ्र, code=r, #upasargas=0, mw=श्वभ्र् (diff)
+;; Case 1483: L=39016, k1=श्वर्त्त, k2=श्वर्त्त, code=r, #upasargas=0, mw=श्वर्त् (diff)
+;; Case 1484: L=39017, k1=श्वल्, k2=श्वल्, code=r, #upasargas=0, mw=श्वल् (same)
+;; Case 1485: L=39018, k1=श्वल्क, k2=श्वल्क, code=r, #upasargas=0, mw=श्वल्क् (diff)
+;; Case 1486: L=39019, k1=श्वल्ल, k2=श्वल्ल, code=r, #upasargas=0, mw=श्वल्ल् (diff)
+;; Case 1487: L=39028, k1=श्वस, k2=श्वस, code=r, #upasargas=3 (3/0), mw=श्वस् (diff)
+01         उद्      श्वस              उच्छ्वस               उच्छ्वस् yes उद्+श्वस्
+02        निर्      श्वस             निर्श्वस              निःश्वस् yes निस्+श्वस्
+03         वि      श्वस              विश्वस               विश्वस् yes वि+श्वस्
+;
+;; Case 1488: L=39051, k1=श्वि, k2=श्वि, code=r, #upasargas=0, mw=श्वि (same)
+;; Case 1489: L=39052, k1=श्वित्, k2=श्वित्, code=r, #upasargas=0, mw=श्वित् (same)
+;; Case 1490: L=39056, k1=श्विद, k2=श्विद, code=r, #upasargas=0, mw=श्विन्द् (diff)
+;; Case 1491: L=39057, k1=श्वॄ, k2=श्वॄ, code=r, #upasargas=0, mw=?
+;; Case 1492: L=39113, k1=षग, k2=षग, code=r, #upasargas=0, mw=षग् (diff)
+;; Case 1493: L=39114, k1=षघ, k2=षघ, code=r, #upasargas=0, mw=षघ् (diff)
+;; Case 1494: L=39115, k1=षच, k2=षच, code=r, #upasargas=0, mw=षच् (diff)
+;; Case 1495: L=39116, k1=षञ्च्, k2=षञ्च्, code=r, #upasargas=0, mw=सञ्च् (diff)
+;; Case 1496: L=39117, k1=षञ्ज, k2=षञ्ज, code=r, #upasargas=3 (3/0), mw=सञ्ज् (diff)
+01        अव      षञ्ज             अवषञ्ज              अवसञ्ज् yes अव+सञ्ज्
+02        व्या      षञ्ज             व्याषञ्ज              व्यासञ्ज् yes वि+आ+सञ्ज्
+03          आ      षञ्ज               आषञ्ज                आसञ्ज् yes आ+सञ्ज्
+;
+;; Case 1497: L=39118, k1=षट्, k2=षट्, code=r, #upasargas=0, mw=सट् (diff)
+;; Case 1498: L=39124, k1=षट्ट, k2=षट्ट, code=r, #upasargas=0, mw=षट्ट् (diff)
+;; Case 1499: L=39153, k1=षण्, k2=षण्, code=r, #upasargas=0, mw=सन् (diff)
+;; Case 1500: L=39161, k1=षद्, k2=षद्, code=r, #upasargas=3 (3/0), mw=सद् (diff)
+01          आ        षद्                 आषद्                 आसद् yes आ+सद्
+02         नि        षद्                निषद्                निषद् yes नि+सद्
+03        प्र        षद्               प्रषद्               प्रसद् yes प्र+सद्
+;
+;; Case 1501: L=39162, k1=षध्, k2=षध्, code=r, #upasargas=0, mw=?
+;; Case 1502: L=39163, k1=षन्, k2=षन्, code=r, #upasargas=0, mw=सन् (diff)
+;; Case 1503: L=39164, k1=षप्, k2=षप्, code=r, #upasargas=0, mw=सप् (diff)
+;; Case 1504: L=39165, k1=षम्, k2=षम्, code=r, #upasargas=0, mw=सम् (diff)
+;; Case 1505: L=39166, k1=षम्ब, k2=षम्ब, code=r, #upasargas=0, mw=सम्ब् (diff)
+;; Case 1506: L=39167, k1=षर्ज्ज, k2=षर्ज्ज, code=r, #upasargas=0, mw=सर्ज् (diff)
+;; Case 1507: L=39168, k1=षर्ध, k2=षर्ध, code=r, #upasargas=0, mw=?
+;; Case 1508: L=39169, k1=षर्व, k2=षर्व, code=r, #upasargas=0, mw=सर्व् (diff)
+;; Case 1509: L=39171, k1=षल्, k2=षल्, code=r, #upasargas=0, mw=सल् (diff)
+;; Case 1510: L=39186, k1=षस्, k2=षस्, code=r, #upasargas=0, mw=सस् (diff)
+;; Case 1511: L=39187, k1=षस्ज, k2=षस्ज, code=r, #upasargas=0, mw=सज्ज् (diff)
+;; Case 1512: L=39188, k1=षस्ति, k2=षस्ति, code=r, #upasargas=0, mw=सस् (diff)
+;; Case 1513: L=39189, k1=षह, k2=षह, code=r, #upasargas=3 (3/0), mw=सह् (diff)
+01         उद्       षह               उद्षह                उत्सह् yes उद्+सह्
+02        प्र       षह              प्रषह               प्रसह् yes प्र+सह्
+03         वि       षह               विषह                विषह् yes वि+सह्
+;
+;; Case 1514: L=39197, k1=षाध्, k2=षाध्, code=r, #upasargas=0, mw=साध् (diff)
+;; Case 1515: L=39198, k1=षान्त्व्, k2=षान्त्व्, code=r, #upasargas=0, mw=सान्त्व् (diff)
+;; Case 1516: L=39200, k1=षि, k2=षि, code=r, #upasargas=0, mw=सि (diff)
+;; Case 1517: L=39201, k1=षिच्, k2=षिच्, code=r, #upasargas=0, mw=सिच् (diff)
+;; Case 1518: L=39202, k1=षिट्, k2=षिट्, code=r, #upasargas=0, mw=सिट् (diff)
+;; Case 1519: L=39204, k1=षिध्, k2=षिध्, code=r, #upasargas=2 (2/0), mw=सिध् (diff)
+01         नि        षिध्                निषिध्                निषिध् yes नि+सिध्
+02      प्रति        षिध्             प्रतिषिध्             प्रतिषिध् yes प्रति+सिध्
+;
+;; Case 1520: L=39205, k1=षिभ्, k2=षिभ्, code=r, #upasargas=0, mw=सिभ् (diff)
+;; Case 1521: L=39206, k1=षिम्भ्, k2=षिम्भ्, code=r, #upasargas=0, mw=सिम्भ् (diff)
+;; Case 1522: L=39207, k1=षिल्, k2=षिल्, code=r, #upasargas=0, mw=सिल् (diff)
+;; Case 1523: L=39208, k1=षिव्, k2=षिव्, code=r, #upasargas=0, mw=सिव् (diff)
+;; Case 1524: L=39209, k1=षु, k2=षु, code=r, #upasargas=2 (2/0), mw=सु (diff)
+01        अभि         षु                अभिषु                अभिषु yes अभि+सु
+02        प्र         षु                प्रषु                प्रसु yes प्र+सु
+;
+;; Case 1525: L=39210, k1=षुट्ट, k2=षुट्ट, code=r, #upasargas=0, mw=सुट्ट् (diff)
+;; Case 1526: L=39211, k1=षुभ्, k2=षुभ्, code=r, #upasargas=0, mw=सुभ् (diff)
+;; Case 1527: L=39212, k1=षुम्भ, k2=षुम्भ, code=r, #upasargas=0, mw=सुम्भ् (diff)
+;; Case 1528: L=39213, k1=षुर्, k2=षुर्, code=r, #upasargas=0, mw=सुर् (diff)
+;; Case 1529: L=39214, k1=षुह, k2=षुह, code=r, #upasargas=0, mw=सुह् (diff)
+;; Case 1530: L=39215, k1=षू, k2=षू, code=r, #upasargas=0, mw=सू (diff)
+;; Case 1531: L=39217, k1=षूद्, k2=षूद्, code=r, #upasargas=0, mw=सूद् (diff)
+;; Case 1532: L=39218, k1=षूर्, k2=षूर्, code=r, #upasargas=0, mw=सूर् (diff)
+;; Case 1533: L=39219, k1=षूर्क्ष, k2=षूर्क्ष, code=r, #upasargas=0, mw=सूर्क्ष् (diff)
+;; Case 1534: L=39220, k1=षूर्क्ष्य, k2=षूर्क्ष्य, code=r, #upasargas=0, mw=सूर्क्ष्य् (diff)
+;; Case 1535: L=39221, k1=षूष्, k2=षूष्, code=r, #upasargas=0, mw=सूष् (diff)
+;; Case 1536: L=39222, k1=षृभ्, k2=षृभ्, code=r, #upasargas=0, mw=सृभ् (diff)
+;; Case 1537: L=39223, k1=षृम्भ्, k2=षृम्भ्, code=r, #upasargas=0, mw=सृम्भ् (diff)
+;; Case 1538: L=39224, k1=षेक, k2=षेक, code=r, #upasargas=0, mw=सेक् (diff)
+;; Case 1539: L=39225, k1=षेल्, k2=षेल्, code=r, #upasargas=0, mw=सेल् (diff)
+;; Case 1540: L=39226, k1=षेव्, k2=षेव्, code=r, #upasargas=0, mw=सेव् (diff)
+;; Case 1541: L=39227, k1=षै, k2=षै, code=r, #upasargas=0, mw=सै (diff)
+;; Case 1542: L=39228, k1=षो, k2=षो, code=r, #upasargas=0, mw=सो (diff)
+;; Case 1543: L=39241, k1=ष्टक, k2=ष्टक, code=r, #upasargas=0, mw=स्तक् (diff)
+;; Case 1544: L=39242, k1=ष्टग्, k2=ष्टग्, code=r, #upasargas=0, mw=?
+;; Case 1545: L=39243, k1=ष्टन्, k2=ष्टन्, code=r, #upasargas=0, mw=स्तन् (diff)
+;; Case 1546: L=39244, k1=ष्टभ्, k2=ष्टभ्, code=r, #upasargas=0, mw=स्तम्भ् (diff)
+;; Case 1547: L=39245, k1=ष्टम्, k2=ष्टम्, code=r, #upasargas=0, mw=स्तम् (diff)
+;; Case 1548: L=39246, k1=ष्टिध्, k2=ष्टिध्, code=r, #upasargas=0, mw=?
+;; Case 1549: L=39247, k1=ष्टिप्, k2=ष्टिप्, code=r, #upasargas=0, mw=स्तिप् (diff)
+;; Case 1550: L=39248, k1=ष्टिम्, k2=ष्टिम्, code=r, #upasargas=0, mw=स्तिम् (diff)
+;; Case 1551: L=39249, k1=ष्टीम्, k2=ष्टीम्, code=r, #upasargas=0, mw=स्तीम् (diff)
+;; Case 1552: L=39250, k1=ष्टु, k2=ष्टु, code=r, #upasargas=0, mw=स्तु (diff)
+;; Case 1553: L=39251, k1=ष्टुच्, k2=ष्टुच्, code=r, #upasargas=0, mw=स्तुच् (diff)
+;; Case 1554: L=39252, k1=ष्टुप्, k2=ष्टुप्, code=r, #upasargas=0, mw=?
+;; Case 1555: L=39253, k1=ष्टुभ्, k2=ष्टुभ्, code=r, #upasargas=0, mw=स्तुभ् (diff)
+;; Case 1556: L=39254, k1=ष्टूप, k2=ष्टूप, code=r, #upasargas=0, mw=स्तूप् (diff)
+;; Case 1557: L=39255, k1=ष्टृक्ष, k2=ष्टृक्ष,, code=r, #upasargas=0, mw=स्तृक्ष् (diff)
+;; Case 1558: L=39256, k1=ष्टृह्, k2=ष्टृह्, code=r, #upasargas=0, mw=?
+;; Case 1559: L=39257, k1=ष्टृह, k2=ष्टृह, code=r, #upasargas=0, mw=स्तृह् (diff)
+;; Case 1560: L=39258, k1=ष्टेप्, k2=ष्टेप्, code=r, #upasargas=0, mw=स्तेप् (diff)
+;; Case 1561: L=39259, k1=ष्टै, k2=ष्टै, code=r, #upasargas=0, mw=स्तै (diff)
+;; Case 1562: L=39261, k1=ष्ट्यै, k2=ष्ट्यै, code=r, #upasargas=0, mw=स्त्यै (diff)
+;; Case 1563: L=39262, k1=ष्ठग्, k2=ष्ठग्, code=r, #upasargas=0, mw=स्थग् (diff)
+;; Case 1564: L=39263, k1=ष्ठल्, k2=ष्ठल्, code=r, #upasargas=0, mw=स्थल् (diff)
+;; Case 1565: L=39264, k1=ष्ठस, k2=ष्ठस, code=r, #upasargas=0, mw=?
+;; Case 1566: L=39265, k1=ष्ठा, k2=ष्ठा, code=r, #upasargas=14 (14/0), mw=स्था (diff)
+01        अधि        ष्ठा               अधिष्ठा               अधिष्ठा yes अधि+स्था
+02        अव        ष्ठा               अवष्ठा               अवस्था yes अव+स्था
+03          आ        ष्ठा                 आष्ठा                 आस्था yes आ+स्था
+04         उद्        ष्ठा                उद्ष्ठा                 उत्था yes उद्+स्था
+05        उप        ष्ठा               उपष्ठा               उपस्था yes उप+स्था
+06         नि        ष्ठा                निष्ठा                निष्ठा yes नि+स्था
+07    पर्यव        ष्ठा           पर्यवष्ठा           पर्यवस्था yes परि+अव+स्था
+08        प्र        ष्ठा               प्रष्ठा               प्रस्था yes प्र+स्था
+09       प्रोत्        ष्ठा              प्रोत्ष्ठा               प्रोत्था yes प्र+उद्+स्था
+10      प्रति        ष्ठा             प्रतिष्ठा             प्रतिष्ठा yes प्रति+स्था
+11         वि        ष्ठा                विष्ठा                विष्ठा yes वि+स्था
+12      व्यव        ष्ठा             व्यवष्ठा             व्यवस्था yes वि+अव+स्था
+13        सम्        ष्ठा               सम्ष्ठा               संस्था yes सम्+स्था
+14       समा        ष्ठा              समाष्ठा              समास्था yes सम्+आ+स्था
+;
+;; Case 1567: L=39266, k1=ष्ठिव्, k2=ष्ठिव्, code=r, #upasargas=0, mw=ष्ठिव् (same)
+;; Case 1568: L=39267, k1=ष्ठीव, k2=ष्ठीव, code=r, #upasargas=0, mw=ष्ठीव् (diff)
+;; Case 1569: L=39270, k1=ष्णस, k2=ष्णस, code=r, #upasargas=0, mw=स्नस् (diff)
+;; Case 1570: L=39271, k1=ष्णा, k2=ष्णा, code=r, #upasargas=0, mw=स्ना (diff)
+;; Case 1571: L=39272, k1=ष्णिह्, k2=ष्णिह्, code=r, #upasargas=0, mw=स्निह् (diff)
+;; Case 1572: L=39273, k1=ष्णु, k2=ष्णु, code=r, #upasargas=0, mw=स्नु (diff)
+;; Case 1573: L=39274, k1=ष्णुच्, k2=ष्णुच्, code=r, #upasargas=0, mw=स्नुच् (diff)
+;; Case 1574: L=39275, k1=ष्णुस्, k2=ष्णुस्, code=r, #upasargas=0, mw=स्नुस् (diff)
+;; Case 1575: L=39276, k1=ष्णुह्, k2=ष्णुह्, code=r, #upasargas=0, mw=स्नुह् (diff)
+;; Case 1576: L=39277, k1=ष्णै, k2=ष्णै, code=r, #upasargas=0, mw=स्नै (diff)
+;; Case 1577: L=39278, k1=ष्मि, k2=ष्मि, code=r, #upasargas=1 (1/0), mw=स्मि (diff)
+01         वि        ष्मि                विष्मि                विस्मि yes वि+स्मि
+;
+;; Case 1578: L=39279, k1=ष्वक्क्, k2=ष्वक्क्, code=r, #upasargas=0, mw=ष्वक्क् (same)
+;; Case 1579: L=39280, k1=ष्वञ्ज्, k2=ष्वञ्ज्, code=r, #upasargas=0, mw=स्वञ्ज् (diff)
+;; Case 1580: L=39281, k1=ष्वद्, k2=ष्वद्, code=r, #upasargas=0, mw=स्वद् (diff)
+;; Case 1581: L=39282, k1=ष्वप्, k2=ष्वप्, code=r, #upasargas=0, mw=स्वप् (diff)
+;; Case 1582: L=39283, k1=ष्वर्त्त, k2=ष्वर्त्त, code=r, #upasargas=0, mw=स्वर्त् (diff)
+;; Case 1583: L=39284, k1=ष्वष्क्, k2=ष्वष्क्, code=r, #upasargas=0, mw=ष्वष्क् (same)
+;; Case 1584: L=39285, k1=ष्विद्, k2=ष्विद्, code=r, #upasargas=0, mw=स्विद् (diff)
+;; Case 1585: L=39559, k1=सग्, k2=सग्, code=r, #upasargas=0, mw=सग् (same)
+;; Case 1586: L=39568, k1=सघ्, k2=सघ्, code=r, #upasargas=0, mw=सघ् (same)
+;; Case 1587: L=39604, k1=सङ्केत, k2=सङ्केत, code=r, #upasargas=0, mw=संकेतय (diff)
+;; Case 1588: L=39654, k1=सङ्ग्राम, k2=सङ्ग्राम, code=r, #upasargas=0, mw=संग्राम् (diff)
+;; Case 1589: L=39727, k1=सञ्ज, k2=सञ्ज, code=r, #upasargas=0, mw=सञ्ज् (diff)
+;; Case 1590: L=39751, k1=सट, k2=सट, code=r, #upasargas=0, mw=सट् (diff)
+;; Case 1591: L=39756, k1=सट्ट, k2=सट्ट, code=r, #upasargas=0, mw=सट्ट् (diff)
+;; Case 1592: L=39758, k1=सठ, k2=सठ, code=r, #upasargas=0, mw=सठ् (diff)
+;; Case 1593: L=39785, k1=सत्र, k2=सत्र, code=r, #upasargas=0, mw=सत्र् (diff)
+;; Case 1594: L=40661, k1=सम्ब, k2=सम्ब, code=r, #upasargas=0, mw=सम्ब् (diff)
+;; Case 1595: L=40851, k1=सर्ब्ब, k2=सर्ब्ब, code=r, #upasargas=0, mw=सर्ब् (diff)
+;; Case 1596: L=41053, k1=सस्, k2=सस्, code=r, #upasargas=0, mw=सस् (same)
+;; Case 1597: L=41255, k1=साध्, k2=साध्, code=r, #upasargas=0, mw=साध् (same)
+;; Case 1598: L=41318, k1=सान्त्व, k2=सान्त्व, code=r, #upasargas=0, mw=सान्त्व् (diff)
+;; Case 1599: L=41345, k1=साम, k2=साम, code=r, #upasargas=0, mw=साम् (diff)
+;; Case 1600: L=41382, k1=साम्ब, k2=साम्ब, code=r, #upasargas=0, mw=साम्ब् (diff)
+;; Case 1601: L=41729, k1=सु, k2=सु,, code=r, #upasargas=0, mw=सु (same)
+;; Case 1602: L=41847, k1=सुट्ट, k2=सुट्ट, code=r, #upasargas=0, mw=सुट्ट् (diff)
+;; Case 1603: L=42074, k1=सुर, k2=सुर, code=r, #upasargas=0, mw=सुर् (diff)
+;; Case 1604: L=42338, k1=सूच्, k2=सूच्, code=r, #upasargas=0, mw=सूच् (same)
+;; Case 1605: L=42380, k1=सूत्र, k2=सूत्र, code=r, #upasargas=0, mw=सूत्र् (diff)
+;; Case 1606: L=42422, k1=सूर, k2=सूर, code=r, #upasargas=0, mw=सूर् (diff)
+;; Case 1607: L=42430, k1=सूर्क्ष्य, k2=सूर्क्ष्य, code=r, #upasargas=0, mw=सूर्क्ष्य् (diff)
+;; Case 1608: L=42465, k1=सूष, k2=सूष, code=r, #upasargas=0, mw=सूष् (diff)
+;; Case 1609: L=42466, k1=सृ, k2=सृ, code=r, #upasargas=7 (7/0), mw=सृ (same)
+01        अनु         सृ                अनुसृ                अनुसृ yes अनु+सृ
+02        अप         सृ                अपसृ                अपसृ yes अप+सृ
+03        अभि         सृ                अभिसृ                अभिसृ yes अभि+सृ
+04        उप         सृ                उपसृ                उपसृ yes उप+सृ
+05        निर्         सृ                निर्सृ                निःसृ yes निस्+सृ
+06        प्र         सृ                प्रसृ                प्रसृ yes प्र+सृ
+07         वि         सृ                 विसृ                 विसृ yes वि+सृ
+;
+;; Case 1610: L=42473, k1=सृज्, k2=सृज्, code=r, #upasargas=3 (2/1), mw=सृज् (same)
+01         उद्        सृज्                उत्सृज्                उत्सृज् yes उद्+सृज्
+02        सम्        सृज्               संसृज्               संसृज् yes सम्+सृज्
+03         नि        सृज्                निसृज्                निसृज् no 
+;
+;; Case 1611: L=42484, k1=सृप्, k2=सृप्, code=r, #upasargas=1 (1/0), mw=सृप् (same)
+01        अप        सृप्               अपसृप्               अपसृप् yes अप+सृप्
+;
+;; Case 1612: L=42494, k1=सॄ, k2=सॄ, code=r, #upasargas=0, mw=सॄ (same)
+;; Case 1613: L=42495, k1=सेक, k2=सेक, code=r, #upasargas=0, mw=सेक् (diff)
+;; Case 1614: L=42522, k1=सेल्, k2=सेल्, code=r, #upasargas=0, mw=सेल् (same)
+;; Case 1615: L=42524, k1=सेव, k2=सेव, code=r, #upasargas=0, mw=सेव् (diff)
+;; Case 1616: L=42715, k1=स्कद, k2=स्कद, code=r, #upasargas=0, mw=स्कन्द् (diff)
+;; Case 1617: L=42716, k1=स्कन्द, k2=स्कन्द, code=r, #upasargas=2 (2/0), mw=स्कन्द् (diff)
+01        अव     स्कन्द            अवस्कन्द             अवस्कन्द् yes अव+स्कन्द्
+02          आ     स्कन्द              आस्कन्द               आस्कन्द् yes आ+स्कन्द्
+;
+;; Case 1618: L=42741, k1=स्कभ्, k2=स्कभ्, code=r, #upasargas=0, mw=स्कभ् (same)
+;; Case 1619: L=42742, k1=स्कु, k2=स्कु, code=r, #upasargas=0, mw=स्कु (same)
+;; Case 1620: L=42743, k1=स्कुद्, k2=स्कुद्, code=r, #upasargas=0, mw=स्कुन्द् (diff)
+;; Case 1621: L=42744, k1=स्कुम्भ, k2=स्कुम्भ, code=r, #upasargas=0, mw=स्कुम्भ् (diff)
+;; Case 1622: L=42745, k1=स्खद्, k2=स्खद्, code=r, #upasargas=0, mw=स्खद् (same)
+;; Case 1623: L=42747, k1=स्खल्, k2=स्खल्, code=r, #upasargas=0, mw=स्खल् (same)
+;; Case 1624: L=42752, k1=स्तन, k2=स्तन, code=r, #upasargas=0, mw=स्तन् (diff)
+;; Case 1625: L=42787, k1=स्तम्भ, k2=स्तम्भ, code=r, #upasargas=0, mw=स्तम्भ् (diff)
+;; Case 1626: L=42812, k1=स्तुम्भ्, k2=स्तुम्भ्, code=r, #upasargas=0, mw=स्तुम्भ् (same)
+;; Case 1627: L=42814, k1=स्तूप्, k2=स्तूप्, code=r, #upasargas=0, mw=स्तूप् (same)
+;; Case 1628: L=42817, k1=स्तृंह, k2=स्तृंह, code=r, #upasargas=0, mw=स्तृह् (diff)
+;; Case 1629: L=42818, k1=स्तृ, k2=स्तृ, code=r, #upasargas=0, mw=स्तृ (same)
+;; Case 1630: L=42819, k1=स्तृक्ष, k2=स्तृक्ष, code=r, #upasargas=0, mw=स्तृक्ष् (diff)
+;; Case 1631: L=42820, k1=स्तृह, k2=स्तृह, code=r, #upasargas=0, mw=स्तृह् (diff)
+;; Case 1632: L=42821, k1=स्तॄ, k2=स्तॄ, code=r, #upasargas=0, mw=स्तॄ (same)
+;; Case 1633: L=42822, k1=स्तॄह्, k2=स्तॄह्, code=r, #upasargas=0, mw=स्तॄह् (same)
+;; Case 1634: L=42823, k1=स्तेन, k2=स्तेन, code=r, #upasargas=0, mw=स्तेन् (diff)
+;; Case 1635: L=42825, k1=स्तेप, k2=स्तेप, code=r, #upasargas=0, mw=स्तेप् (diff)
+;; Case 1636: L=42838, k1=स्तोम्, k2=स्तोम्, code=r, #upasargas=0, mw=स्तोम् (same)
+;; Case 1637: L=42843, k1=स्त्यै, k2=स्त्यै, code=r, #upasargas=0, mw=स्त्यै (same)
+;; Case 1638: L=42887, k1=स्थग्, k2=स्थग्, code=r, #upasargas=0, mw=स्थग् (same)
+;; Case 1639: L=42898, k1=स्थल, k2=स्थल, code=r, #upasargas=0, mw=स्थल् (diff)
+;; Case 1640: L=42981, k1=स्थुड्, k2=स्थुड्, code=r, #upasargas=0, mw=स्थुड् (same)
+;; Case 1641: L=42986, k1=स्थूल, k2=स्थूल, code=r, #upasargas=0, mw=स्थूल् (diff)
+;; Case 1642: L=43055, k1=स्निट, k2=स्निट, code=r, #upasargas=0, mw=स्निट् (diff)
+;; Case 1643: L=43083, k1=स्पद्, k2=स्पद्, code=r, #upasargas=0, mw=स्पन्द् (diff)
+;; Case 1644: L=43088, k1=स्पर्द्ध, k2=स्पर्द्ध, code=r, #upasargas=0, mw=स्पर्ध् (diff)
+;; Case 1645: L=43107, k1=स्पश, k2=स्पश, code=r, #upasargas=0, mw=स्पश् (diff)
+;; Case 1646: L=43114, k1=स्पृ, k2=स्पृ, code=r, #upasargas=0, mw=स्पृ (same)
+;; Case 1647: L=43116, k1=स्पृश्, k2=स्पृश्, code=r, #upasargas=1 (1/0), mw=स्पृश् (same)
+01        उप       स्पृश्              उपस्पृश्              उपस्पृश् yes उप+स्पृश्
+;
+;; Case 1648: L=43125, k1=स्पृह, k2=स्पृह, code=r, #upasargas=0, mw=स्पृह् (diff)
+;; Case 1649: L=43133, k1=स्फट, k2=स्फट, code=r, #upasargas=0, mw=स्फट् (diff)
+;; Case 1650: L=43141, k1=स्फड, k2=स्फड, code=r, #upasargas=0, mw=स्फण्ड् (diff)
+;; Case 1651: L=43142, k1=स्फर्, k2=स्फर्, code=r, #upasargas=0, mw=स्फर् (same)
+;; Case 1652: L=43144, k1=स्फल, k2=स्फल, code=r, #upasargas=0, mw=स्फल् (diff)
+;; Case 1653: L=43151, k1=स्फाय्, k2=स्फाय्, code=r, #upasargas=0, mw=स्फाय् (same)
+;; Case 1654: L=43158, k1=स्फिट, k2=स्फिट, code=r, #upasargas=0, mw=स्फिट् (diff)
+;; Case 1655: L=43159, k1=स्फिट्ट, k2=स्फिट्ट, code=r, #upasargas=0, mw=स्फिट्ट् (diff)
+;; Case 1656: L=43163, k1=स्फुट्, k2=स्फुट्, code=r, #upasargas=1 (1/0), mw=स्फुट् (same)
+01          आ       स्फुट्                आस्फुट्                आस्फुट् yes आ+स्फुट्
+;
+;; Case 1657: L=43172, k1=स्फुट्ट्, k2=स्फुट्ट्, code=r, #upasargas=0, mw=स्फुट्ट् (same)
+;; Case 1658: L=43173, k1=स्फुड्, k2=स्फुड्, code=r, #upasargas=0, mw=स्फुड् (same)
+;; Case 1659: L=43175, k1=स्फुर्, k2=स्फुर्, code=r, #upasargas=0, mw=स्फुर् (same)
+;; Case 1660: L=43185, k1=स्फुल, k2=स्फुल, code=r, #upasargas=0, mw=स्फुल् (diff)
+;; Case 1661: L=43190, k1=स्फूर्ज्ज, k2=स्फूर्ज्ज, code=r, #upasargas=0, mw=स्फूर्ज् (diff)
+;; Case 1662: L=43206, k1=स्बृ, k2=स्बृ, code=r, #upasargas=0, mw=स्बॄ (diff)
+;; Case 1663: L=43246, k1=स्मि, k2=स्मि, code=r, #upasargas=0, mw=स्मि (same)
+;; Case 1664: L=43247, k1=स्मिट्, k2=स्मिट्, code=r, #upasargas=0, mw=स्मिट् (same)
+;; Case 1665: L=43252, k1=स्मील, k2=स्मील, code=r, #upasargas=0, mw=स्मील् (diff)
+;; Case 1666: L=43253, k1=स्मृ, k2=स्मृ, code=r, #upasargas=0, mw=स्मृ (same)
+;; Case 1667: L=43268, k1=स्यन, k2=स्यन, code=r, #upasargas=0, mw=?
+;; Case 1668: L=43269, k1=स्यन्द, k2=स्यन्द, code=r, #upasargas=0, mw=स्यन्द् (diff)
+;; Case 1669: L=43278, k1=स्यम्, k2=स्यम्, code=r, #upasargas=0, mw=स्यम् (same)
+;; Case 1670: L=43289, k1=स्रंस्, k2=स्रंस्, code=r, #upasargas=0, mw=स्रंस् (same)
+;; Case 1671: L=43293, k1=स्रक्, k2=स्रक्, code=r, #upasargas=0, mw=स्रङ्क् (diff)
+;; Case 1672: L=43300, k1=स्रम्भ, k2=स्रम्भ, code=r, #upasargas=0, mw=स्रम्भ् (diff)
+;; Case 1673: L=43314, k1=स्रिभ्, k2=स्रिभ्, code=r, #upasargas=0, mw=स्रिभ् (same)
+;; Case 1674: L=43315, k1=स्रिम्भ्, k2=स्रिम्भ्, code=r, #upasargas=0, mw=स्रिम्भ् (same)
+;; Case 1675: L=43316, k1=स्रिव, k2=स्रिव, code=r, #upasargas=0, mw=स्रिव् (diff)
+;; Case 1676: L=43317, k1=स्रु, k2=स्रु, code=r, #upasargas=0, mw=स्रु (same)
+;; Case 1677: L=43325, k1=स्रेक्, k2=स्रेक्, code=r, #upasargas=0, mw=स्रेक् (same)
+;; Case 1678: L=43326, k1=स्रै, k2=स्रै, code=r, #upasargas=0, mw=स्रै (same)
+;; Case 1679: L=43349, k1=स्वग, k2=स्वग, code=r, #upasargas=0, mw=स्वङ्ग् (diff)
+;; Case 1680: L=43365, k1=स्वठ, k2=स्वठ, code=r, #upasargas=0, mw=स्वठ् (diff)
+;; Case 1681: L=43380, k1=स्वद, k2=स्वद, code=r, #upasargas=0, mw=स्वद् (diff)
+;; Case 1682: L=43400, k1=स्वन्, k2=स्वन्, code=r, #upasargas=0, mw=स्वन् (same)
+;; Case 1683: L=43442, k1=स्वर्, k2=स्वर्, code=r, #upasargas=0, mw=स्वर् (same)
+;; Case 1684: L=43513, k1=स्वर्त्त, k2=स्वर्त्त, code=r, #upasargas=0, mw=स्वर्त् (diff)
+;; Case 1685: L=43514, k1=स्वर्द्द, k2=स्वर्द्द, code=r, #upasargas=0, mw=स्वर्द् (diff)
+;; Case 1686: L=43533, k1=स्वव, k2=स्वव, code=r, #upasargas=0, mw=?
+;; Case 1687: L=43543, k1=स्वस्क, k2=स्वस्क, code=r, #upasargas=0, mw=स्वस्क् (diff)
+;; Case 1688: L=43561, k1=स्वाद, k2=स्वाद, code=r, #upasargas=0, mw=स्वाद् (diff)
+;; Case 1689: L=43635, k1=स्वृ, k2=स्वृ, code=r, #upasargas=1 (1/0), mw=स्वृ (same)
+01        सम्        स्वृ               संस्वृ               संस्वृ yes सम्+स्वृ
+;
+;; Case 1690: L=43637, k1=स्वॄ, k2=स्वॄ, code=r, #upasargas=0, mw=स्वॄ (same)
+;; Case 1691: L=43689, k1=हट, k2=हट, code=r, #upasargas=0, mw=हट् (diff)
+;; Case 1692: L=43693, k1=हठ्, k2=हठ्, code=r, #upasargas=0, mw=हठ् (same)
+;; Case 1693: L=43728, k1=हद, k2=हद, code=r, #upasargas=0, mw=हद् (diff)
+;; Case 1694: L=43729, k1=हन्, k2=हन्, code=r, #upasargas=0, mw=हन् (same)
+;; Case 1695: L=43749, k1=हम्म्, k2=हम्म्, code=r, #upasargas=0, mw=हम्म् (same)
+;; Case 1696: L=43750, k1=हय्, k2=हय्, code=r, #upasargas=0, mw=हय् (same)
+;; Case 1697: L=43856, k1=हर्य्य, k2=हर्य्य, code=r, #upasargas=0, mw=हर्य् (diff)
+;; Case 1698: L=43874, k1=हल्, k2=हल्, code=r, #upasargas=0, mw=हल् (same)
+;; Case 1699: L=43919, k1=हस्, k2=हस्, code=r, #upasargas=0, mw=हस् (same)
+;; Case 1700: L=43968, k1=हा, k2=हा, code=r, #upasargas=0, mw=हा (same)
+;; Case 1701: L=44025, k1=हि, k2=हि, code=r, #upasargas=0, mw=हि (same)
+;; Case 1702: L=44039, k1=हिक्क्, k2=हिक्क्, code=r, #upasargas=0, mw=हिक्क् (same)
+;; Case 1703: L=44055, k1=हिड, k2=हिड, code=r, #upasargas=0, mw=हिण्ड् (diff)
+;; Case 1704: L=44139, k1=हिल्, k2=हिल्, code=r, #upasargas=0, mw=हिल् (same)
+;; Case 1705: L=44142, k1=हिव्, k2=हिव्, code=r, #upasargas=0, mw=हिन्व् (diff)
+;; Case 1706: L=44143, k1=हिस्, k2=हिस्, code=r, #upasargas=0, mw=हिंस् (diff)
+;; Case 1707: L=44163, k1=हु, k2=हु, code=r, #upasargas=0, mw=हु (same)
+;; Case 1708: L=44166, k1=हुड्, k2=हुड्, code=r, #upasargas=0, mw=हुड् (same)
+;; Case 1709: L=44182, k1=हुल्, k2=हुल्, code=r, #upasargas=0, mw=हुल् (same)
+;; Case 1710: L=44188, k1=हूड्, k2=हूड्, code=r, #upasargas=0, mw=हूड् (same)
+;; Case 1711: L=44198, k1=हृ, k2=हृ, code=r, #upasargas=22 (21/1), mw=हृ (same)
+01        अनु         हृ                अनुहृ                अनुहृ yes अनु+हृ
+02        अप         हृ                अपहृ                अपहृ yes अप+हृ
+03        अभि         हृ                अभिहृ                अभिहृ yes अभि+हृ
+04        अव         हृ                अवहृ                अवहृ yes अव+हृ
+05          आ         हृ                  आहृ                  आहृ yes आ+हृ
+06         उद्         हृ                 उद्धृ                 उद्धृ yes उद्+धृ,उद्+हृ
+07        उप         हृ                उपहृ                उपहृ yes उप+हृ
+08         नि         हृ                 निहृ                 निहृ yes नि+हृ
+09        निर्         हृ                निर्हृ                निर्हृ yes निर्+हृ
+10       परि         हृ               परिहृ               परिहृ yes परि+हृ
+11        प्र         हृ                प्रहृ                प्रहृ yes प्र+हृ
+12      प्रती         हृ              प्रतीहृ              प्रतीहृ no 
+13         वि         हृ                 विहृ                 विहृ yes वि+हृ
+14        सम्         हृ                सम्हृ                संहृ yes सम्+हृ
+15        अभि         हृ                अभिहृ                अभिहृ yes अभि+हृ
+16         वि         हृ                 विहृ                 विहृ yes वि+हृ
+17        निर्         हृ                निर्हृ                निर्हृ yes निर्+हृ
+18        सम्         हृ                सम्हृ                संहृ yes सम्+हृ
+19         उद्         हृ                 उद्धृ                 उद्धृ yes उद्+धृ,उद्+हृ
+20        उप         हृ                उपहृ                उपहृ yes उप+हृ
+21      प्रति         हृ              प्रतिहृ              प्रतिहृ yes प्रति+हृ
+22         वि         हृ                 विहृ                 विहृ yes वि+हृ
+;
+;; Case 1712: L=44244, k1=हृष, k2=हृष, code=r, #upasargas=0, mw=हृष् (diff)
+;; Case 1713: L=44257, k1=हेट, k2=हेट, code=r, #upasargas=0, mw=हेट् (diff)
+;; Case 1714: L=44258, k1=हेठ, k2=हेठ, code=r, #upasargas=0, mw=हेठ् (diff)
+;; Case 1715: L=44260, k1=हेड्, k2=हेड्, code=r, #upasargas=0, mw=हेड् (same)
+;; Case 1716: L=44263, k1=हेढ, k2=हेढ, code=r, #upasargas=0, mw=हेढ् (diff)
+;; Case 1717: L=44314, k1=हेष, k2=हेष, code=r, #upasargas=0, mw=हेष् (diff)
+;; Case 1718: L=44330, k1=होड, k2=होड, code=r, #upasargas=0, mw=होड् (diff)
+;; Case 1719: L=44353, k1=ह्नु, k2=ह्नु, code=r, #upasargas=2 (2/0), mw=ह्नु (same)
+01        अप        ह्नु               अपह्नु               अपह्नु yes अप+ह्नु
+02         नि        ह्नु                निह्नु                निह्नु yes नि+ह्नु
+;
+;; Case 1720: L=44354, k1=ह्मल, k2=ह्मल, code=r, #upasargas=0, mw=ह्मल् (diff)
+;; Case 1721: L=44358, k1=ह्रग, k2=ह्रग, code=r, #upasargas=0, mw=ह्रग् (diff)
+;; Case 1722: L=44363, k1=ह्रप, k2=ह्रप, code=r, #upasargas=0, mw=ह्रप् (diff)
+;; Case 1723: L=44364, k1=ह्रस, k2=ह्रस, code=r, #upasargas=0, mw=ह्रस् (diff)
+;; Case 1724: L=44374, k1=ह्राद, k2=ह्राद, code=r, #upasargas=0, mw=ह्राद् (diff)
+;; Case 1725: L=44383, k1=ह्री, k2=ह्री, code=r, #upasargas=0, mw=ह्री (same)
+;; Case 1726: L=44387, k1=ह्रीच्छ, k2=ह्रीच्छ, code=r, #upasargas=0, mw=ह्रीछ् (diff)
+;; Case 1727: L=44395, k1=ह्रुड्, k2=ह्रुड्, code=r, #upasargas=0, mw=ह्रुड् (same)
+;; Case 1728: L=44396, k1=ह्रूड्, k2=ह्रूड्, code=r, #upasargas=0, mw=ह्रूड् (same)
+;; Case 1729: L=44399, k1=ह्रेष, k2=ह्रेष, code=r, #upasargas=0, mw=ह्रेष् (diff)
+;; Case 1730: L=44401, k1=ह्रोड्, k2=ह्रोड्, code=r, #upasargas=0, mw=ह्रौड् (diff)
+;; Case 1731: L=44402, k1=ह्लग्, k2=ह्लग्, code=r, #upasargas=0, mw=ह्लग् (same)
+;; Case 1732: L=44403, k1=ह्लप, k2=ह्लप, code=r, #upasargas=0, mw=ह्लप् (diff)
+;; Case 1733: L=44404, k1=ह्लस्, k2=ह्लस्, code=r, #upasargas=0, mw=ह्लस् (same)
+;; Case 1734: L=44405, k1=ह्लाद्, k2=ह्लाद्, code=r, #upasargas=0, mw=ह्लाद् (same)
+;; Case 1735: L=44413, k1=ह्वल, k2=ह्वल, code=r, #upasargas=0, mw=ह्वल् (diff)
+;; Case 1736: L=44414, k1=ह्वृ, k2=ह्वृ, code=r, #upasargas=0, mw=ह्वृ (same)
+;; Case 1737: L=44415, k1=ह्वे, k2=ह्वे, code=r, #upasargas=5 (5/0), mw=ह्वे (same)
+01          आ        ह्वे                 आह्वे                 आह्वे yes आ+ह्वे
+02        उप        ह्वे               उपह्वे               उपह्वे yes उप+ह्वे
+03         नि        ह्वे                निह्वे                निह्वे yes नि+ह्वे
+04         वि        ह्वे                विह्वे                विह्वे yes वि+ह्वे
+05        सम्        ह्वे               सम्ह्वे               संह्वे yes सम्+ह्वे
+;
+;; Case 1738: L=44456, k1=अज्, k2=*अज्, code=r, #upasargas=1 (0/1), mw=अज् (same)
+01      अभिवि         अज्              अभिव्यज्              अभिव्यज् no 
+;
