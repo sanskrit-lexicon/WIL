@@ -1,0 +1,2594 @@
+;; Case 0001: L=545, k1=aw
+; OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD
+<L>545<pc>012-b<k1>aw<k2>aw
+{#aw#}¦ {#awati#} 1. {%a.%} To move; with {#pari#}
+<>to wander about.
+<LEND>
+; NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW
+L=545, k1=aw, u=pari, p=with {#pari#}
+;
+;; Case 0002: L=574, k1=aR
+; OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD
+<L>574<pc>013-a<k1>aR<k2>aR
+{#aR#}¦ {#(ya-Na) aRyate#} 4. {%d.%} To live;
+<>with {#pra#} to live or breathe.
+<LEND>
+; NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW
+L=574, k1=aR, u=pra, p=with {#pra#}
+;
+;; Case 0003: L=739, k1=ad
+; OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD
+<L>739<pc>016-a<k1>ad<k2>ad
+{#ad#}¦ {#(la, O) atti#} 2. {%a.%} To eat. 
+[Page016-b+ 38]
+<>With {#vi#} and {#ati#} or {#vyati,#} to bite
+<>or devour each other.
+<LEND>
+; NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW
+L=739, k1=ad, u=vyati, p=With {#vi#} and {#ati#} or {#vyati,#}
+;
+;; Case 0004: L=3804, k1=as
+; OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD
+<L>3804<pc>072-a<k1>as<k2>as
+{#as#}¦ {#(ya, u, ira) asyati#} 4. {%a.%} to throw.
+<>With {#anu#} to sit; with {#apa#} to quit; with
+<>{#ud#} to leave; with {#ni#} to deposit;
+<>with {#nir#} to expel, to refute; with 
+[Page072-b+ 38]
+<>{#pra#} to reject; with {#vi#} to divide;
+<>with {#saM#} to collect; with {#pari#} and
+<>{#upa#} to sit round; with {#vi#} and {#A#}
+<>to class; with {#saM#} and {#ni#} to aban-
+<>don the world.
+<LEND>
+; NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW
+L=3804, k1=as, u=anu, p=With {#anu#}
+L=3804, k1=as, u=apa, p=with {#apa#}
+L=3804, k1=as, u=ud, p=with  {#ud#}
+L=3804, k1=as, u=ni, p=with {#ni#}
+L=3804, k1=as, u=nir, p=with {#nir#}
+L=3804, k1=as, u=pra, p=with    {#pra#}
+L=3804, k1=as, u=vi, p=with {#vi#}
+L=3804, k1=as, u=sam, p=with {#saM#}
+L=3804, k1=as, u=paryupa, p=with {#pari#} and  {#upa#}
+L=3804, k1=as, u=vyA, p=with {#vi#} and {#A#}
+L=3804, k1=as, u=saMni, p=with {#saM#} and {#ni#}
+;
+;; Case 0005: L=5407, k1=As
+; OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD
+<L>5407<pc>102-a<k1>As<k2>As
+{#As#}¦ {#(la-Na-Yi) Aste#} 2. {%d. irr.%} To
+<>sit. With {#aDi#} to inhabit, to pre-
+<>side, to mistake; with {#aBi#} to
+<>sit to, or learn; with {#ut#} to leave,
+<>to agitate; with {#upa#} to worship;
+<>with {#nir#} to expel; with {#pra#} and
+<>{#nira#} to refute or invalidate.
+<LEND>
+; NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW
+L=5407, k1=As, u=aDi, p=With {#aDi#}
+L=5407, k1=As, u=aBi, p=with {#aBi#}
+L=5407, k1=As, u=ud, p=with {#ut#}
+L=5407, k1=As, u=upa, p=with {#upa#}
+L=5407, k1=As, u=nir, p=with {#nir#}
+L=5407, k1=As, u=pranir, p=with {#pra#} and  {#nira#}
+;
+;; Case 0006: L=5542, k1=i
+; OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD
+<L>5542<pc>104-b<k1>i<k2>i
+{#i#}¦ {#ayati#} 1. {%a.%} To move. With {#ut#}
+<>to rise; with {#aBi#} and {#ut#} to rise,
+<>to prosper.
+<LEND>
+; NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW
+L=5542, k1=i, u=ud, p=With {#ut#}
+L=5542, k1=i, u=aByud, p=with {#aBi#} and {#ut#}
+;
+;; Case 0007: L=5544, k1=i
+; OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD
+<L>5544<pc>104-b<k1>i<k2>i
+{#i#}¦ {#(la) eti#} 2. {%a. irr.%} To go. With
+<>{#ati#} to pass time, to surpass;
+<>with {#aDi#} to remember; with {#anu#}
+<>to follow; with {#aBi#} to get, to
+<>approach, to serve; with {#apa#} to
+<>depart; with {#upa#} to receive, to
+<>approach; with {#nir#} to go out;
+<>with {#prati#} to believe; with {#vi#} to
+<>expend; with {#aBi#} and {#upa#} to
+<>arrive; with {#saM#} and {#upa#} to obtain.
+<LEND>
+; NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW
+L=5544, k1=i, u=ati, p=With  {#ati#}
+L=5544, k1=i, u=aDi, p=with {#aDi#}
+L=5544, k1=i, u=anu, p=with {#anu#}
+L=5544, k1=i, u=aBi, p=with {#aBi#}
+L=5544, k1=i, u=apa, p=with {#apa#}
+L=5544, k1=i, u=upa, p=with {#upa#}
+L=5544, k1=i, u=nir, p=with {#nir#}
+L=5544, k1=i, u=prati, p=with {#prati#}
+L=5544, k1=i, u=vi, p=with {#vi#}
+L=5544, k1=i, u=aByupa, p=with {#aBi#} and {#upa#}
+L=5544, k1=i, u=samupa, p=with {#saM#} and {#upa#}
+;
+;; Case 0008: L=5792, k1=iz
+; OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD
+<L>5792<pc>109-a<k1>iz<k2>iz
+{#iz#}¦ {#(ya) izyati#} 4. 1. To go. {#(Sa, u)#}
+<>{#icCati#} 6. {%a.%} To desire. With {#aBi#}
+<>to desire; with {#prati#} to promise.
+<LEND>
+; NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW
+L=5792, k1=iz, u=aBi, p=With {#aBi#}
+L=5792, k1=iz, u=prati, p=with {#prati#}
+;
+;; Case 0009: L=5831, k1=I
+; OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD
+<L>5831<pc>109-b<k1>I<k2>I
+{#I#}¦ {#(la) eti#} 2. {%a.%} To desire; to move;
+<>to eat. With {#ut#} to appear 1. {%d.%}
+<>{#udIte- (ya, Na)#} 4. {%d.%} {#iyate#} to go.
+<LEND>
+; NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW
+L=5831, k1=I, u=ud, p=With {#ut#}
+;
+;; Case 0010: L=5832, k1=Ikz
+; OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD
+<L>5832<pc>109-b<k1>Ikz<k2>Ikz
+{#Ikz#}¦ {#Ikzate#} 1. {%d.%} To see. With {#apa#} or
+<>{#ut#} to expect; with {#aBi#} to gaze
+<>at; with {#ava#} to inspect; with {#upa#}
+<>to overlook; with {#nir#} to see; with
+<>{#pari#} to test; with {#pra#} to look like;
+<>with {#vi#} to inspect; with {#prati#} to
+<>look for; with {#saM#} to compare;
+<>with {#prati#} and {#ut#} to look up at. 
+<LEND>
+; NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW
+L=5832, k1=Ikz, u=apa:ud, p=With {#apa#} or  {#ut#}
+L=5832, k1=Ikz, u=aBi, p=with {#aBi#}
+L=5832, k1=Ikz, u=ava, p=with {#ava#}
+L=5832, k1=Ikz, u=upa, p=with {#upa#}
+L=5832, k1=Ikz, u=nir, p=with {#nir#}
+L=5832, k1=Ikz, u=pari, p=with  {#pari#}
+L=5832, k1=Ikz, u=pra, p=with {#pra#}
+L=5832, k1=Ikz, u=vi, p=with {#vi#}
+L=5832, k1=Ikz, u=prati, p=with {#prati#}
+L=5832, k1=Ikz, u=sam, p=with {#saM#}
+L=5832, k1=Ikz, u=pratyud, p=with {#prati#} and {#ut#}
+;
+;; Case 0011: L=5859, k1=Ir
+; OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD
+<L>5859<pc>110-a<k1>Ir<k2>Ir
+{#Ir#}¦ {#(ki) Irati, Irayati#} To go, to
+<>throw, to order, to drive on.
+<>With {#ut#} to speak; with {#pra#} to
+<>send; with {#saM#} to go as the wind.
+<LEND>
+; NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW
+L=5859, k1=Ir, u=ud, p=With {#ut#}
+L=5859, k1=Ir, u=pra, p=with {#pra#}
+L=5859, k1=Ir, u=sam, p=with {#saM#}
+;
+;; Case 0012: L=6008, k1=ucC
+; OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD
+<L>6008<pc>112-b<k1>ucC<k2>ucC
+{#ucC#}¦ {#(i) ucCati#} or with {#vi vyuCaMti#}
+<>1. {%a.%} To end, to quit, to bind.
+<>With {#pra#} to wipe off.
+<LEND>
+; NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW
+L=6008, k1=ucC, u=vi, p=with {#vi vyuCaMti#}
+L=6008, k1=ucC, u=pra, p=With {#pra#}
+;
+;; Case 0013: L=6058, k1=uYJ
+; OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD
+<L>6058<pc>113-b<k1>uYJ<k2>uYJ
+{#uYJ#}¦ {#(Sa) uYJati#} 6. {%a.%} To quit.
+<>With {#pra#} to avoid, to escape.
+<LEND>
+; NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW
+L=6058, k1=uYJ, u=pra, p=With {#pra#}
+;
+;; Case 0014: L=7272, k1=uha
+; OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD
+<L>7272<pc>135-b<k1>uha<k2>uha
+{#uha#}¦ {#(ira) ohati (i) uMhati#} 1. {%a.%}
+<>To hurt, to kill. With {#vi#} and {#apa#}
+<>forming {#vyApoh#} to remove.
+<LEND>
+; NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW
+L=7272, k1=uha, u=vyapa, p=With {#vi#} and {#apa#}  forming {#vyApoh#}
+;
+;; Case 0015: L=7367, k1=Uha
+; OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD
+<L>7367<pc>137-b<k1>Uha<k2>Uha
+{#Uha#}¦ {#(Na) Uhate#} 1. {%d.%} To reason. With
+<>{#vi#} to array in battle; with {#saM#} to
+<>assemble; with {#pra#} and {#vi#} to in-
+<>termit or desist from.
+<LEND>
+; NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW
+L=7367, k1=Uha, u=vi, p=With  {#vi#}
+L=7367, k1=Uha, u=sam, p=with {#saM#}
+L=7367, k1=Uha, u=pravi, p=with {#pra#} and {#vi#}
+;
+;; Case 0016: L=8007, k1=kaw
+; OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD
+<L>8007<pc>149-b<k1>kaw<k2>kaw
+{#kaw#}¦ {#(e) kawati#} 1. {%a.%} To run; to encom-
+<>pass. With {#pra#} prefixed, it makes
+<>{#prakawati#} to appear; with {#(ka)#}
+<>{#prakawayati#}. To make manifest.
+<LEND>
+; NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW
+L=8007, k1=kaw, u=pra, p=With {#pra#} prefixed, it makes  {#prakawati#}
+;
+;; Case 0017: L=8371, k1=kap
+; OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD
+<L>8371<pc>157-a<k1>kap<k2>kap
+{#kap#}¦ {#(i-Na) kampate#} 1. {%d.%} To tremble.
+<>With {#anu#} to pity, commiserate.
+<LEND>
+; NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW
+L=8371, k1=kap, u=anu, p=With {#anu#}
+;
+;; Case 0018: L=8700, k1=karRa
+; OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD
+<L>8700<pc>163-b<k1>karRa<k2>karRa
+{#karRa#}¦ {#(t ka) karRayati#} 10. {%a.%} To pierce, to
+<>bore. With {#upa#} or {#samA#} to listen.
+<LEND>
+; NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW
+L=8700, k1=karRa, u=upa:samA, p=With {#upa#} or {#samA#}
+;
+;; Case 0019: L=8916, k1=kala
+; OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD
+<L>8916<pc>168-a<k1>kala<k2>kala
+{#kala#}¦ {#(t ka) kalayati#} To count. With
+<>{#A#} to take, to bind; with {#pari#} to
+<>keep in mind; with {#vi#} to cut or
+<>maim; with {#saM#} to sum up, to add.
+<LEND>
+; NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW
+L=8916, k1=kala, u=A, p=With  {#A#}
+L=8916, k1=kala, u=pari, p=with {#pari#}
+L=8916, k1=kala, u=vi, p=with {#vi#}
+L=8916, k1=kala, u=sam, p=with {#saM#}
+;
+;; Case 0020: L=9120, k1=kaz
+; OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD
+<L>9120<pc>172-a<k1>kaz<k2>kaz
+{#kaz#}¦ {#kazati kazayati#} 1. 10. {%a.%} To kill,
+<>to hurt; to try, to test. With
+<>{#ni#} to try or test metals.
+<LEND>
+; NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW
+L=9120, k1=kaz, u=ni, p=With  {#ni#}
+;
+;; Case 0021: L=9143, k1=kas
+; OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD
+<L>9143<pc>172-b<k1>kas<k2>kas
+{#kas#}¦ {#(ja) kasati#} 1. {%a.%} To move. With
+<>{#vi#} to expand as a flower.
+<LEND>
+; NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW
+L=9143, k1=kas, u=vi, p=With  {#vi#}
+;
+;; Case 0022: L=9235, k1=kAkza
+; OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD
+<L>9235<pc>174-b<k1>kAkza<k2>kAkza
+{#kAkza#}¦ {#(i) kAMkzati#} 1. {%a.%} To desire.
+<>With {#A#} to desire much.
+<LEND>
+; NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW
+L=9235, k1=kAkza, u=A, p=With {#A#}
+;
+;; Case 0023: L=9747, k1=kAS
+; OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD
+<L>9747<pc>184-b<k1>kAS<k2>kAS
+{#kAS#}¦ {#(f-Na) kASate#} 1. {%d.%} {#(ya-u-f)#}
+<>{#kASyati#} 4. {%a.%} To shine. With {#nir#}
+<>to expel; to hide or obscure.
+<>With {#pra#} to become manifest.
+<LEND>
+; NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW
+L=9747, k1=kAS, u=nir, p=With {#nir#}
+L=9747, k1=kAS, u=pra, p=With {#pra#}
+;
+;; Case 0024: L=9813, k1=ki
+; OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD
+<L>9813<pc>186-a<k1>ki<k2>ki
+{#ki#}¦ {#(li) ciketi#} 3. {%a.%} To know;
+<>with {#nira#} to know certainly.
+<LEND>
+; NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW
+L=9813, k1=ki, u=nir, p=with {#nira#}
+;
+;; Case 0025: L=10016, k1=kuc
+; OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD
+<L>10016<pc>190-a<k1>kuc<k2>kuc
+{#kuc#}¦ {#kocati#} 1. {%a.%} To sound high;
+<>to shriek; to go; to polish; to
+<>touch; to furrow; to be crook-
+<>ed; to write; to oppose. {#kuSati#}
+<>{#(Sa)#} 6. {%a.%} To contract. With {#saM#}
+<>to contract; with {#ut#} to bribe.
+<LEND>
+; NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW
+L=10016, k1=kuc, u=sam, p=With {#saM#}
+L=10016, k1=kuc, u=ud, p=with {#ut#}
+;
+;; Case 0026: L=10053, k1=kuw
+; OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD
+<L>10053<pc>191-a<k1>kuw<k2>kuw
+{#kuw#}¦ {#(Sa) kuwati#} 6. {%a.%} To make crook-
+<>ed; to cheat. {#(i) kuRwati#}. 1. {%a.%}
+<>To be stopped or confounded.
+<>{#(ka)kowayati#}¦ 10. {%a.%} To cut. With
+<>{#saM,#} to die, to cease.
+<LEND>
+; NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW
+L=10053, k1=kuw, u=sam, p=With  {#saM,#}
+;
+;; Case 0027: L=10350, k1=kul
+; OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD
+<L>10350<pc>197-b<k1>kul<k2>kul
+{#kul#}¦ {#kolati#} 1. {%a.%} To accumulate;
+<>to be of kin; to count. With
+<>{#A#} to be attentive; with {#vi#} and
+<>{#A#} to be confused.
+<LEND>
+; NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW
+L=10350, k1=kul, u=A, p=With  {#A#}
+L=10350, k1=kul, u=vyA, p=with {#vi#} and  {#A#}
+;
+;; Case 0028: L=10524, k1=kuz
+; OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD
+<L>10524<pc>201-a<k1>kuz<k2>kuz
+{#kuz#}¦ {#(ga) kuzRAti#} 9. {%a.%} To expel; to
+<>test; to shine. With {#ava#} to prove;
+<>with {#nira#} to extract.
+<LEND>
+; NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW
+L=10524, k1=kuz, u=ava, p=With {#ava#}
+L=10524, k1=kuz, u=nir, p=with {#nira#}
+;
+;; Case 0029: L=10614, k1=kUj
+; OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD
+<L>10614<pc>203-a<k1>kUj<k2>kUj
+{#kUj#}¦ {#kUjati#} 1. {%a.%} To make any inar-
+<>ticulate sound like a bird, to coo,
+<>to caw, &c. With {#pari#} to moan.
+<LEND>
+; NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW
+L=10614, k1=kUj, u=pari, p=With {#pari#}
+;
+;; Case 0030: L=10671, k1=kUl
+; OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD
+<L>10671<pc>204-a<k1>kUl<k2>kUl
+{#kUl#}¦ {#kUlati#} 1. {%a.%} To cover. With
+<>{#anu#} to favour, to protect.
+<LEND>
+; NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW
+L=10671, k1=kUl, u=anu, p=With  {#anu#}
+;
+;; Case 0031: L=10689, k1=kf
+; OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD
+<L>10689<pc>204-b<k1>kf<k2>kf
+{#kf#}¦ {#(da, Ya, qu) karoti, kurute#} 8. {%c.%} To make
+<>or do, to act. In the active voice
+<>it is used with {#anu#} to imitate;
+<>with {#apa#} to act ill; with {#upa#} to
+<>adorn; with {#upa#} and {#sa#} inserted
+<>({%act.%} or {%mid.%}) to alter, to assemble,
+<>to reply; with {#dur#} to do evil;
+<>with {#pari#} or {#saM#} to polish or per-
+<>fect, to collect, to assemble;
+<>with {#prati#} or {#prati#} and {#saM#} to mend.
+<>to repair; with {#vi#} to alter, to agi-
+<>tate; with {#su#} or {#para#} and {#A#} to act
+<>well. In the middle voice with
+<>{#ati#} to exceed; with {#aDi#} to
+<>overcome, to govern, to bear
+<>patiently, to refrain from; with
+<>{#A#} to call, to take a form; with
+<>{#ut#} to hurt or collect; with {#upa#}
+<>to serve; with {#pra#} to begin, to
+<>violate, recite, chant, allot; with
+<>{#prati#} to retaliate; with {#vi#} to ut- 
+[Page205-a+ 38]
+<>ter, to seek; with {#ut#} and {#A#}
+<>to reproach; with {#nir#} and {#A#}
+<>to contemn, to expel; with {#prati#}
+<>and {#upa#} to requite; with {#vi#} and
+<>{#A#} to explain, to render manifest.
+<LEND>
+; NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW
+L=10689, k1=kf, u=anu, p=with {#anu#}
+L=10689, k1=kf, u=apa, p=with {#apa#}
+L=10689, k1=kf, u=upa, p=with {#upa#}
+L=10689, k1=kf, u=upa, p=with {#upa#} and {#sa#}
+L=10689, k1=kf, u=dur, p=with {#dur#}
+L=10689, k1=kf, u=pari:sam, p=with {#pari#} or {#saM#}
+L=10689, k1=kf, u=prati:pratisam, p=with {#prati#} or {#prati#} and {#saM#}
+L=10689, k1=kf, u=vi, p=with {#vi#}
+L=10689, k1=kf, u=su:parA, p=with {#su#} or {#para#} and {#A#}
+L=10689, k1=kf, u=ati, p=with  {#ati#}
+L=10689, k1=kf, u=aDi, p=with {#aDi#}
+L=10689, k1=kf, u=A, p=with  {#A#}
+L=10689, k1=kf, u=ud, p=with  {#ut#}
+L=10689, k1=kf, u=upa, p=with {#upa#}
+L=10689, k1=kf, u=pra, p=with {#pra#}
+L=10689, k1=kf, u=prati, p=with  {#prati#}
+L=10689, k1=kf, u=vi, p=with {#vi#}
+L=10689, k1=kf, u=udA, p=with {#ut#} and {#A#}
+L=10689, k1=kf, u=nirA, p=with {#nir#} and {#A#}
+L=10689, k1=kf, u=pratyupa, p=with {#prati#}  and {#upa#}
+L=10689, k1=kf, u=vyA, p=with {#vi#} and  {#A#}
+;
+;; Case 0032: L=10908, k1=kfz
+; OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD
+<L>10908<pc>209-a<k1>kfz<k2>kfz
+{#kfz#}¦ {#(O,) karzati#} 1. {%a.%} {#(Sa, Ya, O) kfzati, te#}
+<>6. {%c.%} To plough. With {#ava#} or {#apa#}
+<>to debase, to disregard; with {#A#}
+<>to attract; with {#ut#} to raise, to
+<>excite; with {#saM#} to draw toge- 
+[Page209-b+ 38]
+<>ther; with {#saM#} and {#ni#} to bring near.
+<LEND>
+; NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW
+L=10908, k1=kfz, u=ava:apa, p=With {#ava#} or {#apa#}
+L=10908, k1=kfz, u=A, p=with {#A#}
+L=10908, k1=kfz, u=ud, p=with {#ut#}
+L=10908, k1=kfz, u=sam, p=with {#saM#}
+L=10908, k1=kfz, u=saMni, p=with {#saM#} and {#ni#}
+;
+;; Case 0033: L=11003, k1=kF
+; OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD
+<L>11003<pc>211-a<k1>kF<k2>kF
+{#kF#}¦ {#(Sa) kirati#} 6. {%a.%} To throw, or
+<>scatter {#(gi, Ya) kfRAti kfRIte#} 9. {%c.%}
+<>To hurt. {#(ka, Na) kArayate#} 10. {%d.%} To
+<>know. With {#apa#} prefixed, to
+<>draw furrows; with {#ava#} to
+<>throw; with {#A#} to fill up, to
+<>cover over; with {#prati#} to hurt;
+<>with {#vi#} to throw, to send. 
+[Page211-b+ 38]
+<>With {#saM#} to gather. In the {%pas-%}
+<>{%sive%} with {#aBi#} to be overcome.
+<LEND>
+; NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW
+L=11003, k1=kF, u=apa, p=With {#apa#}
+L=11003, k1=kF, u=ava, p=with {#ava#}
+L=11003, k1=kF, u=A, p=with {#A#}
+L=11003, k1=kF, u=prati, p=with {#prati#}
+L=11003, k1=kF, u=vi, p=with {#vi#}
+L=11003, k1=kF, u=sam, p=With {#saM#}
+L=11003, k1=kF, u=aBi, p=with {#aBi#}
+;
+;; Case 0034: L=11401, k1=krand
+; OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD
+<L>11401<pc>219-b<k1>krand<k2>krand
+{#krand#}¦ {#(ki) krandati krandayati#} 1. 10. {%a.%}
+<>Used with ({#A#}) to weep; to bawl.
+<LEND>
+; NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW
+L=11401, k1=krand, u=A, p=with ({#A#}
+;
+;; Case 0035: L=11405, k1=kram
+; OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD
+<L>11405<pc>219-b<k1>kram<k2>kram
+{#kram#}¦ {#(u) krAmati#} 1. {%a.%} {#(ya) krAmyati kramyati#}
+<>4. {%a.%} To go, to step. In the active
+<>voice with {#ati,#} it means to go
+<>over or beyond, to leap over;
+<>with {#aBi#} to surpass; with {#A#}
+<>to rise, mount, overcome; with
+<>{#ut#} to transgress; with {#upa#} to
+<>depart; with {#nira#} to go forth; 
+[Page220-a+ 38]
+<>with {#pra#} to depart, to approach;
+<>with {#pari#} to wander about; with
+<>{#vi#} to overcome, to ascend; with
+<>{#saM#} to remove. In the middle with
+<>{#anu#} to proceed regularly; with
+<>{#apa#} to depart; with {#A#} to rise
+<>as the sun; with {#upa#} or {#pra#} to be-
+<>gin; with {#vi#} to pace; with {#anu#}
+<>and {#pari#} to follow up, to look af-
+<>ter; with {#vi#} and {#A#} to transgress.
+<LEND>
+; NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW
+L=11405, k1=kram, u=ati, p=with {#ati,#}
+L=11405, k1=kram, u=aBi, p=with {#aBi#}
+L=11405, k1=kram, u=A, p=with {#A#}
+L=11405, k1=kram, u=ud, p=with  {#ut#}
+L=11405, k1=kram, u=upa, p=with {#upa#}
+L=11405, k1=kram, u=nir, p=with {#nira#}
+L=11405, k1=kram, u=pra, p=with {#pra#}
+L=11405, k1=kram, u=pari, p=with {#pari#}
+L=11405, k1=kram, u=vi, p=with  {#vi#}
+L=11405, k1=kram, u=sam, p=with  {#saM#}
+L=11405, k1=kram, u=anu, p=with  {#anu#}
+L=11405, k1=kram, u=apa, p=with  {#apa#}
+L=11405, k1=kram, u=A, p=with {#A#}
+L=11405, k1=kram, u=upa:pra, p=with {#upa#} or {#pra#}
+L=11405, k1=kram, u=vi, p=with {#vi#}
+L=11405, k1=kram, u=anupari, p=with {#anu#}  and {#pari#}
+L=11405, k1=kram, u=vyA, p=with {#vi#} and {#A#}
+;
+;; Case 0036: L=11485, k1=krI
+; OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD
+<L>11485<pc>221-b<k1>krI<k2>krI
+{#krI#}¦ {#(ga-Ya-qu) krIRAti, RIte#} 9. {%a.%} To
+<>buy. With {#vi#} to sell.
+<LEND>
+; NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW
+L=11485, k1=krI, u=vi, p=With {#vi#}
+;
+;; Case 0037: L=11486, k1=krIqa
+; OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD
+<L>11486<pc>221-b<k1>krIqa<k2>krIqa
+{#krIqa#}¦ {#(f) krIqati#} 1. {%a.%} To play. With
+<>{#anu, ava, A, pari,#} or {#saM#} com-
+<>monly used in the middle voice.
+<LEND>
+; NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW
+L=11486, k1=krIqa, u=anu:ava:A:pari:sam, p=With  {#anu, ava, A, pari,#} or {#saM#}
+;
+;; Case 0038: L=11579, k1=klav
+; OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD
+<L>11579<pc>223-a<k1>klav<k2>klav
+{#klav#}¦ {#(Na) klavate#} 1. {%d.%} To fear. With
+<>{#vi#} to be afraid, to dread. 
+<LEND>
+; NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW
+L=11579, k1=klav, u=vi, p=With  {#vi#}
+;
+;; Case 0039: L=11729, k1=kzal
+; OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD
+<L>11729<pc>226-a<k1>kzal<k2>kzal
+{#kzal#}¦ {#kzalati#} 1. {%a.%} To shake, {#(ka)#}
+<>{#kzAlayati#} 10. {%a.%} To purify. With
+<>{#pra#} to wash, to cleanse.
+<LEND>
+; NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW
+L=11729, k1=kzal, u=pra, p=With  {#pra#}
+;
+;; Case 0040: L=11792, k1=kzip
+; OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD
+<L>11792<pc>227-b<k1>kzip<k2>kzip
+{#kzip#}¦ {#(ya, O) kzipyati#} 4. {%a.%} To throw,
+<>to cast. {#(Sa, Ya, O) kzipati, te#} 6. {%c.%}
+<>To throw, &c., to send. {#(ka, i)#}
+<>{#kzempayati#} 10. {%a.%} To forbear. With
+<>{#aDi#} to abuse or censure; with
+<>{#ava#} to throw down; with {#A#} to
+<>attract; with {#ut#} to raise up;
+<>with {#ni#} to place, cast in; with
+<>{#pra#} to throw violently; with {#vi#} to
+<>scatter; with {#saM#} to abridge or
+<>contract; with {#vi#} and {#ni#} to de-
+<>liver up; with {#saM#} and {#A#} to
+<>remove, to send away.
+<LEND>
+; NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW
+L=11792, k1=kzip, u=aDi, p=With  {#aDi#}
+L=11792, k1=kzip, u=ava, p=with  {#ava#}
+L=11792, k1=kzip, u=A, p=with {#A#}
+L=11792, k1=kzip, u=ud, p=with {#ut#}
+L=11792, k1=kzip, u=ni, p=with {#ni#}
+L=11792, k1=kzip, u=pra, p=with  {#pra#}
+L=11792, k1=kzip, u=vi, p=with {#vi#}
+L=11792, k1=kzip, u=sam, p=with {#saM#}
+L=11792, k1=kzip, u=vini, p=with {#vi#} and {#ni#}
+L=11792, k1=kzip, u=samA, p=with {#saM#} and {#A#}
+;
+;; Case 0041: L=11997, k1=kzRu
+; OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD
+<L>11997<pc>231-b<k1>kzRu<k2>kzRu
+{#kzRu#}¦ {#(la, Na) kzROti#} 2. {%a.%} To whet or
+<>sharpen. With {#saM saMkzRate#} 2. {%d.%}
+<LEND>
+; NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW
+L=11997, k1=kzRu, u=sam, p=With {#saM saMkzRate#}
+;
+;; Case 0042: L=12374, k1=KyA
+; OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD
+<L>12374<pc>239-b<k1>KyA<k2>KyA
+{#KyA#}¦ {#(la) KyAti#} 2. {%a.%} To relate.
+<>With {#aBi#} to shine; with {#A#} to
+<>be famous; with {#ku#} to be odious;
+<>with {#vi#} to celebrate; with {#saM#} to
+<>count or reckon; with {#su#} to be
+<>approved; with {#prati#} and {#A#} to
+<>reject, to refuse, to name; with
+<>{#saM#} and {#A#} to denominate.
+<LEND>
+; NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW
+L=12374, k1=KyA, u=aBi, p=With {#aBi#}
+L=12374, k1=KyA, u=A, p=with {#A#}
+L=12374, k1=KyA, u=ku, p=with {#ku#}
+L=12374, k1=KyA, u=vi, p=with {#vi#}
+L=12374, k1=KyA, u=sam, p=with {#saM#}
+L=12374, k1=KyA, u=su, p=with {#su#}
+L=12374, k1=KyA, u=pratyA, p=with {#prati#} and {#A#}
+L=12374, k1=KyA, u=samA, p=with  {#saM#} and {#A#}
+;
+;; Case 0043: L=12698, k1=gam
+; OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD
+<L>12698<pc>246-a<k1>gam<k2>gam
+{#gam#}¦ {#(O-x) gacCati#} 1. {%a.%} To go, to
+<>march. With {#anu#} to follow, to
+<>imitate; with {#aDi#} to obtain, to
+<>peruse, to omit; with {#apa#} to go
+<>away; with {#ava#} to know; with {#A#}
+<>to arrive at, (causal) to wait, to de-
+<>lay; with {#ut#} to approach; with
+<>{#upa#} to go near, or to; with {#dur#}
+<>to go with difficulty; with {#ni#} to
+<>get wisdom, to take; with {#nir#}
+<>to go forth or out; with {#pari#} to
+<>surround; with {#vi#} to go against;
+<>with {#saM#} (act.) to go to, (mid.) to
+<>accompany, to encounter; with 
+[Page246-b+ 38]
+<>{#upa#} and {#A#} to approach; with {#pari#}
+<>and {#ut#} to rise from a seat; with
+<>{#prati#} and {#A#} to return; with {#prati#}
+<>and {#ut#} to return to go to meet;
+<>with {#saM#} and {#A#} to meet; with
+<>{#saM#} and {#upa#} to yield, to surrender.
+<LEND>
+; NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW
+L=12698, k1=gam, u=anu, p=With {#anu#}
+L=12698, k1=gam, u=aDi, p=with {#aDi#}
+L=12698, k1=gam, u=apa, p=with {#apa#}
+L=12698, k1=gam, u=ava, p=with {#ava#}
+L=12698, k1=gam, u=A, p=with {#A#}
+L=12698, k1=gam, u=ud, p=with {#ut#}
+L=12698, k1=gam, u=upa, p=with  {#upa#}
+L=12698, k1=gam, u=dur, p=with {#dur#}
+L=12698, k1=gam, u=ni, p=with {#ni#}
+L=12698, k1=gam, u=nir, p=with {#nir#}
+L=12698, k1=gam, u=pari, p=with {#pari#}
+L=12698, k1=gam, u=vi, p=with {#vi#}
+L=12698, k1=gam, u=sam, p=with {#saM#}
+L=12698, k1=gam, u=upA, p=with    {#upa#} and {#A#}
+L=12698, k1=gam, u=paryud, p=with {#pari#}  and {#ut#}
+L=12698, k1=gam, u=pratyA, p=with  {#prati#} and {#A#}
+L=12698, k1=gam, u=pratyud, p=with {#prati#}  and {#ut#}
+L=12698, k1=gam, u=samA, p=with {#saM#} and {#A#}
+L=12698, k1=gam, u=samupa, p=with  {#saM#} and {#upa#}
+;
+;; Case 0044: L=12823, k1=gal
+; OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD
+<L>12823<pc>249-a<k1>gal<k2>gal
+{#gal#}¦ {#galati#} 1. {%a.%} ({#ka, Na#}) 10. {%d.%} {#galayate#}
+<>To eat; to ooze or drop; with {#ava#}
+<>to fall; with {#vi#} to go, to bear.
+<LEND>
+; NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW
+L=12823, k1=gal, u=ava, p=with {#ava#}
+L=12823, k1=gal, u=vi, p=with {#vi#}
+;
+;; Case 0045: L=12969, k1=gAha
+; OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD
+<L>12969<pc>251-b<k1>gAha<k2>gAha
+{#gAha#}¦ {#(Na, u) gAhate#} 1. {%d.%} To churn.
+<>With {#ava#} to immerse, to bathe;
+<>with {#vi#} to bathe, to agitate. 
+<LEND>
+; NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW
+L=12969, k1=gAha, u=ava, p=With {#ava#}
+L=12969, k1=gAha, u=vi, p=with {#vi#}
+;
+;; Case 0046: L=13351, k1=gF
+; OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD
+<L>13351<pc>259-b<k1>gF<k2>gF
+{#gF#}¦ {#(Sa) girati#} 6. {%a.%} To swallow. {#(ga)#}
+<>{#gfRAti#} 9. {%a.%} To sound, to speak.
+<>{#(ka, Na) gIrayate#} 10. {%d.%} To know, to
+<>teach. With {#nir#} or {#ut#} and
+<>with {#saM#} and {#ut#} to throw up.
+<LEND>
+; NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW
+L=13351, k1=gF, u=nir:ut:samut, p=With {#nir#} or {#ut#} and  with {#saM#} and {#ut#}
+;
+;; Case 0047: L=13364, k1=gE
+; OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD
+<L>13364<pc>259-b<k1>gE<k2>gE
+{#gE#}¦ {#gAyati#} 1. {%a.%} To sound or sing.
+<>With {#ut#} or {#pra#} to chaunt; with
+<>{#vi#} to assert repeatedly.
+<LEND>
+; NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW
+L=13364, k1=gE, u=ud:pra, p=With {#ut#} or {#pra#}
+L=13364, k1=gE, u=vi, p=with  {#vi#}
+;
+;; Case 0048: L=13615, k1=granT
+; OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD
+<L>13615<pc>264-b<k1>granT<k2>granT
+{#granT#}¦ {#(ga, ki) granTati, gaTnAti granTayati#}
+<>1. 9. 10. {%a.%} To string together;
+<>with {#ut#} to unstring.
+<LEND>
+; NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW
+L=13615, k1=granT, u=ud, p=with {#ut#}
+;
+;; Case 0049: L=13642, k1=grah
+; OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD
+<L>13642<pc>265-b<k1>grah<k2>grah
+{#grah#}¦ {#(ga, Ya) gfhRAti, grahRIte#} 9. {%c.%} To
+<>take. With {#anu#} to favour, to
+<>oppose; with {#ava#} to oppose;
+<>with {#upa#} to provide, to favour;
+<>with {#ut#} to deposit; with {#ni#} to
+<>oppose; with {#pari#} to seize; with
+<>{#prati#} to assent to, embrace, to
+<>subdue; with {#vi#} to quarrel, to
+<>fight; with {#saM#} to collect.
+<LEND>
+; NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW
+L=13642, k1=grah, u=anu, p=With {#anu#}
+L=13642, k1=grah, u=ava, p=with {#ava#}
+L=13642, k1=grah, u=upa, p=with {#upa#}
+L=13642, k1=grah, u=ud, p=with {#ut#}
+L=13642, k1=grah, u=ni, p=with {#ni#}
+L=13642, k1=grah, u=pari, p=with {#pari#}
+L=13642, k1=grah, u=prati, p=with  {#prati#}
+L=13642, k1=grah, u=vi, p=with {#vi#}
+L=13642, k1=grah, u=sam, p=with {#saM#}
+;
+;; Case 0050: L=13789, k1=Gaww
+; OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD
+<L>13789<pc>268-b<k1>Gaww<k2>Gaww
+{#Gaww#}¦ {#(ki) Gawwati Gawwayati#} 1. 10. {%a.%} To
+<>move. With {#pari#} to diffuse; with
+<>{#vi#} to rub or scratch.
+<LEND>
+; NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW
+L=13789, k1=Gaww, u=pari, p=With {#pari#}
+L=13789, k1=Gaww, u=vi, p=with  {#vi#}
+;
+;; Case 0051: L=13924, k1=Guza
+; OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD
+<L>13924<pc>271-a<k1>Guza<k2>Guza
+{#Guza#}¦ {#(-Na, i) Guzate#} 1. {%d.%} To render
+<>beautiful or brilliant {#(ira) Gozati#}
+<>{#(ka) Gozayati#} To sound, to speak,
+<>to praise; to hurt. With {#A#}
+<>prefixed, to weep much.
+<LEND>
+; NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW
+L=13924, k1=Guza, u=A, p=With {#A#}
+;
+;; Case 0052: L=14262, k1=cam
+; OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD
+<L>14262<pc>278-a<k1>cam<k2>cam
+{#cam#}¦ {#(-u, na) camnoti#} 5. {%a.%} To eat; to
+<>chew. With {#A#} prefixed, to sip.
+<LEND>
+; NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW
+L=14262, k1=cam, u=A, p=With {#A#}
+;
+;; Case 0053: L=14293, k1=car
+; OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD
+<L>14293<pc>278-b<k1>car<k2>car
+{#car#}¦ {#carati#} 1. {%a.%} To go; to eat.
+<>{#(ka) cArayati#} 10th to doubt, or
+<>not doubt. With {#aBi#} to deceive,
+<>conjure, attend; with {#anu#} to 
+[Page279-a+ 38]
+<>follow, imitate; with {#A#} to
+<>practise; with {#ut#} to transgress,
+<>expel, rise; with {#upa#} to ap-
+<>proach, worship; with {#pari#} to
+<>serve; with {#pra#} to preach, pre-
+<>vail; with {#vi#} to judge, discuss;
+<>with {#saM#} to ride on; with {#ati#}
+<>and {#A#} to transgress; with {#vi#}
+<>and {#aBi#} to commit whoredom;
+<>with {#saM#} and {#A#} to inform, to tell.
+<LEND>
+; NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW
+L=14293, k1=car, u=aBi, p=With {#aBi#}
+L=14293, k1=car, u=anu, p=with {#anu#}
+L=14293, k1=car, u=A, p=with {#A#}
+L=14293, k1=car, u=ud, p=with {#ut#}
+L=14293, k1=car, u=upa, p=with {#upa#}
+L=14293, k1=car, u=pari, p=with {#pari#}
+L=14293, k1=car, u=pra, p=with {#pra#}
+L=14293, k1=car, u=vi, p=with {#vi#}
+L=14293, k1=car, u=sam, p=with {#saM#}
+L=14293, k1=car, u=atyA, p=with {#ati#}  and {#A#}
+L=14293, k1=car, u=vyaBi, p=with {#vi#}  and {#aBi#}
+L=14293, k1=car, u=samA, p=with {#saM#} and {#A#}
+;
+;; Case 0054: L=15077, k1=Cid
+; OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD
+<L>15077<pc>294-a<k1>Cid<k2>Cid
+{#Cid#}¦ {#(Da, ira, O, Ya) Cinatti Cinte#} 7. {%c.%}
+<>To cut. With {#A#} prefixed to
+<>seize; with {#ut#} to kill, to slay. 
+<LEND>
+; NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW
+L=15077, k1=Cid, u=A, p=With {#A#}
+L=15077, k1=Cid, u=ud, p=with {#ut#}
+;
+;; Case 0055: L=15747, k1=ji
+; OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD
+<L>15747<pc>307-a<k1>ji<k2>ji
+{#ji#}¦ {#jayati#} 1. {%a.%} To excel, to conquer.
+<>With {#vi#} or {#parA#} to overcome.
+<LEND>
+; NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW
+L=15747, k1=ji, u=vi:parA, p=With {#vi#} or {#parA#}
+;
+;; Case 0056: L=15856, k1=jIva
+; OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD
+<L>15856<pc>309-a<k1>jIva<k2>jIva
+{#jIva#}¦ {#jIvati#} 1. {%a.%} To live. With {#A#}
+<>to enjoy, get a living; with {#upa#}
+<>to depend on for a living; with
+<>{#pra#} or {#saM#} to live well.
+<LEND>
+; NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW
+L=15856, k1=jIva, u=A, p=With {#A#}
+L=15856, k1=jIva, u=upa, p=with {#upa#}
+L=15856, k1=jIva, u=pra:sam, p=with  {#pra#} or {#saM#}
+;
+;; Case 0057: L=15990, k1=jYA
+; OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD
+<L>15990<pc>312-a<k1>jYA<k2>jYA
+{#jYA#}¦ {#(ga) jAnAti jAnIte#} 9. {%c.%} To know.
+<>With {#anu#} to assent to, acknow-
+<>ledge; with {#apa#} to conceal; with
+<>{#ava#} to despise; with {#A#} to com-
+<>mand; with {#pra#} to know well;
+<>with {#upa#} to deny knowing;
+<>with {#pari#} to ascertain; with {#prati#}
+<>or {#saM#} to assent to, promise;
+<>with {#vi#} to discriminate; with
+<>{#saM#} to recollect; with {#prati#} and
+<>{#aBi#} to recognize. 10th. With {#A#}
+<>to command; with other prepo-
+<>sitions to whet; to praise; slay.
+<LEND>
+; NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW
+L=15990, k1=jYA, u=anu, p=With {#anu#}
+L=15990, k1=jYA, u=apa, p=with {#apa#}
+L=15990, k1=jYA, u=ava, p=with  {#ava#}
+L=15990, k1=jYA, u=A, p=with {#A#}
+L=15990, k1=jYA, u=pra, p=with {#pra#}
+L=15990, k1=jYA, u=upa, p=with {#upa#}
+L=15990, k1=jYA, u=pari, p=with {#pari#}
+L=15990, k1=jYA, u=prati:sam, p=with {#prati#}  or {#saM#}
+L=15990, k1=jYA, u=vi, p=with {#vi#}
+L=15990, k1=jYA, u=sam, p=with  {#saM#}
+L=15990, k1=jYA, u=pratyaBi, p=with {#prati#} and  {#aBi#}
+L=15990, k1=jYA, u=A, p=With {#A#}
+;
+;; Case 0058: L=16226, k1=qab
+; OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD
+<L>16226<pc>317-a<k1>qab<k2>qab
+{#qab#}¦ {#(i) qambayati#} 10. {%a.%} To throw,
+<>to send. With {#vi#} to deceive.
+<LEND>
+; NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW
+L=16226, k1=qab, u=vi, p=With {#vi#}
+;
+;; Case 0059: L=16253, k1=qI
+; OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD
+<L>16253<pc>317-b<k1>qI<k2>qI
+{#qI#}¦ {#(Na) qayate#} 1. {%d.%} To fly, to go. {#(ya)#}
+<>{#qIyate#} 4. {%d. Idem.%} With {#ava#} to
+<>fly down; with {#ut#} to fly up;
+<>with {#pari#} to fly round; with {#pra#}
+<>to fly well; with {#samut#} to fly
+<>together; to fly up together.
+<LEND>
+; NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW
+L=16253, k1=qI, u=ava, p=With {#ava#}
+L=16253, k1=qI, u=ud, p=with {#ut#}
+L=16253, k1=qI, u=pari, p=with {#pari#}
+L=16253, k1=qI, u=pra, p=with {#pra#}
+L=16253, k1=qI, u=samut, p=with {#samut#}
+;
+;; Case 0060: L=16286, k1=Ram
+; OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD
+<L>16286<pc>318-b<k1>Ram<k2>Ram
+{#Ram#}¦ {#(O) namati#} 1. {%a.%} To salute with
+<>reverence or respect. With {#ava,#}
+<>{#A#} or {#saM#} to bend; with {#ut#} to
+<>erect; with {#pra#} to bow or salute.
+<LEND>
+; NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW
+L=16286, k1=Ram, u=ava:A:sam, p=With {#ava,#}  {#A#} or {#saM#}
+L=16286, k1=Ram, u=ud, p=with {#ut#}
+L=16286, k1=Ram, u=pra, p=with {#pra#}
+;
+;; Case 0061: L=16292, k1=Rah
+; OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD
+<L>16292<pc>318-b<k1>Rah<k2>Rah
+{#Rah#}¦ {#(Ya, O) nahyati, te#} 4. {%c.%} To bind
+<>or tie. With {#saM#} to put on armour.
+<LEND>
+; NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW
+L=16292, k1=Rah, u=sam, p=With {#saM#}
+;
+;; Case 0062: L=16302, k1=RI
+; OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD
+<L>16302<pc>318-b<k1>RI<k2>RI
+{#RI#}¦ {#nayati, te#} 1. {%c.%} To conduct, lead
+<>to, get. With {#anu#} to intreat, to
+<>assimilate, to favour; with {#apa#}
+<>to remove, attract; with {#aBi#}
+<>to indicate by signs, be kind to;
+<>with {#A#} to bring; with {#ut#} to
+<>raise up; with {#upa#} to approach; 
+[Page319-a+ 37]
+<>with {#dur#} to behave ill; with {#nir#}
+<>to get, to ascertain; with {#pari#} to
+<>marry; with {#pra#} to love; with {#vi#}
+<>to remove to a distance, be hum-
+<>ble; with {#su#} to be polite; with {#saM#}
+<>to collect or assemble; with {#vi#}
+<>and {#apa#} to disperse; with {#vi#} and
+<>{#nira#} to decide by law; with {#saM#}
+<>and {#anu#} to intreat; with {#saM#} and
+<>{#A#} to collect, to assemble.
+<LEND>
+; NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW
+L=16302, k1=RI, u=anu, p=With {#anu#}
+L=16302, k1=RI, u=apa, p=with {#apa#}
+L=16302, k1=RI, u=aBi, p=with {#aBi#}
+L=16302, k1=RI, u=A, p=with {#A#}
+L=16302, k1=RI, u=ud, p=with {#ut#}
+L=16302, k1=RI, u=upa, p=with {#upa#}
+L=16302, k1=RI, u=dur, p=with {#dur#}
+L=16302, k1=RI, u=nir, p=with {#nir#}
+L=16302, k1=RI, u=pari, p=with {#pari#}
+L=16302, k1=RI, u=pra, p=with {#pra#}
+L=16302, k1=RI, u=vi, p=with {#vi#}
+L=16302, k1=RI, u=su, p=with {#su#}
+L=16302, k1=RI, u=sam, p=with {#saM#}
+L=16302, k1=RI, u=vyapa, p=with {#vi#}  and {#apa#}
+L=16302, k1=RI, u=vinir, p=with {#vi#} and  {#nira#}
+L=16302, k1=RI, u=samanu, p=with {#saM#}  and {#anu#}
+L=16302, k1=RI, u=samA, p=with {#saM#} and  {#A#}
+;
+;; Case 0063: L=16305, k1=Ru
+; OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD
+<L>16305<pc>319-a<k1>Ru<k2>Ru
+{#Ru#}¦ {#(la) nOti nuvati#} 2. {%a.%} To praise.
+<>With {#A#} to utter a cry of regret.
+<LEND>
+; NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW
+L=16305, k1=Ru, u=A, p=With {#A#}
+;
+;; Case 0064: L=16306, k1=Rud
+; OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD
+<L>16306<pc>319-a<k1>Rud<k2>Rud
+{#Rud#}¦ {#(Sa-O) nudati#} 6. {%a.%} To cast, to
+<>command. With {#apa#} to remove;
+<>with {#nir#} to throw out; to con-
+<>fess; with {#pra#} to follow; with {#vi#}
+<>to be happy; with {#saM#} to drive.
+<LEND>
+; NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW
+L=16306, k1=Rud, u=apa, p=With {#apa#}
+L=16306, k1=Rud, u=nir, p=with {#nir#}
+L=16306, k1=Rud, u=pra, p=with {#pra#}
+L=16306, k1=Rud, u=vi, p=with {#vi#}
+L=16306, k1=Rud, u=sam, p=with {#saM#}
+;
+;; Case 0065: L=16312, k1=tak
+; OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD
+<L>16312<pc>319-a<k1>tak<k2>tak
+{#tak#}¦ {#takati#} 1. {%a.%} To laugh at or de-
+<>ride; to bear. With {#vyati#} to re-
+<>tort a laugh. {#(i) taNkati#} to live
+<>in distress, or want.
+<LEND>
+; NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW
+L=16312, k1=tak, u=vyati, p=With {#vyati#}
+;
+;; Case 0066: L=16492, k1=tap
+; OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD
+<L>16492<pc>323-a<k1>tap<k2>tap
+{#tap#}¦ {#(Ya, O) tapati, te#} 1. {%c.%} {#(Ya, ya)#}
+<>{#tapyati, te#} 4. {%c.%} {#(Ya, ka) tApayati, ta#}
+<>10. {%c.%} To heat; to perform pe-
+<>nance. With {#anu#} to repent; with
+<>{#pari#} or {#saM#} to bear pain; be sad.
+<LEND>
+; NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW
+L=16492, k1=tap, u=anu, p=With {#anu#}
+L=16492, k1=tap, u=pari:sam, p=with  {#pari#} or {#saM#}
+;
+;; Case 0067: L=17331, k1=tF
+; OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD
+<L>17331<pc>340-b<k1>tF<k2>tF
+{#tF#}¦ {#tarati#} 1. {%a.%} To pass over or across.
+<>With {#ava#} to descend from above;
+<>with {#A#} to cross in a boat;
+<>with {#ut#} to pass over or above;
+<>with {#dur#} to cross with difficul-
+<>ty; with {#nir#} to cross safely;
+<>with {#pra#} to excel, to over-reach;
+<>with {#vi#} to relinquish, give away;
+<>with ({#saM#}) to swim over.
+<LEND>
+; NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW
+L=17331, k1=tF, u=ava, p=With {#ava#}
+L=17331, k1=tF, u=A, p=with {#A#}
+L=17331, k1=tF, u=ud, p=with {#ut#}
+L=17331, k1=tF, u=dur, p=with {#dur#}
+L=17331, k1=tF, u=nir, p=with {#nir#}
+L=17331, k1=tF, u=pra, p=with {#pra#}
+L=17331, k1=tF, u=vi, p=with {#vi#}
+L=17331, k1=tF, u=sam, p=with ({#saM#}
+;
+;; Case 0068: L=17771, k1=tviz
+; OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD
+<L>17771<pc>349-b<k1>tviz<k2>tviz
+{#tviz#}¦ {#(O, Na) tvezate#} 1. {%d.%} To shine.
+<>With {#ava#} to give; to dwell.
+<LEND>
+; NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW
+L=17771, k1=tviz, u=ava, p=With {#ava#}
+;
+;; Case 0069: L=18141, k1=daS
+; OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD
+<L>18141<pc>357-a<k1>daS<k2>daS
+{#daS#}¦ {#(i) daSati daMSayati#} 1. 10. {%a.%} To
+<>bite or sting; to put on armour;
+<>to see. {#daMSayate#} 10. {%d.%} to shine.
+<>With {#upa#} to be in trouble; with
+<>{#saM#} to pinch, to nip, to bite.
+<LEND>
+; NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW
+L=18141, k1=daS, u=upa, p=With {#upa#}
+L=18141, k1=daS, u=sam, p=with  {#saM#}
+;
+;; Case 0070: L=18511, k1=diS
+; OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD
+<L>18511<pc>364-b<k1>diS<k2>diS
+{#diS#}¦ {#(Sa, Ya, O) diSati, te#} 6. {%c.%} To
+<>shew, to order, to command, to
+<>give. With {#apa#} to disguise;
+<>with {#A#} to order, shew, sum-
+<>mons; with {#ut#} to proclaim,
+<>shew; with {#upa#} to advise; with
+<>{#nira#} to shew, speak aloud; with
+<>{#pra#} to appoint; with {#saM#} to exhi-
+<>bit, to inform; with {#prati#} and {#saM#}
+<>to send back; with {#vi#} and {#apa#}
+<>to plead in excuse; with {#vi#}
+<>and {#nir#} to declare; with {#saM#} and
+<>{#A#} to allow; with {#saM#} and {#upa#} to
+<>point at with the finger.
+<LEND>
+; NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW
+L=18511, k1=diS, u=apa, p=With {#apa#}
+L=18511, k1=diS, u=A, p=with {#A#}
+L=18511, k1=diS, u=ud, p=with {#ut#}
+L=18511, k1=diS, u=upa, p=with {#upa#}
+L=18511, k1=diS, u=nir, p=with  {#nira#}
+L=18511, k1=diS, u=pra, p=with  {#pra#}
+L=18511, k1=diS, u=sam, p=with {#saM#}
+L=18511, k1=diS, u=pratisam, p=with {#prati#} and {#saM#}
+L=18511, k1=diS, u=vyapa, p=with {#vi#} and {#apa#}
+L=18511, k1=diS, u=vinir, p=with {#vi#}  and {#nir#}
+L=18511, k1=diS, u=samA, p=with {#saM#} and  {#A#}
+L=18511, k1=diS, u=samupa, p=with {#saM#} and {#upa#}
+;
+;; Case 0071: L=18863, k1=duz
+; OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD
+<L>18863<pc>371-b<k1>duz<k2>duz
+{#duz#}¦ {#(ya, ir, O) duzyati#} 4. {%a.%} To
+<>do or act wrong; or be impure.
+<>With {#pra#} and {#A#} to become ma-
+<>nifest or apparent.
+<LEND>
+; NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW
+L=18863, k1=duz, u=prA, p=With {#pra#} and {#A#}
+;
+;; Case 0072: L=18964, k1=df
+; OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD
+<L>18964<pc>373-b<k1>df<k2>df
+{#df#}¦ {#(Sa) driyate#} 6. {%d.%} To reverence,
+<>used with {#A#} prefixed. {#(na) dfRoti#}
+<>5. {%a.%} To hurt. {#(ki) darati,#}
+<>{#dArayati#} 1. 10. {%a.%} To fear.
+<LEND>
+; NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW
+L=18964, k1=df, u=A, p=with {#A#}
+;
+;; Case 0073: L=19020, k1=dfS
+; OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD
+<L>19020<pc>374-b<k1>dfS<k2>dfS
+{#dfS#}¦ {#(O, ir) paSyati#} 1. {%a.%} To see.
+<>With {#ut#} to observe; to foresee,
+<>to anticipate; to doubt.
+<LEND>
+; NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW
+L=19020, k1=dfS, u=ud, p=With {#ut#}
+;
+;; Case 0074: L=19474, k1=dru
+; OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD
+<L>19474<pc>383-a<k1>dru<k2>dru
+{#dru#}¦ {#dravati#} 1. {%a.%} To go, to run; to dis-
+<>til. {#(na) druRoti, te#} 5. {%c.%} To hurt.
+<>With {#anu#} to pursue, to follow;
+<>with {#aBi#} to swim, to float down;
+<>with {#A#} to flee; with {#upa#} to op-
+<>press; with {#pra#} to retreat, to run
+<>away; with {#vi#} to kill, to flee;
+<>with {#saM#} and {#A#} to run together;
+<>with {#saM#} and {#upa#} to flee, to meet.
+<LEND>
+; NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW
+L=19474, k1=dru, u=anu, p=With {#anu#}
+L=19474, k1=dru, u=aBi, p=with {#aBi#}
+L=19474, k1=dru, u=A, p=with {#A#}
+L=19474, k1=dru, u=upa, p=with {#upa#}
+L=19474, k1=dru, u=pra, p=with {#pra#}
+L=19474, k1=dru, u=vi, p=with {#vi#}
+L=19474, k1=dru, u=samA, p=with {#saM#} and {#A#}
+L=19474, k1=dru, u=samupa, p=with {#saM#} and {#upa#}
+;
+;; Case 0075: L=19514, k1=drE
+; OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD
+<L>19514<pc>384-a<k1>drE<k2>drE
+{#drE#}¦ {#drAyati#} 1. {%a.%} To sleep; commonly
+<>used with ({#ni#}) prefixed.
+<LEND>
+; NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW
+L=19514, k1=drE, u=ni, p=with ({#ni#}
+;
+;; Case 0076: L=20012, k1=DA
+; OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD
+<L>20012<pc>393-b<k1>DA<k2>DA
+{#DA#}¦ {#(li, Ya, qu) daDAti, te#} 3. {%c.%} To hold
+<>or support; to nurture; to have.
+<>With {#aBi#} to cover, to address;
+<>with {#ava#} to take heed; with {#A#} to
+<>receive; with {#upa#} to uphold, to per-
+<>form; with {#ni#} to hold up, to place;
+<>with {#pari#} to put on cloths; with {#pra#} to be
+<>chief, to send; with {#vi#} act correctly,
+<>to select; with {#saM#} to place. With {#anu#}
+<>and {#saM#} to search after; with {#aBi#} and
+<>{#saM#} to overcome; with {#upa#} and {#A#} to
+<>support or prop up; with {#pra#} and {#ni#}
+<>to hold up, to elevate; with {#prati#} and
+<>{#vi#} to perform; with {#vi#} and {#ava#} to
+<>conceal; with {#saM#} and {#A#} to instruct;
+<>with {#saM#} and {#ni#} to place or have over;
+<>with {#saM#} and {#pra#} to doubt, to discuss.
+<LEND>
+; NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW
+L=20012, k1=DA, u=aBi, p=With {#aBi#}
+L=20012, k1=DA, u=ava, p=with {#ava#}
+L=20012, k1=DA, u=A, p=with {#A#}
+L=20012, k1=DA, u=upa, p=with {#upa#}
+L=20012, k1=DA, u=ni, p=with {#ni#}
+L=20012, k1=DA, u=pari, p=with {#pari#}
+L=20012, k1=DA, u=pra, p=with {#pra#}
+L=20012, k1=DA, u=vi, p=with {#vi#}
+L=20012, k1=DA, u=sam, p=with {#saM#}
+L=20012, k1=DA, u=anusam, p=With {#anu#}  and {#saM#}
+L=20012, k1=DA, u=aBisam, p=with {#aBi#} and  {#saM#}
+L=20012, k1=DA, u=upA, p=with {#upa#} and {#A#}
+L=20012, k1=DA, u=prani, p=with {#pra#} and {#ni#}
+L=20012, k1=DA, u=prativi, p=with {#prati#} and  {#vi#}
+L=20012, k1=DA, u=vyava, p=with {#vi#} and {#ava#}
+L=20012, k1=DA, u=samA, p=with {#saM#} and {#A#}
+L=20012, k1=DA, u=saMni, p=with {#saM#} and {#ni#}
+L=20012, k1=DA, u=sampra, p=with {#saM#} and {#pra#}
+;
+;; Case 0077: L=20108, k1=DAv
+; OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD
+<L>20108<pc>396-a<k1>DAv<k2>DAv
+{#DAv#}¦ {#(Ya, u) DAvati, te#} 1. {%c.%} To go or
+<>move; to run; to cleanse. With
+<>{#aBi#} to approach; with {#A#} to
+<>alight; with {#pari#} to run fast;
+<>with {#vi#} to sprinkle; with {#saM#} and
+<>{#upa#} to run, to meet.
+<LEND>
+; NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW
+L=20108, k1=DAv, u=aBi, p=With  {#aBi#}
+L=20108, k1=DAv, u=A, p=with {#A#}
+L=20108, k1=DAv, u=pari, p=with {#pari#}
+L=20108, k1=DAv, u=vi, p=with {#vi#}
+L=20108, k1=DAv, u=samupa, p=with {#saM#} and  {#upa#}
+;
+;; Case 0078: L=20180, k1=DU
+; OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD
+<L>20180<pc>397-b<k1>DU<k2>DU
+{#DU#}¦ {#(na, Ya) DUnoti, nute#} 5. {%c.%} To shake
+<>or agitate. So {#Davati te#} 1. {%c.%} {#Duvati#}
+<>6. {%a.%} {#DunAti nIte#} 9. {%c.%} {#DUnayati#}
+<>{#DAvayati#} 10. {%a.%} With {#ava#} to aban-
+<>don, to know, to perceive; with {#nira#}
+<>to destroy; to go; with {#vi#} to agitate.
+<LEND>
+; NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW
+L=20180, k1=DU, u=ava, p=With {#ava#}
+L=20180, k1=DU, u=nir, p=with {#nira#}
+L=20180, k1=DU, u=vi, p=with {#vi#}
+;
+;; Case 0079: L=20254, k1=Df
+; OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD
+<L>20254<pc>398-b<k1>Df<k2>Df
+{#Df#}¦ {#Darati#} 1. {%a.%} To sprinkle. {#(Na) Darate#}
+<>1. {%d.%} To fall. {#(Sa) Driya te#} 6. {%d.%} To
+<>continue; to hold. {#(Ya) Darati te#}
+<>1. {%c.%} To hold, to keep, to main-
+<>tain. {#(ka) DArayati#} 10. {%a.%} To hold.
+<>With {#apa#} or {#nira#} to verify.
+<LEND>
+; NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW
+L=20254, k1=Df, u=apa:nir, p=With {#apa#} or {#nira#}
+;
+;; Case 0080: L=20327, k1=DyE
+; OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD
+<L>20327<pc>400-a<k1>DyE<k2>DyE
+{#DyE#}¦ {#DyAyati#} 1. {%a.%} To meditate, to re-
+<>collect, to think closely. With
+<>{#ni#} to see, to look out for.
+<LEND>
+; NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW
+L=20327, k1=DyE, u=ni, p=With  {#ni#}
+;
+;; Case 0081: L=20503, k1=naw
+; OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD
+<L>20503<pc>403-b<k1>naw<k2>naw
+{#naw#}¦ {#nadati (ka) nAdayati#} 1. {%a.%} To
+<>speak; to shine, to thrive. {#(i, wu)#}
+<>{#nandati#} 1. {%a.%} With {#A#} to be happy.
+<LEND>
+; NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW
+L=20503, k1=naw, u=A, p=With {#A#}
+;
+;; Case 0082: L=22391, k1=paw
+; OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD
+<L>22391<pc>441-b<k1>paw<k2>paw
+{#paw#}¦ {#pawati#} 1. {%a.%} To go or move. {#(ka)#}
+<>{#pawayati#} 10. {%a.%} To string, surround,
+<>distribute. {#pAwayati#} to speak; to
+<>shine. With {#vi#} to run away.
+<LEND>
+; NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW
+L=22391, k1=paw, u=vi, p=With {#vi#}
+;
+;; Case 0083: L=22484, k1=pat
+; OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD
+<L>22484<pc>443-b<k1>pat<k2>pat
+{#pat#}¦ {#(x) patati#} 1. {%a.%} {#(ka) patayati,#}
+<>{#pAtayati#} 10. {%a.%} To go, to move;
+<>to fall; to be superhuman. {#(ya, Na)#}
+<>{#patyate#} 4. {%d.%} To be rich. With {#ati#}
+<>prefixed, to excel; with {#aBi#} or {#ava#}
+<>to descend; with {#A#} to arrive; with {#ut#} to
+<>ascend; with {#ni#} to gain; with {#nir#} to ab-
+<>scond; with {#pari#} to go fast, be valu-
+<>able; with {#saM#} to go with, to gain; with {#pra#}
+<>and {#ni#} to fall prostrate; with {#vi#} and
+<>{#nir#} to turn back; with {#saM#} and {#A#} to
+<>purify; with {#saM#} and {#ut#} to fly; with {#saM#} and
+<>{#ni#} to go out.
+<LEND>
+; NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW
+L=22484, k1=pat, u=ati, p=With {#ati#}
+L=22484, k1=pat, u=aBi:ava, p=with {#aBi#} or {#ava#}
+L=22484, k1=pat, u=A, p=with {#A#}
+L=22484, k1=pat, u=ud, p=with {#ut#}
+L=22484, k1=pat, u=ni, p=with {#ni#}
+L=22484, k1=pat, u=nir, p=with {#nir#}
+L=22484, k1=pat, u=pari, p=with {#pari#}
+L=22484, k1=pat, u=sam, p=with {#saM#}
+L=22484, k1=pat, u=prani, p=with {#pra#}  and {#ni#}
+L=22484, k1=pat, u=vinir, p=with {#vi#} and  {#nir#}
+L=22484, k1=pat, u=samA, p=with {#saM#} and {#A#}
+L=22484, k1=pat, u=samud, p=with {#saM#} and {#ut#}
+L=22484, k1=pat, u=saMni, p=with {#saM#} and  {#ni#}
+;
+;; Case 0084: L=22597, k1=pad
+; OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD
+<L>22597<pc>446-a<k1>pad<k2>pad
+{#pad#}¦ {#(ya, Na, O) padyate#} 4. {%d.%} To go {#(ka)#}
+<>{#padayati#} 10. {%a. Idem.%} {#(e) padati#}
+<>1. {%a.%} To stand fast. With {#aBi#}
+<>to know, to see; with {#anu#} to follow;
+<>with {#A#} to happen, suffer, increase;
+<>with {#ut#} to be born or produced;
+<>with {#upa#} to gain, be born; with {#pra#} to gain,
+<>begin; with {#prati#} to gain; restore;
+<>promise; with {#vi#} to suffer; with {#saM#} to
+<>perform, do; with {#upa#} and {#saM#} to
+<>offer oblations; with {#pra#} and {#vi#} to en-
+<>act; with {#vi#} and {#A#} to kill; with {#vi#} and
+<>{#ut#} to discriminate, analyze; with {#saM#}
+<>and {#A#} to arrive, finish.
+<LEND>
+; NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW
+L=22597, k1=pad, u=aBi, p=With {#aBi#}
+L=22597, k1=pad, u=anu, p=with {#anu#}
+L=22597, k1=pad, u=A, p=with {#A#}
+L=22597, k1=pad, u=ud, p=with {#ut#}
+L=22597, k1=pad, u=upa, p=with {#upa#}
+L=22597, k1=pad, u=pra, p=with {#pra#}
+L=22597, k1=pad, u=prati, p=with {#prati#}
+L=22597, k1=pad, u=vi, p=with {#vi#}
+L=22597, k1=pad, u=sam, p=with {#saM#}
+L=22597, k1=pad, u=upasam, p=with {#upa#} and {#saM#}
+L=22597, k1=pad, u=pravi, p=with {#pra#} and {#vi#}
+L=22597, k1=pad, u=vyA, p=with {#vi#} and {#A#}
+L=22597, k1=pad, u=vyud, p=with {#vi#} and  {#ut#}
+L=22597, k1=pad, u=samA, p=with {#saM#}  and {#A#}
+;
+;; Case 0085: L=24939, k1=pf
+; OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD
+<L>24939<pc>494-a<k1>pf<k2>pf
+{#pf#}¦ {#(li) pipartti#} 3. {%a.%} To protect; to
+<>fill. {#(na) pfRoti#} 5. {%a.%} To satisfy.
+<>{#(ki) parati, pArayati#} 1. 10. {%a.%}
+<>To fill. ({#SaNa,)#} with {#vyA#} prefixed.
+<>{#vyApfyate#} 6. {%d.%} To be busy or active.
+<LEND>
+; NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW
+L=24939, k1=pf, u=vyA, p=with {#vyA#}
+;
+;; Case 0086: L=26868, k1=plu
+; OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD
+<L>26868<pc>532-a<k1>plu<k2>plu
+{#plu#}¦ {#(Na) plavate#} 1. {%d.%} To go; to jump.
+<>With {#ut#} to leap up; with {#vi#}
+<>to plunge in.
+<LEND>
+; NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW
+L=26868, k1=plu, u=ud, p=With {#ut#}
+L=26868, k1=plu, u=vi, p=with {#vi#}
+;
+;; Case 0087: L=27104, k1=banD
+; OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD
+<L>27104<pc>536-b<k1>banD<k2>banD
+{#banD#}¦ {#(ga,) baDnAti#} 9. {%a.%} {#(ka) banDayati#}
+<>10. {%a.%} To bind or tie. With {#A#}
+<>to let loose; with {#anu#} to follow,
+<>be attached to; with {#ni#} to loos-
+<>en; with {#saM#} to connect.
+<LEND>
+; NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW
+L=27104, k1=banD, u=A, p=With {#A#}
+L=27104, k1=banD, u=anu, p=with {#anu#}
+L=27104, k1=banD, u=ni, p=with {#ni#}
+L=27104, k1=banD, u=sam, p=with {#saM#}
+;
+;; Case 0088: L=27441, k1=buD
+; OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD
+<L>27441<pc>543-b<k1>buD<k2>buD
+{#buD#}¦ {#(ba, ira, YaOu) boDati, te#} 1. {%c.%}
+<>{#(ya, O) buDyati, te#} 4. {%c.%} To know, to
+<>understand. With {#prati#} to look
+<>for, expect; with {#vi#} to be wise;
+<>with {#prati#} and {#vi#} to wake.
+<LEND>
+; NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW
+L=27441, k1=buD, u=prati, p=With {#prati#}
+L=27441, k1=buD, u=vi, p=with {#vi#}
+L=27441, k1=buD, u=prativi, p=with {#prati#} and {#vi#}
+;
+;; Case 0089: L=27675, k1=Baj
+; OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD
+<L>27675<pc>548-a<k1>Baj<k2>Baj
+{#Baj#}¦ {#(O) Bajati#} 1. {%a.%} To serve, to
+<>worship; to possess. {#(ka) Bajayati#}
+<>10. {%a.%} To give; cook; divide.
+<>{#(i, ka) BaYjayati#} 10. {%a.%} To shine;
+<>to speak. With {#vi#} to measure;
+<>with {#pra#} and {#vi#} to discriminate. 
+<LEND>
+; NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW
+L=27675, k1=Baj, u=vi, p=With {#vi#}
+L=27675, k1=Baj, u=pravi, p=with {#pra#} and {#vi#}
+;
+;; Case 0090: L=27694, k1=BaR
+; OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD
+<L>27694<pc>548-b<k1>BaR<k2>BaR
+{#BaR#}¦ {#BaRati#} 1. {%a.%} To sound, to speak.
+<>With {#prati#} to reply to.
+<LEND>
+; NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW
+L=27694, k1=BaR, u=prati, p=With {#prati#}
+;
+;; Case 0091: L=27892, k1=BA
+; OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD
+<L>27892<pc>552-b<k1>BA<k2>BA
+{#BA#}¦ {#(la) BAti#} 2. {%m.%} To shine; to be
+<>beautiful; to be pleased; to
+<>blow; to be. With {#A#} to flash;
+<>with {#pra#} or {#vi#} to shine brightly.
+<LEND>
+; NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW
+L=27892, k1=BA, u=A, p=With {#A#}
+L=27892, k1=BA, u=pra:vi, p=with {#pra#} or {#vi#}
+;
+;; Case 0092: L=27915, k1=BAj
+; OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD
+<L>27915<pc>553-a<k1>BAj<k2>BAj
+{#BAj#}¦ {#(ka) BAjayati#} 10. {%a.%} To divide.
+<>With {#vi#} to divide an inheritance.
+<LEND>
+; NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW
+L=27915, k1=BAj, u=vi, p=With {#vi#}
+;
+;; Case 0093: L=28020, k1=BAz
+; OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD
+<L>28020<pc>555-a<k1>BAz<k2>BAz
+{#BAz#}¦ {#(NaH) BAzate#} 1. {%d.%} To speak. With
+<>{#pari#} to expound; with {#saM#} to con-
+<>verse with or discourse.
+<LEND>
+; NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW
+L=28020, k1=BAz, u=pari, p=With  {#pari#}
+L=28020, k1=BAz, u=sam, p=with {#saM#}
+;
+;; Case 0094: L=28030, k1=BAs
+; OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD
+<L>28030<pc>555-b<k1>BAs<k2>BAs
+{#BAs#}¦ {#(Na, f) BAsate#} 1. {%a.%} To shine. With
+<>{#pra#} and {#ni#} to appear probable.
+<LEND>
+; NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW
+L=28030, k1=BAs, u=prani, p=With  {#pra#} and {#ni#}
+;
+;; Case 0095: L=28177, k1=BU
+; OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD
+<L>28177<pc>558-a<k1>BU<k2>BU
+{#BU#}¦ {#Bavati#} 1. {%a. irr.%} To be, to be-
+<>come, to be born. {#(ka) BAvayati#}
+<>10. {%a.%} To mix; think; be clear.
+<>{#(ki, Ya) Bavati, te; BAvayati, te#} 1.
+<>10. {%c.%} To obtain. With {#aDi#} to
+<>rule over; with {#anu#} to experience, do;
+<>with {#aBi#} to overcome, afflict; with {#ut#}
+<>to be born, preside over; with {#parA#}
+<>to be vanquished; with {#pra#} be mani-
+<>fest, be equal to, rule; with {#prati#} to
+<>be substituted for; with {#pari#} to dis-
+<>respect, surround; with {#vi#} to see, up-
+<>hold; prove, have power; with {#saM#} to 
+[Page558-b+ 38]
+<>be possible, contain, overcome,
+<>collect; with {#vi#} and {#ati#} to be reci-
+<>procally or mutually.
+<LEND>
+; NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW
+L=28177, k1=BU, u=aDi, p=With {#aDi#}
+L=28177, k1=BU, u=anu, p=with {#anu#}
+L=28177, k1=BU, u=aBi, p=with {#aBi#}
+L=28177, k1=BU, u=ud, p=with {#ut#}
+L=28177, k1=BU, u=parA, p=with {#parA#}
+L=28177, k1=BU, u=pra, p=with {#pra#}
+L=28177, k1=BU, u=prati, p=with {#prati#}
+L=28177, k1=BU, u=pari, p=with {#pari#}
+L=28177, k1=BU, u=vi, p=with {#vi#}
+L=28177, k1=BU, u=sam, p=with {#saM#}
+L=28177, k1=BU, u=vyati, p=with {#vi#} and {#ati#}
+;
+;; Case 0096: L=28472, k1=Bram
+; OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD
+<L>28472<pc>564-a<k1>Bram<k2>Bram
+{#Bram#}¦ {#Bramati#} 1. {%a.%} {#(u, ya) Bramyati, BrAmyati#}
+<>4. {%a.%} To turn round, to wander
+<>about. With {#pari#} to wander much;
+<>with {#vi#} to play, wanton or rove
+<>about; with {#saM#} to honor, hurry.
+<LEND>
+; NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW
+L=28472, k1=Bram, u=pari, p=With {#pari#}
+L=28472, k1=Bram, u=vi, p=with {#vi#}
+L=28472, k1=Bram, u=sam, p=with {#saM#}
+;
+;; Case 0097: L=28733, k1=matr
+; OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD
+<L>28733<pc>569-b<k1>matr<k2>matr
+{#matr#}¦ {#(ki, i) mantrati mantrayati#} 1. 10. {%a.%} To
+<>speak privately, to counsel. With
+<>{#aBi#} to invite, to invoke; with
+<>{#A#} to salute; with {#ni#} to invite.
+<LEND>
+; NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW
+L=28733, k1=matr, u=aBi, p=With  {#aBi#}
+L=28733, k1=matr, u=A, p=with  {#A#}
+L=28733, k1=matr, u=ni, p=with {#ni#}
+;
+;; Case 0098: L=28767, k1=mad
+; OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD
+<L>28767<pc>570-a<k1>mad<k2>mad
+{#mad#}¦ {#(ya, I, ira, Ba,) mAdyati#} 4. {%a.%} To be
+<>glad; to be proud. {#(ka, Na) mAdayate#}
+<>10. {%d.%} To cause satisfaction. {%Caus.%}
+<>{#mAdayati#} To delight, to madden; 
+[Page570-b+ 38]
+<>with {#ni#} to articulate. {#(i, ira)#}
+<>{#mandati#} 1. {%a.%} To praise; to sleep; to
+<>be stupid; to be elegant; to go.
+<LEND>
+; NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW
+L=28767, k1=mad, u=ni, p=with {#ni#}
+;
+;; Case 0099: L=28961, k1=man
+; OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD
+<L>28961<pc>574-a<k1>man<k2>man
+{#man#}¦ {#(ya, Na) manyate#} 4. {%d.%} To know; to
+<>think; to regard. {#(da, Na, u) manute#}
+<>8. {%d. Idem.%} {#(ka, Na) mAnayate#} 10. {%d.%} To
+<>be dull, proud, oppose. {#(ki, Ya)#}
+<>{#manati, mAnayati#} 1. 10. {%c.%} To honor,
+<>worship; with {#anu#} to conjecture,
+<>agree; with {#aBi#} to be proud,
+<>desire; with {#ava#} to disrespect;
+<>with {#saM#} to honor, concur.
+<LEND>
+; NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW
+L=28961, k1=man, u=anu, p=with {#anu#}
+L=28961, k1=man, u=aBi, p=with {#aBi#}
+L=28961, k1=man, u=ava, p=with {#ava#}
+L=28961, k1=man, u=sam, p=with {#saM#}
+;
+;; Case 0100: L=29603, k1=mA
+; OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD
+<L>29603<pc>586-b<k1>mA<k2>mA
+{#mA#}¦ {#(la) mAti#} 2. {%a.%} {#(li, Na) mimIte#}
+<>3. {%d.%} {#(ya, Na) mAyate#} 4. {%d.%} To mete,
+<>to measure. With {#anu#} to infer;
+<>with {#upa#} to resemble; with {#pari#} to mea-
+<>sure; with {#pra#} to be evidence, witness.
+<LEND>
+; NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW
+L=29603, k1=mA, u=anu, p=With {#anu#}
+L=29603, k1=mA, u=upa, p=with {#upa#}
+L=29603, k1=mA, u=pari, p=with {#pari#}
+L=29603, k1=mA, u=pra, p=with {#pra#}
+;
+;; Case 0101: L=29715, k1=mAn
+; OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD
+<L>29715<pc>589-a<k1>mAn<k2>mAn
+{#mAn#}¦ {#mImAMsite#} 1. {%d.%} To investigate
+<>{#(ki) mAnati mAnayati#} to 10. {%a.%} To
+<>respect, to worship. With {#apa#}
+<>or {#ava#} to disrespect, disgrace.
+<LEND>
+; NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW
+L=29715, k1=mAn, u=apa:ava, p=With {#apa#}  or {#ava#}
+;
+;; Case 0102: L=29981, k1=mIl
+; OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD
+<L>29981<pc>594-a<k1>mIl<k2>mIl
+{#mIl#}¦ {#mIlati#} 1. {%a.%} To wink or close.
+<>With {#ut#} to awake; to expand.
+<LEND>
+; NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW
+L=29981, k1=mIl, u=ud, p=With {#ut#}
+;
+;; Case 0103: L=30071, k1=muc
+; OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD
+<L>30071<pc>596-a<k1>muc<k2>muc
+{#muc#}¦ {#(x, O, Sa) muYcati, te#} 6. {%c.%} To be
+<>loose or free; to forsake; {#(ka)#}
+<>{#mocayati#} to let loose; to gladden;
+<>{#(Na) mocate#} 1. {%d.%} To deceive; {#(i, Na)#}
+<>{#muYcate#} to be proud; wicked; to
+<>speak; to pound; to cheat. With
+<>{#pra#} to give much; with {#vi#} to obtain
+<>liberation; to give; to loose.
+<LEND>
+; NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW
+L=30071, k1=muc, u=pra, p=With  {#pra#}
+L=30071, k1=muc, u=vi, p=with {#vi#}
+;
+;; Case 0104: L=30247, k1=mUl
+; OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD
+<L>30247<pc>599-a<k1>mUl<k2>mUl
+{#mUl#}¦ {#(Ya) mUlatite#} 1. {%d.%} To stand, to
+<>be rooted {#(ka) mUlayati#} to plant,
+<>to sprout. With {#ut#} to eradicate.
+<LEND>
+; NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW
+L=30247, k1=mUl, u=ud, p=With {#ut#}
+;
+;; Case 0105: L=30435, k1=mfS
+; OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD
+<L>30435<pc>602-b<k1>mfS<k2>mfS
+{#mfS#}¦ {#(Sa, O) mfSati#} 6. {%a.%} To touch;
+<>to perceive; to consult. With {#parA#}
+<>to counsel; with {#vi#} to consider.
+<LEND>
+; NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW
+L=30435, k1=mfS, u=parA, p=With {#parA#}
+L=30435, k1=mfS, u=vi, p=with {#vi#}
+;
+;; Case 0106: L=30436, k1=mfz
+; OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD
+<L>30436<pc>602-b<k1>mfz<k2>mfz
+{#mfz#}¦ {#(Ya) marzati, te#} 1. {%c.%} {#(ka) marzayati, te#}
+<>10. {%c.%} {#(ya, Ya) mfzyati, te#} 4. {%c.%} To
+<>bear, to suffer. {#(u) marzati#} 1. {%a.%}
+<>To sprinkle. With {#A#} to be an-
+<>gry; with {#vi#} to be grieved.
+<LEND>
+; NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW
+L=30436, k1=mfz, u=A, p=With {#A#}
+L=30436, k1=mfz, u=vi, p=with {#vi#}
+;
+;; Case 0107: L=30665, k1=mluc
+; OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD
+<L>30665<pc>606-b<k1>mluc<k2>mluc
+{#mluc#}¦ {#(u) mluYcati#} 1. {%a.%} To go. With
+<>{#aBi#} or {#ni#} to set as the sun.
+<LEND>
+; NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW
+L=30665, k1=mluc, u=aBi:ni, p=With  {#aBi#} or {#ni#}
+;
+;; Case 0108: L=30750, k1=yat
+; OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD
+<L>30750<pc>608-b<k1>yat<k2>yat
+{#yat#}¦ {#(I, Na) yatate#} 1. {%d.%} To resolve, to
+<>endeavour. {#(ka) yAtayati#} 10. {%a.%}
+<>To distress, beat, order, collect,
+<>work, prevent, remove, return,
+<>barter, purify. With {#nir#} or {#vi#}
+<>to chastise or punish.
+<LEND>
+; NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW
+L=30750, k1=yat, u=nir:vi, p=With {#nir#} or {#vi#}
+;
+;; Case 0109: L=30844, k1=yam
+; OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD
+<L>30844<pc>610-a<k1>yam<k2>yam
+{#yam#}¦ {#(O, u) yacCati#} 1. {%a.%} To stop,
+<>cease, end, refrain. {#(ka) yamayati,#}
+<>{#yAmayati#} 10. {%a.%} To feed; to res-
+<>train. {%Act%} with {#YA#} to seize, to go
+<>to; with {#ut#} to rise, to endeavour;
+<>with {#ni#} to remove, to observe a rite,
+<>to restrain; with {#saM#} to associate with;
+<>with {#vi#} and {#A#} to exercise. {%Depon.%}
+<>with {#A#} to put forth the hand
+<>or any limb; with {#upa#} to marry, agree
+<>to, learn; with {#saM#} to heap together.
+<LEND>
+; NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW
+L=30844, k1=yam, u=ud, p=with {#ut#}
+L=30844, k1=yam, u=ni, p=with {#ni#}
+L=30844, k1=yam, u=sam, p=with {#saM#}
+L=30844, k1=yam, u=vyA, p=with {#vi#} and {#A#}
+L=30844, k1=yam, u=A, p=with {#A#}
+L=30844, k1=yam, u=upa, p=with {#upa#}
+L=30844, k1=yam, u=sam, p=with {#saM#}
+;
+;; Case 0110: L=30924, k1=yas
+; OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD
+<L>30924<pc>611-b<k1>yas<k2>yas
+{#yas#}¦ {#(ipa, u) yasati yasyati#} 1. 4. {%a.%} To
+<>endeavour; to persevere. With {#A#}
+<>to labour; with {#nir#} to exude.
+<LEND>
+; NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW
+L=30924, k1=yas, u=A, p=With {#A#}
+L=30924, k1=yas, u=nir, p=with {#nir#}
+;
+;; Case 0111: L=30928, k1=yA
+; OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD
+<L>30928<pc>611-b<k1>yA<k2>yA
+{#yA#}¦ {#(la) yAti#} 2. {%a.%} To go, to get.
+<>With {#anu#} to follow; with {#aBi#} to ap-
+<>proach; with {#A#} to come; with {#upa#} to
+<>give way; with {#nir#} to go forth; with {#pra#}
+<>to go to; with {#prati#} to go toward;
+<>with {#prati#} and {#ut#} to go to meet; with {#saM#}
+<>and {#aBi#} to approach; with {#saM#} and
+<>{#A#} to arrive at. 
+<LEND>
+; NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW
+L=30928, k1=yA, u=anu, p=With {#anu#}
+L=30928, k1=yA, u=aBi, p=with {#aBi#}
+L=30928, k1=yA, u=A, p=with {#A#}
+L=30928, k1=yA, u=upa, p=with {#upa#}
+L=30928, k1=yA, u=nir, p=with {#nir#}
+L=30928, k1=yA, u=pra, p=with {#pra#}
+L=30928, k1=yA, u=prati, p=with {#prati#}
+L=30928, k1=yA, u=pratyud, p=with {#prati#} and {#ut#}
+L=30928, k1=yA, u=samaBi, p=with {#saM#}  and {#aBi#}
+L=30928, k1=yA, u=samA, p=with {#saM#} and  {#A#}
+;
+;; Case 0112: L=31061, k1=yuj
+; OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD
+<L>31061<pc>614-b<k1>yuj<k2>yuj
+{#yuj#}¦ {#(ya, Na, O) yujyate#} 4. {%d.%} To con-
+<>fine the thoughts, to meditate.
+<>{#(Da, Ya, O, ira) yunakti, yukte#} 7. {%c.%} To
+<>mix, join. {#(ki) yojati, yati#} 1. 10.
+<>{%a.%} To bind. {#yojayate#} 10. {%a.%} To
+<>blame. With {#anu#} to inquire, re-
+<>prove; with {#aBi#} to utter, accuse;
+<>with {#ut#} to strive; with {#upa#} to seize, to
+<>eat; with {#ni#} to appoint, to join; with {#pra#} to
+<>be fit, apply to, lend, strive; with {#vi#}
+<>to separate, send; with {#saM#} to unite;
+<>with {#vi#} and {#ni#} to appoint, expend,
+<>send, force; with {#vi#} and {#pra#} to divide;
+<>with {#saM#} and {#A#} to think profoundly.
+<LEND>
+; NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW
+L=31061, k1=yuj, u=anu, p=With {#anu#}
+L=31061, k1=yuj, u=aBi, p=with {#aBi#}
+L=31061, k1=yuj, u=ud, p=with {#ut#}
+L=31061, k1=yuj, u=upa, p=with {#upa#}
+L=31061, k1=yuj, u=ni, p=with {#ni#}
+L=31061, k1=yuj, u=pra, p=with {#pra#}
+L=31061, k1=yuj, u=vi, p=with {#vi#}
+L=31061, k1=yuj, u=sam, p=with {#saM#}
+L=31061, k1=yuj, u=vini, p=with {#vi#} and {#ni#}
+L=31061, k1=yuj, u=vipra, p=with {#vi#} and {#pra#}
+L=31061, k1=yuj, u=samA, p=with {#saM#} and {#A#}
+;
+;; Case 0113: L=31288, k1=rakz
+; OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD
+<L>31288<pc>619-a<k1>rakz<k2>rakz
+{#rakz#}¦ {#rakzati#} 1. {%a.%} To guard, preserve.
+<>With {#pari#} to save, deliver.
+<LEND>
+; NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW
+L=31288, k1=rakz, u=pari, p=With {#pari#}
+;
+;; Case 0114: L=31373, k1=raYj
+; OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD
+<L>31373<pc>620-b<k1>raYj<k2>raYj
+{#raYj#}¦ {#(O, Ya) rajati, te#} 1. {%a.%} To dye,
+<>to tinge; to be attached. {#(Ya, ya)#}
+<>{#rajyati, te#} 4. {%c.%} To dye. With {#anu#}
+<>to be attached to; with {#apa#} or
+<>{#vi#} to be disgusted with. 
+<LEND>
+; NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW
+L=31373, k1=raYj, u=anu, p=With {#anu#}
+L=31373, k1=raYj, u=apa:vi, p=with {#apa#} or  {#vi#}
+;
+;; Case 0115: L=31505, k1=raBa
+; OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD
+<L>31505<pc>623-a<k1>raBa<k2>raBa
+{#raBa#}¦ {#(Na, O) raBate AraBate#} 1. {%d.%} To
+<>begin; to be pleased. {#(i) ramBate#}
+<>1. {%d.%} To sound. With {#pari#} to
+<>embrace, to cling to.
+<LEND>
+; NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW
+L=31505, k1=raBa, u=pari, p=With {#pari#}
+;
+;; Case 0116: L=31507, k1=ram
+; OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD
+<L>31507<pc>623-a<k1>ram<k2>ram
+{#ram#}¦ {#(Na, O, u) ramate#} 1. {%d.%} To sport, play.
+<>With {#A, upa#} or {#vi#} to rest, stop.
+<LEND>
+; NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW
+L=31507, k1=ram, u=A:upa:vi, p=With {#A, upa#} or {#vi#}
+;
+;; Case 0117: L=31614, k1=rah
+; OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD
+<L>31614<pc>625-b<k1>rah<k2>rah
+{#rah#}¦ {#rahati#} 1. {%a.%} {#(ka) rahayati#} 10. {%a.%}
+<>To quit, to leave. With {#vi#} to
+<>be absent, {#(i) raMhati#} 1. {%a.%} To
+<>move with speed.
+<LEND>
+; NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW
+L=31614, k1=rah, u=vi, p=With {#vi#} to  be absent, {#(i) raMhati#}
+;
+;; Case 0118: L=31648, k1=rAj
+; OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD
+<L>31648<pc>626-a<k1>rAj<k2>rAj
+{#rAj#}¦ {#(Na, f) rAjate, rejate#} 1. {%d.%} To
+<>shine. With {#nira#} to overcome.
+<LEND>
+; NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW
+L=31648, k1=rAj, u=nir, p=With {#nira#}
+;
+;; Case 0119: L=31818, k1=rAD
+; OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD
+<L>31818<pc>629-a<k1>rAD<k2>rAD
+{#rAD#}¦ {#(ya, O) rADyati#} 4. {%a.%} {#(na) rAGnoti#}
+<>5. {%a.%} To bring any thing to com-
+<>pletion. With {#apa#} to sin or fail;
+<>with {#A#} to worship.
+<LEND>
+; NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW
+L=31818, k1=rAD, u=apa, p=With {#apa#}
+L=31818, k1=rAD, u=A, p=with {#A#}
+;
+;; Case 0120: L=31911, k1=ric
+; OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD
+<L>31911<pc>631-a<k1>ric<k2>ric
+{#ric#}¦ {#(ki) recati, recayati#} 1. {%a.%} To
+<>join; to divide. {#(Ya, Da, O, ira)#}
+<>{#riRakti, riMkte#} 7. {%c.%} To be purged.
+<>With {#ati#} to exceed or be su-
+<>perfluous; with {#vi#} to purge.
+<LEND>
+; NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW
+L=31911, k1=ric, u=ati, p=With {#ati#}
+L=31911, k1=ric, u=vi, p=with {#vi#}
+;
+;; Case 0121: L=31988, k1=rud
+; OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD
+<L>31988<pc>632-b<k1>rud<k2>rud
+{#rud#}¦ {#(lEra) roditi#} 2. {%a.%} To weep,
+<>to cry. With {#upa#} and {#A#} to sym-
+<>pathize, or weep with.
+<LEND>
+; NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW
+L=31988, k1=rud, u=upA, p=With {#upa#} and {#A#}
+;
+;; Case 0122: L=32007, k1=ruD
+; OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD
+<L>32007<pc>633-a<k1>ruD<k2>ruD
+{#ruD#}¦ {#(ya, Na) anuruDyate#} 4. {%d.%} To desire,
+<>to love; consent to; lament.
+<>({#Da, ira, O, Yi) ruRadDi, ruMdDe#} 7. {%c.%} To
+<>impede, to besiege. With {#anu#}
+<>to favour; with {#ava#} to guard; with {#upa#} to
+<>blockade; {{#prati#} and {#vi#} to resist;
+<>{{#saM#} and {#ni#} to shut in.
+<LEND>
+; NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW
+L=32007, k1=ruD, u=anu, p=With {#anu#}
+L=32007, k1=ruD, u=ava, p=with {#ava#}
+L=32007, k1=ruD, u=upa, p=with {#upa#}
+;
+;; Case 0123: L=32026, k1=ruh
+; OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD
+<L>32026<pc>633-b<k1>ruh<k2>ruh
+{#ruh#}¦ {#(O-Yi) rohati#} 1. {%a.%} To grow
+<>from seed; to be born. With {#aDi#}
+<>to ascend; with {#ava#} to descend;
+<>with {#A#} to mount, ride, ascend.
+<LEND>
+; NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW
+L=32026, k1=ruh, u=aDi, p=With {#aDi#}
+L=32026, k1=ruh, u=ava, p=with {#ava#}
+L=32026, k1=ruh, u=A, p=with {#A#}
+;
+;; Case 0124: L=32038, k1=rUp
+; OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD
+<L>32038<pc>634-a<k1>rUp<k2>rUp
+{#rUp#}¦ {#(ka) rUpayati#} 10. {%a.%} To form, re-
+<>present a form. With {#ni#} to dis-
+<>cuss; describe; appoint.
+<LEND>
+; NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW
+L=32038, k1=rUp, u=ni, p=With {#ni#}
+;
+;; Case 0125: L=32060, k1=rek
+; OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD
+<L>32060<pc>634-a<k1>rek<k2>rek
+{#rek#}¦ {#(F, Na) rekate#} 1. {%d.%} To suspect.
+<>With {#A#} to doubt.
+<LEND>
+; NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW
+L=32060, k1=rek, u=A, p=With {#A#}
+;
+;; Case 0126: L=32234, k1=lakz
+; OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD
+<L>32234<pc>638-a<k1>lakz<k2>lakz
+{#lakz#}¦ {#(ka) lakzayati#} 10. {%a.%} To see; to
+<>mark; define. With {#upa#} to re-
+<>mark, trace out; with {#saM#} to know.
+<LEND>
+; NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW
+L=32234, k1=lakz, u=upa, p=With {#upa#}
+L=32234, k1=lakz, u=sam, p=with {#saM#}
+;
+;; Case 0127: L=32264, k1=laG
+; OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD
+<L>32264<pc>638-b<k1>laG<k2>laG
+{#laG#}¦ {#(ka) lAGayati#} 10. {%a.%} To taste, ob-
+<>tain. {#(i, Na) laMGate#} 1. {%d.%} To go; to
+<>fast. {#laMGati#} 1. {%a.%} To be dry; to
+<>lessen. {#(ka) laMGayati#} 10. {%a.%} To speak;
+<>with {#ut#} or {#vi#} to leap over.
+<LEND>
+; NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW
+L=32264, k1=laG, u=ud:vi, p=with {#ut#} or {#vi#}
+;
+;; Case 0128: L=32354, k1=lap
+; OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD
+<L>32354<pc>640-b<k1>lap<k2>lap
+{#lap#}¦ {#lapati#} 1. {%a.%} To speak. With {#apa#}
+<>to deny; with {#A#} to address; with {#pra#} to
+<>talk incoherently; with {#prati#} to gain;
+<>with {#vi#} to lament; with {#saM#} to converse;
+<>with {#vi#} and {#pra#} to contradict, dispute.
+<LEND>
+; NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW
+L=32354, k1=lap, u=apa, p=With {#apa#}
+L=32354, k1=lap, u=A, p=with {#A#}
+L=32354, k1=lap, u=pra, p=with {#pra#}
+L=32354, k1=lap, u=prati, p=with {#prati#}
+L=32354, k1=lap, u=vi, p=with {#vi#}
+L=32354, k1=lap, u=sam, p=with {#saM#}
+L=32354, k1=lap, u=vipra, p=with {#vi#} and {#pra#}
+;
+;; Case 0129: L=32357, k1=lab
+; OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD
+<L>32357<pc>640-b<k1>lab<k2>lab
+{#lab#}¦ {#(i, qa) laMbate#} 1. {%d.%} To sound; to
+<>tumble. With {#ava#} to hold up;
+<>with {#A#} to trust in; with {#vi#} to delay.
+<LEND>
+; NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW
+L=32357, k1=lab, u=ava, p=With {#ava#}
+L=32357, k1=lab, u=A, p=with {#A#}
+L=32357, k1=lab, u=vi, p=with {#vi#}
+;
+;; Case 0130: L=32372, k1=laB
+; OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD
+<L>32372<pc>640-b<k1>laB<k2>laB
+{#laB#}¦ {#(Na, wu) laBate#} 1. {%d.%} To obtain.
+<>{#(i) lamBate#} 1. {%d.%} To sound; in-
+<>jure; revile; gain. With {#upa#} to
+<>understand, delay; with {#upa#} and {#A#}
+<>to blame; correct a child. 
+<LEND>
+; NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW
+L=32372, k1=laB, u=upa, p=With {#upa#}
+L=32372, k1=laB, u=upA, p=with {#upa#} and {#A#}
+;
+;; Case 0131: L=32441, k1=las
+; OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD
+<L>32441<pc>642-b<k1>las<k2>las
+{#las#}¦ {#lasati#} 1. {%a.%} To embrace, to
+<>sport. {#(ka) lAsayati#} 10. {%a.%} To be
+<>skilful. With {#ut#} to be splen-
+<>did; with {#vi#} to gambol.
+<LEND>
+; NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW
+L=32441, k1=las, u=ud, p=With {#ut#}
+L=32441, k1=las, u=vi, p=with {#vi#}
+;
+;; Case 0132: L=32524, k1=liga
+; OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD
+<L>32524<pc>644-a<k1>liga<k2>liga
+{#liga#}¦ {#(i) liNgati#} 1. {%a.%} To go. {#(ki)#}
+<>{#liNgati, liNgayati#} 1. 10. {%a.%} To
+<>paint, to variegate. With {#A#} to
+<>embrace, to infold.
+<LEND>
+; NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW
+L=32524, k1=liga, u=A, p=With {#A#}
+;
+;; Case 0133: L=32565, k1=lI
+; OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD
+<L>32565<pc>645-a<k1>lI<k2>lI
+{#lI#}¦ {#(ya, Na) lIyate#} 4. {%d.%} {#(gi) linAti#}
+<>9. {%a.%} To join, to be in contact,
+<>to obtain. {#(ki) layati lAyayati#}
+<>10. {%a.%} To melt. With {#A#} to waste
+<>away; with {#ut#} to jump; with {#pra#}
+<>and {#vi#} to acquire.
+<LEND>
+; NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW
+L=32565, k1=lI, u=A, p=With {#A#}
+L=32565, k1=lI, u=ud, p=with {#ut#}
+L=32565, k1=lI, u=pravi, p=with {#pra#}  and {#vi#}
+;
+;; Case 0134: L=32605, k1=luB
+; OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD
+<L>32605<pc>646-a<k1>luB<k2>luB
+{#luB#}¦ {#luByati#} 4. {%a.%} To covet. {#(Sa) luBati#}
+<>6. {%a.%} To bewilder. With {#pra#} or {#saM#}
+<>To attract, allure.
+<LEND>
+; NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW
+L=32605, k1=luB, u=pra:sam, p=With {#pra#} or {#saM#}
+;
+;; Case 0135: L=32702, k1=loc
+; OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD
+<L>32702<pc>648-a<k1>loc<k2>loc
+{#loc#}¦ {#(f, Na) locate#} 10. {%d.%} To see;
+<>to view. {#(ka) locayati#} 10. {%a.%} To
+<>speak, to shine. With {#A#} to in-
+<>vestigate, to consider.
+<LEND>
+; NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW
+L=32702, k1=loc, u=A, p=With {#A#}
+;
+;; Case 0136: L=32932, k1=vac
+; OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD
+<L>32932<pc>652-a<k1>vac<k2>vac
+{#vac#}¦ {#(la) vakti#} 2. {%a. irreg.%} To speak, to
+<>tell. With {#pra#} to begin to speak.
+<LEND>
+; NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW
+L=32932, k1=vac, u=pra, p=With {#pra#}
+;
+;; Case 0137: L=33051, k1=vad
+; OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD
+<L>33051<pc>655-a<k1>vad<k2>vad
+{#vad#}¦ {#(ki) vadati, te; vadayati, te#} 1. 10.
+<>{%c.%} To inform, speak, tell; abide.
+<>With {#anu#} to speak to after; with {#apa#}
+<>to censure; with {#aBi#} to salute. with {#upa#}
+<>to explain; with {#nir#} to speak out;
+<>with {#pari#} to speak against; with {#prati#} to
+<>reply; with {#vi#} to dispute; with {#vi#} and {#pra#}
+<>to wrangle; with {#saM#} and {#pra#} to speak
+<>in concert. {#(Na, i) vandate#} 1. {%d.%} To
+<>salute; to praise.
+<LEND>
+; NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW
+L=33051, k1=vad, u=anu, p=With {#anu#}
+L=33051, k1=vad, u=apa, p=with {#apa#}
+L=33051, k1=vad, u=aBi, p=with {#aBi#}
+L=33051, k1=vad, u=upa, p=with {#upa#}
+L=33051, k1=vad, u=nir, p=with {#nir#}
+L=33051, k1=vad, u=pari, p=with {#pari#}
+L=33051, k1=vad, u=prati, p=with {#prati#}
+L=33051, k1=vad, u=vi, p=with {#vi#}
+L=33051, k1=vad, u=vipra, p=with {#vi#} and {#pra#}
+L=33051, k1=vad, u=sampra, p=with {#saM#} and {#pra#}
+;
+;; Case 0138: L=33570, k1=vas
+; OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD
+<L>33570<pc>665-b<k1>vas<k2>vas
+{#vas#}¦ {#(E, O) vasati#} 1. {%a.%} To dwell or
+<>inhabit. {#(la)#} 2. {%d.%} To dress, wear.
+<>({#ka#}) 10. {%a.%} To be kind; to cut;
+<>kill; accept. ({#ya, ira, u#}) 4. {%a.%} To
+<>be unbending. With {#aDi#} to sit
+<>upon, occupy; with {#upa,#} to fast;
+<>with {#ni,#} to inhabit, to dress;
+<>with {#pra,#} to sojourn; with {#sam,#} to
+<>cohabit.
+<LEND>
+; NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW
+L=33570, k1=vas, u=aDi, p=With {#aDi#}
+L=33570, k1=vas, u=upa, p=with {#upa,#}
+L=33570, k1=vas, u=ni, p=with {#ni,#}
+L=33570, k1=vas, u=pra, p=with {#pra,#}
+L=33570, k1=vas, u=sam, p=with {#sam,#}
+;
+;; Case 0139: L=33658, k1=vah
+; OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD
+<L>33658<pc>667-a<k1>vah<k2>vah
+{#vah#}¦ {#(E, Ya, O) vahati#} 1. {%a.%} To bear,
+<>or carry. {%d.%} To flow. ({#Na#}) To
+<>grow. {#(i, ka) vaMhayati#} 10. {%a.%} To
+<>shine. With {#ud,#} to marry; with
+<>{#apa,#} to divorce. 
+<LEND>
+; NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW
+L=33658, k1=vah, u=ud, p=With {#ud,#}
+L=33658, k1=vah, u=apa, p=with  {#apa,#}
+;
+;; Case 0140: L=33711, k1=vA
+; OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD
+<L>33711<pc>668-a<k1>vA<k2>vA
+{#vA#}¦ {#(la) vAti#} 2. {%a.%} To move; blow;
+<>hurt. With {#nira#} to blow out. 
+<LEND>
+; NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW
+L=33711, k1=vA, u=nir, p=With {#nira#}
+;
+;; Case 0141: L=34505, k1=vij
+; OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD
+<L>34505<pc>684-b<k1>vij<k2>vij
+{#vij#}¦ {#(O, ira, li) vivekti#} 3. {%a.%} To
+<>be distinct or separate; to dif-
+<>fer; to discriminate, to judge.
+<>{#(o i Sa) vijata#} 6. {%d.%} with {#upa#} 
+[Page685-a+ 38]
+<>to fear, tremble. Also {#(o i Da)#}
+<>{#vinakti#} 7. {%a.%}
+<LEND>
+; NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW
+L=34505, k1=vij, u=upa, p=with {#upa#}
+;
+;; Case 0142: L=34659, k1=viw
+; OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD
+<L>34659<pc>688-a<k1>viw<k2>viw
+{#viw#}¦ {#(la) vetti#} 2. {%a.%} To know. With
+<>{#ni,#} to be depressed; with {#sama,#}
+<>to meditate, gain divine know-
+<>ledge. {#(Na ya) vidyate#} 4. {%d.%} To be,
+<>exist. {#(Na, Da) vinte#} 7. {%d.%} To reason.
+<>{#(ka) vedayate#} 10. {%d.%} Know; shew;
+<>dwell; suffer. With {#vi#} or {#vini#} to
+<>impart knowledge; with {#prati#} to
+<>give, deliver. {#(o, x, Sa,) vindati, te#}
+<>6. {%c.%} To acquire. With {#pari,#} to
+<>marry first.
+<LEND>
+; NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW
+L=34659, k1=viw, u=ni, p=With  {#ni,#}
+L=34659, k1=viw, u=sam, p=with {#sama,#}
+L=34659, k1=viw, u=vi:vini, p=With {#vi#} or {#vini#}
+L=34659, k1=viw, u=prati, p=with {#prati#}
+L=34659, k1=viw, u=pari, p=With {#pari,#}
+;
+;; Case 0143: L=35443, k1=viS
+; OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD
+<L>35443<pc>705-a<k1>viS<k2>viS
+{#viS#}¦ {#(Sa, O) viSati#} 6. {%a.%} To enter.
+<>With {#A#} or {#pra,#} to enter;
+<>occupy; with {#upa,#} to sit down;
+<>to approach; with {#ni#} to dwell;
+<>with {#ni#} or {#aBini,#} to rest, sit
+<>down, conceal; with {#nir#} to go
+<>out; with {#pari,#} to set before;
+<>with {#sam,#} to lie down; with
+<>{#sanni,#} to be near or adjacent.
+<LEND>
+; NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW
+L=35443, k1=viS, u=A:pra, p=With {#A#} or {#pra,#}
+L=35443, k1=viS, u=upa, p=with {#upa,#}
+L=35443, k1=viS, u=ni, p=with {#ni#}
+L=35443, k1=viS, u=ni:aBini, p=with {#ni#} or {#aBini,#}
+L=35443, k1=viS, u=nir, p=with {#nir#}
+L=35443, k1=viS, u=pari, p=with {#pari,#}
+L=35443, k1=viS, u=sam, p=with {#sam,#}
+L=35443, k1=viS, u=saMni, p=with  {#sanni,#}
+;
+;; Case 0144: L=36021, k1=vf
+; OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD
+<L>36021<pc>717-b<k1>vf<k2>vf
+{#vf#}¦ {#(ga, Na) vfRIte#} 9. {%d.%} To serve, wor-
+<>ship. {#(Ya) varati-te#} 1. {%c.%} {#(na) vfRoti#}
+<>{#vfRute#} 5. {%c.%} {#(ka) vArayati-te#} 10. {%c.%}
+<>To choose, fit, appoint, invite,
+<>skreen. With {#apa,#} to cover, de-
+<>fend; with {#ni#} or {#nira,#} to cease,
+<>end; with {#vi,#} to become evident.
+<LEND>
+; NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW
+L=36021, k1=vf, u=apa, p=With {#apa,#}
+L=36021, k1=vf, u=ni:nir, p=with {#ni#} or {#nira,#}
+L=36021, k1=vf, u=vi, p=with {#vi,#}
+;
+;; Case 0145: L=36079, k1=vfta
+; OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD
+<L>36079<pc>718-b<k1>vfta<k2>vfta
+{#vfta#}¦ {#(u, Na) varttate#} 1. {%d.%} To be, to exist,
+<>to stand. {#(ya) vftyate#} 4. {%d.%} To
+<>choose; serve. {#(ka) varttayati#} 10. {%a.%}
+<>To shine; speak. With {#ati,#} to
+<>surpass; with {#anu,#} to follow, 
+[Page719-a+ 38]
+<>imitate, proceed; with {#apa,#} to
+<>turn round; with {#AN,#} to re-
+<>volve, to do repeatedly; with {#ni#}
+<>to make artificially; with {#ni#} or
+<>{#nira,#} to stop, to complete; with
+<>{#pari,#} to surround, exchange, ex-
+<>cel, advance, turn back; with
+<>{#pra,#} to set about; with {#prati#} and
+<>{#ni,#} to depart; with {#vi,#} to whirl
+<>round; with {#vi#} and {#ni,#} to re-
+<>turn; with {#vi#} and {#pari,#} to con-
+<>sider; with {#sama#} and {#aBi,#} to leap.
+<LEND>
+; NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW
+L=36079, k1=vfta, u=ati, p=With {#ati,#}
+L=36079, k1=vfta, u=anu, p=with {#anu,#}
+L=36079, k1=vfta, u=apa, p=with {#apa,#}
+L=36079, k1=vfta, u=A, p=with {#AN,#}
+L=36079, k1=vfta, u=ni, p=with {#ni#}
+L=36079, k1=vfta, u=ni:nir, p=with {#ni#} or  {#nira,#}
+L=36079, k1=vfta, u=pari, p=with  {#pari,#}
+L=36079, k1=vfta, u=pra, p=with  {#pra,#}
+L=36079, k1=vfta, u=pratini, p=with {#prati#} and  {#ni,#}
+L=36079, k1=vfta, u=vi, p=with {#vi,#}
+L=36079, k1=vfta, u=vini, p=with {#vi#} and {#ni,#}
+L=36079, k1=vfta, u=vipari, p=with {#vi#} and {#pari,#}
+L=36079, k1=vfta, u=samaBi, p=with {#sama#} and {#aBi,#}
+;
+;; Case 0146: L=36982, k1=vraj
+; OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD
+<L>36982<pc>739-b<k1>vraj<k2>vraj
+{#vraj#}¦ {#(ki) vrajati#} 1. {%a.%} To walk, go.
+<>With {#pari,#} to walk or wander
+<>about as a pilgrim or mendicant.
+<>{#vrAjayati#} 10. {%a.%} To prepare.
+<LEND>
+; NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW
+L=36982, k1=vraj, u=pari, p=With {#pari,#}
+;
+;; Case 0147: L=37047, k1=SaMsa
+; OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD
+<L>37047<pc>741-a<k1>SaMsa<k2>SaMsa
+{#SaMsa#}¦ {#(u) SaMsati#} 1. {%a.%} To praise;
+<>hurt; wish. With prep. {#aBi,#} to
+<>calumniate; with {#A,#} to hope,
+<>speak; with {#pra,#} to praise; flatter.
+<LEND>
+; NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW
+L=37047, k1=SaMsa, u=A, p=with {#A,#}
+L=37047, k1=SaMsa, u=pra, p=with {#pra,#}
+;
+;; Case 0148: L=37829, k1=SAs
+; OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD
+<L>37829<pc>759-a<k1>SAs<k2>SAs
+{#SAs#}¦ {#(la, u, Ya) SAsti#} 2. {%a.%} To in-
+<>struct; to order; to govern.
+<>{#SAste#} 2. {%d.%} To desire. With {#A#} {%d.%}
+<>To wish well, bless. 
+<LEND>
+; NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW
+L=37829, k1=SAs, u=A, p=With {#A#}
+;
+;; Case 0149: L=38112, k1=Siz
+; OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD
+<L>38112<pc>766-a<k1>Siz<k2>Siz
+{#Siz#}¦ {#Sezati#} 1. {%a.%} To hurt. {#(ki)#}
+<>{#Sezati,#} 1. {%a.%} {#Sezayati#} 10. {%a.%} To
+<>leave a residue. With {#vi,#} to
+<>excel, and {#(Da, x) vizinazwi,#} 7. {%a.%}
+<>To distinguish or individualise.
+<LEND>
+; NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW
+L=38112, k1=Siz, u=vi, p=With {#vi,#} to  excel, and {#(Da, x) vizinazwi,#}
+;
+;; Case 0150: L=38829, k1=Sri
+; OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD
+<L>38829<pc>782-a<k1>Sri<k2>Sri
+{#Sri#}¦ {#(Ya) Srayati#} 1. {%a.%} To serve. With
+<>{#A,#} to have recourse to, avail
+<>one's self of, depend on, be near, 
+[Page782-b+ 38]
+<>employ; with {#apa,#} to quit; with
+<>{#ut#} and {#sama,#} to be elevated;
+<>with {#vi#} and {#apa,#} to fall, worship,
+<>rely upon; expect.
+<LEND>
+; NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW
+L=38829, k1=Sri, u=A, p=With  {#A,#}
+L=38829, k1=Sri, u=apa, p=with {#apa,#}
+L=38829, k1=Sri, u=utsam, p=with  {#ut#} and {#sama,#}
+L=38829, k1=Sri, u=vyapa, p=with {#vi#} and {#apa,#}
+;
+;; Case 0151: L=38888, k1=Sru
+; OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD
+<L>38888<pc>783-b<k1>Sru<k2>Sru
+{#Sru#}¦ {#SfRoti#} 1. {%a.%} To hear. {#Sravati#} To
+<>flow, to drop. With {#prati#} or {#sama,#}
+<>To promise, agree to; with {#vi,#}
+<>To be famous.
+<LEND>
+; NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW
+L=38888, k1=Sru, u=prati:sam, p=With {#prati#} or {#sama,#}
+L=38888, k1=Sru, u=vi, p=with {#vi,#}
+;
+;; Case 0152: L=39028, k1=Svasa
+; OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD
+<L>39028<pc>786-b<k1>Svasa<k2>Svasa
+{#Svasa#}¦ {#(la) Svasiti#} 2. {%a.%} To breathe; to 
+[Page787-a+ 38]
+<>live. With {%prep.%} {#A,#} to revive,
+<>encourage, console; with {#ut,#}
+<>to expand, to console; with {#nira#}
+<>to expire, to sigh; with {#vi,#} to
+<>trust.
+<LEND>
+; NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW
+L=39028, k1=Svasa, u=ud, p=with {#ut,#}
+L=39028, k1=Svasa, u=nir, p=with {#nira#}
+L=39028, k1=Svasa, u=vi, p=with {#vi,#}
+;
+;; Case 0153: L=39117, k1=zaYja
+; OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD
+<L>39117<pc>788-b<k1>zaYja<k2>zaYja
+{#zaYja#}¦ {#sajati#} 1. {%a.%} To embrace, cling
+<>to. With {#ava,#} to be sus-
+<>pended; with {#vi#} and {#A,#} to struggle 
+[Page789-a+ 38]
+<>together; with {#A,#} to be at-
+<>tached. {#(i) saYjati, te#} 1. {%c.%} To go.
+<LEND>
+; NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW
+L=39117, k1=zaYja, u=ava, p=With {#ava,#}
+L=39117, k1=zaYja, u=vyA, p=with {#vi#} and {#A,#}
+L=39117, k1=zaYja, u=A, p=with {#A,#}
+;
+;; Case 0154: L=39161, k1=zad
+; OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD
+<L>39161<pc>790-a<k1>zad<k2>zad
+{#zad#}¦ {#(Sa) sIdati#} 6. {%a.%} To wither,
+<>wane; despond; destroy, go.
+<>With {#A (ki, Na, x) AsAdati,#}
+<>{#AsAdayati,#} to go; assail, ob-
+<>tain, arrive at; with {#ni#} to sit, to pro-
+<>tect; with {#pra,#} to smile, favour,
+<>propitiate, purify.
+<LEND>
+; NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW
+L=39161, k1=zad, u=A, p=With {#A (ki, Na, x) AsAdati,#}  {#AsAdayati,#}
+L=39161, k1=zad, u=ni, p=with {#ni#}
+L=39161, k1=zad, u=pra, p=with {#pra,#}
+;
+;; Case 0155: L=39189, k1=zaha
+; OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD
+<L>39189<pc>790-b<k1>zaha<k2>zaha
+{#zaha#}¦ {#sahate#} 1. {%d.%} Also {#(ya, ki,) sahyati,#}
+<>{#sahati, sAhayati#}. To bear, to
+<>suffer; to be content; to be
+<>able. With {#ut,#} to make an ef-
+<>fort; to be happy; with {#pra,#} to be
+<>violent; with {#vi,#} to determine.
+<LEND>
+; NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW
+L=39189, k1=zaha, u=ud, p=With {#ut,#}
+L=39189, k1=zaha, u=pra, p=with {#pra,#}
+L=39189, k1=zaha, u=vi, p=with {#vi,#}
+;
+;; Case 0156: L=39204, k1=ziD
+; OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD
+<L>39204<pc>791-a<k1>ziD<k2>ziD
+{#ziD#}¦ {#seDati#} 1. {%a.%} To command, or-
+<>dain, do an auspicious act; to
+<>go. {#(ya) siDyati#} 4. {%a.%} To succeed;
+<>to complete; to be right. With
+<>{#ni#} or {#prati,#} to prevent, prohibit.
+<LEND>
+; NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW
+L=39204, k1=ziD, u=ni:prati, p=With  {#ni#} or {#prati,#}
+;
+;; Case 0157: L=39209, k1=zu
+; OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD
+<L>39209<pc>791-a<k1>zu<k2>zu
+{#zu#}¦ {#(la, Ya) sOti#} 2. {%a.%} To bear, bring
+<>forth; be supreme. {#(na Ya) suno-#}
+<>{#ti, sunute,#} 5. {%c.%} To bathe before
+<>a sacrifice, distil, churn, to pain.
+<>With {#aBi,#} to sprinkle, bathe;
+<>with {#pra,#} to bring forth.
+<LEND>
+; NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW
+L=39209, k1=zu, u=aBi, p=With {#aBi,#}
+L=39209, k1=zu, u=pra, p=with {#pra,#}
+;
+;; Case 0158: L=39265, k1=zWA
+; OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD
+<L>39265<pc>792-a<k1>zWA<k2>zWA
+{#zWA#}¦ {#tizWati#} 1. {%a.%} To stop, stand, be
+<>still; to abide, stay, be. {#nizWate#}
+<>1. {%d.%} To appeal or refer to ano-
+<>ther. With {#aDi,#} {%a.%} To excel,
+<>preside; with {#anta,#} {%a.%} to comply
+<>with, adhere to; with {#ava,#} {%c.%} to
+<>stay, stand, wait upon; with {#A,#}
+<>{%a.%} to ascend, promise; {%d.%} to af-
+<>firm, apply; with {#ut,#} {%a.%} to
+<>stand up; {%d.%} to aim at, try to 
+[Page792-b+ 38]
+<>get; with {#upa,#} {%c.%} to reach, ar-
+<>rive, be contiguous, embrace,
+<>propitiate, adore, treat friendly;
+<>{%d.%} to hope to gain; with {#ni,#} {%d.%}
+<>to be settled or established;
+<>with {#pari + ava,#} {%d.%} to be sta-
+<>tionary; with {#pra,#} {%d.%} to set out;
+<>with {#pra + ut#} {%a.%} to rise; with
+<>{#prati,#} {%a.%} to be set apart, sacred;
+<>with {#vi,#} {%d.%} to stand apart, to be;
+<>with {#vi + ava,#} {%d.%} to decree;
+<>with {#sam,#} {%d.%} to be complete,
+<>well, joined, agreed; with {#sam +#}
+<>{#A,#} {%d.%} to be engaged in.
+<LEND>
+; NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW
+L=39265, k1=zWA, u=aDi, p=With {#aDi,#}
+L=39265, k1=zWA, u=ava, p=with {#ava,#}
+L=39265, k1=zWA, u=A, p=with {#A,#}
+L=39265, k1=zWA, u=ud, p=with {#ut,#}
+L=39265, k1=zWA, u=upa, p=with {#upa,#}
+L=39265, k1=zWA, u=ni, p=with {#ni,#}
+L=39265, k1=zWA, u=paryava, p=with {#pari + ava,#}
+L=39265, k1=zWA, u=pra, p=with {#pra,#}
+L=39265, k1=zWA, u=prot, p=with {#pra + ut#}
+L=39265, k1=zWA, u=prati, p=with  {#prati,#}
+L=39265, k1=zWA, u=vi, p=with {#vi,#}
+L=39265, k1=zWA, u=vyava, p=with {#vi + ava,#}
+L=39265, k1=zWA, u=sam, p=with {#sam,#}
+L=39265, k1=zWA, u=samA, p=with {#sam +#}  {#A,#}
+;
+;; Case 0159: L=39278, k1=zmi
+; OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD
+<L>39278<pc>792-b<k1>zmi<k2>zmi
+{#zmi#}¦ {#(NO) smayate#} 1. {%d.%} To smile; 10th,
+<>{#Na#} to disrespect; with {#vi,#} to sur-
+<>prise, astonish. 
+<LEND>
+; NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW
+L=39278, k1=zmi, u=vi, p=with {#vi,#}
+;
+;; Case 0160: L=42466, k1=sf
+; OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD
+<L>42466<pc>865-a<k1>sf<k2>sf
+{#sf#}¦ {#sarati#} 1. {%a.%} {#(li) sasartti#} 3. {%a.%} To
+<>go, move; run. With {#anu#} to
+<>follow; conform; with {#apa#} to
+<>withdraw; with {#aBi#} to over-
+<>run, spread, attend; with {#upa#} to
+<>draw near; with {#nira#} to go out;
+<>with {#pra#} to advance, project, ex-
+<>tend; with {#vi#} to reach; with-
+<>draw.
+<LEND>
+; NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW
+L=42466, k1=sf, u=anu, p=With {#anu#}
+L=42466, k1=sf, u=apa, p=with {#apa#}
+L=42466, k1=sf, u=aBi, p=with {#aBi#}
+L=42466, k1=sf, u=upa, p=with {#upa#}
+L=42466, k1=sf, u=nir, p=with {#nira#}
+L=42466, k1=sf, u=pra, p=with {#pra#}
+L=42466, k1=sf, u=vi, p=with {#vi#}
+;
+;; Case 0161: L=42473, k1=sfj
+; OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD
+<L>42473<pc>865-b<k1>sfj<k2>sfj
+{#sfj#}¦ {#(ya) sfjyate#} 4. {%d.%} {#(Sa) sfjati#} 6. {%a.%}
+<>To leave; to create; be left.
+<>With {#ut#} to give up; with {#sam#}
+<>to unite, join; with {#ni#} to give
+<>up, dismiss.
+<LEND>
+; NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW
+L=42473, k1=sfj, u=ud, p=With {#ut#}
+L=42473, k1=sfj, u=sam, p=with {#sam#}
+L=42473, k1=sfj, u=ni, p=with {#ni#}
+;
+;; Case 0162: L=42484, k1=sfp
+; OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD
+<L>42484<pc>865-b<k1>sfp<k2>sfp
+{#sfp#}¦ {#sarpati#} 1. {%a.%} To go; glide. With
+<>{#apa#} to go away, depart.
+<LEND>
+; NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW
+L=42484, k1=sfp, u=apa, p=With  {#apa#}
+;
+;; Case 0163: L=42716, k1=skanda
+; OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD
+<L>42716<pc>871-a<k1>skanda<k2>skanda
+{#skanda#}¦ {#skandati#} 1. {%a.%} To go; to be dry;
+<>to emit; with {#ava,#} to assail; with
+<>{#A,#} to enter.
+<LEND>
+; NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW
+L=42716, k1=skanda, u=ava, p=with {#ava,#}
+L=42716, k1=skanda, u=A, p=with  {#A,#}
+;
+;; Case 0164: L=43116, k1=spfS
+; OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD
+<L>43116<pc>880-a<k1>spfS<k2>spfS
+{#spfS#}¦ {#spfSati#} 6. {%a.%} To touch. With
+<>{#upa#} to tread upon, to bathe.
+<LEND>
+; NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW
+L=43116, k1=spfS, u=upa, p=With  {#upa#}
+;
+;; Case 0165: L=43163, k1=sPuw
+; OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD
+<L>43163<pc>880-b<k1>sPuw<k2>sPuw
+{#sPuw#}¦ {#(Na, Sa) sPowate#} 1. {%d.%} and {#sPuwati#}.
+<>6. {%a.%} To blossom. {#(i) sPuRwati,#}
+<>{#(ira) sPowati#} 1. {%a.%} And ({#ka#} with
+<>{#A#}) {#AsPowayati#} 10. {%a.%} To tear,
+<>pierce, divide, kill. {#sPuRwayati#} 10.
+<>{%a.%} To jest, joke. 
+<LEND>
+; NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW
+L=43163, k1=sPuw, u=A, p=with  {#A#}) {#AsPowayati#}
+;
+;; Case 0166: L=43635, k1=svf
+; OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD
+<L>43635<pc>890-b<k1>svf<k2>svf
+{#svf#}¦ {#svarati#} 1. {%a.%} To sound; to be
+<>diseased, to pain. With {#saM#} it is
+<>deponent.
+<LEND>
+; NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW
+L=43635, k1=svf, u=sam, p=With {#saM#}
+;
+;; Case 0167: L=44198, k1=hf
+; OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD
+<L>44198<pc>903-a<k1>hf<k2>hf
+{#hf#}¦ {#(Ba) harati#} 1. {%a.%} To take; to con-
+<>vey; to steal; to annul. {#hajartti#}
+<>3. {%a.%} To take by force. With {#anu,#}
+<>to imitate; with {#apa,#} to remove;
+<>leave; with {#aBi,#} to assault;
+<>with {#ava,#} to steal off, regain,
+<>punish; with {#A,#} to convey to
+<>one's self, eat, hide; with {#ut,#}
+<>to lift up or out, expel; with {#upa,#}
+<>to bring, offer, give; with {#ni,#} to
+<>freeze; with {#nira,#} to show disre-
+<>spect; with {#pari,#} to abandon, re-
+<>sist, abuse; extract; with {#pra,#} to
+<>strike; with {#pratI,#} to keep watch;
+<>with {#vi,#} to sport, roam about;
+<>with {#sam,#} to kill. Some of these
+<>compounds again take preposi-
+<>tions; thus {#A#} with {#aBi#} or {#vi#}
+<>prefixed, to say, utter, converse;
+<>with {#nira,#} to fast; with {#sama#} or
+<>{#ut,#} to relate. So also {#sama,#} with
+<>{#upa#} prefixed, to withhold; with
+<>{#prati,#} to disregard, withdraw.
+<>{#ava#} with {#vi#} prefixed, to litigate,
+<>transact business, treat, &c.
+<LEND>
+; NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW
+L=44198, k1=hf, u=anu, p=With {#anu,#}
+L=44198, k1=hf, u=apa, p=with {#apa,#}
+L=44198, k1=hf, u=aBi, p=with {#aBi,#}
+L=44198, k1=hf, u=ava, p=with {#ava,#}
+L=44198, k1=hf, u=A, p=with {#A,#}
+L=44198, k1=hf, u=ud, p=with {#ut,#}
+L=44198, k1=hf, u=upa, p=with {#upa,#}
+L=44198, k1=hf, u=ni, p=with {#ni,#}
+L=44198, k1=hf, u=nir, p=with {#nira,#}
+L=44198, k1=hf, u=pari, p=with {#pari,#}
+L=44198, k1=hf, u=pra, p=with {#pra,#}
+L=44198, k1=hf, u=pratI, p=with {#pratI,#}
+L=44198, k1=hf, u=vi, p=with {#vi,#}
+L=44198, k1=hf, u=sam, p=with {#sam,#}
+L=44198, k1=hf, u=aBi:vi, p=with {#aBi#} or {#vi#}
+L=44198, k1=hf, u=nir, p=with {#nira,#}
+L=44198, k1=hf, u=sam:ud, p=with {#sama#} or  {#ut,#}
+L=44198, k1=hf, u=upa, p=with  {#upa#}
+L=44198, k1=hf, u=prati, p=with  {#prati,#}
+L=44198, k1=hf, u=vi, p=with {#vi#}
+;
+;; Case 0168: L=44353, k1=hnu
+; OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD
+<L>44353<pc>906-a<k1>hnu<k2>hnu
+{#hnu#}¦ {#(la) hnute#} 2. {%a.%} To take away;
+<>secrete. With {#apa#} or {#ni,#} to hide,
+<>deny. 
+<LEND>
+; NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW
+L=44353, k1=hnu, u=apa:ni, p=With {#apa#} or {#ni,#}
+;
+;; Case 0169: L=44415, k1=hve
+; OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD
+<L>44415<pc>907-b<k1>hve<k2>hve
+{#hve#}¦ {#hvayati#} 1. {%a.%} To emulate; to call;
+<>to challenge. With {#A,#} when
+<>rivalry is meant; and with {#upa,#}
+<>{#ni, vi,#} and {#saM,#} the verb is depo-
+<>nent. 
+<LEND>
+; NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW
+L=44415, k1=hve, u=A, p=With {#A,#}
+L=44415, k1=hve, u=upa:ni:vi:sam, p=with {#upa,#}  {#ni, vi,#} and {#saM,#}
+;
+;; Case 0170: L=44456, k1=aj
+; OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD
+<L>44456<pc>910-a<k1>aj<k2>*aj
+{#*aj#}¦ {#ajati#} 1. {%a.%} With {#aBi#} and {#vi,#}
+<>To be contained in, be implied
+<>or understood.
+<LEND>
+; NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW
+L=44456, k1=aj, u=aBivi, p=With {#aBi#} and {#vi,#}
+;

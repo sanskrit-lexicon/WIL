@@ -1,0 +1,386 @@
+; Case 001: L=3804, k1=as, #changes=2, #extra_withs=1
+;
+old: <>With {#anu#} to sit, {#apa#} to quit; with
+new: <>With {#anu#} to sit; with {#apa#} to quit; with
+;
+old: <>{#ud#} to leave; with {#ni#} to deposite;
+new: <>{#ud#} to leave; with {#ni#} to deposit;
+; -----------------------------------------------
+; Case 002: L=5542, k1=i, #changes=1
+;
+old: <>to rise with; {#aBi#} and {#ut#} to rise,
+new: <>to rise; with {#aBi#} and {#ut#} to rise,
+; -----------------------------------------------
+; Case 003: L=10016, k1=kuc, #changes=1, #extra_withs=1
+;
+old: <>to contract; {#ut#} to bribe.
+new: <>to contract; with {#ut#} to bribe.
+; -----------------------------------------------
+; Case 004: L=11003, k1=kF, #changes=1
+;
+old: <>With {#maM#} to gather. In the {%pas-%}
+new: <>With {#saM#} to gather. In the {%pas-%}
+; -----------------------------------------------
+; Case 005: L=12698, k1=gam, #changes=1
+;
+old: <>{#upa#} to go near, or to; with {#dura#}
+new: <>{#upa#} to go near, or to; with {#dur#}
+; -----------------------------------------------
+; Case 006: L=12823, k1=gal, #changes=1
+;
+old: <>To eat; to ooze or drop; with {#aba#}
+new: <>To eat; to ooze or drop; with {#ava#}
+; -----------------------------------------------
+; Case 007: L=12969, k1=gAha, #changes=1
+;
+old: <>with {#bi#} to bathe, to agitate. 
+new: <>with {#vi#} to bathe, to agitate. 
+; -----------------------------------------------
+; Case 008: L=16302, k1=RI, #changes=1
+;
+old: <>raise up; with {#uza#} to approach; 
+new: <>raise up; with {#upa#} to approach; 
+; -----------------------------------------------
+; Case 009: L=20012, k1=DA, #changes=14, #extra_withs=14
+;
+old: <>with {#ava#} to take heed; {#A#} to
+new: <>with {#ava#} to take heed; with {#A#} to
+;
+old: <>receive; {#upa#} to uphold, to per-
+new: <>receive; with {#upa#} to uphold, to per-
+;
+old: <>form; {#ni#} to hold up, to place;
+new: <>form; with {#ni#} to hold up, to place;
+;
+old: <>{#pari#} to put on cloths; {#pra#} to be
+new: <>with {#pari#} to put on cloths; with {#pra#} to be
+;
+old: <>chief, to send; {#vi#} act correctly,
+new: <>chief, to send; with {#vi#} act correctly,
+;
+old: <>to select; {#saM#} to place. With {#anu#}
+new: <>to select; with {#saM#} to place. With {#anu#}
+;
+old: <>and {#saM#} to search after; {#aBi#} and
+new: <>and {#saM#} to search after; with {#aBi#} and
+;
+old: <>{#saM#} to overcome; {#upa#} and {#A#} to
+new: <>{#saM#} to overcome; with {#upa#} and {#A#} to
+;
+old: <>support or prop up; {#pra#} and {#ni#}
+new: <>support or prop up; with {#pra#} and {#ni#}
+;
+old: <>to hold up, to elevate; {#prati#} and
+new: <>to hold up, to elevate; with {#prati#} and
+;
+old: <>{#vi#} to perform; {#vi#} and {#ava#} to
+new: <>{#vi#} to perform; with {#vi#} and {#ava#} to
+;
+old: <>conceal; {#saM#} and {#A#} to instruct;
+new: <>conceal; with {#saM#} and {#A#} to instruct;
+;
+old: <>{#saM#} and {#ni#} to place or have over;
+new: <>with {#saM#} and {#ni#} to place or have over;
+;
+old: <>{#saM#} and {#pra#} to doubt, to discuss.
+new: <>with {#saM#} and {#pra#} to doubt, to discuss.
+; -----------------------------------------------
+; Case 010: L=20180, k1=DU, #changes=2, #extra_withs=2
+;
+old: <>don, to know, to perceive; {#nira#}
+new: <>don, to know, to perceive; with {#nira#}
+;
+old: <>to destroy; to go; {#vi#} to agitate.
+new: <>to destroy; to go; with {#vi#} to agitate.
+; -----------------------------------------------
+; Case 011: L=22484, k1=pat, #changes=8, #extra_withs=8
+;
+old: <>prefixed, to excel; {#aBi#} or {#ava#}
+new: <>prefixed, to excel; with {#aBi#} or {#ava#}
+;
+old: <>to descend; {#A#} to arrive; {#ut#} to
+new: <>to descend; with {#A#} to arrive; with {#ut#} to
+;
+old: <>ascend; {#ni#} to gain; {#nir#} to ab-
+new: <>ascend; with {#ni#} to gain; with {#nir#} to ab-
+;
+old: <>scond; {#pari#} to go fast, be valu-
+new: <>scond; with {#pari#} to go fast, be valu-
+;
+old: <>able; {#saM#} to go with, to gain; {#pra#}
+new: <>able; with {#saM#} to go with, to gain; with {#pra#}
+;
+old: <>and {#ni#} to fall prostrate; {#vi#} and
+new: <>and {#ni#} to fall prostrate; with {#vi#} and
+;
+old: <>{#nir#} to turn back; {#saM#} and {#A#} to
+new: <>{#nir#} to turn back; with {#saM#} and {#A#} to
+;
+old: <>purify; {#saM#} and {#ut#} to fly; {#saM#} and
+new: <>purify; with {#saM#} and {#ut#} to fly; with {#saM#} and
+; -----------------------------------------------
+; Case 012: L=22597, k1=pad, #changes=9, #extra_withs=9
+;
+old: <>to know, to see; {#anu#} to follow;
+new: <>to know, to see; with {#anu#} to follow;
+;
+old: <>{#A#} to happen, suffer, increase;
+new: <>with {#A#} to happen, suffer, increase;
+;
+old: <>{#ut#} to be born or produced,
+new: <>with {#ut#} to be born or produced;
+;
+old: <>{#upa#} to gain, be born; {#pra#} to gain,
+new: <>with {#upa#} to gain, be born; with {#pra#} to gain,
+;
+old: <>begin; {#prati#} to gain; restore;
+new: <>begin; with {#prati#} to gain; restore;
+;
+old: <>promise; {#vi#} to suffer; {#saM#} to
+new: <>promise; with {#vi#} to suffer; with {#saM#} to
+;
+old: <>offer oblations; {#pra#} and {#vi#} to en-
+new: <>offer oblations; with {#pra#} and {#vi#} to en-
+;
+old: <>act; {#vi#} and {#A#} to kill; {#vi#} and
+new: <>act; with {#vi#} and {#A#} to kill; with {#vi#} and
+;
+old: <>{#ut#} to discriminate, analyze; {#saM#}
+new: <>{#ut#} to discriminate, analyze; with {#saM#}
+; -----------------------------------------------
+; Case 013: L=28177, k1=BU, #changes=9, #extra_withs=9
+;
+old: <>rule over. {#anu#} to experience, do;
+new: <>rule over; with {#anu#} to experience, do;
+;
+old: <>{#aBi#} to overcome, afflict; {#ut#}
+new: <>with {#aBi#} to overcome, afflict; with {#ut#}
+;
+old: <>to be born, preside over; {#parA#}
+new: <>to be born, preside over; with {#parA#}
+;
+old: <>to be vanquished; {#pra#} be mani-
+new: <>to be vanquished; with {#pra#} be mani-
+;
+old: <>fest, be equal to, rule; {#prati#} to
+new: <>fest, be equal to, rule; with {#prati#} to
+;
+old: <>be substituted for; {#pari#} to dis-
+new: <>be substituted for; with {#pari#} to dis-
+;
+old: <>respect, surround; {#vi#} to see, up-
+new: <>respect, surround; with {#vi#} to see, up-
+;
+old: <>hold; prove, have power; {#saM#} to 
+new: <>hold; prove, have power; with {#saM#} to 
+;
+old: <>collect; {#vi#} and {#ati#} to be reci-
+new: <>collect; with {#vi#} and {#ati#} to be reci-
+; -----------------------------------------------
+; Case 014: L=29603, k1=mA, #changes=2, #extra_withs=2
+;
+old: <>{#upa#} to resemble; {#pari#} to mea-
+new: <>with {#upa#} to resemble; with {#pari#} to mea-
+;
+old: <>sure; {#pra#} to be evidence, witness.
+new: <>sure; with {#pra#} to be evidence, witness.
+; -----------------------------------------------
+; Case 015: L=30071, k1=muc, #changes=1, #extra_withs=1
+;
+old: <>{#pra#} to give much; {#vi#} to obtain
+new: <>{#pra#} to give much; with {#vi#} to obtain
+; -----------------------------------------------
+; Case 016: L=30665, k1=mluc, #changes=1
+;
+old: <>{#aBi#} or {#mi#} to set as the sun.
+new: <>{#aBi#} or {#ni#} to set as the sun.
+; -----------------------------------------------
+; Case 017: L=30844, k1=yam, #changes=6, #extra_withs=6
+;
+old: <>to; {#ut#} to rise, to endeavour;
+new: <>to; with {#ut#} to rise, to endeavour;
+;
+old: <>{#ni#} to remove, to observe a rite,
+new: <>with {#ni#} to remove, to observe a rite,
+;
+old: <>to restrain; {#saM#} to associate with;
+new: <>to restrain; with {#saM#} to associate with;
+;
+old: <>{#vi#} and {#A#} to exercise. {%Depon.%}
+new: <>with {#vi#} and {#A#} to exercise. {%Depon.%}
+;
+old: <>or any limb; {#upa#} to marry, agree
+new: <>or any limb; with {#upa#} to marry, agree
+;
+old: <>to, learn; {#saM#} to heap together.
+new: <>to, learn; with {#saM#} to heap together.
+; -----------------------------------------------
+; Case 018: L=30928, k1=yA, #changes=6, #extra_withs=6
+;
+old: <>With {#anu#} to follow; {#aBi#} to ap-
+new: <>With {#anu#} to follow; with {#aBi#} to ap-
+;
+old: <>proach; {#A#} to come; {#upa#} to
+new: <>proach; with {#A#} to come; with {#upa#} to
+;
+old: <>give way; {#nir#} to go forth; {#pra#}
+new: <>give way; with {#nir#} to go forth; with {#pra#}
+;
+old: <>to go to; {#prati#} to go toward;
+new: <>to go to; with {#prati#} to go toward;
+;
+old: <>{#prati#} and {#ut#} to go to meet; {#saM#}
+new: <>with {#prati#} and {#ut#} to go to meet; with {#saM#}
+;
+old: <>and {#aBi#} to approach; {#saM#} and
+new: <>and {#aBi#} to approach; with {#saM#} and
+; -----------------------------------------------
+; Case 019: L=31061, k1=yuj, #changes=8, #extra_withs=8
+;
+old: <>prove; {#aBi#} to utter, accuse;
+new: <>prove; with {#aBi#} to utter, accuse;
+;
+old: <>{#ut#} to strive; {#upa#} to seize, to
+new: <>with {#ut#} to strive; with {#upa#} to seize, to
+;
+old: <>eat; {#ni#} to appoint, to join; {#pra#} to
+new: <>eat; with {#ni#} to appoint, to join; with {#pra#} to
+;
+old: <>be fit, apply to, lend, strive; {#vi#}
+new: <>be fit, apply to, lend, strive; with {#vi#}
+;
+old: <>to separate, send; {#saM#} to unite;
+new: <>to separate, send; with {#saM#} to unite;
+;
+old: <>{#vi#} and {#ni#} to appoint, expend,
+new: <>with {#vi#} and {#ni#} to appoint, expend,
+;
+old: <>send, force; {#vi#} and {#pra#} to divide;
+new: <>send, force; with {#vi#} and {#pra#} to divide;
+;
+old: <>{#saM#} and {#A#} to think profoundly.
+new: <>with {#saM#} and {#A#} to think profoundly.
+; -----------------------------------------------
+; Case 020: L=32007, k1=ruD, #changes=3, #extra_withs=1
+;
+old: <>to favour; {#ava#} to guard; {#upa#} to
+new: <>to favour; with {#ava#} to guard; with {#upa#} to
+;
+old: <>blockade; {#prati#} and {#vi#} to resist;
+new: <>blockade; {{#prati#} and {#vi#} to resist;
+;
+old: <>{#saM#} and {#ni#} to shut in.
+new: <>{{#saM#} and {#ni#} to shut in.
+; -----------------------------------------------
+; Case 021: L=32234, k1=lakz, #changes=1, #extra_withs=1
+;
+old: <>mark, trace out; {#saM#} to know.
+new: <>mark, trace out; with {#saM#} to know.
+; -----------------------------------------------
+; Case 022: L=32354, k1=lap, #changes=4, #extra_withs=4
+;
+old: <>to deny; {#A#} to address; {#pra#} to
+new: <>to deny; with {#A#} to address; with {#pra#} to
+;
+old: <>talk incoherently; {#prati#} to gain;
+new: <>talk incoherently; with {#prati#} to gain;
+;
+old: <>{#vi#} to lament; {#saM#} to converse;
+new: <>with {#vi#} to lament; with {#saM#} to converse;
+;
+old: <>{#vi#} and {#pra#} to contradict, dispute.
+new: <>with {#vi#} and {#pra#} to contradict, dispute.
+; -----------------------------------------------
+; Case 023: L=32357, k1=lab, #changes=1, #extra_withs=1
+;
+old: <>{#A#} to trust in; {#vi#} to delay.
+new: <>with {#A#} to trust in; with {#vi#} to delay.
+; -----------------------------------------------
+; Case 024: L=32372, k1=laB, #changes=1, #extra_withs=1
+;
+old: <>understand, delay; {#upa#} and {#A#}
+new: <>understand, delay; with {#upa#} and {#A#}
+; -----------------------------------------------
+; Case 025: L=32441, k1=las, #changes=1, #extra_withs=1
+;
+old: <>did; {#vi#} to gambol.
+new: <>did; with {#vi#} to gambol.
+; -----------------------------------------------
+; Case 026: L=33051, k1=vaw, #changes=7, #extra_withs=6
+;
+old: {#vaw#}¦ {#(ki) vadati, te; vadayati, te#} 1. 10.
+new: {#vad#}¦ {#(ki) vadati, te; vadayati, te#} 1. 10.
+;
+old: <>With {#anu#} to speak to after; {#apa#}
+new: <>With {#anu#} to speak to after; with {#apa#}
+;
+old: <>to censure; {#aBi#} to salute. {#upa#}
+new: <>to censure; with {#aBi#} to salute. with {#upa#}
+;
+old: <>to explain; {#nir#} to speak out;
+new: <>to explain; with {#nir#} to speak out;
+;
+old: <>{#pari#} to speak against; {#prati#} to
+new: <>with {#pari#} to speak against; with {#prati#} to
+;
+old: <>reply; {#vi#} to dispute; {#vi#} and {#pra#}
+new: <>reply; with {#vi#} to dispute; with {#vi#} and {#pra#}
+;
+old: <>to wrangle; {#saM#} and {#pra#} to speak
+new: <>to wrangle; with {#saM#} and {#pra#} to speak
+; -----------------------------------------------
+; Case 027: L=35443, k1=viS, #changes=1
+;
+old: <>With {%prep.%} {#A#} or {#pra,#} to enter;
+new: <>With {#A#} or {#pra,#} to enter;
+; -----------------------------------------------
+; Case 028: L=38829, k1=Sri, #changes=1
+;
+old: <>{#uta#} and {#sama,#} to be elevated;
+new: <>{#ut#} and {#sama,#} to be elevated;
+; -----------------------------------------------
+; Case 029: L=39117, k1=zaYja, #changes=2, #extra_withs=1
+;
+old: <>to. With {%prep.%} {#ava,#} to be sus-
+new: <>to. With {#ava,#} to be sus-
+;
+old: <>pended; {#vi#} and {#A,#} to struggle 
+new: <>pended; with {#vi#} and {#A,#} to struggle 
+; -----------------------------------------------
+; Case 030: L=39161, k1=zad, #changes=2, #extra_withs=1
+;
+old: <>With {%prep.%} {#A (ki, Na, x) AsAdati,#}
+new: <>With {#A (ki, Na, x) AsAdati,#}
+;
+old: <>tain, arrive at; {#ni#} to sit, to pro-
+new: <>tain, arrive at; with {#ni#} to sit, to pro-
+; -----------------------------------------------
+; Case 031: L=39204, k1=ziD, #changes=1
+;
+old: <>{#ti#} or {#prati,#} to prevent, prohibit.
+new: <>{#ni#} or {#prati,#} to prevent, prohibit.
+; -----------------------------------------------
+; Case 032: L=39265, k1=zWA, #changes=3
+;
+old: <>firm, apply; with {#uta,#} {%a.%} to
+new: <>firm, apply; with {#ut,#} {%a.%} to
+;
+old: <>with {#sama,#} {%d.%} to be complete,
+new: <>with {#sam,#} {%d.%} to be complete,
+;
+old: <>well, joined, agreed; with {#sama +#}
+new: <>well, joined, agreed; with {#sam +#}
+; -----------------------------------------------
+; Case 033: L=44198, k1=hf, #changes=2
+;
+old: <>to bring, offer, give; with {#nI,#} to
+new: <>to bring, offer, give; with {#ni,#} to
+;
+old: <>with {#sama,#} to kill. Some of these
+new: <>with {#sam,#} to kill. Some of these
+; -----------------------------------------------
+; Case 034: L=44415, k1=hve, #changes=1
+;
+old: <>rivalry is meant, and with {#upa,#}
+new: <>rivalry is meant; and with {#upa,#}
+; -----------------------------------------------

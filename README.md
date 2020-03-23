@@ -54,5 +54,15 @@ verbs01
 March 2020.  Identify Wilson roots and prefixed verbs, and correspond with
 MW spellings.
 
-Note: This work is independent of previous work (such as that in wilmwroots mentioned above..  It would be of interestto compare verbs01 with previous work.
+Note: This work is independent of previous work (such as that in wilmwroots mentioned above..  It would be of interest to compare verbs01 with previous work.
+
+verbs01-yat
+-----------
+
+March 2020.  Identify Yates roots and prefixed verbs, and correspond with
+MW spellings.
+
+Note: This work is independent of previous work; such as that in
+https://github.com/sanskrit-lexicon/Wil-YAT.
+It would interesting to compare the work.
 
