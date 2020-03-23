@@ -9,3 +9,5 @@ python yat_verb_filter_map.py yat_verb_filter.txt  mwverbs1.txt yat_verb_filter_
 echo "remake yat_preverb1.txt"
 python preverb1.py slp1 ../yat.txt yat_verb_filter_map.txt mwverbs1.txt yat_preverb1.txt yat_preverb1_dbg.txt
 
+echo "remake yat_preverb1_deva.txt"
+python transcode_preverb1.py deva yat_preverb1.txt yat_preverb1_deva.txt

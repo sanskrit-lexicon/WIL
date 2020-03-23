@@ -123,3 +123,5 @@ some of the spelling conventions of MW come into play.
 654 upasargas found in 170 YAT entries
 
 ---------------------------------------------------------------
+yat_preverb1_deva.txt  Devanagari version of yat_preverb1.txt
+python transcode_preverb1.py deva yat_preverb1.txt yat_preverb1_deva.txt
