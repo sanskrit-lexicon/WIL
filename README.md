@@ -66,3 +66,10 @@ Note: This work is independent of previous work; such as that in
 https://github.com/sanskrit-lexicon/Wil-YAT.
 It would interesting to compare the work.
 
+verbs01-shs
+-----------
+
+March 2020.  Identify Sabda Sagara roots and prefixed verbs, and correspond with
+MW spellings.
+
+This is included in the repository regarding Wilson's Sanskrit-English dictionary since Sabda Sagara is based on the Wilson dictionary.
