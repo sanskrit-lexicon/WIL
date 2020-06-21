@@ -1,0 +1,459 @@
+;Abrus	1
+Abrus precatorius	9
+Acacia Arabica	2
+Acacia sirisa	1
+Acacia Sirisa	1
+Acacia suma	1
+Achyranthes	1
+Achyranthes aspera	19
+Achyranthes triandra	3
+Aconitum ferox	1
+Acorus calamus	2
+;acutangula	1
+Aeschynomene sesban	3
+Agallochum	1
+Alangium hexapetalum	7
+Alata	1
+Aletris hyacinthoides	3
+Aleurites triloba	1
+Allium ascalonicum	1
+Aloes perfoliata	4
+Alstonia scholaris	1
+Amaranthus oleraceus	1
+Amaranthus polygamus	1
+Amyris agallocha	2
+Amyris Agallocha	1
+; Anas casarca	2
+Andersonia rohitaka	7
+Andersonia Rohitaka	2
+Andropogon	5
+Andropogon muricatum	12
+Andropogon muricatus	1
+Andropogon saccharatus	2
+Andropogon schoenanthus	5
+Andropogon serratum	3
+Andropogon serratus	7
+Anethum panmorium	4
+Anethum sowa	11
+Annona reticulata	4
+Annona squamosa	2
+Anthericum tuberosum	4
+;antidysenterica	1
+Aquila agallocha	2
+Aquilaria agallocha	2
+;Ardea	2
+Ardisea solanacea	1
+Ardisia solanacea	3
+Areca faufel	3
+Areca triandra	1
+Aristolochia Indica	2
+Artemisia	7
+Artemisia sternutatoria	1
+Artocarpus integrifolia	7
+Artocarpus lacucha	6
+Arum	3
+Arum campanulatum	5
+Arum colocasia	7
+Arum Indicum	2
+Arundo bengalensis	1
+Arundo karka	2
+Arundo tibialis	2
+Asclepias	1
+Asclepias acida	7
+Asclepias gigantea	6
+Asclepias pseudosarsa	3
+Asclepias rosea	5
+;Asparagus	4
+Asparagus racemosa	4
+Asparagus racemosus	13
+;aspera	1
+Averrhoa carambola	3
+Bambusa spinosa	6
+Barleria	1
+Barleria cristata	2
+Barleria longifolia	2
+;Barringtonia	1
+Barringtonia acutangula	7
+Basella	1
+Basella lucida	3
+Bassia	1
+Bassia latifolia	8
+Bauhinia candida	1
+Bauhinia variegata	12
+;Bengalensis	1
+Beta Bengalensis	1
+Betula	6
+;Bignonia	1
+Bignonia Indica	25
+Bignonia suaveolens	1
+;Boerhavia	1
+Boerhavia diffusa alata	2
+Boerhavia diffusa	1
+Bombax heptaphyllum	9
+Borassus flabelliformis	4
+;Boswellia	1
+Boswellia serrata	1
+Boswellia thurifera	10
+Buchanania latifolia	9
+Buchanania latifolia, Rox.	9
+;Butea	2
+Butea frondosa	19
+Cactus Indicus	3
+;Calamus	3
+Calamus fasciculatus	3
+Calamus rotang	8
+Calotropis	1
+Calotropis gigantea	2
+Cannabis sativa	4
+Capparis aphylla	1
+Capparis trifoliata	5
+Cardiospermum halicacabum	2
+Careya arborea	1
+Carissa carandas	2
+Carpopogon pruriens	22
+Carthamus tinctorius	5
+Carum carui	1
+Cassia alata	1
+Cassia esculenta	3
+Cassia fistula	21
+Cassia sophora	1
+Cassia tora	3
+Celosia cristata	10
+Celtis orientalis	9
+Chenopodium album	11
+Cicer arietinum	5
+Cicer lens	1
+Cissampelos hexandra	10
+Cissus pedata	8
+Cissus quadrangularis	2
+Citrus acida	5
+Citrus decumana	1
+Citrus medica	8
+;Cleome	1
+Cleome pentaphylla	2
+Cleome viscosa	2
+Clitoria ternatea	5
+Coix barbata	1
+Coluber naga	2
+Coluber Naga	1
+Commelina salicifolia	3
+;communis	2
+;Convolvulus	3
+Convolvulus argenteus	6
+Convolvulus paniculatus	3
+Convolvulus turpethum	7
+Conyza lacera	3
+Corchorus capsularis	1
+Corchorus olitorius	2
+Cordia latifolia	2
+Cordia myxa	4
+;cordifolia	5
+Coriandrum sativum	3
+Costus	4
+Costus speciosus	2
+Crocus sativus	2
+Croton polyandrum	10
+Croton tiglium	2
+Cuculus Indicus	1
+Cuculus melanoleucus	1
+;Cucumis	3
+Cucumis colocynthis	2
+Cucumis coloquintida	3
+C. coloquintida	3
+Cucumis momordica	2
+Cucumis sativus	2
+;Cucurbita	1
+Cucurbita citrullus	1
+Cucurbita lagenaria	2
+Cucurbita pepo	3
+Curculigo orchioides	2
+Curcuma longa	1
+Curcuma reclinata	2
+Curcuma zedoaria	1
+Curcuma zerumbet	10
+Curcuma Zerumbet	1
+Cyperus	13
+Cyperus pertenuis	6
+Cyperus rotundus	25
+Cytisus cajan	3
+;Dalbergia	1
+Dalbergia Ougeinensis	1
+Dalbergia ougeinensis	3
+Dalbergia sisu	2
+Dalbergia Sisu	6
+Datura	2
+Datura fastuosa	1
+Datura metel	7
+Daucus carota	1
+Delphinus gangeticus	3
+Dioscorea	2
+Dioscorea purpurea	1
+Diospyros glutinosa	7
+Diospyros tomentosa	2
+Dolichos biflorus	2
+Dolichos catjang	8
+Echites dichotoma	1
+Echites frutescens	9
+Echites scholaris	15
+;Eclipta	1
+Eclipta prostrata	1
+Eleocarpus ganitrus	1
+Eleusine corocana	3
+Eleusine Indica	1
+Epidendrum tesseloides	1
+Ervum hirsutum	2
+Ervum lens	1
+Erythrina fulgens	4
+Erythrina Indica	2
+Euphorbia	2
+Euphorbia antiquorum	5
+Euphorbia Tirucalli	1
+Euphorbia tirucalli	1
+;fasciculatus	2
+;fastuosa	1
+Feronia elephantum	1
+Ficus glomerata	8
+Ficus Indica	7
+Ficus infectoria	2
+Ficus oppositifolia	2
+Ficus religiosa	17
+Flacourtia cataphracta	19
+Flacourtia sapida	9
+Galedupa arborea	10
+Gentiana cherayta	7
+;Gloriosa	1
+Gloriosa superba	1
+Glycine debilis	8
+Gmelina arborea	11
+Gomphrena globosa	2
+Grislea tomentosa	11
+Guilandina bonducella	1
+Hedysarum alhagi	16
+Hedysarum gangeticum	7
+Hedysarum lagopodioides	13
+Helianthus annuus	1
+Heliotropium	1
+Heliotropium indicum	1
+Heliotropium Indicum	7
+Hemionites cordifolia	11
+;heptaphyllum	1
+Hibiscus	1
+Hibiscus abelmoschus	2
+Hibiscus cannabinus	1
+Hibiscus mutabilis	13
+Hibiscus phoeniceus	1
+Hibiscus populneoides	3
+Hieracium	1
+Hingtsha repens	6
+Hydrocotyle Asiatica	2
+Hydrocotyle asiatica	1
+;hyperanthera	1
+Hyperanthera morunga	15
+Hyperanthera Morunga	1
+Ichnocarpus frutescens	1
+Indica	1
+indica	1
+Indigofera tinctoria	7
+Jasminum auriculatum	4
+Jasminum grandiflorum	1
+Jasminum multiflorum	1
+Jasminum pubescens	1
+Jasminum zambac	6
+;Jonesia	1
+Jonesia asoca	6
+Jonesia Asoca	3
+Jonesia asoka	2
+Justicia adhatoda	1
+Justicia ganderussa	8
+Kyllingia monocephala	1
+Lagerstroemia regina	1
+;latifolia	4
+Leea hirta	2
+Ligusticum ajwaen	9
+Linum usitatissimum	3
+Loxia philippensis	2
+Loxia Philippensis	1
+Luffa acutangula	4
+Lycopodium imbricatum	3
+Macrognathus pancalus	1
+Macrognathus Pancalus	2
+Mangifera Indica	7
+Marsilea dentata	4
+Marsilea quadrifolia	7
+Marsilia dentata	1
+Marsilia quadrifolia	2
+Medicago esculenta	5
+Melia azadirachta	4
+Melia sempervirens	2
+melongena	1
+Menispermum cordifolium	2
+Menispermum glabrum	14
+;Mesua	3
+Mesua ferrea	17
+Michelia champaca	14
+Michelia Champaca	1
+Mimosa	1
+Mimosa Arabica	2
+Mimosa catechu	15
+Mimosa natans	1
+Mimosa octandra	6
+Mimosa pudica	8
+Mimosa suma	3
+Mimusops	1
+Mimusops elengi	8
+Mimusops kauki	6
+Mirabilis jalapa	1
+Mollugo pentaphylla	3
+;Momordica	1
+Momordica charantia	10
+Momordica mixta	3
+Momordica monadelpha	5
+Morinda tinctoria	3
+Morunga	2
+Morus Indica	7
+;munja	1
+Musa paradisiaca	1
+Musa sapientum	8
+myxa	1
+Nageia putranjiva	2
+Nauclea cadamba	7
+Nauclea Cadamba	3
+Nauclea cordifolia	5
+Nauclea kadamba	4
+Nauclea Kadamba	1
+Nelumbium speciosum	3
+Nerium odorum	12
+Nigella Indica	12
+Nyctanthes tristis	6
+Nymphaea caerulea	1
+Nymphaea esculenta	1
+Nymphaea lotus	3
+Nymphaea nelumbo	1
+Nymphaea rubra	1
+Ocimum gratissimum	1
+Ocimum pilosum	2
+;octandra	1
+Ocymum album	1
+Ocymum gratissimum	2
+Ocymum sanctum	6
+Odina wodier	1
+Oldenlandia biflora	1
+Oxalis corniculata	1
+Palma christi	1
+Palma Christi	1
+Pandanus odoratissimus	11
+;Panicum	1
+Panicum dactylon	9
+Panicum frumentaceum	2
+Panicum Italicum	1
+Panicum italicum	2
+Panicum miliaceum	3
+Panicum spicatum	1
+Paspalum frumentaceum	3
+Pentapetes Phoenicea	1
+Pentapetes phoenicea	1
+Pentaptera	2
+Pentaptera arjuna	10
+Pentaptera Arjuna	3
+Pentaptera tomentosa	11
+Periploca Indica	1
+Phaseolus	3
+Phaseolus mungo	10
+Phaseolus radiatus	6
+Phaseolus trilobus	6
+Phoenix sylvestris	2
+Phyalis flexuosa	1
+Phyllanthus emblica	7
+;Physalis	1
+Physalis flexuosa	7
+;pilosum	1
+Pimpinella Anisum	1
+Pimpinella anisum	1
+;Pinus	1
+Pinus deodar	1
+Pinus Deodar	1
+Pinus devadaru	2
+Pinus Devadaru	7
+Pinus longifolia	6
+Piper betel	5
+Piper longum	1
+Pistia stratiotes	17
+Plumbago zeylanica	10
+Poa cynosuroides	6
+Poederia foetida	4
+Polianthes tuberosa	1
+Pothos officinalis	8
+Premna esculenta	1
+Premna herbacea	2
+Premna spinosa	6
+;prostrata	1
+;Pterospermum	1
+Pterospermum acerifolium	5
+;pubescens	1
+;religiosa	1
+Ricinus communis	7
+Rottleria tinctoria	8
+Rubia manjith	8
+Ruellia longifolia	2
+Rumex vesicarius	6
+Ruta graveolens	1
+;Saccharum	4
+Saccharum cylindricum	8
+Saccharum munja	4
+Saccharum Munja	1
+Saccharum officinarum	1
+Saccharum procerum	1
+Saccharum sara	7
+Saccharum spontaneum	18
+Salvinia cucullata	12
+Sanseviera	1
+Sanseviera zeylanica	10
+Sapindus detergens	2
+Sarcostema viminalis	1
+Scirpus kysoor	4
+Semecarpus anacardium	4
+Serratula anthelmintica	11
+Sesbana grandiflora	7
+Shorea robusta	19
+;Sida	2
+Sida alba	1
+Sida cordifolia	8
+Sinapis dichotoma	5
+Sinapis racemosa	1
+Sinapis ramosa	1
+Solanum	1
+Solanum Indicum	3
+Solanum jacquini	6
+Solanum Jacquini	3
+Solanum melongena	18
+;speciosus	2
+;spinosa	5
+Spondias	1
+Spondias mangifera	13
+Strychnos potatorum	5
+Styrax benzoin	3
+Symplocos racemosa	6
+Tamarindus Indica	1
+Tectona grandis	2
+Terminalia belerica	7
+Terminalia chebula	11
+Tragia involucrata	3
+Trapa bispinosa	9
+Trewia nudiflora	1
+Tribulus lanuginosus	2
+Trichosanthes	1
+Trichosanthes dioeca	9
+Trigonella corniculata	11
+Trophis aspera	11
+; Valeriana	1
+Vallisneria	12
+Vangueria spinosa	16
+Verbesina	1
+Verbesina scandens	2
+Vespa solitaria	1
+Vitex negundo	8
+Vitex trifolia	2
+Wrightea antidysenterica	9
+Xylocarpus granatum	1
+Zizyphus jujuba	7
+Zizyphus scandens	1

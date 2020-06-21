@@ -1,0 +1,736 @@
+; this is an edited version of wil_not_mwbot.txt
+; Lines starting with ';' are comments
+; Lines starting with ';x' are judged not to be plant names
+; Lines starting with ';?' are uncertain
+;x	21
+;x  &c	54
+;x  (a plaint	1
+;x  (as of redness in the word red	1
+;x  (as {#puruzacandra#} an eminent man	1
+;x  (Chinese	1
+; (Commelina salicifolia	1 #  a botanical name in wil_mwbot
+; (Cucumis utilatissimus	1 # similar to mw Cucumis utilissimus
+Cucumis utilatissimus	1
+;x (Daradoe	1
+;x (disease	1
+;? (Erythroxylon sideroxylloides	1
+; bio (Falco ponticeriana	1
+;x (flogging	1
+;x (Greeks%} or {%Bactrians	1
+; (Hedysarum Gangeticum	1 #  a botanical name in wil_mwbot
+; (Lycopodium imbricatum	1 #  a botanical name in wil_mwbot
+; (Momordica mixta	1 #  a botanical name in wil_mwbot
+;? (Paropamisans	1
+;x (Scūthi%} or {%Chasas	1
+;x (the gender is unchanged	1
+;x (the widow	1
+;x a	1
+;x  a chief	1
+;x  above	1
+;x  according to	1
+;? and ganderussa	1
+;? and Hyperanthera	1
+;x and in the Peninsula	1
+;x and other edible	1
+; and rhombifolia	1  # rhombifolia
+;x rhombifolia	1
+;x  and the	1
+;x  apajAnIte	1
+;x  as	1
+;x  as milk	1
+;x  BUC	10
+;x  but in ROXBURGH'S Catalogue	1
+;x  but it is	1
+;x  but the name is applied to different trees	1
+; Cardiaspermum halicacabum	1  cardi**o**spermum
+Cardiaspermum halicacabum	1
+;x  considered as disguises of the spirit	1
+;x  curds	1
+;x  excellent	1
+floribus multiplicatis	1
+fl. multiplicatis	1
+;x HAM	49
+;x Ham	1
+; Hedysarum lagopodioides	1
+Hedysarum lagopodioides	1
+;x  here perhaps especially	1
+;x  it usually takes the deponent form	1
+;x  Lath	1
+;x  of various sorts	1
+;x  of which the root is similarly used	1
+;x  on	1
+;x  or	3
+;x  or a large variety	1
+;x  or alata	1
+; or Buchanania	1
+Buchanania	1
+; or Capparis trifoliata	1
+Capparis trifoliata	1
+; or Lythrum fruticosum	1
+Lythrum fruticosum	1
+; or Nymphæa nelumbo	1
+Nymphæa nelumbo	1
+;x or perhaps more	1
+;x or rather the	1
+;x or sacred basil	1
+; or Sarcostema viminalis	1
+Sarcostema viminalis	1
+; or verbesina prostrata	1
+verbesina prostrata	1
+;? racemosa	1
+;? rotundus	1
+;? Rox	151 # occurs as a 3rd word in many scientific names
+;? rubra or lucida	1
+;x the	1
+;x the Agrostis	1
+;x the Agrostis linearis of LINNÆUS; according	1
+Agrostis linearis	 6
+;x the white variety	1
+;x upon	1
+; Verbesina scandens	1
+Verbesina scandens	1
+;x with	1
+;x#} &c	1
+;x%}	1
+;x%} (generally mountaineers	1
+;x%} (the ancient {%Persians	1
+;x%} (the people of the {%Sacha region%}	1
+;x%} (Turdus	1
+;x%} a black variety	1
+;x%} HAM	1
+;x&c	2
+;(Gracula religiosa	1
+Gracula religiosa	1
+;?(Nymphæa	1
+;x) Best	1
+;x) Daradas	1
+;x) Kirātas	1
+;x) or according to some	1
+;x) or resembling the wife of a sage in dress and austerity	1
+;x) or {%Maina	1
+;x) Pahlavas	1
+;x) Pāravas	1
+;x) The implied description of any property in the term designing	1
+;x) To be alleviated or relieved though not cured	1
+;x) Śakas	1
+;x)%} 	2
+;x)%} and	1
+;x[Page929]	1
+;A chyranthes aspera	1  # no space after 'A'.  corrected in wil.txt
+Achyranthes aspera	1
+;xA plant	1
+;xa {%moon%} of men	1
+Abrus precatorios	1
+Abrus precatorious	1
+Acacia Sirisha	1
+Acheranthes aspera	1
+;Acorus calamus; also Zinziber Zedoaria	1  # may be Zingiber Zedoaria
+Acorus calamus	 1
+Zinziber Zedoaria	1
+Agrostis linearis	2
+;Alangium hexapetalum:) see	1
+;Allangium hexapetalum	1   # 'Alangium'  changed wil.txt
+;? alosa	1
+Alpinia cardamomum	1
+;x Also {#bAlukI#}) A sort of cucumber	1
+;x Amber	1
+;? Ambergris	1
+; Amomum zinziber	1  Google zingiber
+Amomum zinziber	1
+;x Amphisbæna	5  # serpent
+;x Amphisbœna	1
+; anacardium	2  # beginning of line, twice. wil.txt changed.
+; Anas casaca	1  # casarca. wil.txt changed
+; next 4 questions of spelling
+Andersonia rohitaca	1
+Andersonia Rohitaca	1
+Andropogon aciculatum	7
+Andropogon aculeatum	1
+Andropogon or Holcus bicolor	2
+Andropogon or Holcus sorghum	2
+Andropogon schænanthus	1
+Andropogon schœnanthum	1
+Andropogon schœnanthus	1
+Andropogon sorghum	1
+Anethum pammorium	1
+Anethum pimpinella	1
+Anethum sowa or panmorium	1
+;Annona	1
+;x applied to the small bird usually called {%Maina%} in {%Bengal	1
+;x April-May	3
+;x Aquarius	1
+;? Arachosians	1
+; next 3 are birds
+;xArdea argala	1
+;xArdea jaculator	1
+;xArdea Sibirica	1
+Areca faufel or catechu	8
+;Areca gracilis or	1
+Areca gracilis or triandra	1
+Artocarpus	2
+Artocarpus Lacucha, Rox.	1
+Arum orinense	1
+Arundo	1
+Arundo gigantea	1
+Arundo tibialis or karka	1
+; asoca	1
+Atis or Betula	1
+Atracia sirisa	1
+;x August-September	2
+;Averhoa	1
+Averhoa carambola	1
+Averrhoa	1
+;barbata	2
+Barleria coerulea	1
+Basella rubra and lucida	2
+Basella rubra or lucida	2
+;x Bdellium	2  # a resin from some plants
+;x Behar	1
+Bignonia suave olens	1
+Bignonia suave-olens	16
+B. Indica	1
+;x Boa	4
+;x Boa constrictor	4
+Boerhavia diffusa alata	1
+;x Bola cuja	1 # a fish
+Bombax	1
+;x bonduccella	1
+;x Bos gavaeus	1
+;x Bos gavoeus	1
+;x Bos gavæus	2
+;x BROVN	1
+Bryonia grandis	1
+;BUC	1
+Buchanania	3
+;x Böa	2
+;xBöa constrictor	1
+Caesalpinia bonduccella	1
+Calamus roatang	1
+Calotropis gigantea alba	1
+;x Cancer	2
+;x Cancila	1
+;x Canda	1 a fish
+;x Candahar	1 # a country
+; carambola	2
+Carambola averrhoa	1
+cardiospermum	1
+Cardiospermum haliacacabum	2
+Halicacabum cardiospermum	1
+; Carissa	2
+Carissa carondas	6
+Carissa Carondas	4
+;Carondas	1
+;carondas	1
+Carpogon pruriens	1
+;Carthamus	1
+Cascaria ovata	1
+Cassia or Senna esculenta	1
+Cassia purpurea	1
+Cassyta filiformis	1
+;x Cyprinus catla	1
+;Cedrela	1
+Cedrela tunna	4
+Cedrela Tunna	1
+;Cedrela Tūna	1
+;x certain natural forms or properties	1
+Cesalpinia bonducella	1
+;champaca	1
+;charantia	1
+; chavya	1
+; cheela;) it is also applied to the {%Pondicherry%} eagle	1
+;Cheilodipterus culius and butis	1
+Chenopodium esculentum	1
+Chironia centauroides	1
+;Chironia centauroides;	1
+Chironjia sapida	2
+; Cissampelos	3
+;Cissampelos the hexandra	1
+Citrus aurantium	1
+;? Civet	1
+Clitorea ternata	1
+Clitorea ternatea	1
+Clitoria ternata	3
+Clupanodon	1
+clupanodon	1
+Clupanodon ilisha	2
+Clupanodon Ilisha	2
+Cluponodon Ilisha	1
+;Coccinella	2
+;Coccinella of various kinds	1
+;Coccinella or ladybird	1
+Cocos nucifera	1
+Coesalpinia bonduccella	1
+Coesalpinia sappan	1
+; Coix	2
+colocynthis	1
+colocynthus	1
+;x constrictor	2
+;x Continence	1
+Convolvulus argentaceus	1
+Conyza anthelmintica	1
+Conyza serratula	1
+Conyza terebinthina	1
+Corchorus capsularis or olitorius	1
+;Cordia	1
+Cordia myxa and latifolia	1
+Cordia myxa or latifolia	1
+Cordia myxta	1
+;corniculata	1
+;corylifolia	1
+;x Cote	1
+Crotolaria juneca	1
+Cucumis madraspatanus	4
+Cucumis Madraspatanus	2
+C. madraspatanus	2
+Cucumis utilatissimus	5
+Cucurbita lagenaris	2
+Cueurbita lagenaria	1
+Cumumis utilatissimus	1
+Curcuma zanthorhiza	1
+Curcuma zanthorrhiza	1
+Curcuma zanthorrhizon	2
+S. cylindricum	1
+Cynosurus corocanus	1
+Cyperus 	1
+Cyperus pertenuis or rotundus	1
+;Cyprinus	2
+Cæsalpinia	1
+Cæsalpinia bonduccella	1
+Cæsalpinia bonducella	6
+Cæsalpinia Bonducella	1
+Dalbergia ougeiniensis	3
+Dalbergia ougieniensis	1
+Dalbergia Oujeiniensis	2
+Dalbergia oujeiniensis	1
+;Datura metal	1
+;Datura metel and	1
+Datura metel and fastuosa	2
+;xDecember-January	3
+P. devadaru	1
+;Devi	1
+;different plant	1
+;diffusa alata	1
+Dilenia Indica	1
+Diospyros melanoxylon	3
+Dolichos carpopogon	3
+Dolichos virosus	1
+;DURGĀ	1
+Echites	2
+Echites antidysenterica	2
+Echites caryophyallata	1
+Echites or Wrightea antidysenterica	1
+Eclipta or Verbesina prostrata	3
+Eclipta or Verbesina	3
+Elate sylvestris	2
+;elephantium	2
+Elephantophus scaber	1
+Embelia ribes	1
+Embryopteris glutinifera	1
+Epidendrum tessellatum	1
+Ervum lens or hirsutum	1
+Ervum or Cicer lens	1
+Erycibe paniculata, Rox.	1
+Erythrina fulgenis	1
+;Esox	1
+Esox cancila	2
+Esox kankila	1
+Esox scolopax	1
+Eugenia	3
+Eugenia acutangula	2
+Eugenia jambu	3
+;x Euphorbia of various kinds	2
+E. hirta	1
+E. thymifolia	1
+E. chamaesyce	1
+; Falco	1
+;fascicularis	1
+;x February-March	2
+;Feronia	2
+Feronia elephantium	4
+;ferrea	3
+Ficus infectiosa	1
+Ficus oppositi-folia	1
+Ficus religiousa	1
+Ficus venosa	1
+;filiformis	1
+;Flacourtia	1
+;flexuosa	1
+; foenugræcum	1
+;frondosa	2
+;frutescens	1
+Galendupa arborea	1
+Gallinula porphyria	1
+Asclepias geminata	1
+Gigantic Asclepias	1
+; ginginianus	1
+;glabrum	1
+Glycirrhiza glabra	1
+;x God	2
+;x GOD	1
+Goertnera racemosa	1
+Gomphrœna globosa	1
+Gossypium hirsutum	1
+;x gourd	1
+;Gracula	1
+; Gracula religiosa;) it is also	1
+;grandis	1
+Guilandina or Hyperanthera morunga	1
+Guilandina bonduccella	2
+;Gærtnera	1
+Gærtnera racemosa	5
+Halicacabum cardiospermum	1
+;? HAM	3
+;Heartpea	1
+Hedysarium alhaji	1
+Hedysarum alhaji	3
+Hedysarum lagopodiodes	1
+Helianthus annuns	1
+;Hemionites	2
+;Hemionitis	1
+Hemisdemus Indicus	1
+Heritiera minor	1
+;hexandra	3
+Hibiscus phæniceus	2
+Hibiscus rosa sinensis	1
+Hibiscus vitifolius	1
+Hilancha repens	4
+Hordeum hexastichon	1
+;xHyperbole	1
+;xI hope that it is so	1
+;Ilisha	1
+;imbricatum	1
+;x In apposition	1
+;x In arithmetic	3
+;x In astronomy	1
+;x In combination	1
+;x In composition	1
+;x In composition) Pre-eminent	1
+;x In law) Comprising many counts	1
+;x In law) The detention of the person of a debtor by his creditor	1
+;x In Logic	1
+;x In medicine	1
+;x In rhetoric	1
+;x In the 1st and 10th cls	1
+;x In the 7th cl	1
+;x In the Vedānta	1
+;x In the {%Vedānta%} this is especially applied to	1
+;x In theatrical language	1
+;indicum	1
+;Indicus	2
+Indigofera Indica	1
+Ipomaea quamoclit	1
+Ipomaea paniculata	1
+;x it	1
+; it is also applied to Pharnaceum mollugo	1
+Pharnaceum mollugo	1
+;x January-February	1
+;x JanuaryFebruary	1
+Jasmimum arboreum	1
+Jasminum	1
+;Jasminum multiflorum or pubescens	1
+;Jatamansi	1
+;x July-August	2
+;x June and July	2
+;x June-July	4
+Jussieua repens	4
+Justicia	2
+Justicia adhenatoda	8
+M. Kauki	1
+;x KUVERA'S treasures	1
+Kyllinga monocephala	2
+Kæmpferia rotunda	2
+;lacucha	1
+Artocarpus Lacucha, Rox.	1
+Lanius malabaricus	1
+Lanius forficatus	1
+Lanius cærulescens	1
+Leea aequata	2
+Lettsomia neryosa	1
+Ligusticam ajwaen	1
+Ligusticum ajväen	3
+;linearis of LINNÆIS	1
+Linum	1
+Linum utilatissimum	4
+Linum utilitissimum	1
+Luffa pentandra and acutangula	1
+Luffa pentangula	1
+Lycopodium	1
+Lythrum fruticosum	1
+;Madraspatanus	1
+C. madraspatanus	1
+;mangifera	1
+Manjifera Indica	1
+;manjith	1
+;x March-April	6
+;x May and June	1
+;x May-June	1
+;x MayJune	1
+;Melia	1
+Melia azadiracta	3
+;Menispermum	1
+Menispermum calumba	1
+Menyanthes Indica or cristata	1
+Michelia	1
+Mimosa alba	1
+M. Farnesiana	1
+M. kauki, Rox.	1
+M. kauki	1
+M. suma	1
+M. Suma	1
+M. suma, Rox.	1
+M. Suma, Rox.	1
+Mimosa khayar	1
+Mimosa Sama	1
+Mimosa Sama, Rox.	1
+Mimosa sirisa	4
+Mimosa sirisha	6
+Mimosa sirsiha	1
+Mimosa Sirisha	2
+Mimosa albida	1
+Mimusopa elengi	1
+Morunga guilandina	2
+Morunga guilandina and hyperanthera	1
+Morunga hyperanthera	5
+M. hyperanthera	5
+;muricatum	5
+Myristica caryophyllata	1
+;x Mænorrhagia	1  a disease
+;Nagelia putrangiva	1
+Nagelia putranjiva	3
+;x narrow-leaved variety	1
+Nauclea k.	1
+;Nelumbirum speciosum	1
+;Nelumbium speciosum or	1
+;Nelumbium speciosum or Nymphaea nelumbo	1
+;Nelumbium speciosum or Nymphæa nelumbo	1
+;Nelumbium speciosum;) it is often confounded with the water lily
+;Nelumbium speciosum	1
+;Nymphaea nelumbo	1
+;Nigella	1
+Nimba or Melia azadirachta	1
+;nivea	2
+;x November-December	4
+Nyctanthes arbor tristis	1
+Nyctanthes arbor-tristis	1
+Nyctanthes	1
+Nymphaea coerulea	2
+Nymphoea rubra	1
+Nymphæa cærulea	2
+Nymphæa lotus	1
+Nymphæa nelumbo	3
+Nymphæa rubra	3
+Ocymum	2
+Ocymum pilosum	5
+Ocymum villosum	1
+;x of it	1
+;x Of or belonging to a cow	1
+;x of various species	1
+; officinalis	1
+Oleander odorum	1
+Oleander or Nerium odorum	1
+Ophicephalus wrahl	1
+Ophiocephalus kurrawey	1
+Ophiocephalus wrahl	1
+Ophiocephalus Wrahl, HAM.	1
+Ocymum sanctum or album	1
+;x or {%Sakai	1
+Oriza sativa	2
+;Oujeiniensis	1
+;? Over	1
+Ovieda verticellata	1
+Oxalis monadelpha	3
+;Oxalis monadelpha or	1
+;Oxalis mondelpha	1
+Paederia fetida	1
+;? Pale Lodh	1
+;Palma christi	1
+;Palma christi or	1
+;Palma christi or Ricinus	2
+; Pampā	1  # a river
+;paniculata	1
+C. paniculatus	1
+Panicum colonum	1
+;Panicum dactylon with	1
+Paspalum kora	1
+Paspalum scrobiculatum	1
+;x Paṇas	1  Unit of money
+Pentapetes	1
+;Pentapetes phoenicea; it is also applied to	1
+Pentapetes phoenicea	1
+Pentapetes phænicea	1
+Pentapetes Phœnicea	1
+Pentapetes phœnicea	1
+Pentapheca tomentosa	1
+;pentaphylla	1
+;pepo	1
+Phaseolus lobatus	2
+Phaseolus max	4
+Phaseolus Moong	1
+Phaseolus Mungo	1
+Phaseolus radiatus	1
+Phaseolus mas	1
+;phoenicea	1
+Phoenix or Elate paludosa	2
+;x Phthisis pulmonalis	1  # a disease
+;Physalis flexuousa	1
+;Pinus devadāru	2  # changed spelling to Pinus devadaru.
+;Pinus devadāru;) in	1
+Pinus longifolius	1
+;Piper	1
+Piper chavya	8
+Piper chavya, Rox.	2
+Piper nigrum	2
+Pistia	2
+;Plectranthes scutellaroides	1
+Plectranthus scutellaroides	5
+Plumbago zeylanica and rosea	1
+Plumbago	1
+Poederia fetida	1
+Poinciana pulcherrima	1
+;Pothos	1
+;precatorius	1
+;Premna	3
+Premna longifolia	2
+;x properly	1
+Psoralea corilifolia	1
+Psoralia corylifolia	1
+Pterocarpus santolinus	3
+Pterocarpus santolinum	3
+;Pterocarpus santolinus; applied also to	1
+Pterospermum acerifolia	1
+Pterospermum salicifolium	1
+Pæderia fetida	2
+Pæderia foetida	2
+Pœderia foetida	2
+;racemosa	1
+;racemosus	2
+;radiatus	1
+Raphanus sativus	2
+; reticulata	1
+;ribes	1
+;x rohita	1
+Rosa standulifera	1
+Rottleria	1
+rotundus	1
+C. rotundus	1
+C. reclinata, Rox.	1
+;Rox	11  # Rox. is common abbreviation X y, Rox.
+;x ROXBURGH'S catalogue	1
+;Rubia	1
+;Rubia manjiṭh	3
+Rumex vesicatorius	3
+;salica	1
+Salvainia cucullata	1
+Salvinea cucullata	1
+;sanctum	1
+;santolinum	1
+;sapida	1
+Sapindus	1
+Sapindus saponaria	3
+Scirpus kyssoor	1
+Scirpus maximus	2
+Scripus kysoor	1
+Semecarpius anacardium	1
+;Semecarpus	1
+;Semicarpus	1
+Semicarpus anacardium	3
+;sempervirens	1
+;x September- October	1
+;x September-October	3
+;serrata	1
+;Serratual anthelmintica	1  tual -> tula
+Serratula or Conyza anthelmintica	1
+Sesamum orientale	2
+Sesbana Ægyptiaca	2
+Siphonanthus Indica	11
+Siphonanthus indica	1
+Siphonanthus Indicus	1
+;Siponanthus Indica	1
+;sirisha	1
+; Solanum molongena	1
+S. jacquini	1
+H. lagopodioides	1
+;x some of its synonyms	1
+Sorex moschata	1
+Sparus emarginatus	1
+;species	1
+;spicatum	1
+; spontaneum	2
+;sternutatoria	1
+;Storax benzoin	1  # resin from certain plants
+;Storax or Benzoin	2
+S. officinale	1
+S. rhombifolia	1
+;stratiotes	2
+;superba;) or	1
+;x Swallow wort	1
+Symplocos racemosus	1
+Symplocus racemosa	1
+Tabernæmontana coronaria	3
+Tabernæmontana	1
+Tamarix diœca	1
+Tamarix Indica	1
+Tantalus falcinellus	1
+Tapia cratoeva	3
+Tapia cratæva	7
+Terminalia alata tomentosa	1
+Cæsalpinia sappan	1
+;x the inhabitants of the {%Himāla%} or {%Imaus	1
+Ixora bandhuca	1
+I. bandhuca	1
+Ixora Bandhuca	1
+Ixora	1
+;tinctoria	1
+;tinctorius	1
+;x to another tree	1
+;x to the {%Hindus	1
+;triandra	1
+Trichosanthes anguinæ	1
+Trichosanthes diœca	2
+Trichosanthes diaeca	2
+Trichosanthes dioeca	2
+;Trichosanthes palmata; also Cucumis	1
+Trichosanthes palmata	1
+Trigonella	2
+Trigonella foenugræcum	1
+Trigonella fœnugræcum	1
+Trochis aspera	1
+;tunna	1
+;Turdus	2
+;turpethum	2
+C. turpethum	7
+C. speciosus	2
+Utricularia fasciculata	1
+Uvaria longifolia	1
+Valeriana jatamansi	6
+Valeriana Jatamansi	2
+Valeriana jatamansie	1
+Vallisneria octandra	6
+;Vangueria	2
+;x variously described	1
+;x violent measures taken by the latter	1
+Vitex nigundo	1
+;vitifolius	1
+;x white blossoms	1
+;x white flowers	1
+;Wrightea antidysenterica; and Colotropis gigantea	1
+Wrightea antidysenterica	1
+Colotropis gigantea	1
+Xanthocymus pictorius	3
+Xanthophyllum virens	1
+;x Yellow jasmin	1
+J. zambac	1
+J. multiflorum or pubescens	1
+J. pubescens	1
+Zeylanica	1
+Nama zeylanica	1
+Zizyphus jujuba or scandens	1
+Zizyphus nepeca	1
+;x {#anujAnIte	1
+;x {#nikocaka;#} the word in the dialects {%Kāṅkarol%} is applied to a species of	1
+{%Bengal%} it is usually applied to the Uvaria longifolia	1
+;x {%Cīnas	1
+;x {%Ilisha	1
+;x {%Khasas	1
+;x {%Yavanas	1
+Commelina Bengalensis	1

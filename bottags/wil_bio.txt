@@ -1,0 +1,112 @@
+; these are scientific names of animals  ('bio' tag)
+Falco ponticeriana	1
+Amphisbæna	5
+Amphisbœna	1
+; mw wrongly has as 'bot'.  It is a duck.
+Anas casarca	2
+; birds
+Ardea argala	1
+Ardea Argala	1
+Ardea jaculator	1
+Ardea nivea	12
+Ardea Sibirica	1
+Ardea Sarunga	1
+ola cuja	1
+; cows
+Bos gavaeus	1
+Bos gavoeus	1
+Bos gavæus	2
+; a fish
+Esox Cancila, HAM.	1
+Canda	1
+Cyprinus catla	1
+Falco cheela	2
+Falco ponticerianus	1
+Cheilodipterus culius and butis	1
+Clupea cultrata	1
+; insect
+Coccinella	2
+; fish
+Coius cobojius	1
+Coiuscoboius	1
+; bird
+Columba hariala	2
+Coracias Indica	1
+Cuculus Indicus	1
+Cuculus melano-leucus	1
+Cuculus melanoleucos	14
+Cynoglossus lingua	2
+Cyprinus Banggana	1
+Cyprinus cachius	1
+Cyprinus catla	1
+Cyprinus curchius	1
+Cyprinus dankena	1
+Cyprinus danrica	1
+Cyprinus denticulatus	2
+Cyprinus garra	1
+Cyprinus marginatus	1
+Cyprinus niloticus	2
+Cyprinus Pausius	1
+Cyprinus Rohita	5
+Cyprinus Sophore	2
+Cyprinus sophore	2
+Felis caracal	1
+Gracula religiosa	1
+; worm
+Julus	3
+Julus cornifex	2
+Iulus	1
+;
+Lacerta anjaneya	1
+Lacerta Gangetica	1
+Lacerta scincus	2
+;
+Larus ridibundus	3
+Macropteronatus Magur	1
+Motacilla alba	1
+Mystus chitala	1
+Mystus kapirat	2
+Parra goensis	1
+Parra jacana or goensis	1
+Pelicanus fusicollis	1
+Perdix olivacea	1
+Perdix rufa	3
+;Perdix rufa or	1
+Perdix sylvatica	1
+Perdix chinensis	1
+Phasianus gallus	1
+Picus Bengalensis	1
+Pimelodus vacha	1
+Pimelodius pangasius	1
+Pimelodus gagora	1
+Pimelodus	1
+Polynemus risua	1
+Psittacus Lori	1
+Raia Sancura, HAM.	1
+Raia Sankur	1
+Turdus ginginianus	5
+Turdus salica	9
+Turdus Salica	1
+Turdus gosalica	1
+; a fish
+Silurus	1
+Silurus ascita	1
+Silurus batachus	1
+Silurus Boalis	2
+Silurus pabda	2
+Silurus pelorius	2
+Silurus pungentissimus	1
+Silurus singio	2
+Silurus Singio	2
+Silurus unitus	1
+; monkey
+Simia erythroea	1
+Simia sinica	1
+Sylvia sutoria	3
+Tetrao rufus	1
+Trichopodus colisa, HAM.	1
+Unibranchapertura Cuchiya	1
+Unibranchapertura cunchiya	1
+Viverra ichneumon	2
+Viverra putorius	1
+Viverra zibetha	1

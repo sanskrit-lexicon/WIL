@@ -1,0 +1,576 @@
+; k1=aYjanikA, L=608
+3775 old .²1 A species of lizard, (Lacerta anjaneya.)
+3775 new .²1 A species of lizard, (<bio>Lacerta anjaneya</bio>.)
+; k1=apriya, L=2379
+14638 old skeat fish, (Silurus pungentissimus.)
+14638 new skeat fish, (<bio>Silurus pungentissimus</bio>.)
+; k1=ardDasaPara, L=3389
+20871 old {#ardDasaPara#}¦ m. ({#-raH#}) A small fish, (Cyprinus sophore, HAM:)
+20871 new {#ardDasaPara#}¦ m. ({#-raH#}) A small fish, (<bio>Cyprinus sophore</bio>, HAM:)
+; k1=aSvavAraRa, L=4355
+26844 old {#aSvavAraRa#}¦ m. ({#-RaH#}) The {%Gayal,%} a sort of ox, (Bos gavoeus.)
+26844 new {#aSvavAraRa#}¦ m. ({#-RaH#}) The {%Gayal,%} a sort of ox, (<bio>Bos gavoeus</bio>.)
+; k1=Awi, L=5193
+31937 old {#Awi#}¦ m. ({#-wiH#}) The {%Śarāli,%} a bird so called, (Turdus ginginianus.)
+31937 new {#Awi#}¦ m. ({#-wiH#}) The {%Śarāli,%} a bird so called, (<bio>Turdus ginginianus</bio>.)
+; k1=Aqi, L=5199
+31979 old {#Aqi#}¦ f. ({#-qiH#}) A bird, the {%Śarāli,%} (Turdus ginginianus.)
+31979 new {#Aqi#}¦ f. ({#-qiH#}) A bird, the {%Śarāli,%} (<bio>Turdus ginginianus</bio>.)
+; k1=indragopa, L=6295
+38998 old {#indragopa#}¦ m. ({#-graH#}) An insect, (Coccinella of various kinds.)
+38998 new {#indragopa#}¦ m. ({#-graH#}) An insect, (<bio>Coccinella</bio> of various kinds.)
+; k1=elaNga, L=8254
+51557 old {#elaNga#}¦ m. ({#-NgaH#}) A sort of fish, (Cyprinus marginatus, BUC.) also
+51557 new {#elaNga#}¦ m. ({#-NgaH#}) A sort of fish, (<bio>Cyprinus marginatus</bio>, BUC.) also
+; k1=kaYjana, L=8577
+53561 old .²1 The {%Mayana%} or {%Maina,%} (Gracula religiosa.)
+53561 new .²1 The {%Mayana%} or {%Maina,%} (<bio>Gracula religiosa</bio>.)
+; k1=kawukvARa, L=8631
+53942 old {#kawukvARa#}¦ m. ({#-RaH#}) A bird, jacana, (Parra goensis.)
+53942 new {#kawukvARa#}¦ m. ({#-RaH#}) A bird, jacana, (<bio>Parra goensis</bio>.)
+; k1=karRakIwI, L=9270
+57843 old .²1 An insect or worm with many feet, and of a reddish colour, (Julus cornifex.)
+57843 new .²1 An insect or worm with many feet, and of a reddish colour, (<bio>Julus cornifex</bio>.)
+; k1=karRajalUkA, L=9279
+57895 old .²1 An insect, (Julus.)
+57895 new .²1 An insect, (<bio>Julus</bio>.)
+; k1=karRajalOkA, L=9281
+57906 old {#karRajalOkA#}¦ f. ({#-kA#}) A kind of insect, (Julus cornifex, &c.)
+57906 new {#karRajalOkA#}¦ f. ({#-kA#}) A kind of insect, (<bio>Julus cornifex</bio>, &c.)
+; k1=karRamadgura, L=9297
+57998 old {#karRamadgura#}¦ m. ({#-raH#}) A sort of sheat fish, (Silurus unitus.)
+57998 new {#karRamadgura#}¦ m. ({#-raH#}) A sort of sheat fish, (<bio>Silurus unitus</bio>.)
+; k1=kavayI, L=9641
+60301 old remarkable for going by land from one spot to another, (Coiuscoboius, HAM.)
+60301 new remarkable for going by land from one spot to another, (<bio>Coiuscoboius</bio>, HAM.)
+; k1=kahva, L=9721
+60776 old {#kahva#}¦ m. ({#-hvaH#}) A kind of crane, (Ardea nivea.)
+60776 new {#kahva#}¦ m. ({#-hvaH#}) A kind of crane, (<bio>Ardea nivea</bio>.)
+; k1=kAkocika, L=9790
+61182 old {#kAkoci.#} (Cyprinus cachius, HAM.)
+61182 new {#kAkoci.#} (<bio>Cyprinus cachius</bio>, HAM.)
+; k1=kAtara, L=9870
+61692 old (Cyprinus catla, HAM.)
+61692 new (<bio>Cyprinus catla</bio>, HAM.)
+; k1=kAtala, L=9872
+61702 old {#kAtala#}¦ m. ({#-laH#}) The name of a fish, commonly {%Kātala,%} (Cyprinus catla, HAM.)
+61702 new {#kAtala#}¦ m. ({#-laH#}) The name of a fish, commonly {%Kātala,%} (<bio>Cyprinus catla</bio>, HAM.)
+; k1=kAdambara, L=9881
+61767 old .²4 The female of another bird, (Turdus salica, BUC.)
+61767 new .²4 The female of another bird, (<bio>Turdus salica</bio>, BUC.)
+; k1=kAraskarAwikA, L=10073
+63020 old {#kAraskarAwikA#}¦ f. ({#-kA#}) A centipede or worm resembling it, (Julus.)
+63020 new {#kAraskarAwikA#}¦ f. ({#-kA#}) A centipede or worm resembling it, (<bio>Julus</bio>.)
+; k1=kAzWakuwwa, L=10339
+64707 old {#kAzWakuwwa#}¦ m. ({#-wwaH#}) A bird, a sort of woodpecker, (Picus Bengalensis.)
+64707 new {#kAzWakuwwa#}¦ m. ({#-wwaH#}) A bird, a sort of woodpecker, (<bio>Picus Bengalensis</bio>.)
+; k1=kukkuBa, L=10560
+66112 old .²1 A wild cock, (Phasianus gallus.)
+66112 new .²1 A wild cock, (<bio>Phasianus gallus</bio>.)
+; k1=kucika, L=10586
+66265 old {%Kunchiya,%} (Unibranchapertura Cuchiya, Ham.)
+66265 new {%Kunchiya,%} (<bio>Unibranchapertura Cuchiya</bio>, Ham.)
+; k1=kuYcikA, L=10600
+66355 old (Unibranchapertura cunchiya.)
+66355 new (<bio>Unibranchapertura cunchiya</bio>.)
+; k1=kuqiSa, L=10678
+66852 old {#kuqiSa#}¦ m. ({#-SaH#}) A fish, commonly {%Kūrci,%} (Cyprinus curchius,
+66852 new {#kuqiSa#}¦ m. ({#-SaH#}) A fish, commonly {%Kūrci,%} (<bio>Cyprinus curchius</bio>,
+; k1=kfkaRa, L=11245
+70438 old .²1 A kind of partridge, commonly {%Kaër,%} (Perdix sylvatica.)
+70438 new .²1 A kind of partridge, commonly {%Kaër,%} (<bio>Perdix sylvatica</bio>.)
+; k1=kokila, L=11707
+73275 old .²1 The {%Kokila%} or {%Koïl,%} the black or {%Indian%} cuckoo, (Cuculus Indicus.)
+73275 new .²1 The {%Kokila%} or {%Koïl,%} the black or {%Indian%} cuckoo, (<bio>Cuculus Indicus</bio>.)
+; k1=kowira, L=11727
+73403 old .²1 An ichneumon, (Viverra ichneumon.)
+73403 new .²1 An ichneumon, (<bio>Viverra ichneumon</bio>.)
+; k1=kOSika, L=11897
+74532 old .²5 An ichneumon, (Viverra ichneumon.)
+74532 new .²5 An ichneumon, (<bio>Viverra ichneumon</bio>.)
+; k1=krakacapfzWI, L=11927
+74702 old the back, (Coius cobojius, HAM.)
+74702 new the back, (<bio>Coius cobojius</bio>, HAM.)
+; k1=krakara, L=11929
+74713 old .²1 A sort of partridge, called {%Kaër,%} (Perdix sylvatica;) also {#kfkara.#}
+74713 new .²1 A sort of partridge, called {%Kaër,%} (<bio>Perdix sylvatica</bio>;) also {#kfkara.#}
+; k1=krOYca, L=12112
+75849 old .²1 A kind of heron, (Ardea jaculator, BUC.)
+75849 new .²1 A kind of heron, (<bio>Ardea jaculator</bio>, BUC.)
+; k1=kzudrajantu, L=12435
+77829 old .²2 A kind of worm, (Julus.)
+77829 new .²2 A kind of worm, (<bio>Julus</bio>.)
+; k1=kzemaNkara, L=12514
+78316 old of good omen, (Falco ponticerianus.)
+78316 new of good omen, (<bio>Falco ponticerianus</bio>.)
+; k1=KaYjana, L=12596
+78821 old {#KaYjana#}¦ m. ({#-naH#}) A small bird, the wag-tail, (Motacilla alba.) f.
+78821 new {#KaYjana#}¦ m. ({#-naH#}) A small bird, the wag-tail, (<bio>Motacilla alba</bio>.) f.
+; k1=KawwASa, L=12612
+78916 old {#KawwASa#}¦ mf. ({#-SaH-SI#}) The civet or zebet cat, (Viverra zibetha.)
+78916 new {#KawwASa#}¦ mf. ({#-SaH-SI#}) The civet or zebet cat, (<bio>Viverra zibetha</bio>.)
+; k1=gaNgAcillI, L=12946
+80919 old {#gaNgAcillI#}¦ f. ({#-llI#}) The black headed gull, (Larus ridibundus.)
+80919 new {#gaNgAcillI#}¦ f. ({#-llI#}) The black headed gull, (<bio>Larus ridibundus</bio>.)
+; k1=gaqa, L=13006
+81287 old .²2 Another species, (Cyprinus garra. HAM.) see {#gala.#}
+81287 new .²2 Another species, (<bio>Cyprinus garra</bio>. HAM.) see {#gala.#}
+; k1=gargara, L=13291
+83154 old .²1 A kind of fish, (Pimelodus gagora, HAM) f. ({#-rI#})
+83154 new .²1 A kind of fish, (<bio>Pimelodus gagora</bio>, HAM) f. ({#-rI#})
+; k1=gargAwa, L=13292
+83161 old {#gargAwa#}¦ m. ({#-waH#}) A kind of fish, (Pimelodus gagora, HAM.) 
+83161 new {#gargAwa#}¦ m. ({#-waH#}) A kind of fish, (<bio>Pimelodus gagora</bio>, HAM.) 
+; k1=gala, L=13370
+83637 old (Cyprinus garra, HAM.)
+83637 new (<bio>Cyprinus garra</bio>, HAM.)
+; k1=galegaRqa, L=13392
+83778 old {#galegaRqa#}¦ m. ({#-RqaH#}) A kind of bird, (the Adjutant or Ardea argala.)
+83778 new {#galegaRqa#}¦ m. ({#-RqaH#}) A kind of bird, (the Adjutant or <bio>Ardea argala</bio>.)
+; k1=gavaya, L=13402
+83834 old amongst the kinds of deer, (Bos gavaeus.)
+83834 new amongst the kinds of deer, (<bio>Bos gavaeus</bio>.)
+; k1=gavAlUka, L=13409
+83879 old {#gavAlUka#}¦ m. ({#-kaH#}) The {%Gayal,%} (Bos gavaeus:) see {#gavaya.#}
+83879 new {#gavAlUka#}¦ m. ({#-kaH#}) The {%Gayal,%} (<bio>Bos gavaeus</bio>:) see {#gavaya.#}
+; k1=gAtrasaNkocin, L=13455
+84170 old {#gAtrasaNkocin#}¦ m. ({#-cI#}) The pole-cat, (Viverra putorius.)
+84170 new {#gAtrasaNkocin#}¦ m. ({#-cI#}) The pole-cat, (<bio>Viverra putorius</bio>.)
+; k1=gUTalakta, L=13800
+86393 old {%Maina,%} (Turdus salica.)
+86393 new {%Maina,%} (<bio>Turdus salica</bio>.)
+; k1=gfhabaliBuj, L=13851
+86704 old .²2 A kind of crane, (Ardea nivea.)
+86704 new .²2 A kind of crane, (<bio>Ardea nivea</bio>.)
+; k1=gokirAwikA, L=13917
+87134 old {%Maina,%} (Turdus salica.)
+87134 new {%Maina,%} (<bio>Turdus salica</bio>.)
+; k1=gorAwI, L=14067
+88104 old {#gorAwI#}¦ f. ({#-wI#}) A small bird, (Turdus salica.)
+88104 new {#gorAwI#}¦ f. ({#-wI#}) A small bird, (<bio>Turdus salica</bio>.)
+; k1=gosadfkza, L=14108
+88378 old {#gosadfkza#}¦ m. ({#-kzaH#}) The {%Gayal,%} (Bos gavæus.)
+88378 new {#gosadfkza#}¦ m. ({#-kzaH#}) The {%Gayal,%} (<bio>Bos gavæus</bio>.)
+; k1=grAmamadgurikA, L=14229
+89191 old .²1 A kind of fish, (Silurus singio, HAM.)
+89191 new .²1 A kind of fish, (<bio>Silurus singio</bio>, HAM.)
+; k1=grAmyamadgurikA, L=14263
+89392 old {#grAmyamadgurikA#}¦ f. ({#-kA#}) A kind of fish, (Silurus singio, HAM.)
+89392 new {#grAmyamadgurikA#}¦ f. ({#-kA#}) A kind of fish, (<bio>Silurus singio</bio>, HAM.)
+; k1=grAha, L=14272
+89443 old .²2 A shark; according to some, the Gangetic alligator, (Lacerta Gangetica;)
+89443 new .²2 A shark; according to some, the Gangetic alligator, (<bio>Lacerta Gangetica</bio>;)
+; k1=Ganatola, L=14366
+90054 old {#Ganatola#}¦ m. ({#-laH#}) The {%Cātaka,%} (Cuculus melanoleucos.)
+90054 new {#Ganatola#}¦ m. ({#-laH#}) The {%Cātaka,%} (<bio>Cuculus melanoleucos</bio>.)
+; k1=GarGawa, L=14408
+90297 old {#GarGawa#}¦ m. ({#-waH#}) A kind of fish, (Pimelodus gagora or P. tengara,
+90297 new {#GarGawa#}¦ m. ({#-waH#}) A kind of fish, (<bio>Pimelodus gagora</bio> or P. tengara,
+; k1=cakora, L=14563
+91244 old {#cakora#}¦ m. ({#-raH#}) The bartavelle or Greek partridge, (Perdix rufa or Tetrao rufus.)
+91244 new {#cakora#}¦ m. ({#-raH#}) The bartavelle or Greek partridge, (<bio>Perdix rufa</bio> or <bio>Tetrao rufus</bio>.)
+; k1=cakra, L=14568
+91272 old .²1 The ruddy or {%Brahmani%} goose, (Anas casarca.) n. ({#-kraM#})
+91272 new .²1 The ruddy or {%Brahmani%} goose, (<bio>Anas casarca</bio>.) n. ({#-kraM#})
+; k1=cakravAka, L=14599
+91483 old {%Brahmany%} duck or goose, (Anas casarca.)
+91483 new {%Brahmany%} duck or goose, (<bio>Anas casarca</bio>.)
+; k1=caYcusUci, L=14653
+91835 old {#caYcusUci#}¦ m. ({#-ciH#}) The tailor bird, (Sylvia sutoria.)
+91835 new {#caYcusUci#}¦ m. ({#-ciH#}) The tailor bird, (<bio>Sylvia sutoria</bio>.)
+; k1=caRqu, L=14686
+92064 old .²2 A small monkey, (Simia erythroea.)
+92064 new .²2 A small monkey, (<bio>Simia erythroea</bio>.)
+; k1=candaka, L=14744
+92424 old .²3 A small silvery fish, of a genus allied to the Zeus, (Canda, HAM.)
+92424 new .²3 A small silvery fish, of a genus allied to the Zeus, (<bio>Canda</bio>, HAM.)
+; k1=candrakalA, L=14752
+92494 old .²3 A fish commonly called {%Vacā%} or {%Bacā,%} (Pimelodus vacha, HAM.)
+92494 new .²3 A fish commonly called {%Vacā%} or {%Bacā,%} (<bio>Pimelodus vacha</bio>, HAM.)
+; k1=cAtaka, L=14990
+94029 old {#cAtaka#}¦ m. ({#-kaH#}) A bird, a kind of cuckoo, (Cuculus melano-leucus.)
+94029 new {#cAtaka#}¦ m. ({#-kaH#}) A bird, a kind of cuckoo, (<bio>Cuculus melano-leucus</bio>.)
+; k1=cAza, L=15081
+94585 old .²1 The blue jay, (Coracias Indica.)
+94585 new .²1 The blue jay, (<bio>Coracias Indica</bio>.)
+; k1=citraPala, L=15187
+95233 old ({#-laH#}) A kind of fish, (Mystus chitala, HAM.) f. ({#-lA-lI#})
+95233 new ({#-laH#}) A kind of fish, (<bio>Mystus chitala</bio>, HAM.) f. ({#-lA-lI#})
+; k1=citravadAla, L=15198
+95306 old {#citravadAla#}¦ m. ({#-laH#}) A sheat fish, (Silurus pelorius.)
+95306 new {#citravadAla#}¦ m. ({#-laH#}) A sheat fish, (<bio>Silurus pelorius</bio>.)
+; k1=citrAkzI, L=15208
+95363 old {#citrAkzI#}¦ f. ({#-kzI#}) The {%Maina,%} (Turdus salica.)
+95363 new {#citrAkzI#}¦ f. ({#-kzI#}) The {%Maina,%} (<bio>Turdus salica</bio>.)
+; k1=citrANga, L=15209
+95377 old  worm, (Julus cornifex.)
+95377 new  worm, (<bio>Julus cornifex</bio>.)
+; k1=cilicima, L=15299
+95891 old .²1 A kind of sprat, (Clupea cultrata, B. MSS?)
+95891 new .²1 A kind of sprat, (<bio>Clupea cultrata</bio>, B. MSS?)
+; k1=cilla, L=15301
+95908 old .²1 The Bengal kite, (Falco cheela, Lath.)
+95908 new .²1 The Bengal kite, (<bio>Falco cheela</bio>, Lath.)
+; k1=jalatApika, L=15999
+100262 old .²2 Another kind of fish, commonly {%Caöuchi,%} (Cyprinus cachius, HAM.)
+100262 new .²2 Another kind of fish, commonly {%Caöuchi,%} (<bio>Cyprinus cachius</bio>, HAM.)
+; k1=jalapriya, L=16028
+100435 old .²1 The {%Cātaka,%} (Cuculus melanoleucos.)
+100435 new .²1 The {%Cātaka,%} (<bio>Cuculus melanoleucos</bio>.)
+; k1=jalaraNka, L=16048
+100548 old {#jalaraNka#}¦ m. ({#-NkaH#}) A kind of crane, (Ardea nivea.)
+100548 new {#jalaraNka#}¦ m. ({#-NkaH#}) A kind of crane, (<bio>Ardea nivea</bio>.)
+; k1=jalaraYja, L=16050
+100559 old {#jalaraYja#}¦ m. ({#-YjaH#}) The {%Vaka,%} (Ardea nivea.)
+100559 new {#jalaraYja#}¦ m. ({#-YjaH#}) The {%Vaka,%} (<bio>Ardea nivea</bio>.)
+; k1=jAyAnujIvin, L=16255
+101780 old .²2 A kind of crane, the {%Vaka%} (Ardea nivea.)
+101780 new .²2 A kind of crane, the {%Vaka%} (<bio>Ardea nivea</bio>.)
+; k1=wiwwiBa, L=16739
+104806 old {#wiwwiBa#}¦ m. ({#-BaH#}) A bird, (Parra jacana or goensis.)
+104806 new {#wiwwiBa#}¦ m. ({#-BaH#}) A bird, (<bio>Parra jacana or goensis</bio>.)
+; k1=quRqu, L=16791
+105138 old {#quRqu#}¦ m. ({#-RquH#}) A kind of snake, (Amphisbæna.)
+105138 new {#quRqu#}¦ m. ({#-RquH#}) A kind of snake, (<bio>Amphisbæna</bio>.)
+; k1=quRquBa, L=16792
+105142 old {#quRquBa#}¦ m. ({#-BaH#}) A kind of snake, (Amphisbæna.)
+105142 new {#quRquBa#}¦ m. ({#-BaH#}) A kind of snake, (<bio>Amphisbæna</bio>.)
+; k1=tapasvin, L=17041
+106781 old .²4 The mango fish (Polynemus risua.) f. ({#-svinI#})
+106781 new .²4 The mango fish (<bio>Polynemus risua</bio>.) f. ({#-svinI#})
+; k1=tApasa, L=17291
+108393 old austerities, a devotee, an ascetic. m. ({#-saH#}) A kind of crane, (Ardea nivea). 
+108393 new austerities, a devotee, an ascetic. m. ({#-saH#}) A kind of crane, (<bio>Ardea nivea</bio>). 
+; k1=tAmrakfmi, L=17327
+108646 old {#tAmrakfmi#}¦ m. ({#-miH#}) The lady-bird, (Coccinella.)
+108646 new {#tAmrakfmi#}¦ m. ({#-miH#}) The lady-bird, (<bio>Coccinella</bio>.)
+; k1=tIrTasevin, L=17586
+110320 old .²2 A sort of crane, (Ardea nivea.)
+110320 new .²2 A sort of crane, (<bio>Ardea nivea</bio>.)
+; k1=trikaRwaka, L=18035
+113104 old .²1 A sort of fish, (Silurus.)
+113104 new .²1 A sort of fish, (<bio>Silurus</bio>.)
+; k1=triSaNku, L=18162
+113895 old .²4 A bird, the {%Cātaka,%} (Cuculus melanoleucos.)
+113895 new .²4 A bird, the {%Cātaka,%} (<bio>Cuculus melanoleucos</bio>.)
+; k1=daRqapAla, L=18393
+115319 old .²2 A small kind of fish, (Cyprinus danrica, HAM.) see {#ardDasaPara.#}
+115319 new .²2 A small kind of fish, (<bio>Cyprinus danrica</bio>, HAM.) see {#ardDasaPara.#}
+; k1=daRqika, L=18419
+115478 old .²1 A mace-bearer, &c. one carrying a stick or staff. A fish, (Cyprinus dankena,
+115478 new .²1 A mace-bearer, &c. one carrying a stick or staff. A fish, (<bio>Cyprinus dankena</bio>,
+; k1=dAmBika, L=18826
+117957 old .²2 A kind of crane, (Ardea nivea.)
+117957 new .²2 A kind of crane, (<bio>Ardea nivea</bio>.)
+; k1=divOkas, L=19022
+119135 old .²2 The {%Cātaka,%} (Cuculus melanoleucos.)
+119135 new .²2 The {%Cātaka,%} (<bio>Cuculus melanoleucos</bio>.)
+; k1=dIrGakaRWaka, L=19103
+119709 old {#dIrGakaRWaka#}¦ m. ({#-kaH#}) A sort of crane, the {%Vaka,%} (Ardea nivea.)
+119709 new {#dIrGakaRWaka#}¦ m. ({#-kaH#}) A sort of crane, the {%Vaka,%} (<bio>Ardea nivea</bio>.)
+; k1=dIrGakanDara, L=19104
+119714 old {#dIrGakanDara#}¦ m. ({#-raH#}) A sort of crane, (Ardea nivea.)
+119714 new {#dIrGakanDara#}¦ m. ({#-raH#}) A sort of crane, (<bio>Ardea nivea</bio>.)
+; k1=devawwI, L=19606
+122743 old {#devawwI#}¦ f. ({#-wwI#}) A sort of gull, (Larus ridibundus.)
+122743 new {#devawwI#}¦ f. ({#-wwI#}) A sort of gull, (<bio>Larus ridibundus</bio>.)
+; k1=dvAravaliBuj, L=20094
+125732 old {#dvAravaliBuj#}¦ m. ({#-Buka#}) The {%Vaka,%} a sort of crane, (Ardea nivea).
+125732 new {#dvAravaliBuj#}¦ m. ({#-Buka#}) The {%Vaka,%} a sort of crane, (<bio>Ardea nivea</bio>).
+; k1=dvimuKAhi, L=20186
+126299 old {#dvimuKAhi#}¦ m. ({#-hiH#}) A sort of serpent, (Amphisbœna.)
+126299 new {#dvimuKAhi#}¦ m. ({#-hiH#}) A sort of serpent, (<bio>Amphisbœna</bio>.)
+; k1=DArAwa, L=20598
+128891 old .²1 The {%Cātaka,%} (Cuculus melanoleucos.)
+128891 new .²1 The {%Cātaka,%} (<bio>Cuculus melanoleucos</bio>.)
+; k1=DunDumAra, L=20672
+129362 old .²2 An insect, (Coccinella.)
+129362 new .²2 An insect, (<bio>Coccinella</bio>.)
+; k1=nakula, L=20899
+130835 old .²1 The {%Bengal%} mungoose, (Viverra ichneumon.)
+130835 new .²1 The {%Bengal%} mungoose, (<bio>Viverra ichneumon</bio>.)
+; k1=naBombupa, L=21094
+132066 old {#naBo'mbupa#}¦ m. ({#-paH#}) The {%Cātaka,%} (Cuculus melanoleucos.)
+132066 new {#naBo'mbupa#}¦ m. ({#-paH#}) The {%Cātaka,%} (<bio>Cuculus melanoleucos</bio>.)
+; k1=nAgaBid, L=21321
+133433 old {#nAgaBid#}¦ m. ({#-Bid#}) A sort of snake, (Amphisbæna.)
+133433 new {#nAgaBid#}¦ m. ({#-Bid#}) A sort of snake, (<bio>Amphisbæna</bio>.)
+; k1=niSEta, L=22246
+139446 old {#niSEta#}¦ m. ({#-taH#}) The {%Vaka,%} a crane, (Ardea nivea.)
+139446 new {#niSEta#}¦ m. ({#-taH#}) The {%Vaka,%} a crane, (<bio>Ardea nivea</bio>.)
+; k1=niScalANga, L=22249
+139463 old .²1 A kind of crane, (Ardea nivea.)
+139463 new .²1 A kind of crane, (<bio>Ardea nivea</bio>.)
+; k1=nIlapfzWa, L=22475
+140934 old (Cyprinus denticulatus.)
+140934 new (<bio>Cyprinus denticulatus</bio>.)
+; k1=parvvata, L=23953
+150439 old .²4 A kind of fish, (Silurus pabda, HAM.)
+150439 new .²4 A kind of fish, (<bio>Silurus pabda</bio>, HAM.)
+; k1=parvvita, L=23971
+150550 old {#parvvita#}¦ m. ({#-taH#}) A sort of fish, (Silurus pabda, HAM.)
+150550 new {#parvvita#}¦ m. ({#-taH#}) A sort of fish, (<bio>Silurus pabda</bio>, HAM.)
+; k1=pallavaka, L=24020
+150862 old .²2 A kind of fish, (Cyprinus denticulatus.)
+150862 new .²2 A kind of fish, (<bio>Cyprinus denticulatus</bio>.)
+; k1=pAWamaYjarI, L=24186
+151927 old {#pAWamaYjarI#}¦ f. ({#-rI#}) A small bird, commonly {%Sāri,%} (Gracula religiosa).
+151927 new {#pAWamaYjarI#}¦ f. ({#-rI#}) A small bird, commonly {%Sāri,%} (<bio>Gracula religiosa</bio>).
+; k1=pAWIna, L=24192
+151959 old {#pAWIna#}¦ m. ({#-naH#}) A sort of fish, (Silurus boalis. HAM.)
+151959 new {#pAWIna#}¦ m. ({#-naH#}) A sort of fish, (<bio>Silurus</bio> boalis. HAM.)
+; k1=pika, L=24624
+154639 old {#pika#}¦ m. ({#-kaH#}) The {%Indian%} cuckoo, (Cuculus Indicus.) f. ({#-kI#})
+154639 new {#pika#}¦ m. ({#-kaH#}) The {%Indian%} cuckoo, (<bio>Cuculus Indicus</bio>.) f. ({#-kI#})
+; k1=piNgASa, L=24639
+154753 old .²1 A sort of fish, (Pimelodius pangasius, HAM.)
+154753 new .²1 A sort of fish, (<bio>Pimelodius pangasius</bio>, HAM.)
+; k1=pItatuRqa, L=24880
+156299 old {#pItatuRqa#}¦ m. ({#-RqaH#}) The tailor bird, (Sylvia sutoria.)
+156299 new {#pItatuRqa#}¦ m. ({#-RqaH#}) The tailor bird, (<bio>Sylvia sutoria</bio>.)
+; k1=pItapAdA, L=24887
+156348 old {#pItapAdA#}¦ f. ({#-dA#}) A small bird, the {%Maina,%} (Turdus salica.)
+156348 new {#pItapAdA#}¦ f. ({#-dA#}) A small bird, the {%Maina,%} (<bio>Turdus salica</bio>.)
+; k1=puRqarIka, L=24972
+156885 old .²3 A sort of snake, (Amphisbæna.)
+156885 new .²3 A sort of snake, (<bio>Amphisbæna</bio>.)
+; k1=prozWa, L=27332
+172078 old {#prozWa#}¦ mf. ({#-zWaH-zWI#}) A sort of carp, (Cyprinus Pausius, HAM.) m.
+172078 new {#prozWa#}¦ mf. ({#-zWaH-zWI#}) A sort of carp, (<bio>Cyprinus Pausius</bio>, HAM.) m.
+; k1=plava, L=27345
+172181 old .²7 A diver, or bird so called, (Pelicanus fusicollis.)
+172181 new .²7 A diver, or bird so called, (<bio>Pelicanus fusicollis</bio>.)
+; k1=Palin, L=27469
+172951 old .²1 A sort of fish, commonly {%Phalāi%} (Mystus kapirat.)
+172951 new .²1 A sort of fish, commonly {%Phalāi%} (<bio>Mystus kapirat</bio>.)
+; k1=Pallakin, L=27487
+173066 old (Mystus kapirat.)
+173066 new (<bio>Mystus kapirat</bio>.)
+; k1=bAla, L=27830
+175229 old .²8 A sort of fish, (Cyprinus Rohita, HAM.) mn. ({#-laH-laM#}) A perfume,
+175229 new .²8 A sort of fish, (<bio>Cyprinus Rohita</bio>, HAM.) mn. ({#-laH-laM#}) A perfume,
+; k1=bAlukAgaqa, L=27873
+175487 old {#bAlukAgaqa#}¦ m. ({#-qaH#}) A sort of fish, (Cheilodipterus culius and butis,
+175487 new {#bAlukAgaqa#}¦ m. ({#-qaH#}) A sort of fish, (<bio>Cheilodipterus culius and butis</bio>,
+; k1=BaNgAna, L=28156
+177258 old {#BaNgAna#}¦ m. ({#-naH#}) A sort of fish, (Cyprinus Banggana, HAM.)
+177258 new {#BaNgAna#}¦ m. ({#-naH#}) A sort of fish, (<bio>Cyprinus Banggana</bio>, HAM.)
+; k1=BAlANka, L=28478
+179327 old .²1 A sort of fish, commonly the {%Rohi,%} (Cyprinus Rohita, HAM.)
+179327 new .²1 A sort of fish, commonly the {%Rohi,%} (<bio>Cyprinus Rohita</bio>, HAM.)
+; k1=matsyarAja, L=29238
+184232 old .²1 The {%Rohi,%} a sort of fish, (Cyprinus Rohita, HAM.)
+184232 new .²1 The {%Rohi,%} a sort of fish, (<bio>Cyprinus Rohita</bio>, HAM.)
+; k1=madanasArikA, L=29268
+184444 old (Turdus salica.)
+184444 new (<bio>Turdus salica</bio>.)
+; k1=madgura, L=29308
+184691 old {#madgura#}¦ m. ({#-raH#}) A fish, (Macropteronatus Magur, HAM.)
+184691 new {#madgura#}¦ m. ({#-raH#}) A fish, (<bio>Macropteronatus Magur</bio>, HAM.)
+; k1=maDurAlApA, L=29382
+185159 old {#maDurAlApA#}¦ f. ({#-pA#}) The talking {%Maina,%} (Turdus salica.)
+185159 new {#maDurAlApA#}¦ f. ({#-pA#}) The talking {%Maina,%} (<bio>Turdus salica</bio>.)
+; k1=markawa, L=29667
+186953 old .²3 The large crane, called in {%India%} the adjutant, (Ardea argala.)
+186953 new .²3 The large crane, called in {%India%} the adjutant, (<bio>Ardea argala</bio>.)
+; k1=mfdaNkura, L=30854
+194392 old {#mfdaNkura#}¦ m. ({#-raH#}) The green pigeon, (Columba hariala, BUC.)
+194392 new {#mfdaNkura#}¦ m. ({#-raH#}) The green pigeon, (<bio>Columba hariala</bio>, BUC.)
+; k1=yoganAvika, L=31562
+198935 old {#yoganAvika#}¦ m. ({#-kaH#}) A sort of fish, (Silurus ascita.)
+198935 new {#yoganAvika#}¦ m. ({#-kaH#}) A sort of fish, (<bio>Silurus ascita</bio>.)
+; k1=raktanayana, L=31659
+199563 old partridge, (Perdix rufa.)
+199563 new partridge, (<bio>Perdix rufa</bio>.)
+; k1=raktAkza, L=31706
+199851 old .²3 The {%Greek%} partridge, (Perdix rufa.)
+199851 new .²3 The {%Greek%} partridge, (<bio>Perdix rufa</bio>.)
+; k1=raTANga, L=31899
+201048 old .²2 Any part of a carriage. m. ({#-NgaH#}) The ruddy goose, (Anas casarca.)
+201048 new .²2 Any part of a carriage. m. ({#-NgaH#}) The ruddy goose, (<bio>Anas casarca</bio>.)
+; k1=rAjaSuka, L=32171
+202839 old {#rAjaSuka#}¦ m. ({#-kaH#}) A sort of parrot, (Psittacus Lori.)
+202839 new {#rAjaSuka#}¦ m. ({#-kaH#}) A sort of parrot, (<bio>Psittacus Lori</bio>.)
+; k1=rAjaSfNga, L=32172
+202845 old ({#-NgaH#}) A sort of sheat fish, (Silurus batachus.)
+202845 new ({#-NgaH#}) A sort of sheat fish, (<bio>Silurus batachus</bio>.)
+; k1=rAjahAsaka, L=32191
+202958 old {#rAjahAsaka#}¦ m. ({#-kaH#}) A sort of large fish, (Cyprinus niloticus.)
+202958 new {#rAjahAsaka#}¦ m. ({#-kaH#}) A sort of large fish, (<bio>Cyprinus niloticus</bio>.)
+; k1=rAjila, L=32207
+203058 old {#rAjila#}¦ m. ({#-laH#}) A sort of snake, (Amphisbæna.)
+203058 new {#rAjila#}¦ m. ({#-laH#}) A sort of snake, (<bio>Amphisbæna</bio>.)
+; k1=rAjIva, L=32208
+203065 old .²1 A large fish, (Cyprinus niloticus, BUC.)
+203065 new .²1 A large fish, (<bio>Cyprinus niloticus</bio>, BUC.)
+; k1=rohita, L=32628
+205803 old .²2 The {%Rohi%} fish, (Cyprinus Rohita, HAM.)
+205803 new .²2 The {%Rohi%} fish, (<bio>Cyprinus Rohita</bio>, HAM.)
+; k1=laGugarga, L=32697
+206320 old Pimelodus.
+206320 new <bio>Pimelodus</bio>.
+; k1=lAva, L=32921
+207827 old quail, (Perdix chinensis.)
+207827 new quail, (<bio>Perdix chinensis</bio>.)
+; k1=lohita, L=33206
+209654 old .²4 The {%Rohi,%} a kind of fish, (Cyprinus Rohita, HAM.)
+209654 new .²4 The {%Rohi,%} a kind of fish, (<bio>Cyprinus Rohita</bio>, HAM.)
+; k1=vaMSaka, L=33233
+209847 old .²1 A small fish, (Cynoglossus lingua, HAM.)
+209847 new .²1 A small fish, (<bio>Cynoglossus lingua</bio>, HAM.)
+; k1=vaMSapatraka, L=33243
+209906 old (Cynoglossus lingua, HAM.)
+209906 new (<bio>Cynoglossus lingua</bio>, HAM.)
+; k1=vaka, L=33267
+210044 old .²1 A crane, (Ardea nivea.)
+210044 new .²1 A crane, (<bio>Ardea nivea</bio>.)
+; k1=vaca, L=33348
+210549 old .²2 The {%Sārikā,%} (Turdus Salica.)
+210549 new .²2 The {%Sārikā,%} (<bio>Turdus Salica</bio>.)
+; k1=vadAla, L=33473
+211348 old {#vadAla#}¦ m. ({#-laH#}) A sheat-fish, (Silurus Boalis, HAM.)
+211348 new {#vadAla#}¦ m. ({#-laH#}) A sheat-fish, (<bio>Silurus Boalis</bio>, HAM.)
+; k1=vanago, L=33491
+211460 old {#vanago#}¦ f. ({#-gOH#}) The {%Gāyal,%} (Bos gavæus.)
+211460 new {#vanago#}¦ f. ({#-gOH#}) The {%Gāyal,%} (<bio>Bos gavæus</bio>.)
+; k1=vanaviqAla, L=33525
+211646 old {#vanaviqAla#}¦ m. ({#-laH#}) A sort of wild cat, (Felis caracal.)
+211646 new {#vanaviqAla#}¦ m. ({#-laH#}) A sort of wild cat, (<bio>Felis caracal</bio>.)
+; k1=varizApriya, L=33691
+212702 old {#varizApriya#}¦ m. ({#-yaH#}) The {%Cātaka,%} (Cuculus melanoleucos.)
+212702 new {#varizApriya#}¦ m. ({#-yaH#}) The {%Cātaka,%} (<bio>Cuculus melanoleucos</bio>.)
+; k1=varttaka, L=33778
+213275 old .²1 A sort of quail, (Perdix olivacea.)
+213275 new .²1 A sort of quail, (<bio>Perdix olivacea</bio>.)
+; k1=varzapriya, L=33840
+213722 old {#varzapriya#}¦ m. ({#-yaH#}) The {%Cātaka,%} (Cuculus melanoleucos.)
+213722 new {#varzapriya#}¦ m. ({#-yaH#}) The {%Cātaka,%} (<bio>Cuculus melanoleucos</bio>.)
+; k1=varzABU, L=33850
+213778 old .²2 An earth-worm, (Iulus.)
+213778 new .²2 An earth-worm, (<bio>Iulus</bio>.)
+; k1=vApIha, L=34387
+217088 old {#vApIha#}¦ m. ({#-haH#}) The {%Cātaka,%} a bird, (Cuculus melanoleucos.)
+217088 new {#vApIha#}¦ m. ({#-haH#}) The {%Cātaka,%} a bird, (<bio>Cuculus melanoleucos</bio>.)
+; k1=vAridra, L=34482
+217716 old {#vAridra#}¦ m. ({#-draH#}) The {%Cātaka,%} (Cuculus melanoleucos.)
+217716 new {#vAridra#}¦ m. ({#-draH#}) The {%Cātaka,%} (<bio>Cuculus melanoleucos</bio>.)
+; k1=viwkArikA, L=34986
+220981 old {#viwkArikA#}¦ f. ({#-kA#}) A kind of bird, (probably a variety of the Turdus Salica of Buchannan.)
+220981 new {#viwkArikA#}¦ f. ({#-kA#}) A kind of bird, (probably a variety of the <bio>Turdus Salica</bio> of Buchannan.)
+; k1=vilowaka, L=35734
+225961 old {#vilowaka#}¦ m. ({#-kaH#}) A sort of fish, (Clupea cultrata.)
+225961 new {#vilowaka#}¦ m. ({#-kaH#}) A sort of fish, (<bio>Clupea cultrata</bio>.)
+; k1=viSvakA, L=35935
+227312 old {#viSvakA#}¦ f. ({#-kA#}) A sort of gull, (Larus ridibundus.)
+227312 new {#viSvakA#}¦ f. ({#-kA#}) A sort of gull, (<bio>Larus ridibundus</bio>.)
+; k1=vizasUcaka, L=36085
+228220 old {#vizasUcaka#}¦ m. ({#-kaH#}) The {%Greek%} partridge, (Perdix rufa.)
+228220 new {#vizasUcaka#}¦ m. ({#-kaH#}) The {%Greek%} partridge, (<bio>Perdix rufa</bio>.)
+; k1=vodAla, L=36993
+234178 old {#vodAla#}¦ m. ({#-laH#}) A sheat fish, (Silurus Boalis, HAM.)
+234178 new {#vodAla#}¦ m. ({#-laH#}) A sheat fish, (<bio>Silurus Boalis</bio>, HAM.)
+; k1=Sakuna, L=37437
+237144 old .²2 A kind of bird, either the {%Indian%} vulture or the common kite, (Falco cheela); 
+237144 new .²2 A kind of bird, either the {%Indian%} vulture or the common kite, (<bio>Falco cheela</bio>); 
+; k1=Sakuna, L=37437
+237145 old it is also applied to the {%Pondicherry%} eagle, (Falco ponticeriana.)
+237145 new it is also applied to the {%Pondicherry%} eagle, (<bio>Falco ponticeriana</bio>.)
+; k1=Sakuni, L=37439
+237161 old .²4 The {%Indian%} kite or eagle, (Falco cheela.) f. ({#-nI#}) A hen sparrow.
+237161 new .²4 The {%Indian%} kite or eagle, (<bio>Falco cheela</bio>.) f. ({#-nI#}) A hen sparrow.
+; k1=Sakragopa, L=37483
+237434 old {#Sakragopa#}¦ m. ({#-paH#}) An insect of a red colour, (Coccinella or ladybird
+237434 new {#Sakragopa#}¦ m. ({#-paH#}) An insect of a red colour, (<bio>Coccinella</bio> or ladybird
+; k1=SaNku, L=37522
+237669 old .²9 The scate fish, (Raia Sankur, HAM.)
+237669 new .²9 The scate fish, (<bio>Raia Sankur</bio>, HAM.)
+; k1=SaPara, L=37682
+238686 old {#SaPara#}¦ mf. ({#-raH-rI#}) A small fish, (Cyprinus Sophore, HAM.)
+238686 new {#SaPara#}¦ mf. ({#-raH-rI#}) A small fish, (<bio>Cyprinus Sophore</bio>, HAM.)
+; k1=Saramalla, L=37795
+239450 old {%SArika%} or Maina, (Turdus gosalica, BUC. Mss.)
+239450 new {%SArika%} or Maina, (<bio>Turdus gosalica</bio>, BUC. Mss.)
+; k1=SarAwi, L=37808
+239525 old {#SarAwi#}¦ f. ({#-wi#}) A sort of bird, (Turdus ginginianus.)
+239525 new {#SarAwi#}¦ f. ({#-wi#}) A sort of bird, (<bio>Turdus ginginianus</bio>.)
+; k1=SarAri, L=37812
+239545 old (Turdus ginginianus.)
+239545 new (<bio>Turdus ginginianus</bio>.)
+; k1=SarAli, L=37816
+239566 old {#SarAli#}¦ f. ({#-liH-lI#}) {%Śarāli%} A kind of bird, (Turdus ginginianus.)
+239566 new {#SarAli#}¦ f. ({#-liH-lI#}) {%Śarāli%} A kind of bird, (<bio>Turdus ginginianus</bio>.)
+; k1=SAraNga, L=38106
+241361 old .²1 The {%Cātaka%} (Cuculus melanoleucos.)
+241361 new .²1 The {%Cātaka%} (<bio>Cuculus melanoleucos</bio>.)
+; k1=SArikA, L=38113
+241428 old .²1 A bird, the proper or hill {%Maina,%} (Gracula religiosa;) it is also
+241428 new .²1 A bird, the proper or hill {%Maina,%} (<bio>Gracula religiosa</bio>;) it is also
+; k1=SfNga, L=38856
+246212 old .²2 A fish, (Silurus Singio, HAM.)
+246212 new .²2 A fish, (<bio>Silurus Singio</bio>, HAM.)
+; k1=SfNgi, L=38868
+246305 old {#SfNgi#}¦ f. ({#-NgiH#}) A sort of sheat fish, (Silurus Singio, HAM.) mn.
+246305 new {#SfNgi#}¦ f. ({#-NgiH#}) A sort of sheat fish, (<bio>Silurus Singio</bio>, HAM.) mn.
+; k1=SOklikeya, L=39014
+247209 old snake of the Amphisbœna kind.
+247209 new snake of the <bio>Amphisbœna</bio> kind.
+; k1=Syetakolaka, L=39086
+247667 old {#Syetakolaka#}¦ m. ({#-kaH#}) A sort of fish, (Cyprinus sophore, HAM.)
+247667 new {#Syetakolaka#}¦ m. ({#-kaH#}) A sort of fish, (<bio>Cyprinus sophore</bio>, HAM.)
+; k1=Svetakola, L=39401
+249706 old {#Svetakola#}¦ n. ({#-laH#}) The {%Saphara%} fish, (Cyprinus Sophore, HAM.)
+249706 new {#Svetakola#}¦ n. ({#-laH#}) The {%Saphara%} fish, (<bio>Cyprinus Sophore</bio>, HAM.)
+; k1=saPara, L=40449
+256662 old sort of carp, (Cyprinus sophore, HAM.)
+256662 new sort of carp, (<bio>Cyprinus sophore</bio>, HAM.)
+; k1=sahasradaMzwra, L=41380
+262665 old {#sahasradaMzwra#}¦ m. ({#-zwraH#}) A sort of sheat fish, (Silurus pelorius,
+262665 new {#sahasradaMzwra#}¦ m. ({#-zwraH#}) A sort of sheat fish, (<bio>Silurus pelorius</bio>,
+; k1=sAra, L=41654
+264418 old {%Shalik%} or {%Sārikā,%} (Turdus salica, BUC.)
+264418 new {%Shalik%} or {%Sārikā,%} (<bio>Turdus salica</bio>, BUC.)
+; k1=sAraNga, L=41657
+264439 old .²5 The {%Cātaka,%} (Cuculus melanoleucos.)
+264439 new .²5 The {%Cātaka,%} (<bio>Cuculus melanoleucos</bio>.)
+; k1=sAraNga, L=41657
+264441 old .²7 A large kind of crane, (Ardea Sarunga, CAREY.)
+264441 new .²7 A large kind of crane, (<bio>Ardea Sarunga</bio>, CAREY.)
+; k1=sArasa, L=41679
+264595 old and female, (Ardea Sibirica.) m. ({#-saH#}) The moon.
+264595 new and female, (<bio>Ardea Sibirica</bio>.) m. ({#-saH#}) The moon.
+; k1=sArikA, L=41685
+264640 old {#sArikA#}¦ f. ({#-kA#}) A kind of bird, (Turdus Salica, BUC.) but applied
+264640 new {#sArikA#}¦ f. ({#-kA#}) A kind of bird, (<bio>Turdus Salica</bio>, BUC.) but applied
+; k1=sArikA, L=41685
+264641 old also to the {%Maina,%} (Gracula religiosa.)
+264641 new also to the {%Maina,%} (<bio>Gracula religiosa</bio>.)
+; k1=sitacihna, L=41819
+265481 old {#sitacihna#}¦ m. ({#-hnaH#}) A sort of fish, (Lacerta scincus.)
+265481 new {#sitacihna#}¦ m. ({#-hnaH#}) A sort of fish, (<bio>Lacerta scincus</bio>.)
+; k1=sitANka, L=41841
+265597 old {#sitANka#}¦ m. ({#-NkaH#}) A kind of fish, (Lacerta scincus.)
+265597 new {#sitANka#}¦ m. ({#-NkaH#}) A kind of fish, (<bio>Lacerta scincus</bio>.)
+; k1=sugfha, L=42058
+266971 old {#sugfha#}¦ m. ({#-haH#}) The tailor bird, (Sylvia sutoria.)
+266971 new {#sugfha#}¦ m. ({#-haH#}) The tailor bird, (<bio>Sylvia sutoria</bio>.)
+; k1=stoka, L=43032
+273121 old .²1 The {%Cātaka,%} (Cuculus melanoleucos.)
+273121 new .²1 The {%Cātaka,%} (<bio>Cuculus melanoleucos</bio>.)
+; k1=stokaka, L=43033
+273127 old {#stokaka#}¦ m. ({#-kaH#}) The {%Cātaka,%} (Cuculus melanoleucos.)
+273127 new {#stokaka#}¦ m. ({#-kaH#}) The {%Cātaka,%} (<bio>Cuculus melanoleucos</bio>.)
+; k1=smaraleKanI, L=43429
+275610 old {#smaraleKanI#}¦ f. ({#-nI#}) The {%Sārika,%} (Turdus salica,) or {%Maina,%}
+275610 new {#smaraleKanI#}¦ f. ({#-nI#}) The {%Sārika,%} (<bio>Turdus salica</bio>,) or {%Maina,%}
+; k1=smaraleKanI, L=43429
+275611 old (Gracula religiosa.)
+275611 new (<bio>Gracula religiosa</bio>.)
+; k1=hanumat, L=43917
+278600 old .²2 A particular sort of monkey, (Simia sinica.)
+278600 new .²2 A particular sort of monkey, (<bio>Simia sinica</bio>.)
+; k1=hArIta, L=44170
+280201 old .²1 The green or wood pigeon, (Columba hariala, BUC.)
+280201 new .²1 The green or wood pigeon, (<bio>Columba hariala</bio>, BUC.)
+; k1=hilla, L=44312
+281058 old {#hilla#}¦ m. ({#-lliH#}) A bird, (Turdus ginginianus.)
+281058 new {#hilla#}¦ m. ({#-lliH#}) A bird, (<bio>Turdus ginginianus</bio>.)
