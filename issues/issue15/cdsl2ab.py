@@ -1,7 +1,25 @@
 import re
 import sys
 
-ABS = ["neg.", "aff.", "&c.", "cl.", "pl.", "sing.", "du.", "nom."]
+ABS = [
+    "aff.", "&c.", "cl.", "neg.", "fem.", "irr.", "deriv.", "affs.", 
+    "causal v.", "cls.", "poss.", "part.", "plu.", "priv.", "desid. v.", 
+    "q. v.", "pass. v.", "past.", "du.", "i. e.", "viz.", "aug.", "pen.", 
+    "desid.", "do.", "sing.", "fig.", "masc.", "nom.", "plur.", "lit.", 
+    "pl.", "mas.", "possess.", "vulg.", "intens.", "antepen.", "affir.", 
+    "intens. v.", "N. W.", "dimin.", "frequent. v.", "dim.", "gen.", 
+    "nominal v.", "patron.", "pass.", "pref.", "passive v.", "form.", 
+    "pre.", "liter.", "lbs.", "desider.", "cent.", "redup.", "abl.", 
+    "reit. v.", "freq. v.", "frequent.", "acc.", "metaph.", "S. W.", 
+    "a.", "augm.", "superl.", "nom. v.", "super.", "reg.", "Sing.", 
+    "Ex.", "ante-pen.", "met.", "penult.", "S. E.", "N. E.", "posses.", 
+    "oz.", "pos.", "A. D.", "var.", "dat.", "MSS", "ut sup.", "infin.", 
+    "comp.", "pers.", "privat.", "der.", "abst.", "ff.", "prep.", 
+    "fut.", "caus.", "reiter. v.", "intensitive v.", "inten.", "S. W. ", 
+    "Mss.", "neut.", "accu.", "redup. v."
+]
+
+
 LEXS = ["m.", "n.", "f.", "mfn.", "ind.", "r."]
 
 def convert_cdsl_to_ab(text):
@@ -17,13 +35,30 @@ def convert_cdsl_to_ab(text):
             continue
             
         lines = entry.split('\n')
-        new_lines = []
         
-        # Remove blank line before <LEND> in CDSL
-        if len(lines) >= 2 and lines[-2].strip() == "":
-            lines.pop(-2)
-            
+        # Join continuation lines
+        joined_lines = []
         for line in lines:
+            if not line.strip():
+                continue
+            
+            is_new_block = False
+            if line.startswith(("<L>", "<LEND>", ".²", "∙²", ".E.", "[Page")):
+                is_new_block = True
+            elif line.startswith("{#") and "¦" in line:
+                is_new_block = True
+                
+            if is_new_block:
+                joined_lines.append(line)
+            else:
+                # This is a continuation line
+                if joined_lines:
+                    joined_lines[-1] = joined_lines[-1].strip() + " " + line.strip()
+                else:
+                    joined_lines.append(line)
+                    
+        new_lines = []
+        for line in joined_lines:
             line = line.strip()
             if not line:
                 continue
@@ -39,28 +74,37 @@ def convert_cdsl_to_ab(text):
             # Replace bullets
             line = line.replace('.²', '∙²')
             
+            # Restore tabs after ¦
+            if line.startswith("{#"):
+                line = line.replace("¦ ", "¦\t ")
+                
             # Restore <ab>E.</ab>
             if line.startswith(".E."):
                 line = line.replace(".E.", "\t <ab>E.</ab>\t")
                 
-            # Restore <lex> tags on the headword line or start of line
-            # This is heuristic
             for lex in LEXS:
-                # If lex is at the end of the part before definition or start
-                if f" {lex}" in line:
-                    line = line.replace(f" {lex}", f" <lex>{lex}</lex>")
+                # Use regex to handle space or tab before lex
+                line = re.sub(r"([ \t])" + re.escape(lex), r"\1<lex>" + lex + "</lex>", line)
                     
             # Restore <ab> tags
             for ab in ABS:
-                if f" {ab}" in line:
-                    # Avoid double wrapping if already wrapped or part of something else
-                    line = line.replace(f" {ab}", f" <ab>{ab}</ab>")
+                # Use regex to handle space or tab before ab
+                line = re.sub(r"([ \t])" + re.escape(ab), r"\1<ab>" + ab + "</ab>", line)
                     
+            # Split on embedded lex (often following a period)
+            line = line.replace(". <lex>", ".\n\t <lex>")
+                
+            # Add tab before definition
+            line = re.sub(r"\) ([A-Z])", r")\t \1", line)
+            
+            # Add tab before senses if preceded by space
+            line = line.replace(" ∙²", "\t ∙²")
+            
             # Handle senses
             if line.startswith("∙²"):
                 # Merge first sense back to headword line if it's the previous line
                 if new_lines and new_lines[-1].startswith("{#") and "∙²" not in new_lines[-1]:
-                    new_lines[-1] = new_lines[-1] + "\t" + line
+                    new_lines[-1] = new_lines[-1] + "\t " + line
                 else:
                     new_lines.append("\t\t " + line)
             else:
