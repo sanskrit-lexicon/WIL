@@ -174,8 +174,8 @@ def convert_cdsl_to_ab(text):
             # Convert -{# to {#-
             line = line.replace('-{#', '{#-')
             
-            # Move colon outside parenthesis after bot tag
-            line = re.sub(r"(\(<bot>[^<]+</bot>):\)", r"\1):", line)
+            # Move colon/semicolon outside parenthesis after bot tag
+            line = re.sub(r"(\(<bot>[^<]+</bot>)([:;])\)", r"\1)\2", line)
             
             # Add tab before definition after ) containing a tag
             line = re.sub(r"(\([^)]*#[^)]*\)) ([a-zA-Z\u00C0-\u017F]|{%)", r"\1\t \2", line)
