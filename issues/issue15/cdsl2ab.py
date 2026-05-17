@@ -124,6 +124,12 @@ def convert_cdsl_to_ab(text):
             line = re.sub(r"([.,:;])%}", r"%}\1", line)
             line = re.sub(r"([.,:;])#}", r"#}\1", line)
             
+            # Add div tag before With (only if following a period)
+            line = re.sub(r"\. ({%[Ww]ith)", r'.\n<div n="p">\1', line)
+            
+            # Add tab before ( if following #}
+            line = re.sub(r"(#[}]) \(", r"\1\t (", line)
+            
             # Restore tabs after ¦
             if line.startswith("{#"):
                 line = line.replace("¦ ", "¦\t ")
@@ -159,8 +165,8 @@ def convert_cdsl_to_ab(text):
             # Split on embedded lex (except r.)
             line = re.sub(r"([^\s]) <lex>(?!r\.)", r"\1\n\t <lex>", line)
                 
-            # Add tab before definition
-            line = re.sub(r"\) ([A-Z\u00C0-\u017F]|{%)", r")\t \1", line)
+            # Add tab before definition after ) containing a tag
+            line = re.sub(r"(\({#[^}]+#}\)) ([A-Z\u00C0-\u017F]|{%)", r"\1\t \2", line)
             line = re.sub(r"</lex> ([A-Z\u00C0-\u017F]|{%)", r"</lex>\t \1", line)
             
             # Add tab before senses if preceded by space
