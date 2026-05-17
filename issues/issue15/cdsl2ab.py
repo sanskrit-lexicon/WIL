@@ -145,6 +145,9 @@ def convert_cdsl_to_ab(text):
             # Convert <bio> to <zoo>
             line = line.replace('<bio>', '<zoo>').replace('</bio>', '</zoo>')
             
+            # Convert Rox. to <ls>Rox.</ls>
+            line = re.sub(r"(<[^>]+>.*?</[^>]+>)|\bRox\.", lambda m: m.group(1) if m.group(1) else "<ls>Rox.</ls>", line)
+            
             for lex in LEXS:
                 # Use regex to handle space or tab before lex
                 line = re.sub(r"([ \t])" + re.escape(lex), r"\1<lex>" + lex + "</lex>", line)
@@ -166,8 +169,8 @@ def convert_cdsl_to_ab(text):
             line = re.sub(r"([^\s]) <lex>(?!r\.)", r"\1\n\t <lex>", line)
                 
             # Add tab before definition after ) containing a tag
-            line = re.sub(r"(\({#[^}]+#}\)) ([A-Z\u00C0-\u017F]|{%)", r"\1\t \2", line)
-            line = re.sub(r"</lex> ([A-Z\u00C0-\u017F]|{%)", r"</lex>\t \1", line)
+            line = re.sub(r"(\({#[^}]+#}\)) ([a-zA-Z\u00C0-\u017F]|{%)", r"\1\t \2", line)
+            line = re.sub(r"</lex> ([a-zA-Z\u00C0-\u017F]|{%)", r"</lex>\t \1", line)
             
             # Add tab before senses if preceded by space
             line = line.replace(" ∙²", "\t ∙²")
