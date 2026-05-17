@@ -89,7 +89,7 @@ def convert_cdsl_to_ab(text):
                 continue
             
             is_new_block = False
-            if line.startswith(("<L>", "<LEND>", ".²", "∙²", ".E.", "[Page")):
+            if line.startswith(("<L>", "<LEND>", ".²", ".E.", "[Page")):
                 is_new_block = True
             elif line.startswith("{#") and "¦" in line:
                 is_new_block = True
@@ -169,7 +169,7 @@ def convert_cdsl_to_ab(text):
             # Handle senses
             if line.startswith("∙²"):
                 # Merge first sense back to headword line if it's the previous line
-                if new_lines and new_lines[-1].startswith("{#") and "∙²" not in new_lines[-1]:
+                if new_lines and (new_lines[-1].startswith("{#") or "<lex>" in new_lines[-1]) and "∙²" not in new_lines[-1]:
                     new_lines[-1] = new_lines[-1] + "\t " + line
                 else:
                     new_lines.append("\t\t " + line)
