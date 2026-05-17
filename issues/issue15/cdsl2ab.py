@@ -156,8 +156,8 @@ def convert_cdsl_to_ab(text):
             if zoo_regex:
                 line = zoo_regex.sub(lambda m: m.group(1) if m.group(1) else f"<zoo>{m.group(2)}</zoo>", line)
                 
-            # Split on embedded lex (often following a period)
-            line = line.replace(". <lex>", ".\n\t <lex>")
+            # Split on embedded lex (except r.)
+            line = re.sub(r"([^\s]) <lex>(?!r\.)", r"\1\n\t <lex>", line)
                 
             # Add tab before definition
             line = re.sub(r"\) ([A-Z\u00C0-\u017F]|{%)", r")\t \1", line)
