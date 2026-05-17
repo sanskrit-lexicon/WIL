@@ -3,12 +3,12 @@ import sys
 
 ABS = [
     "aff.", "&c.", "cl.", "neg.", "fem.", "irr.", "deriv.", "affs.", 
-    "causal v.", "cls.", "poss.", "part.", "plu.", "priv.", "desid. v.", 
+    "causal v.", "cls.", "poss.", "plu.", "priv.", "desid. v.", 
     "q. v.", "pass. v.", "past.", "du.", "i. e.", "viz.", "aug.", "pen.", 
     "desid.", "do.", "sing.", "fig.", "masc.", "nom.", "plur.", "lit.", 
     "pl.", "mas.", "possess.", "vulg.", "intens.", "antepen.", "affir.", 
     "intens. v.", "N. W.", "dimin.", "frequent. v.", "dim.", "gen.", 
-    "nominal v.", "patron.", "pass.", "pref.", "passive v.", "form.", 
+    "nominal v.", "patron.", "pass.", "pref.", "passive v.", 
     "pre.", "liter.", "lbs.", "desider.", "cent.", "redup.", "abl.", 
     "reit. v.", "freq. v.", "frequent.", "acc.", "metaph.", "S. W.", 
     "a.", "augm.", "superl.", "nom. v.", "super.", "reg.", "Sing.", 
