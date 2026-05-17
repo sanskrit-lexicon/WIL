@@ -85,6 +85,10 @@ def convert_cdsl_to_ab(text):
             if line.startswith(".E."):
                 line = line.replace(".E.", "\t <ab>E.</ab>\t")
                 
+            # Convert {%ind%}. to <lex>ind.</lex>
+            line = line.replace('{%ind%}.', '<lex>ind.</lex>')
+            line = line.replace('{%ind%}', '<lex>ind.</lex>')
+            
             for lex in LEXS:
                 # Use regex to handle space or tab before lex
                 line = re.sub(r"([ \t])" + re.escape(lex), r"\1<lex>" + lex + "</lex>", line)
