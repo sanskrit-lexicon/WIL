@@ -167,12 +167,15 @@ def convert_cdsl_to_ab(text):
             line = line.replace(" ∙²", "\t ∙²")
             
             # Handle senses
-            if line.strip().startswith("∙²1"):
+            if line.strip().startswith("∙²"):
                 # Merge first sense back to headword line if it's the previous line
                 if new_lines and (new_lines[-1].startswith("{#") or "<lex>" in new_lines[-1]) and "∙²" not in new_lines[-1]:
-                    new_lines[-1] = new_lines[-1] + "\t " + line
+                    # Rename to ∙²1 if it's the first sense in the block
+                    line_content = line.strip()
+                    line_content = re.sub(r"^∙²\d+", "∙²1", line_content)
+                    new_lines[-1] = new_lines[-1] + "\t " + line_content
                 else:
-                    new_lines.append("\t\t " + line)
+                    new_lines.append("\t\t " + line.strip())
             else:
                 if line.strip().startswith("∙²"):
                     new_lines.append("\t\t " + line.strip())
@@ -183,7 +186,9 @@ def convert_cdsl_to_ab(text):
                     # AB has some indentation for continuation lines, but it's hard to guess.
                     new_lines.append(line)
                     
-        output.append("\n".join(new_lines))
+        entry_text = "\n".join(new_lines)
+        entry_text = re.sub(r"\)\n\s*∙²1", r")\t ∙²1", entry_text)
+        output.append(entry_text)
         
     # Join entries with a blank line between entries (AB format)
     final_output = []
