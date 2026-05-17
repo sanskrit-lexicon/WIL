@@ -74,6 +74,9 @@ def convert_cdsl_to_ab(text):
             # Replace bullets
             line = line.replace('.²', '∙²')
             
+            # Move period outside of % tag
+            line = line.replace('.%}', '%}.')
+            
             # Restore tabs after ¦
             if line.startswith("{#"):
                 line = line.replace("¦ ", "¦\t ")
