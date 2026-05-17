@@ -171,8 +171,8 @@ def convert_cdsl_to_ab(text):
             # Split on embedded lex (except r.)
             line = re.sub(r"([^\s]) <lex>(?!r\.)", r"\1\n\t <lex>", line)
                 
-            # Clean up or-{#
-            line = line.replace('or-{#', 'or{#')
+            # Convert -{# to {#-
+            line = line.replace('-{#', '{#-')
             
             # Add tab before definition after ) containing a tag
             line = re.sub(r"(\([^)]*#[^)]*\)) ([a-zA-Z\u00C0-\u017F]|{%)", r"\1\t \2", line)
