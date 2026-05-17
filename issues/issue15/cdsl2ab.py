@@ -184,13 +184,19 @@ def convert_cdsl_to_ab(text):
             # Handle senses
             if line.strip().startswith("∙²"):
                 # Merge first sense back to headword line if it's the previous line
-                if new_lines and (new_lines[-1].startswith("{#") or "<lex>" in new_lines[-1]) and "∙²" not in new_lines[-1]:
+                # AND the previous line has no definition text yet (ends with ) or </lex>)
+                if new_lines and (new_lines[-1].startswith("{#") or "<lex>" in new_lines[-1]) and "∙²" not in new_lines[-1] and new_lines[-1].strip().endswith((")", "</lex>")):
                     # Rename to ∙²1 if it's the first sense in the block
                     line_content = line.strip()
                     line_content = re.sub(r"^∙²\d+", "∙²1", line_content)
                     new_lines[-1] = new_lines[-1] + "\t " + line_content
                 else:
-                    new_lines.append("\t\t " + line.strip())
+                    line_content = line.strip()
+                    # If it was ∙²1 but we are not merging it because the previous line has definition text,
+                    # rename it to ∙²2!
+                    if line_content.startswith("∙²1") and new_lines and "∙²" not in new_lines[-1]:
+                        line_content = "∙²2" + line_content[3:]
+                    new_lines.append("\t\t " + line_content)
             else:
                 if line.strip().startswith("∙²"):
                     new_lines.append("\t\t " + line.strip())
