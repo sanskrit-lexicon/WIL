@@ -20,11 +20,57 @@ ABS = [
 ]
 
 
-LEXS = ["m.", "n.", "f.", "mfn.", "ind.", "r."]
+import os
+
+LEXS = ["m.", "n.", "f.", "mfn.", "ind.", "r.", "mn."]
+BOTS = []
+ZOOS = []
+
+if os.path.exists("wil_AB_1.1.txt"):
+    print("Loading tags from wil_AB_1.1.txt...")
+    with open("wil_AB_1.1.txt", "r", encoding="utf-8") as f:
+        ab_text = f.read()
+        
+    def extract_tags(text, tag_name):
+        pattern = f"<{tag_name}>(.*?)</{tag_name}>"
+        return set(re.findall(pattern, text))
+        
+    extracted_lex = extract_tags(ab_text, "lex")
+    if extracted_lex:
+        LEXS = list(extracted_lex)
+        # Filter out messy ones
+        LEXS = [l for l in LEXS if len(l) < 10]
+        
+    extracted_bot = extract_tags(ab_text, "bot")
+    if extracted_bot:
+        BOTS = list(extracted_bot)
+        # Sort by length descending to match longer phrases first
+        BOTS.sort(key=len, reverse=True)
+        
+    extracted_zoo = extract_tags(ab_text, "zoo")
+    if extracted_zoo:
+        ZOOS = list(extracted_zoo)
+        # Sort by length descending
+        ZOOS.sort(key=len, reverse=True)
+        
+    print(f"Loaded {len(LEXS)} lex categories, {len(BOTS)} botanical names, and {len(ZOOS)} zoological names.")
+else:
+    print("wil_AB_1.1.txt not found. Using default LEXS.")
+
 
 def convert_cdsl_to_ab(text):
     entries = re.split(r'(<L>.*?<LEND>)', text, flags=re.DOTALL)
     
+    bot_regex = None
+    if BOTS:
+        bot_pattern = r"(<[^>]+>.*?</[^>]+>)|\b(" + "|".join(re.escape(b) for b in BOTS) + r")\b"
+        bot_regex = re.compile(bot_pattern)
+        
+    zoo_regex = None
+    if ZOOS:
+        zoo_pattern = r"(<[^>]+>.*?</[^>]+>)|\b(" + "|".join(re.escape(z) for z in ZOOS) + r")\b"
+        zoo_regex = re.compile(zoo_pattern)
+        
     output = []
     for entry in entries:
         if not entry.strip():
@@ -90,6 +136,9 @@ def convert_cdsl_to_ab(text):
             line = line.replace('{%ind%}.', '<lex>ind.</lex>')
             line = line.replace('{%ind%}', '<lex>ind.</lex>')
             
+            # Convert <bio> to <zoo>
+            line = line.replace('<bio>', '<zoo>').replace('</bio>', '</zoo>')
+            
             for lex in LEXS:
                 # Use regex to handle space or tab before lex
                 line = re.sub(r"([ \t])" + re.escape(lex), r"\1<lex>" + lex + "</lex>", line)
@@ -99,6 +148,14 @@ def convert_cdsl_to_ab(text):
                 # Use regex to handle space or tab before ab
                 line = re.sub(r"([ \t])" + re.escape(ab), r"\1<ab>" + ab + "</ab>", line)
                     
+            # Restore <bot> tags
+            if bot_regex:
+                line = bot_regex.sub(lambda m: m.group(1) if m.group(1) else f"<bot>{m.group(2)}</bot>", line)
+                
+            # Restore <zoo> tags
+            if zoo_regex:
+                line = zoo_regex.sub(lambda m: m.group(1) if m.group(1) else f"<zoo>{m.group(2)}</zoo>", line)
+                
             # Split on embedded lex (often following a period)
             line = line.replace(". <lex>", ".\n\t <lex>")
                 

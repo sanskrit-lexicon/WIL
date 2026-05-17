@@ -1,0 +1,113 @@
+Ardea nivea	14
+Cuculus melanoleucos	14
+Turdus salica	11
+Turdus ginginianus	6
+Gracula religiosa	5
+Amphisbæna	5
+Cyprinus Rohita	5
+Coccinella	4
+Perdix rufa	4
+Cyprinus sophore	3
+Julus cornifex	3
+Julus	3
+Viverra ichneumon	3
+Larus ridibundus	3
+Pimelodus gagora	3
+Anas casarca	3
+Sylvia sutoria	3
+Falco cheela	3
+Turdus Salica	3
+Cyprinus cachius	2
+Cyprinus catla	2
+Perdix sylvatica	2
+Cuculus Indicus	2
+Cyprinus garra	2
+Ardea argala	2
+Bos gavaeus	2
+Bos gavæus	2
+Silurus singio	2
+Silurus pelorius	2
+Clupea cultrata	2
+Amphisbœna	2
+Cyprinus denticulatus	2
+Silurus pabda	2
+Mystus kapirat	2
+Columba hariala	2
+Cyprinus niloticus	2
+Cynoglossus lingua	2
+Silurus Boalis	2
+Silurus Singio	2
+Lacerta scincus	2
+Lacerta anjaneya	1
+Silurus pungentissimus	1
+Bos gavoeus	1
+Clupea alosa	1
+Cyprinus marginatus	1
+Esox Cancila	1
+Cyprinus atratus	1
+Parra goensis	1
+Silurus unitus	1
+Coiuscoboius	1
+Picus Bengalensis	1
+Phasianus gallus	1
+Unibranchapertura Cuchiya	1
+Unibranchapertura cunchiya	1
+Cyprinus curchius	1
+Bola cuja	1
+Sphex Asiatica	1
+Coius cobojius	1
+Ardea jaculator	1
+Falco ponticerianus	1
+Motacilla alba	1
+Viverra zibetha	1
+Trichopodus colisa	1
+Viverra putorius	1
+Lacerta Gangetica	1
+P. tengara	1
+Tetrao rufus	1
+Simia erythroea	1
+Canda	1
+Pimelodus vacha	1
+Cuculus melano-leucus	1
+Coracias Indica	1
+Mystus chitala	1
+Mystus karpirat	1
+Parra jacana or goensis	1
+Silvia sutoria	1
+Polynemus risua	1
+Silurus	1
+Cyprinus rohita	1
+Cyprinus danrica	1
+Cyprinus dankena	1
+Serpent ophioxylon	1
+Silurus boalis	1
+Pimelodius pangasius	1
+Cyprinus Pausius	1
+Pelicanus fusicollis	1
+COLUBER {%naja%}	1
+Cheilodipterus culius and butis	1
+Cyprinus Banggana	1
+Macropteronatus Magur	1
+Silurus ascita	1
+Psittacus Lori	1
+Silurus batachus	1
+Pimelodus	1
+Perdix chinensis	1
+Felis caracal	1
+Turdus	1
+Perdix olivacea	1
+Iulus	1
+Delphinus Gangeticus	1
+Falco ponticeriana	1
+Raia Sankur	1
+Cyprinus Sophore HAM.	1
+Ilisha clupanodon	1
+Turdus gosalica	1
+Turdus macrourus	1
+Cyprinus Sophore	1
+Raia Sancura	1
+Pavo bicalcarata	1
+Ardea Sarunga	1
+Ardea Sibirica	1
+Ophiocephalus Wrahl	1
+Simia sinica	1

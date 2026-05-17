@@ -1,0 +1,23 @@
+m.	18116
+mfn.	13459
+f.	8435
+n.	8427
+r.	2291
+ind.	989
+mn.	436
+mf.	400
+nf.	191
+adv.	157
+subst.	53
+adj.	38
+sub.	10
+pron.	7
+fn.	6
+Subst.	4
+ad.	2
+adj.</ab> <ab>mas.</ab> only.%} ({#-yaH#}) {%If an adverb%} <lex>n.	1
+nm.	1
+a.	1
+subs.	1
+Pron.	1
+Adj.	1

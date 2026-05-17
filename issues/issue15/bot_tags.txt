@@ -1,0 +1,902 @@
+Achyranthes aspera	34
+Butea frondosa	33
+Cyperus rotundus	33
+Andropogon muricatum	32
+Agallochum	31
+Cassia fistula	31
+Menispermum glabrum	30
+Mesua ferrea	30
+Saccharum spontaneum	29
+Abrus precatorius	28
+Carpopogon pruriens	27
+Flacourtia cataphracta	26
+Bignonia Indica	26
+Vangueria spinosa	26
+Mimosa catechu	26
+Pistia stratiotes	25
+Hyperanthera morunga	25
+Bignonia suave-olens	23
+Solanum melongena	22
+Shorea robusta	22
+Boswellia thurifera	22
+Michelia champaca	21
+Asparagus racemosus	21
+Cissampelos hexandra	21
+Nigella Indica	21
+Euphorbia	21
+Ficus religiosa	20
+Vallisneria	20
+Siphonanthus Indica	20
+Gmelina arborea	20
+Hedysarum alhagi	19
+Echites scholaris	19
+Asclepias	19
+Cyperus	19
+Serratula anthelmintica	19
+Costus	19
+Hibiscus mutabilis	18
+Anethum sowa	18
+Rubia manjith	18
+Barleria	18
+Trigonella corniculata	18
+Sesbana grandiflora	17
+Spondias mangifera	17
+Salvinia cucullata	17
+Convolvulus turpethum	17
+Terminalia chebula	17
+Grislea tomentosa	16
+Echites frutescens	16
+Celosia cristata	16
+C. speciosus	16
+Hedysarum lagopodioides	15
+Pentaptera tomentosa	15
+Bassia latifolia	15
+Nerium odorum	15
+Hedysarum gangeticum	15
+Curcuma zerumbet	15
+Pandanus odoratissimus	15
+Panicum dactylon	15
+Buchanania latifolia	15
+Sanseviera zeylanica	15
+Premna spinosa	14
+Ligusticum ajwaen	14
+Phaseolus mungo	14
+Hemionites cordifolia	14
+Pentaptera arjuna	14
+Trapa bispinosa	14
+Celtis orientalis	14
+Trophis aspera	13
+Sida cordifolia	13
+Nyctanthes tristis	13
+Clitoria ternatea	13
+Ocymum sanctum	13
+Mimosa	13
+Bauhinia variegata	13
+Convolvulus paniculatus	13
+Wrightea antidysenterica	13
+Momordica charantia	13
+Datura metel	13
+Rottleria tinctoria	13
+Plumbago zeylanica	12
+Galedupa arborea	12
+Croton polyandrum	12
+Bombax heptaphyllum	12
+Physalis flexuosa	12
+Asclepias acida	12
+Vitex negundo	12
+Pothos officinalis	12
+Trichosanthes dioeca	12
+Flacourtia sapida	12
+Mimusops elengi	12
+Chenopodium album	12
+Phyllanthus emblica	11
+Alangium hexapetalum	11
+Saccharum cylindricum	11
+Piper chavya	11
+Arum colocasia	11
+Artocarpus integrifolia	11
+Hibiscus populneoides	11
+Gærtnera racemosa	11
+Solanum jacquini	10
+Convolvulus argenteus	10
+Lycopodium imbricatum	10
+Ricinus communis	10
+Cassia tora	10
+Cissus pedata	10
+Marsilea quadrifolia	10
+Glycine debilis	10
+Ficus glomerata	10
+Arum	10
+Costus speciosus	10
+Nelumbium speciosum	10
+Nauclea cadamba	10
+Valeriana jatamansi	10
+Andropogon serratus	10
+Bassia	10
+Calamus rotang	10
+Hingtsha repens	10
+Areca faufel or catechu	9
+Terminalia belerica	9
+Barleria longifolia	9
+Musa sapientum	9
+Jonesia asoca	9
+Barringtonia acutangula	9
+Cyperus pertenuis	9
+Arum campanulatum	9
+Tribulus lanuginosus	9
+Mimosa pudica	9
+Justicia adhenatoda	9
+Cucumis utilatissimus	9
+Aletris hyacinthoides	9
+Mimosa sirisha	9
+Echites antidysenterica	9
+Ruellia longifolia	9
+Piper betel	9
+Morus Indica	9
+Capparis trifoliata	9
+Dolichos catjang	9
+Pinus longifolia	9
+Phaseolus radiatus	9
+Pinus Devadaru	9
+Vallisneria octandra	9
+Justicia ganderussa	9
+Morunga	8
+Saccharum sara	8
+Oxalis monadelpha	8
+Artocarpus lacucha	8
+Betula	8
+Asclepias gigantea	8
+Carissa carondas	8
+Citrus medica	8
+Mimosa octandra	8
+Commelina salicifolia	8
+Sinapis dichotoma	8
+Zizyphus jujuba	8
+Diospyros glutinosa	8
+Cordia myxa	8
+Andropogon aciculatum	8
+Momordica monadelpha	8
+Tapia cratæva	8
+Jasminum zambac	8
+Indigofera tinctoria	7
+Carthamus tinctorius	7
+Medicago esculenta	7
+Gentiana cherayta	7
+Mangifera Indica	7
+Rumex vesicarius	7
+Bambusa spinosa	7
+Morunga hyperanthera	7
+Clitoria ternata	7
+Scirpus kysoor	7
+Artemisia	7
+Dolichos biflorus	7
+Andersonia rohitaka	7
+Dalbergia Sisu	7
+Luffa acutangula	7
+Mimusops kauki	7
+Feronia elephantium	7
+Cannabis sativa	7
+Heliotropium Indicum	7
+Tabernæmontana coronaria	7
+Calamus fasciculatus	7
+Ficus Indica	7
+Cæsalpinia bonducella	7
+Phaseolus trilobus	7
+Semecarpus anacardium	6
+Annona reticulata	6
+Ocymum gratissimum	6
+Andropogon schoenanthus	6
+Aloes perfoliata	6
+Agrostis linearis	6
+Jasminum auriculatum	6
+Strychnos potatorum	6
+Ocymum pilosum	6
+Pinus devadaru	6
+Pterospermum acerifolium	6
+Cucumis madraspatanus	6
+Momordica mixta	6
+Leea hirta	6
+Solanum Indicum	6
+Cedrela tunna	6
+Poa cynosuroides	6
+Asclepias pseudosarsa	6
+Symplocos racemosa	6
+Citrus acida	6
+Eugenia	6
+Jussieua repens	6
+Panicum miliaceum	5
+Mimusops	5
+Aeschynomene sesban	5
+Euphorbia tirucalli	5
+Trichosanthes	5
+Melia azadirachta	5
+Curculigo orchioides	5
+Carissa Carondas	5
+Jonesia Asoca	5
+Plectranthus scutellaroides	5
+Careya arborea	5
+Andropogon serratum	5
+Saccharum munja	5
+Asclepias rosea	5
+Hilancha repens	5
+Linum utilatissimum	5
+Palma christi	5
+Asparagus racemosa	5
+Bryonia grandis	5
+Nauclea kadamba	5
+Areca faufel	5
+Ervum hirsutum	5
+Ardisia solanacea	5
+Arundo tibialis	5
+Coix barbata	5
+C. fistula	5
+Nauclea cordifolia	5
+Erythrina fulgens	5
+Dioscorea	5
+Hedysarum alhaji	5
+Cicer arietinum	5
+Marsilea dentata	5
+J. pubescens	5
+Semicarpus anacardium	5
+Anethum panmorium	5
+Andersonia Rohitaka	5
+Mimosa suma	5
+Euphorbia antiquorum	5
+Dalbergia sisu	4
+Gloriosa superba	4
+Crotolaria juncea	4
+Mimosa sirisa	4
+Nymphaea nelumbo	4
+Nauclea Cadamba	4
+Valeriana Jatamansi	4
+Cytisus cajan	4
+Cucumis colocynthis	4
+Paspalum frumentaceum	4
+Basella lucida	4
+Anthericum tuberosum	4
+Verbesina scandens	4
+Pentaptera Arjuna	4
+Cucumis Madraspatanus	4
+Borassus flabelliformis	4
+Cassia esculenta	4
+Cucurbita pepo	4
+Curcuma reclinata	4
+C. reclinata	4
+Averhoa carambola	4
+Phaseolus	4
+Loxia philippensis	4
+Justicia	4
+Phaseolus max	4
+Pterocarpus santolinus	4
+Datura fastuosa	4
+Datura	4
+Nagelia putranjiva	4
+Mollugo pentaphylla	4
+C. utilatissimus	4
+Barleria cristata	4
+Chironjia sapida	4
+Nymphæa nelumbo	4
+Lythrum fruticosum	4
+C. tora	4
+Curcuma zanthorrhizon	4
+C. zanthorrhizon	4
+Ligusticum ajväen	4
+Achyranthes triandra	4
+Eugenia jambu	4
+Eclipta prostrata	4
+Basella rubra and lucida	4
+Arum Indicum	4
+Tragia involucrata	4
+Pimpinella anisum	4
+Panicum italicum	4
+Poederia foetida	4
+Hydrocotyle Asiatica	4
+Cicer lens	4
+Acorus calamus	4
+Asclepias geminata	4
+Pentapetes phoenicea	4
+Panicum frumentaceum	4
+Averrhoa carambola	4
+Dalbergia Oujeiniensis	3
+Amyris agallocha	3
+Menispermum cordifolium	3
+Eclipta or Verbesina prostrata	3
+Morinda tinctoria	3
+Linum usitatissimum	3
+Terminalia citrina	3
+Basella rubra or lucida	3
+Tapia cratoeva	3
+Heliotropium indicum	3
+Oxalis corniculata	3
+Delphinus gangeticus	3
+Sapindus saponaria	3
+Calotropis gigantea	3
+Aristolochia Indica	3
+Cleome pentaphylla	3
+Tectona grandis	3
+Cucurbita lagenaris	3
+Styrax benzoin	3
+Conyza lacera	3
+Rumex vesicatorius	3
+Nymphaea lotus	3
+Datura metel and fastuosa	3
+Corchorus olitorius	3
+Dolichos carpopogon	3
+Colotropis gigantea	3
+Leea aequata	3
+Diospyros tomentosa	3
+Diospyros melanoxylon	3
+Ficus oppositifolia	3
+Abrus precatorious	3
+Mimosa albida	3
+Dalbergia {%Sisu%}	3
+M. catechu	3
+M. kauki	3
+A. rosea	3
+J. auriculatum	3
+Michelia Champaca	3
+Chironia centauroides	3
+Dalbergia ougeiniensis	3
+Croton tiglium	3
+Carissa carandas	3
+Jasminum pubescens	3
+Xanthocymus pictorius	3
+Kæmpferia rotunda	3
+Coriandrum sativum	3
+Premna herbacea	3
+Melia azadiracta	3
+Nymphæa cærulea	3
+Premna longifolia	3
+Cardiospermum haliacacabum	3
+Melia sempervirens	3
+Solanum Jacquini	3
+Pœderia foetida	3
+Ficus infectoria	3
+Echites dichotoma	3
+Sapindus detergens	3
+Mimosa Arabica	3
+Eleusine corocana	3
+Cactus Indicus	3
+P. mungo	3
+Cucumis coloquintida	3
+Andropogon or Holcus sorghum	3
+Nymphæa rubra	3
+Embelia ribes	3
+Marsilia quadrifolia	3
+Vitex trifolia	3
+Pæderia fetida	3
+Dalbergia ougeinensis	3
+Hedysarum Gangeticum	2
+Aquilaria agallocha	2
+Jonesia asoka	2
+Carum carui	2
+Jasminum multiflorum	2
+Goertnera racemosa	2
+Dalbergia oujeiniensis	2
+Sesamum orientale	2
+Panicum Italicum	2
+Eugenia acutangula	2
+Hieracium	2
+Aquila agallocha	2
+Erycibe paniculata	2
+Gomphrena globosa	2
+M. Farnesiana	2
+Coluber naga	2
+Cucumis sativus	2
+Amaranthus polygamus	2
+Cissus quadrangularis	2
+Morunga guilandina and hyperanthera	2
+Achyranthes	2
+Boswellia serrata	2
+Panicum spicatum	2
+Nymphaea coerulea	2
+Cucumis momordica	2
+Andropogon	2
+Piper longum	2
+Linum	2
+Cedrela Tunna	2
+Commelina Bengalensis	2
+Poederia fetida	2
+Morunga guilandina	2
+Oldenlandia biflora	2
+Convolvulus repens	2
+Erythrina Indica	2
+Acacia Arabica	2
+Ficus venosa	2
+A. campanulatum	2
+Citrus decumana	2
+Caesalpinia bonduccella	2
+Hibiscus abelmoschus	2
+P. miliaceum	2
+A. colocasia	2
+Curcuma zanthorhiza	2
+Crocus sativus	2
+Uvaria longifolia	2
+Nymphaea esculenta	2
+Raphanus sativus	2
+B. prionitis	2
+Trichosanthes diaeca	2
+Alpinia galanga	2
+Glycirrhiza glabra	2
+Scirpus maximus	2
+Phoenix sylvestris	2
+Annona squamosa	2
+M. hyperanthera	2
+Sorex moschata	2
+Clupanodon ilisha	2
+Boerhavia diffusa alata	2
+Zizyphus nepeca	2
+Elate sylvestris	2
+Kyllinga monocephala	2
+Pentaptera {%Arjuna%}	2
+Artemisia sternutatoria	2
+Esox cancila	2
+Hibiscus rosa sinensis	2
+Trichosanthes diœca	2
+Mimusops Kauki	2
+Nageia putranjiva	2
+Andropogon sorghum	2
+Tamarix Indica	2
+A. polygonoides	2
+A. perfoliata	2
+Corypha taliera	2
+G. cherayta	2
+Marsilia dentata	2
+Andropogon saccharatus	2
+Oriza sativa	2
+Cardiospermum halicacabum	2
+Cæsalpinia bonduccella	2
+Arundo karka	2
+Citrus aurantium	2
+Macrognathus Pancalus	2
+Hibiscus phæniceus	2
+C. zanthorhizon	2
+Cæsalpinia sappan	2
+C. madraspatanus	2
+P. longifolia	2
+Cucurbita lagenaria	2
+Pentaptera	2
+Phoenix or Elate paludosa	2
+P. devadaru	2
+Pentapetes Phœnicea	2
+Pentapetes	2
+Trigonella foenugræcum	2
+Andropogon schænanthus	2
+Hibiscus	2
+Ruta graveolens	2
+Vespa solitaria	2
+Lanius malabaricus	2
+Cæsalpinia	2
+M. Suma	2
+Rubia Manjith	2
+Nama zeylanica	2
+Piper nigrum	2
+Guilandina bonduccella	2
+P. Devadaru	2
+Gomphræna globosa	2
+Bignonia suaveolens	2
+Echites caryophyllata	2
+Phaseolus lobatus	2
+Ocimum pilosum	2
+Andropogon or Holcus bicolor	2
+Ixora bandhuca	2
+Dioscorea purpurea	2
+Lycopodium	2
+Andersonia rohitaca	2
+Pæderia foetida	2
+Sesbana Ægyptiaca	2
+Nyctanthes arbor-tristis	2
+Ichnocarpus frutescens	2
+Cordia latifolia	2
+Scirpus kyssoor	2
+Mimosa Sirisha	2
+Phaseolus Mungo	2
+Hibiscus phoeniceus	2
+Cleome viscosa	2
+Sarcostema viminalis	2
+Musa paradisiaca	1
+Pale Lodh	1
+Guilandina or Hyperanthera morunga	1
+Aleurites triloba	1
+Amomum zinziber	1
+Cesalpinia bonducella	1
+Ovieda verticillata	1
+Terminalia alata tomentosa	1
+Apium involucratum	1
+Eclipta or verbesina prostrata	1
+Mimosa natans	1
+Justicia adhatoda	1
+Anethum pimpinella	1
+Jasmimum arboreum	1
+Phthisis pulmonalis	1
+Atis or Betula	1
+Jasminum villosum	1
+Salvinea cucullata	1
+Acheranthes aspera	1
+Premna esculenta	1
+Asclepias psoudosarsa	1
+Periploca Indica	1
+Plumbago zeylanica and rosea	1
+Sida alba	1
+Kyllingia monocephala	1
+Flacoartia cataphracta	1
+Pinus longifolius	1
+Ambergris	1
+Spondias	1
+Semecarpius anacardium	1
+Calotropis	1
+Nimba or Melia azadirachta	1
+Ocymum villosum	1
+B. caerulea	1
+Calotropis gigantea alba	1
+Nymphoea rubra	1
+Pimpinella Anisum	1
+Ficus religiousa	1
+Sinapis ramosa	1
+Cassyta filiformis	1
+Lagerstroemia regina	1
+Barleria coerulea	1
+Aknidhi	1
+Pentapheca tomentosa	1
+E. dichotoma	1
+Saccharum fuscum	1
+Trochis aspera	1
+Cumumis utilatissimus	1
+Nymphaea caerulea	1
+Basella (rubra or lucida)	1
+Cordia myxa or latifolia	1
+Cassia, (Alata)	1
+Eletteria cardamomum	1
+Alpinia Cardamomum	1
+Chenopodium esculentum	1
+Hibiscus Populneoides	1
+Panicus dactilon	1
+Heartpea	1
+Cardiaspermum halicacabum	1
+Cascaria ovata	1
+Abrus precatorios	1
+Aloe perfoliata	1
+Feronia elephantum	1
+Crataeva marmelos	1
+Cocos nucifera	1
+Galendupa arborea	1
+Oleander or Nerium odorum	1
+Hemisdemus Indicus	1
+Capparis aphylla	1
+Ophiocephalus kurrawey	1
+Menispermum calumba	1
+Gallinula porphyria	1
+Grey bonduc	1
+Lanius forficatus	1
+Bonduccella	1
+Tantalus falcinellus	1
+Amaryllis zeylanica	1
+Epidendrum tesseloides	1
+C. Zanthorhiza	1
+Ipomaea quamoclit	1
+Gaertnera racemosa	1
+Gossypium hirsutum	1
+Tabernae montana coronaria	1
+C. zanthorhiza	1
+Ficus elastica	1
+Hyperanthera	1
+Cassia or Senna esculenta	1
+Trichosanthes palmata	1
+Cucumis colocynthus	1
+Pinus deodar	1
+Embryopteris glutinifera	1
+Adenanthera pavonina	1
+Ocimum sanctum	1
+Ocimum gratissimum	1
+Paspalum scrobiculatum	1
+Æschynomene grandiflora	1
+J. multiflorum or pubescens	1
+Tapia crataeva	1
+N. rubra	1
+Menyanthes Indica or cristata	1
+Conyza terebinthina	1
+D. biflorus	1
+Psoralia corylifolia	1
+Dilenia Indica	1
+P. chavya	1
+Nymphaea rubra	1
+Mirabilis jalapa	1
+Poinciana pulcherrima	1
+Dolichos virosus	1
+Verbesina prostrata	1
+Andropogon aculeatum	1
+Capparis spinosa	1
+Paspalum kora	1
+Plumbago	1
+Zeylanica	1
+Cordia myxta	1
+L. pentangula	1
+Serratula or Conyza anthelmintica	1
+M. farnesiana	1
+Indigofera Indica	1
+Celtis Orientalis	1
+Mimosa khayar	1
+Asclepia rosea	1
+E. hirta	1
+E. thymifolia	1
+E. chamæsyce	1
+Andropogon muricatus	1
+Hedysarum lagopodiodes	1
+J. Zambac floribus multiplicatis	1
+Ligusticam ajwaen	1
+Calamus roatang	1
+Paederia fetida	1
+Xanthophyllum virens	1
+Ovieda verticellata	1
+Macrognathus pancalus	1
+C. coloquintida	1
+Guilandina bonducella	1
+Symplocus racemosa	1
+B. latifolia	1
+A. polygamus	1
+C. rotundus	1
+Elephantophus scaber	1
+Capparis	1
+Pharnaceum mollugo	1
+Arum orinense	1
+Schrebera swietenioides	1
+Luffa pentandra and acutangula	1
+Luffa pentangula	1
+Sirium myrtifolium	1
+Crinum	1
+Serrantula anthelmintica	1
+A. acida	1
+Trichosanthes anguinæ	1
+Dalbergia ougieniensis	1
+Manjifera Indica	1
+C. argenteus	1
+C. pes-capræ	1
+C. pes-caprae	1
+Convolvulus pes-capræ	1
+Conyza anthelmintica	1
+Ficus oppositi-folia	1
+Valeriana jatamansie	1
+F. venosa	1
+Eugenia jambolana	1
+Utricularia fasciculata	1
+Andropogon bicolor	1
+J. grandiflorum	1
+Helianthus annuus	1
+Convolvulus argentaceus	1
+Odina wodier	1
+Epidendron tesseloides	1
+M. octandra	1
+Halicacabum cardiospermum	1
+Trichosanthes diæca	1
+Chenopocium album	1
+Rosa standulifera	1
+Corypha talliera	1
+Saccharum procerum	1
+Ervum lens	1
+Pterospermum santolinum	1
+Anethum pammorium	1
+Tamarindus Indica	1
+Cueurbita lagenaria	1
+Conyza serratula	1
+Alpinia cardamomum	1
+Esox kankila	1
+Clitorea ternata	1
+S. cylindricum	1
+Crotolaria juneca	1
+Euphorbia hirta and thymifolia	1
+Hedysarium alhaji	1
+Erythroxylon sideroxylloides	1
+Arundo bengalensis	1
+Siphonanthus Indicus	1
+Curcuma zanthorrhiza	1
+Arundo tibialis or karka	1
+C. sativum	1
+A. karka	1
+J. Zambac	1
+Coluber Naga	1
+Cucurbita citrullus	1
+Hibiscus cannabinus	1
+Linum utilitissimum	1
+Curcuma zedoaria	1
+Curcuma longa	1
+C. zanthorrhiza	1
+I. bandhuca	1
+A. picta	1
+B. cærulea	1
+Carambola averrhoa	1
+H. lagopodioides	1
+S. jacquini	1
+Coesalpinia sappan	1
+Corchorus capsularis	1
+Coesalpinia bonduccella	1
+Pterocarpus santalinus	1
+Bignonia indica	1
+Mimosa alba	1
+Webera corymbosa	1
+Pterospermum acerifolia	1
+Xylocarpus granatum	1
+Ficus infectiosa	1
+Bauhinia candida	1
+F. glomerata	1
+Erythrina fulgenis	1
+Pinus {%Devadāru%}	1
+Beta bengalensis	1
+M. suma	1
+T. Indica	1
+Esox scolopax	1
+Phœnix dactylifera	1
+Daucus carota	1
+Oleander odorum	1
+Trewia nudiflora	1
+T. coronaria	1
+G. Cherayta	1
+P. Devadāru	1
+Tabernæmontana	1
+Saccharum officinarum	1
+Phaseolus mas	1
+P. radiatus	1
+Nauclea k.	1
+Psoralea corilifolia	1
+D. metel	1
+Sphoeranthus molis	1
+H. alhagi	1
+F. oppositi-folia	1
+Zizyphus jujuba or scandens	1
+Pentapetes phænicea	1
+Pentapetes Phoenicea	1
+Ixora Bandhuca	1
+Ixora	1
+Tamarix diœca	1
+Trigonella fœnugræcum	1
+Asparagus	1
+Hibiscus tortuosus	1
+H. mutabilis	1
+Cyperus pertenuis or rotundus	1
+E. tirucalli	1
+Pœderia fœtida	1
+Echites or Wrightea antidysenterica	1
+Beta Bengalensis	1
+B. Indica	1
+Andropogon schœnanthus	1
+Michelia	1
+Lanius cærulescens	1
+Eclipta or Verbesina	1
+Ægle marmelos	1
+Elephantopus scaber	1
+Mimosa {%Śirīṣa%}	1
+Anethum sowa or panmorium	1
+Basella rubra	1
+Ocymum	1
+Artemisia vulgaris	1
+S. rhombifolia	1
+C. ternata	1
+C. juncea	1
+Arum indicum	1
+Amaranthus oleraceus	1
+Jasminum grandiflorum	1
+floribus multiplicatis	1
+A. sowa	1
+Pterospermum salicifolium	1
+A. triandra, or gracilis	1
+Hydrocotyle asiatica	1
+Cuculus melanoleucus	1
+Bignonia suave olens	1
+Bombax	1
+Hordeum hexastichon	1
+Ventilago madraspatana	1
+Rottleria tinctorea	1
+Polianthes tuberosa	1
+Nyctanthes arbor tristis	1
+Allium ascalonicum	1
+Cynosurus corocanus	1
+Corchorus capsularis or olitorius	1
+Clupanodon Ilisha	1
+S. ramosa	1
+Sinapis racemosa	1
+Areca triandra	1
+Sapindus	1
+Eleocarpus ganitrus	1
+Ervum or Cicer lens	1
+Andersonia Rohitaca	1
+Artocarpus Lacucha	1
+Euphorbia Tirucalli	1
+Myristica caryophyllata	1
+Nama repens	1
+Zinziber Zedoaria	1
+Heliotropium	1
+Dalbergia Ougeinensis	1
+Hibiscus vitifolius	1
+Phaseolus Moong	1
+Epidendrum tessellatum	1
+M. Kauki	1
+Helianthus annuns	1
+Shiponanthus Indica	1
+Eleusine Indica	1
+Mimosa Sama	1
+Cordia myxa and latifolia	1
+Gigantic Asclepias	1
+Salvadora Persica	1
+Amyris Agallocha	1
+Cluponodon Ilisha	1
+Ipomoea paniculata	1
+C. fasciculatus	1
+Hyperanthera Morunga	1
+Saccharum Munja	1
+Andropogon schœnanthum	1
+S. cordifolia	1
+Aconitum ferox	1
+Clitorea ternatea	1
+Echites caryophyallata	1
+C. paniculatus	1
+Calamus fascicularis	1
+Cymbidum tessalloides	1
+Epidendron	1
+Lettsomia neryosa	1
+Basella	1
+Solanum hirsutum	1
+Cassia purpurea	1
+Arundo gigantea	1
+A. lanceifolius	1
+A. atro-purpureus	1
+Cassia sophora	1
+Palma Christi	1
+Ervum lens or hirsutum	1
+Sparus emarginatus	1
+Phyalis flexuosa	1
+J. zambac	1
+Acacia suma	1
+Mimosa Suma	1
+Turdus Gosalica	1
+Acacia sirisa	1
+Siphonanthus indica	1
+Ophiocephalus wrahl	1
+Ophicephalus wrahl	1
+Symplocos racemosus	1
+Cassia alata	1
+Atracia sirisa	1
+S. officinale	1
+Pinus Deodar	1
+Ardisea solanacea	1
+Storax benzoin	1
+Acacia Sirisha	1
+Gomphrœna globosa	1
+Phrynium dichotomum	1
+Vitex nigundo	1
+Zizyphus scandens	1
+Ruellia or Barleria longifolia	1
+Nauclea Kadamba	1
+Boerhavia diffusa	1
+C. turpethum	1
+P. colonum	1
+Ocymum album	1
+Ocymum sanctum or album	1
+Salvainia cucullata	1
+Alstonia scholaris	1
+Acacia Sirisa	1
+J. zambac fl. multiplicatis	1
+Convolvulus Turpethum	1
+Solanum Melongena	1
+Mimusopa elengi	1
+Panicum colonum	1
+Aletris Hyacinthoides	1
+Heritiera minor	1
+Cæsalpinia Bonducella	1
+Curcuma Zerumbet	1
+Ophiorrhiza mangos	1
+Areca gracilis or triandra	1
+Rottleria	1
+Colocynth	1
+Cordifolia	1
+Ophiorrhyza mangos	1
+Pentapetes phœnicea	1
+Helianthus indicus	1
+S. viminalis	1
+Nymphæa lotus	1
+Sarcostema acida	1
+Arundo	1
+Loxia Philippensis	1
+Carpogon pruriens	1
+Nyctanthes	1
+Pistia	1
+Valeriana {%Jaṭāmāṃsī%}	1
+A. gigantea	1
