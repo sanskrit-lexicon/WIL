@@ -114,7 +114,10 @@ def convert_cdsl_to_ab(text):
                 continue
                 
             if line.startswith("<LEND>"):
-                new_lines.append(line)
+                if new_lines and new_lines[-1].startswith("[Page"):
+                    new_lines[-1] = "<LEND> " + new_lines[-1]
+                else:
+                    new_lines.append(line)
                 continue
                 
             # Replace bullets
@@ -168,8 +171,11 @@ def convert_cdsl_to_ab(text):
             # Split on embedded lex (except r.)
             line = re.sub(r"([^\s]) <lex>(?!r\.)", r"\1\n\t <lex>", line)
                 
+            # Clean up or-{#
+            line = line.replace('or-{#', 'or{#')
+            
             # Add tab before definition after ) containing a tag
-            line = re.sub(r"(\({#[^}]+#}\)) ([a-zA-Z\u00C0-\u017F]|{%)", r"\1\t \2", line)
+            line = re.sub(r"(\([^)]*#[^)]*\)) ([a-zA-Z\u00C0-\u017F]|{%)", r"\1\t \2", line)
             line = re.sub(r"</lex> ([a-zA-Z\u00C0-\u017F]|{%)", r"</lex>\t \1", line)
             
             # Add tab before senses if preceded by space
