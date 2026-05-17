@@ -103,7 +103,7 @@ def convert_cdsl_to_ab(text):
             line = line.replace(". <lex>", ".\n\t <lex>")
                 
             # Add tab before definition
-            line = re.sub(r"\) ([A-Z])", r")\t \1", line)
+            line = re.sub(r"\) ([A-Z]|{%)", r")\t \1", line)
             
             # Add tab before senses if preceded by space
             line = line.replace(" ∙²", "\t ∙²")
