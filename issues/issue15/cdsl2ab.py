@@ -20,6 +20,36 @@ ABS = [
 ]
 
 
+
+def is_definition(line):
+    if line.startswith(("<L>", "<LEND>", "[Page")):
+        return False
+    # Remove XML tags
+    text = re.sub(r"<.*?>", "", line)
+    # Remove Sanskrit word templates
+    text = re.sub(r"{#.*?#}", "", text)
+    # Remove common grammatical abbreviations
+    text = re.sub(r"\b(mfn|m|f|n|ind|adj|pron|r|subst|adv)\b\.?", "", text)
+    # If it contains any lowercase letters, it is a definition!
+    return bool(re.search(r"[a-z]", text))
+
+def supply_period(line):
+    if "\n" in line:
+        return "\n".join(supply_period(sub) for sub in line.split("\n"))
+    if not is_definition(line):
+        return line
+    stripped = line.rstrip()
+    # Strip trailing page markers, tags, and parentheses to check the last character
+    check = re.sub(r"\[Page\d+\]$", "", stripped).strip()
+    check = re.sub(r"</?[a-zA-Z]+>$", "", check).strip()
+    check = re.sub(r"[)}]+$", "", check).strip()
+    if check and check[-1].isalnum():
+        match = re.search(r"(\s*\[Page\d+\])$", line)
+        if match:
+            return line[:-len(match.group(1))].rstrip() + "." + match.group(1)
+        return line.rstrip() + "."
+    return line
+
 import os
 
 LEXS = ["m.", "n.", "f.", "mfn.", "ind.", "r.", "mn."]
@@ -84,13 +114,23 @@ def convert_cdsl_to_ab(text):
         
         # Join continuation lines
         joined_lines = []
-        for line in lines:
+        for idx, line in enumerate(lines):
             if not line.strip():
                 continue
             
             is_new_block = False
-            if line.startswith(("<L>", "<LEND>", ".²", "∙²", ".E.", "[Page")):
+            if line.startswith(("<L>", "<LEND>", ".²", "∙²", ".E.")):
                 is_new_block = True
+            elif line.startswith("[Page"):
+                # If the next non-empty line in this entry is <LEND>, treat Page as a new block
+                next_is_lend = False
+                for j in range(idx + 1, len(lines)):
+                    if lines[j].strip():
+                        if lines[j].strip().startswith("<LEND>"):
+                            next_is_lend = True
+                        break
+                if next_is_lend:
+                    is_new_block = True
             elif line.startswith("{#") and "¦" in line:
                 is_new_block = True
                 
@@ -164,8 +204,8 @@ def convert_cdsl_to_ab(text):
                     
             # Restore <ab> tags
             for ab in ABS:
-                # Use regex to handle space or tab before ab
-                line = re.sub(r"([ \t])" + re.escape(ab), r"\1<ab>" + ab + "</ab>", line)
+                # Use regex to handle space, tab, opening parenthesis or percent before ab
+                line = re.sub(r"([ \t(%])" + re.escape(ab), r"\1<ab>" + ab + "</ab>", line)
                     
             # Restore <bot> tags
             if bot_regex:
@@ -202,6 +242,9 @@ def convert_cdsl_to_ab(text):
             # Also tab after </lex> before definition text
             line = re.sub(r"</lex> ([a-zA-Z\u00C0-\u017F]|{%)", r"</lex>\t \1", line)
             
+            # Supply terminal period to definition lines if they lack it
+            line = supply_period(line)
+
             # Add tab before senses if preceded by space
             line = line.replace(" ∙²", "\t ∙²")
             
