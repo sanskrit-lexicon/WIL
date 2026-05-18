@@ -44,6 +44,18 @@ def process_file(input_path, output_path):
     ab_tags.sort(key=len, reverse=True)
     ab_pattern = re.compile(r'(^|\s)(' + '|'.join(re.escape(tag) for tag in ab_tags) + r')(?=\s|$|[,;\.])')
 
+    input_dir = os.path.dirname(input_path)
+    
+    with open(os.path.join(input_dir, 'bot_tags.txt'), 'r', encoding='utf-8') as bf:
+        bot_tags = [line.split('\t')[0].strip() for line in bf if line.strip()]
+    bot_tags.sort(key=len, reverse=True)
+    bot_pattern = re.compile(r'(^|[\s(])(' + '|'.join(re.escape(tag) for tag in bot_tags) + r')(?=[\s,;.)]|$)')
+
+    with open(os.path.join(input_dir, 'zoo_tags.txt'), 'r', encoding='utf-8') as zf:
+        zoo_tags = [line.split('\t')[0].strip() for line in zf if line.strip()]
+    zoo_tags.sort(key=len, reverse=True)
+    zoo_pattern = re.compile(r'(^|[\s(])(' + '|'.join(re.escape(tag) for tag in zoo_tags) + r')(?=[\s,;.)]|$)')
+
     processed = []
     for line in temp_lines:
         result = tag_pattern.sub(r'<lex>\1</lex> \2\n', line)
@@ -53,8 +65,14 @@ def process_file(input_path, output_path):
         # Apply <ab> tags using the single compiled regex
         result = ab_pattern.sub(r'\1<ab>\2</ab>', result)
         
-        # Fix any double-wrapped <ab> tags
+        # Apply <bot> and <zoo> tags
+        result = bot_pattern.sub(r'\1<bot>\2</bot>', result)
+        result = zoo_pattern.sub(r'\1<zoo>\2</zoo>', result)
+        
+        # Fix any double-wrapped tags
         result = result.replace('<ab><ab>', '<ab>').replace('</ab></ab>', '</ab>')
+        result = result.replace('<bot><bot>', '<bot>').replace('</bot></bot>', '</bot>')
+        result = result.replace('<zoo><zoo>', '<zoo>').replace('</zoo></zoo>', '</zoo>')
 
         r_with_content = re.search(r'<lex>r\.</lex>.*?(\({#.*?#}\))', result)
         if r_with_content:
