@@ -40,11 +40,21 @@ def process_file(input_path, output_path):
         else:
             temp_lines.append(r_sub)
 
+    ab_tags = ['passive v.', 'plur.', 'viz.', 'prep.', 'plu.', '&c.', 'neut.', 'mas.', 'privat.', 'nom. v.', 'penult.', 'sing.', 'du.', 'pl.', 'part.', 'fem.', 'pre.', 'desider.', 'antepen.', 'pers.', 'caus.', 'pen.', 'acc.', 'desid.', 'superl.', 'dim.', 'gen.', 'causal v.', 'priv.', 'frequent.', 'past.', 'Sing.', 'aff.', 'der.', 'fig.', 'deriv.', 'patron.', 'E.', 'affs.', 'irr.', 'liter.', 'N. W.', 'reg.', 'desid. v.', 'lit.', 'nominal v.', 'met.', 'ff.', 'dat.', 'abl.', 'augm.', 'N. E.', 'intensitive v.', 'accu.', 'dimin.', 'a.', 'aug.', 'q. v.', 'S. W.', 'redup.', 'S. E.', 'ut sup.', 'form.', 'do.', 'possess.', 'var.', 'redup. v.', 'poss.', 'posses.', 'ante-pen.', 'S. W. ', 'cent.', 'masc.', 'comp.', 'neg.', 'pass.', 'pref.', 'cl.', 'Mss.', 'MSS', 'fut.', 'metaph.', 'oz.', 'lbs.', 'affir.', 'intens.', 'inten.', 'reiter. v.', 'abst.', 'freq. v.', 'pass. v.', 'cls.', 'pos.', 'Ex.', 'vulg.', 'i. e.', 'intens. v.', 'frequent. v.', 'reit. v.', 'super.', 'nom.', 'infin.', 'A. D.']
+    ab_tags.sort(key=len, reverse=True)
+    ab_pattern = re.compile(r'(^|\s)(' + '|'.join(re.escape(tag) for tag in ab_tags) + r')(?=\s|$|[,;\.])')
+
     processed = []
     for line in temp_lines:
         result = tag_pattern.sub(r'<lex>\1</lex> \2\n', line)
         result = standalone_pattern.sub(r'<lex>\1</lex>\n', result)
-        result = result.replace('.E.', ' <ab>E.</ab>')
+        result = result.replace('.E.', ' <ab>E.</ab>\n')
+
+        # Apply <ab> tags using the single compiled regex
+        result = ab_pattern.sub(r'\1<ab>\2</ab>', result)
+        
+        # Fix any double-wrapped <ab> tags
+        result = result.replace('<ab><ab>', '<ab>').replace('</ab></ab>', '</ab>')
 
         r_with_content = re.search(r'<lex>r\.</lex>.*?(\({#.*?#}\))', result)
         if r_with_content:
@@ -52,6 +62,9 @@ def process_file(input_path, output_path):
             before_paren_end = result[:end_pos]
             after_paren_end = result[end_pos:]
             result = before_paren_end + '\n' + after_paren_end
+
+        # Put <lex> tags that appear mid-line onto their own line
+        result = re.sub(r'(?<=[^ \n])\s+(<lex>)', r'\n \1', result)
 
         processed.append(result)
 
@@ -72,16 +85,20 @@ def process_file(input_path, output_path):
                 (line.startswith('{#') and '¦' in line) or
                 line.startswith('.²'))
 
-    def should_not_merge_with_prev(line, prev_line):
-        return (prev_line.strip().endswith(')') or
-                prev_line.strip().endswith('</lex>') or
-                prev_line.strip().endswith('</ab>'))
+    def should_not_merge(line, prev_line):
+        return (prev_line.rstrip().endswith('¦') or
+                prev_line.rstrip().endswith(')') or
+                prev_line.rstrip().endswith('</lex>') or
+                prev_line.rstrip().endswith('</ab>'))
 
     for i, line in enumerate(flat_lines):
-        if i > 0 and not starts_new_block(line) and not should_not_merge_with_prev(line, flat_lines[i-1]):
+        if i > 0 and not starts_new_block(line) and not should_not_merge(line, final_lines[-1]):
             final_lines[-1] = final_lines[-1] + ' ' + line
         else:
             final_lines.append(line)
+
+    # Ensure .² is preceded by a space
+    final_lines = [line.replace('.²', ' .²').replace('  .²', ' .²') for line in final_lines]
 
     with open(output_path, 'w', encoding='utf-8') as f:
         f.write('\n'.join(final_lines) + '\n')
