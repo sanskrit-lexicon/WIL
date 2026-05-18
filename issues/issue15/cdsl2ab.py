@@ -232,7 +232,7 @@ def convert_cdsl_to_ab(text):
                     new_lines.append(line)
                     
         entry_text = "\n".join(new_lines)
-        entry_text = re.sub(r"\)\n\s*∙²1", r")\t ∙²1", entry_text)
+        entry_text = re.sub(r"\)\n\s*∙²1(?!\d)", r")\t ∙²1", entry_text)
         output.append(entry_text)
         
     # Join entries with a blank line between entries (AB format)
