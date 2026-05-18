@@ -18,8 +18,13 @@ def process_file(input_path, output_path):
     lines = content.split('\n')
     non_empty_lines = [line for line in lines if line.strip() != '']
 
+    final_text = '\n'.join(non_empty_lines)
+    
+    # Remove leading spaces
+    final_text = re.sub(r'(?m)^[ ]+', '', final_text)
+
     with open(output_path, 'w', encoding='utf-8') as f:
-        f.write('\n'.join(non_empty_lines) + '\n')
+        f.write(final_text + '\n')
 
 if __name__ == '__main__':
     script_dir = os.path.dirname(os.path.abspath(__file__))

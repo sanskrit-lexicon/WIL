@@ -97,11 +97,24 @@ def process_file(input_path, output_path):
         else:
             final_lines.append(line)
 
-    # Ensure .² is preceded by a space
-    final_lines = [line.replace('.²', ' .²').replace('  .²', ' .²') for line in final_lines]
+    final_text = '\n'.join(final_lines)
+
+    # 1. Remove leading spaces
+    final_text = re.sub(r'(?m)^[ ]+', '', final_text)
+    
+    # 2. Ensure .² is preceded by exactly one space, but not at the start of a line
+    final_text = final_text.replace('.²', ' .²').replace('  .²', ' .²')
+    final_text = re.sub(r'(?m)^ \.²', '.²', final_text)
+
+    # 3. Merge <lex> and ({#...#}) from next line, then add newline
+    final_text = re.sub(r'</lex>\s*\n\s*(\({#.*?#}\))\s*', r'</lex> \1\n', final_text)
+
+    # 4. Swap punctuation out of closing tags
+    final_text = re.sub(r'([,.])%\}', r'%}\1', final_text)
+    final_text = re.sub(r'([,.])#\}', r'#}\1', final_text)
 
     with open(output_path, 'w', encoding='utf-8') as f:
-        f.write('\n'.join(final_lines) + '\n')
+        f.write(final_text + '\n')
 
 if __name__ == '__main__':
     script_dir = os.path.dirname(os.path.abspath(__file__))
