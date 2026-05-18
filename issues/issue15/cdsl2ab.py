@@ -130,8 +130,15 @@ def convert_cdsl_to_ab(text):
             # Add div tag before With (only if following a period)
             line = re.sub(r"\. ({%[Ww]ith)", r'.\n<div n="p">\1', line)
             
-            # Add tab before ( if following #}
-            line = re.sub(r"(#[}]) \(", r"\1\t (", line)
+
+            
+            # Add tab before ( if following #} (only on non-headword, non-etymology lines)
+            if "<ab>E.</ab>" not in line:
+                sub_lines = line.split('\n')
+                for i, sl in enumerate(sub_lines):
+                    if not sl.startswith("{#"):
+                        sub_lines[i] = re.sub(r"(#[}]) \(", r"\1\t (", sl)
+                line = '\n'.join(sub_lines)
             
             # Restore tabs after ¦
             if line.startswith("{#"):
@@ -177,8 +184,22 @@ def convert_cdsl_to_ab(text):
             # Move colon/semicolon outside parenthesis after bot tag
             line = re.sub(r"(\(<bot>[^<]+</bot>)([:;])\)", r"\1)\2", line)
             
-            # Add tab before definition after ) containing a tag
-            line = re.sub(r"(\([^)]*#[^)]*\)) ([a-zA-Z\u00C0-\u017F]|{%)", r"\1\t \2", line)
+            # Tab after inflection-paren before the definition.
+            # Rule 1: before letter/Indic char / {%  (original rule, covers most cases)
+            # but exclude connectors or/and/also/Also, cross-reference see, ordinals (1st, 2nd...)
+            # and {%With / {%with metadata
+            line = re.sub(
+                r"(\(\s*-?{#.*?#\}[.,;:\s]*\)) ((?!or\b|and\b|also\b|Also\b|see\b|\d)(?:[a-zA-Z\u00C0-\u017F]|{%(?![Ww]ith\b)))",
+                r"\1\t \2", line)
+            # Rule 2: before <bot>, <zoo>, <ls> taxonomy/source tags
+            line = re.sub(
+                r"(\(\s*-?{#.*?#\}[.,;:\s]*\)) (<(?:bot|zoo|ls)>)",
+                r"\1\t \2", line)
+            # Rule 3: before (In... / (in...  parenthetical definitions
+            line = re.sub(
+                r"(\(\s*-?{#.*?#\}[.,;:\s]*\)) \(([Ii]n )",
+                r"\1\t (\2", line)
+            # Also tab after </lex> before definition text
             line = re.sub(r"</lex> ([a-zA-Z\u00C0-\u017F]|{%)", r"</lex>\t \1", line)
             
             # Add tab before senses if preceded by space
