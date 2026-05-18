@@ -29,7 +29,6 @@ def process_file(input_path, output_path):
 
     temp_lines = []
     for line in output_lines:
-        # Handle r. pattern: put on new line and wrap in <lex> tags
         r_sub = re.sub(r'(?:^|(?<= ))r\.\s*', '<lex>r.</lex> ', line)
         idx = r_sub.find('<lex>r.</lex> ')
         if idx > 0:
@@ -41,14 +40,12 @@ def process_file(input_path, output_path):
         else:
             temp_lines.append(r_sub)
 
-    # Apply lextag wrapping and line breaks
     processed = []
     for line in temp_lines:
         result = tag_pattern.sub(r'<lex>\1</lex> \2\n', line)
         result = standalone_pattern.sub(r'<lex>\1</lex>\n', result)
         result = result.replace('.E.', ' <ab>E.</ab>')
 
-        # Handle r. pattern: wrap and add line break after closing paren
         r_with_content = re.search(r'<lex>r\.</lex>.*?(\({#.*?#}\))', result)
         if r_with_content:
             end_pos = r_with_content.end(1)
@@ -58,17 +55,15 @@ def process_file(input_path, output_path):
 
         processed.append(result)
 
-    # Flatten split lines
     flat_lines = []
     for line in processed:
         flat_lines.extend([l for l in line.split('\n')])
 
-    # Remove blank lines
     flat_lines = [line for line in flat_lines if line.strip()]
 
     final_lines = []
 
-    def is_special(line):
+    def starts_new_block(line):
         return (line.startswith('<L>') or
                 line.startswith('<LEND>') or
                 line.startswith(' <lex>') or
@@ -77,8 +72,13 @@ def process_file(input_path, output_path):
                 (line.startswith('{#') and '¦' in line) or
                 line.startswith('.²'))
 
+    def should_not_merge_with_prev(line, prev_line):
+        return (prev_line.strip().endswith(')') or
+                prev_line.strip().endswith('</lex>') or
+                prev_line.strip().endswith('</ab>'))
+
     for i, line in enumerate(flat_lines):
-        if not is_special(line) and i > 0 and not is_special(flat_lines[i-1]):
+        if i > 0 and not starts_new_block(line) and not should_not_merge_with_prev(line, flat_lines[i-1]):
             final_lines[-1] = final_lines[-1] + ' ' + line
         else:
             final_lines.append(line)
