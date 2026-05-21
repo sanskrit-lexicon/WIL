@@ -1,0 +1,7 @@
+; markup_fix log for wil.txt
+; nested <ab>:    0
+; whitespace:     1
+; changed lines:  1
+;
+294494 old The {%Setlej%} river, which rises in the {%Himālaya%} mountains, in the vicinity it is supposed of the {%Rāvanhrad%} or lake, and running to the <ab>S. W. </ab>unites in the {%Pañjāb%} with the {%Beyah%} or {%Vipāśā%}, when it forms the {%Hyphasis%} of the {%Greeks%}, and falls into the {%Indus%} below {%Multan%}.
+294494 new The {%Setlej%} river, which rises in the {%Himālaya%} mountains, in the vicinity it is supposed of the {%Rāvanhrad%} or lake, and running to the <ab>S. W.</ab>unites in the {%Pañjāb%} with the {%Beyah%} or {%Vipāśā%}, when it forms the {%Hyphasis%} of the {%Greeks%}, and falls into the {%Indus%} below {%Multan%}.
