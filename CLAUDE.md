@@ -6,7 +6,7 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 **WIL** is the development and correction repository for **Horace Hayman Wilson's *A Dictionary, Sanscrit and English*, 2nd edition (Calcutta, 1832)**, a Sanskrit→English dictionary, within the [Cologne Digital Sanskrit Lexicon](https://www.sanskrit-lexicon.uni-koeln.de/) (CDSL).
 
-- **Canonical source text**: [`csl-orig/v02/wil/wil.txt`](https://github.com/sanskrit-lexicon/csl-orig/blob/master/v02/wil/wil.txt) (44,577 entries) — corrections are applied to that file, not stored here.
+- **Canonical source text**: [`csl-orig/v02/wil/wil.txt`](https://github.com/sanskrit-lexicon/csl-orig/blob/main/v02/wil/wil.txt) (44,577 entries) — corrections are applied to that file, not stored here.
 - This repository holds **development artifacts**: Wilson↔Monier-Williams root correspondence, verb identification (Wilson / Yates / Śabda-Sāgara), botanical-name markup, and per-issue working files.
 - Wilson (1832) is the **earliest** CDSL dictionary and an ancestor of later works, so much of the analysis here is comparative against MW and contemporaries.
 

@@ -2,7 +2,7 @@
 
 _Created: 28-12-2014 · Last updated: 11-07-2026_
 
-Development and correction repository for **Horace Hayman Wilson's *A Dictionary, Sanscrit and English*, 2nd edition (Calcutta, 1832)**, a Sanskrit→English dictionary, part of the [Cologne Digital Sanskrit Lexicon](https://www.sanskrit-lexicon.uni-koeln.de/) (CDSL). The canonical source text lives in [`csl-orig/v02/wil/wil.txt`](https://github.com/sanskrit-lexicon/csl-orig/blob/master/v02/wil/wil.txt) (44,577 entries); this repository holds the development, correction, and enrichment work — Wilson↔Monier-Williams root correspondence, verb identification, botanical-name markup, and per-issue corrections.
+Development and correction repository for **Horace Hayman Wilson's *A Dictionary, Sanscrit and English*, 2nd edition (Calcutta, 1832)**, a Sanskrit→English dictionary, part of the [Cologne Digital Sanskrit Lexicon](https://www.sanskrit-lexicon.uni-koeln.de/) (CDSL). The canonical source text lives in [`csl-orig/v02/wil/wil.txt`](https://github.com/sanskrit-lexicon/csl-orig/blob/main/v02/wil/wil.txt) (44,577 entries); this repository holds the development, correction, and enrichment work — Wilson↔Monier-Williams root correspondence, verb identification, botanical-name markup, and per-issue corrections.
 
 Wilson (1832) is the earliest dictionary in the CDSL collection and a documented ancestor of later works (Yates 1846, Goldstücker, Śabda-Sāgara), which is why much of the work here is **comparative** ([`wilmwroots/`](https://github.com/sanskrit-lexicon/WIL/tree/main/wilmwroots), [`verbs01/`](https://github.com/sanskrit-lexicon/WIL/tree/main/verbs01), [`maprep/`](https://github.com/sanskrit-lexicon/WIL/tree/main/maprep)).
 
@@ -148,7 +148,7 @@ pie showData
 
 ## Correcting the source text
 
-Corrections are never edited directly into the canonical source. They are expressed as `change_*.txt` change files applied by scripts (`updateByLine.py`) against [`csl-orig/v02/wil/wil.txt`](https://github.com/sanskrit-lexicon/csl-orig/blob/master/v02/wil/wil.txt). The full workflow (snapshot → `updateByLine.py` → promote → generate → XML-validate → audit → commit) and every gotcha live in the canonical [correction-workflow.md](https://github.com/sanskrit-lexicon/csl-corrections/blob/main/docs/correction-workflow.md).
+Corrections are never edited directly into the canonical source. They are expressed as `change_*.txt` change files applied by scripts (`updateByLine.py`) against [`csl-orig/v02/wil/wil.txt`](https://github.com/sanskrit-lexicon/csl-orig/blob/main/v02/wil/wil.txt). The full workflow (snapshot → `updateByLine.py` → promote → generate → XML-validate → audit → commit) and every gotcha live in the canonical [correction-workflow.md](https://github.com/sanskrit-lexicon/csl-corrections/blob/main/docs/correction-workflow.md).
 
 ## How it works
 
