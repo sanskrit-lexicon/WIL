@@ -1,13 +1,16 @@
 # WIL — Wilson *A Dictionary, Sanscrit and English* (1832)
 
-_Created: 28-12-2014 · Last updated: 11-07-2026_
+_Created: 28-12-2014 · Last updated: 02-08-2026_
 
 Development and correction repository for **Horace Hayman Wilson's *A Dictionary, Sanscrit and English*, 2nd edition (Calcutta, 1832)**, a Sanskrit→English dictionary, part of the [Cologne Digital Sanskrit Lexicon](https://www.sanskrit-lexicon.uni-koeln.de/) (CDSL). The canonical source text lives in [`csl-orig/v02/wil/wil.txt`](https://github.com/sanskrit-lexicon/csl-orig/blob/main/v02/wil/wil.txt) (44,577 entries); this repository holds the development, correction, and enrichment work — Wilson↔Monier-Williams root correspondence, verb identification, botanical-name markup, and per-issue corrections.
 
-Wilson (1832) is the earliest dictionary in the CDSL collection and a documented ancestor of later works (Yates 1846, Goldstücker, Śabda-Sāgara), which is why much of the work here is **comparative** ([`wilmwroots/`](https://github.com/sanskrit-lexicon/WIL/tree/main/wilmwroots), [`verbs01/`](https://github.com/sanskrit-lexicon/WIL/tree/main/verbs01), [`maprep/`](https://github.com/sanskrit-lexicon/WIL/tree/main/maprep)).
+Wilson **1832** is the CDSL text and the English-gloss base of [MW72](https://github.com/sanskrit-lexicon/MW72) (and thus of MW1899's carried-forward English). Wilson **1819** (1st ed.) is the print base of [PWG](https://github.com/sanskrit-lexicon/PWG) and is **not** fully OCR'd at Cologne — see the lineage note below. Full 1819 body digitisation is out of scope for now; the **1819 preface** is the bounded next OCR unit.
+
+Wilson (1832) is the earliest dictionary **body** in the CDSL collection and a documented ancestor of later works (Yates 1846, Goldstücker, Śabda-Sāgara), which is why much of the work here is **comparative** ([`wilmwroots/`](https://github.com/sanskrit-lexicon/WIL/tree/main/wilmwroots), [`verbs01/`](https://github.com/sanskrit-lexicon/WIL/tree/main/verbs01), [`maprep/`](https://github.com/sanskrit-lexicon/WIL/tree/main/maprep)).
 
 ## Documentation
 
+- [docs/WIL_EDITION_LINEAGE_1819_1832.md](https://github.com/sanskrit-lexicon/WIL/blob/main/docs/WIL_EDITION_LINEAGE_1819_1832.md) — **1819 vs 1832**, PWG/MW72/MW chain, `L.`/`W.` distinction, OCR status, preface-only scope for 1819
 - [CLAUDE.md](https://github.com/sanskrit-lexicon/WIL/blob/main/CLAUDE.md) — repository guide and data-format reference.
 - [DATA_DICTIONARY.md](https://github.com/sanskrit-lexicon/WIL/blob/main/DATA_DICTIONARY.md) — markup tag reference.
 - [CONTRIBUTING.md](https://github.com/sanskrit-lexicon/WIL/blob/main/CONTRIBUTING.md) · [CODE_OF_CONDUCT.md](https://github.com/sanskrit-lexicon/WIL/blob/main/CODE_OF_CONDUCT.md)
@@ -27,7 +30,8 @@ Wilson (1832) is the earliest dictionary in the CDSL collection and a documented
 | [`issues/`](https://github.com/sanskrit-lexicon/WIL/tree/main/issues) | Per-issue working files |
 | [`CITATION.cff`](https://github.com/sanskrit-lexicon/WIL/blob/main/CITATION.cff) | Machine-readable citation metadata |
 | [`DATA_DICTIONARY.md`](https://github.com/sanskrit-lexicon/WIL/blob/main/DATA_DICTIONARY.md) | Markup tag reference |
-| [`WIL_1819_page59_iast.pdf`](https://github.com/sanskrit-lexicon/WIL/blob/main/WIL_1819_page59_iast.pdf) | Sample scan page (IAST) |
+| [`docs/WIL_EDITION_LINEAGE_1819_1832.md`](https://github.com/sanskrit-lexicon/WIL/blob/main/docs/WIL_EDITION_LINEAGE_1819_1832.md) | Edition lineage: 1819 (PWG base) vs 1832 (CDSL/MW72 base); OCR gaps |
+| [`WIL_1819_page59_iast.pdf`](https://github.com/sanskrit-lexicon/WIL/blob/main/WIL_1819_page59_iast.pdf) | Sample **1819** scan page only (IAST) — not full OCR |
 
 ## Timeline
 
