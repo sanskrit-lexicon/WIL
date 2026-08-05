@@ -1,0 +1,39 @@
+---
+source_scan: leaf006.jpg
+source_page: Title page
+volume: 1
+printed_page: 
+edition: WIL 1819 (first edition)
+source_url: https://archive.org/details/wilson-a-dictionary-in-sanscrit-and-english-1819/page/n6
+---
+
+# A DICTIONARY, SANSCRIT AND ENGLISH
+
+A
+
+DICTIONARY,
+
+SANSCRIT AND ENGLISH:
+
+TRANSLATED, AMENDED AND ENLARGED,
+
+FROM
+
+AN ORIGINAL COMPILATION PREPARED
+
+By Learned Natives
+
+FOR
+
+THE COLLEGE OF FORT WILLIAM.
+
+BY HORACE HAYMAN WILSON,
+
+ASSISTANT SURGEON IN THE HONOURABLE EAST INDIA COMPANY'S SERVICE, AND SECRETARY TO THE
+ASIATIC SOCIETY.
+
+CALCUTTA:
+
+PRINTED BY PHILIP PEREIRA, AT THE HINDOOSTANEE PRESS.
+
+1819.
