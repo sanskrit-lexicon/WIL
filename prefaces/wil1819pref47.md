@@ -1,0 +1,16 @@
+---
+source_scan: leaf053.jpg
+source_page: Preface, 44
+volume: 1
+printed_page: xliv
+edition: WIL 1819 (first edition)
+source_url: https://archive.org/details/wilson-a-dictionary-in-sanscrit-and-english-1819/page/n53
+---
+
+# PREFACE. (continued)
+
+The *Sanscrit* root or *Dhátu*, appears to differ from the primitives of other languages in its fulfilling no other office, and being incapable of entering into any form of speech: to fit it for this purpose, it must undergo many preparatory modifications, and it is then evolved with the aid of additional particles, into a noun or verb at pleasure: at the same time, as a matter of convenience, the *Hindu* gramarians have connected it more directly with verbal than nominal inflection, and in the classification adopted in their lists, it wears a more determinate shape, and may then be regarded as the crude verb.
+
+The import of the *Sanscrit* root, is as undefined as its character, and it is in fact, only the general sign, of all the possible varieties of action or being, that are referable to a common nature: it is usually explained by a noun, and the noun most frequently is in the seventh or locative case: thus (भू) *Bhú* is explained, by (सत्तायाम्) *Sattáyám, in being*; (ह्लाद) *Hlád*, by (अव्यक्तशब्दे) *Avyacta Sabdé, in inarticulate sound*, &c.: many roots also have a great variety of meanings, thus (अव) *Av* has nineteen acceptations, (कल) *Cal* generally signifying numeration or counting, is susceptible of any meaning, a writer may chuse to employ it in, and this indeed so far applies to every other radical, that in derivatives, of which the form is clearly traceable to a root, of a very different signification, the difficulty is immediately solved, by the general law, धातोरनेकार्थत्वात् that roots are capable of various interpretations: these varieties of sense, however, are either rendered perfectly intelligible in books, from the context, or they are explained in the commentaries, and most of the verbal inflections are of an application sufficiently precise: as to the individually exact import, of the root, it is of very little consequence, as although it may be a question, whether each should be interpreted by an abstract or infinitive noun, this uncertainty is removed at once in practice, by the conversion of the root into one or other form: its conversion into the crude verb, is the method I have preferred, and it appears in the following pages translated by the *English* verb in the infinitive mood, with which, however, it must not be confounded, as the *Sancrit* root takes an indeclinable infinitive form, which corresponds in power, with our infinitive as designated by the particle, *to*.
+
+The *Sanscrit* roots, as identified with crude verbs, are arranged in ten *Gańas*, or classes, differing in conjugation through a part of their inflection, and consequently discriminated in grammatical works: the arrangement of the *Dhátupát́ha* is however alphabetical: the number of the roots can scarcely be estimated with precision, for, as crude verbs, they may be inflected in several of the conjugations, and they are usually considered, as then forming distinct roots; there are also many roots called *Sautra*, from being noticed in *Sutras*, or rules, of etymological analysis, constructed for the occasion by authors of reputation, and there are many

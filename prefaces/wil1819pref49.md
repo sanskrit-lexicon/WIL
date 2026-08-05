@@ -1,0 +1,16 @@
+---
+source_scan: leaf055.jpg
+source_page: Preface, 46
+volume: 1
+printed_page: xlvi
+edition: WIL 1819 (first edition)
+source_url: https://archive.org/details/wilson-a-dictionary-in-sanscrit-and-english-1819/page/n55
+---
+
+# PREFACE. (continued)
+
+compleat for my use. The accuracy of his compilation and excellence of his authorities, have left me little to do but to transcribe, and although I have consulted the lists in the Grammars of Mr. WILKINS and Dr. CAREY, and in Mr. FORSTER's Essay, as well as occasionally adverted to the works of MÁDHAVA and VOPADEVA, and the roots given in the *Mugdabodha* and *Caumudí* I have found occasion to make but few additions to the copious and satisfactory catalogue Mr. COLEBROOKE had prepared: I have added to some of the roots however, a variety of modifications of meaning, depending upon the addition of inseparable prefixes or prepositions, the application and effect of which in *Sanscrit* compositions are of a very various and puzzling character; it would be almost impossible indeed to collect all the shades of import occasioned by the use of these particles, the application of which seems frequently to depend upon the caprice of the writer; they are often also accumulated to eke out measure without regard to meaning, and leave the radical unaffected, a circumstance that forms one of the great objects of the commentaries by which all *Sanscrit* works of merit are accompanied, and without which, for some time at least, they will scarcely be perusable with any satisfaction or certainty: the examples I have given are taken chiefly from the *Mágha*, *Bhágavat Gítá* and *Mégha Dúta*; they are comparatively but few however, and I soon found it vain prosecuting the collection, as far as poetical licence, or the निरङ्कुशाः कवयः *the uncontrolled poets*, of *Sanscrit* Grammarians, were likely to lead me.
+
+The whole extent of the Dictionary from these various sources, is but indifferently proportioned to a language, which it may be safely said has no limit, and the extent will be thought still less, when it is found that it for a great part consists of the language of Botany and Mythology. For so great a portion being thus appropriated, it would be sufficient for me to say, that it is the case with my originals, but there is a still better reason, and incidental reference to a Deity by some of his many titles, and fanciful allusions to a flower or plant, constitute half, or more than half, of the poetry of the *Hindus*. Their mythology is the main structure, their botany the chief decoration of their poetical compositions, and I have no fear of being found by the student unnecessarily copious on these two themes: as far as affects my translation of the names of plants and objects of Science I do not mean to be responsible for its accuracy: Mr. COLEBROOKE's *Amera Cósha* has been my chief guide, and in other cases I have made use of the *Bengali* and *Ooriya* vocabularies published at the College, and of Dr. ROXBURGH's Catalogue of the Botanical Gardens as published by Dr. CAREY, with the *Bengali* and *Hindi* names of a large portion of its contents.
+
+Although the number of vocables contained in the Dictionary is comparatively scanty, yet its application may, with a little attention to the genius and grammar of the language, be almost

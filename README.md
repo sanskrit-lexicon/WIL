@@ -1,10 +1,10 @@
 # WIL — Wilson *A Dictionary, Sanscrit and English* (1832)
 
-_Created: 28-12-2014 · Last updated: 02-08-2026_
+_Created: 28-12-2014 · Last updated: 06-08-2026_
 
 Development and correction repository for **Horace Hayman Wilson's *A Dictionary, Sanscrit and English*, 2nd edition (Calcutta, 1832)**, a Sanskrit→English dictionary, part of the [Cologne Digital Sanskrit Lexicon](https://www.sanskrit-lexicon.uni-koeln.de/) (CDSL). The canonical source text lives in [`csl-orig/v02/wil/wil.txt`](https://github.com/sanskrit-lexicon/csl-orig/blob/main/v02/wil/wil.txt) (44,577 entries); this repository holds the development, correction, and enrichment work — Wilson↔Monier-Williams root correspondence, verb identification, botanical-name markup, and per-issue corrections.
 
-Wilson **1832** is the CDSL text and the English-gloss base of [MW72](https://github.com/sanskrit-lexicon/MW72) (and thus of MW1899's carried-forward English). Wilson **1819** (1st ed.) is the print base of [PWG](https://github.com/sanskrit-lexicon/PWG) and is **not** fully OCR'd at Cologne — see the lineage note below. Full 1819 body digitisation is out of scope for now; the **1819 preface** is the bounded next OCR unit.
+Wilson **1832** is the CDSL text and the English-gloss base of [MW72](https://github.com/sanskrit-lexicon/MW72) (and thus of MW1899's carried-forward English). Wilson **1819** (1st ed.) is the print base of [PWG](https://github.com/sanskrit-lexicon/PWG) and is **not** fully OCR'd at Cologne — see the lineage note below. Full 1819 body digitisation is out of scope for now; the **1819 front matter** (53 pages: title, dedication, preface i–xlvii, authorities, transliteration table) is fully OCR'd in [`prefaces/`](https://github.com/sanskrit-lexicon/WIL/tree/main/prefaces) — see [Front matter](#front-matter-1819-prefaces) below.
 
 Wilson (1832) is the earliest dictionary **body** in the CDSL collection and a documented ancestor of later works (Yates 1846, Goldstücker, Śabda-Sāgara), which is why much of the work here is **comparative** ([`wilmwroots/`](https://github.com/sanskrit-lexicon/WIL/tree/main/wilmwroots), [`verbs01/`](https://github.com/sanskrit-lexicon/WIL/tree/main/verbs01), [`maprep/`](https://github.com/sanskrit-lexicon/WIL/tree/main/maprep)).
 
@@ -31,7 +31,31 @@ Wilson (1832) is the earliest dictionary **body** in the CDSL collection and a d
 | [`CITATION.cff`](https://github.com/sanskrit-lexicon/WIL/blob/main/CITATION.cff) | Machine-readable citation metadata |
 | [`DATA_DICTIONARY.md`](https://github.com/sanskrit-lexicon/WIL/blob/main/DATA_DICTIONARY.md) | Markup tag reference |
 | [`docs/WIL_EDITION_LINEAGE_1819_1832.md`](https://github.com/sanskrit-lexicon/WIL/blob/main/docs/WIL_EDITION_LINEAGE_1819_1832.md) | Edition lineage: 1819 (PWG base) vs 1832 (CDSL/MW72 base); OCR gaps |
-| [`WIL_1819_page59_iast.pdf`](https://github.com/sanskrit-lexicon/WIL/blob/main/WIL_1819_page59_iast.pdf) | Sample **1819** scan page only (IAST) — not full OCR |
+| [`WIL_1819_page59_iast.pdf`](https://github.com/sanskrit-lexicon/WIL/blob/main/WIL_1819_page59_iast.pdf) | Sample **1819** scan page only (IAST) — superseded by [`prefaces/wil1819pref53.md`](https://github.com/sanskrit-lexicon/WIL/blob/main/prefaces/wil1819pref53.md) |
+| [`prefaces/`](https://github.com/sanskrit-lexicon/WIL/tree/main/prefaces) | **1819 first-edition front-matter OCR** — 53 pages + consolidated EN edition; see [Front matter](#front-matter-1819-prefaces) below |
+
+## Front matter 1819 (`prefaces/`)
+
+OCR transcription of the complete front matter of the **1819 first edition** (Calcutta: Philip Pereira, Hindoostanee Press) — **not** the 1832 second edition that the CDSL `wil` text digitises. 53 pages: title page · dedication (iii–iv, dated *Calcutta, October 1819*, signed H. H. WILSON) · preface (i–xlvii) · "Explanation of the abbreviated References" (xlviii–xlix) · "Application of the Roman Character to the Nágarí alphabet" (l).
+
+- **Scan source:** [archive.org: wilson-a-dictionary-in-sanscrit-and-english-1819](https://archive.org/details/wilson-a-dictionary-in-sanscrit-and-english-1819) (Google digitisation of the Bayerische Staatsbibliothek copy, Public Domain Mark). Cologne csldoc has **no** 1819 front-matter scans (its WIL prefaces are 1832, OCR'd in [Wil-YAT](https://github.com/sanskrit-lexicon/Wil-YAT/tree/main/prefaces)).
+- **Files:** per-page [`prefaces/wil1819prefNN.md`](https://github.com/sanskrit-lexicon/WIL/tree/main/prefaces) (faithful English transcriptions, YAML provenance headers with per-leaf IIIF links) · consolidated [`prefaces/wil1819pref_all.en.md`](https://github.com/sanskrit-lexicon/WIL/blob/main/prefaces/wil1819pref_all.en.md) · index [`prefaces/README.md`](https://github.com/sanskrit-lexicon/WIL/blob/main/prefaces/README.md) · QA [`prefaces/AUDIT_A_VS_B.md`](https://github.com/sanskrit-lexicon/WIL/blob/main/prefaces/AUDIT_A_VS_B.md).
+- Source language is English, so the transcription *is* the English edition (no separate `.en.md`); RU translation not produced in this pass.
+
+### OCR run notes (2026-08-05/06) — cost, timing, and technical lessons
+
+Produced by the `/cologne-preface-ocr` skill (Engine A vision OCR, subagent fan-out) executing handoff H2213. Process retrospective, not part of the deliverable.
+
+**Cost.** Subagents (exact, from harness telemetry): 19 successful OCR agents, ≈2.76 M output tokens, ≈895 tool calls; 4 further agents died mid-run on API stalls (partial unreported cost, est. 0.2–0.4 M) and their pages were re-run. Main thread (estimate; leaf mapping, downloads, QA spot-checks, audit, consolidation): ≈0.2 M. **Total ≈3.2 M tokens.**
+
+**Time.** Wall-clock ≈2.5 h, gated by the archive.org IIIF download (~25 s/leaf × 54 leaves, run in background) and by the slowest OCR agents (Devanagari-dense pages xl–xlii took ~50 min).
+
+**Technical lessons (reusable):**
+1. Archive.org items expose per-leaf full-resolution images via IIIF (`https://iiif.archive.org/iiif/<item>$<leaf>/full/full/0/default.jpg`) — no need for the 2.3 GB `_jp2.zip`.
+2. The IA `hocr_searchtext` + `hocr_pageindex` files are a free Engine-B channel: per-leaf Tesseract text for the exact same scans, used for the A-vs-B audit without running Tesseract locally.
+3. Interrupted `urllib` downloads leave truncated-but-large JPEGs that a size check passes; verify with a full `PIL` decode before OCR (two leaves needed refetch).
+4. Google-Books quarto scans carry heavy show-through; Tesseract recall collapses there (0.38–0.50) while vision reading at native-resolution crops stays clean — flags on such pages are B-side false positives.
+5. Agents on 3-page batches with "write each file as soon as its page is done" survive API stalls losslessly; agents that hold all pages in memory lose everything on a stall.
 
 ## Timeline
 
@@ -43,6 +67,7 @@ Wilson (1832) is the earliest dictionary **body** in the CDSL collection and a d
 | 2018–2020 | Root correspondence step2a; verb identification ([`verbs01`](https://github.com/sanskrit-lexicon/WIL/tree/main/verbs01), [`verbs01-yat`](https://github.com/sanskrit-lexicon/WIL/tree/main/verbs01-yat), [`verbs01-shs`](https://github.com/sanskrit-lexicon/WIL/tree/main/verbs01-shs)) |
 | 2020–2022 | Markup fixes; botanical-name tagging ([`bottags/`](https://github.com/sanskrit-lexicon/WIL/tree/main/bottags)); new hi-res scan from Russia |
 | 2026-05 | Andhrabharati-data improvement, markup-oddities fix, issue taxonomy, documentation |
+| 2026-08 | **1819 front-matter OCR** — 53 pages transcribed + consolidated EN edition ([`prefaces/`](https://github.com/sanskrit-lexicon/WIL/tree/main/prefaces), H2213) |
 
 ## Projects & Milestones
 

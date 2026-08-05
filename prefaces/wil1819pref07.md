@@ -1,0 +1,16 @@
+---
+source_scan: leaf013.jpg
+source_page: Preface, 4
+volume: 1
+printed_page: iv
+edition: WIL 1819 (first edition)
+source_url: https://archive.org/details/wilson-a-dictionary-in-sanscrit-and-english-1819/page/n13
+---
+
+# PREFACE. (continued)
+
+name of any one of them, with my own, as a partner in the little credit, I may hope to derive, from the present publication.
+
+The plan of the original compilation including the contents of the vocabularies alone, left the work exceedingly defective: the *Roots* of the language are all excluded from those collections, as are most technical terms, and words of common occurrence, and none of these accordingly were comprised in RAGHUMAŃI's Dictionary. I am disposed indeed to question the expedience of the primary plan, and to conceive that a more useful Lexicon might have been drawn up from the classical compositions of the best *Hindu* writers, instead of deriving it from the *Cóshas* only. At the same time, as these last are the received authorities of all India, and as the interpretations resting on general writings may be contested; as they are also perpetually cited in the ablest commentaries, and their omission might have given undue importance to their supposed contents; it was absolutely necessary to comprehend, as many of them as were procurable, within the scope of the work: to have added to these authorities, the general body of *Hindu* compositions would have involved an amount of labour, cost and time, and a voluminous extent of preparation which the state of *Sanscrit* study does not yet require, and perhaps does not permit, and it is therefore, with some hesitation that I suggest any objections to the original plan; to remedy its deficiencies at all, was obviously not incumbent upon one who appeared in the humble character of Translator only, and I should have been justified therefore in confining the limits of my Translation to those of the original: as some of its omissions were however of importance, I felt myself bound to supply them, and I have made very considerable additions to the original work: these additions were such as were most obviously useful, and particularly include the whole number of the *Radicals* of the language, but I shall not pause here, to offer a more detailed notice of them, as their specification will more consistently occur under the description, I shall now proceed to give, of the sources, whence not only they, but the contents of the entire work, are derived.
+
+The authorities cited in the original compilation, and collated in the course of translation, are for the greater part the same as those enumerated in the preface to Mr. COLEBROOKE's translation of the *Amera Cósha*. The text of that work employed on the present occasion, is that of his very accurate edition, and I have been indebted to him for the copies of the different commentaries consulted by him in his translation, and which were handed over to me, with the ready liberality, which has always characterised that distinguished scholar. To his account therefore of these works, I might be contented to refer, but, as I hope to add something to the limited knowledge we possess of the author of the *Amera Cósha*, and, as I have to notice several works not adverted to by Mr. COLEBROOKE, I have thought it advisable to include the
