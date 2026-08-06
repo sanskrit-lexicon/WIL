@@ -80,5 +80,16 @@ pages compared: 53
 - Signal: transliteration table (Devanagari + roman pairs).
 - Resolution: **false positive** — B cannot read the Devanagari column; A's table verified glyph-by-glyph at native zoom (see page file notes).
 
+## Second-copy collation (06-08-2026)
+
+The `[?]` flags on Devanagari passages were tested against a **second independent copy** of the
+1819 first edition: [archive.org: sanskritenglishdictionaryhoracehaymanwilson1819_456_T](https://archive.org/details/sanskritenglishdictionaryhoracehaymanwilson1819_456_T)
+(leaf ≈ primary-copy leaf + 1; e.g. preface p. vi = primary leaf 15 = second-copy leaf 16).
+
+| Locus | Second-copy verdict |
+|---|---|
+| p. vi navaratna śloka (pref09, 7 × `[?]`) | Same setting, same ink-fused conjuncts — the defect is in the **letterpress**, not the scan. Flags stand as edition-level; the verse is the well-known navaratna stanza (धन्वन्तरिः क्षपणकामरसिंहशङ्कुवेतालभट्टघटकर्परकालिदासाः…), cited here as editorial reference only, not as a reading of the print. |
+| p. xlvii preface end (pref50, 1 × `[illegible]`) | **Resolved**: the second copy shows *nothing printed* below the final paragraph — the faint marks in the primary scan are ink set-off from a facing page. The preface ends without signature or dateline; pref50 carries an editorial note. |
+| Remaining Devanagari `[?]` (pref13/14/17/20/21/28–30/36/43–45) | Not re-collated page-by-page; the p. vi result (same printing, same fused type) predicts the same verdict. A future pass may spot-check individual loci via the same leaf+1 mapping. |
 
 _Dr. Mārcis Gasūns_
