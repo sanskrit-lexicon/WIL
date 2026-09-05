@@ -1,3 +1,5 @@
+_Created: 06-08-2026 · Last updated: 05-09-2026_
+
 ---
 source_scan: leaf027.jpg
 source_page: Preface, 18
@@ -18,3 +20,5 @@ The persecution of the *Bauddhas* is ascribed by MA'DHAVA to another reformer, C
 आसेतोरातुषाराद्रे[?] वौद्धानां वृद्धवालकां[?] नहन्ति यः स हन्तव्यो भृत्यानित्यन्वशान्नृपः ॥
 
 "The king thus commanded his attendants; let those who slay not, be slain, the old man
+
+_Dr. Mārcis Gasūns_

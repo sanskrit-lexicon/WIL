@@ -1,3 +1,5 @@
+_Created: 06-08-2026 · Last updated: 05-09-2026_
+
 ---
 source_scan: leaf042.jpg
 source_page: Preface, 33
@@ -22,3 +24,5 @@ The concurring traditions of the *Brahmanical*, *Bauddha* and *Jaina* sects repo
 ‡ نهروارة ملكها[?] ملك عظيم يسمى بلهرا و له جيوش و فيله و عبادته صنم البد
 
 Rex autem Nahroaræ maximus est, et vocatur Balahara, possidetque exercitus et elephantos, colitque idolum BODDA. The Nubian geography of AL SHERI'F AL EDRISI, where this passage occurs, was translated by the *Maronites*, and published at *Paris* in 1619; the text of the original was printed at *Rome* in 1592; according to his translators, AL EDRISI wrote about the middle of the twelfth century or 1152; consequently the *Bauddha* faith preceded that of *Jina* in *Guzerat*, and was subverted there by the latter, soon after AL EDRISI wrote; a course of events very consistent with the view I have taken in the text.
+
+_Dr. Mārcis Gasūns_

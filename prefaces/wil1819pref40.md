@@ -1,3 +1,5 @@
+_Created: 06-08-2026 · Last updated: 05-09-2026_
+
 ---
 source_scan: leaf046.jpg
 source_page: Preface, 37
@@ -20,3 +22,5 @@ The *Śabda Retnávalí*, is the compilation of MÁT'HURESA, one of the commenta
 The vocabulary of JATÁDHARA, is for the most part a mere transcript of the *Amera Cósha*, and it is an impudent transcript, for the author acknowleges no authority: he probably thought the remoteness of his position screened him from detection, as he informs us, he was an inhabitant of *Chátti gráma* or *Chittagong*: he has added a few terms occasionally to those extracted from *Amera*, and for these his work has been referred to: the date of the compilation is not specified, but it is no doubt comparatively modern.
 
 Some compilations have been made of late years, chiefly at the suggestion, and for the use of
+
+_Dr. Mārcis Gasūns_

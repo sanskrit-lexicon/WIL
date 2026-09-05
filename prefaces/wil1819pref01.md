@@ -1,3 +1,5 @@
+_Created: 06-08-2026 · Last updated: 05-09-2026_
+
 ---
 source_scan: leaf006.jpg
 source_page: Title page
@@ -37,3 +39,5 @@ CALCUTTA:
 PRINTED BY PHILIP PEREIRA, AT THE HINDOOSTANEE PRESS.
 
 1819.
+
+_Dr. Mārcis Gasūns_

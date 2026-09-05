@@ -1,3 +1,5 @@
+_Created: 06-08-2026 · Last updated: 05-09-2026_
+
 ---
 source_scan: leaf038.jpg
 source_page: Preface, 29
@@ -18,3 +20,5 @@ In the period that elapsed between the ages of MAHÉS'WARA and RÁYA MUCUT'A, we
 ---
 
 \* As a mere etymological speculation I suggest the possibility of SÁHASÁNCA, being a title of SRÍ CHANDRA DÉVA, who according to an inscription published by Mr. COLEBROOKE (A. R. vol. IX. 441.) founded the ruling dynasty of *Canouj*, about the end of the eleventh century, which "*realm he acquired by his own strength*." The inscription is unfortunately in *England*, or an examination of the passage in italics in the original, might be found connected with the name given to the Prince by MAHÉS'WARA, or SÁHASÁNCA, compounded as that is, of *Sáhasa*, strength or violence, and *Anca* mark or distinction.
+
+_Dr. Mārcis Gasūns_

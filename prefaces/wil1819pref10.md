@@ -1,3 +1,5 @@
+_Created: 06-08-2026 · Last updated: 05-09-2026_
+
 ---
 source_scan: leaf016.jpg
 source_page: Preface, 7
@@ -18,3 +20,5 @@ The *Bhoja Prabandha* is a work of no estimation nor authority: its purport is t
 ---
 
 \* *Asiatic Researches* X. 30.
+
+_Dr. Mārcis Gasūns_

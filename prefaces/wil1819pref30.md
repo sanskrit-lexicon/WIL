@@ -1,3 +1,5 @@
+_Created: 06-08-2026 · Last updated: 05-09-2026_
+
 ---
 source_scan: leaf036.jpg
 source_page: Preface, 27
@@ -18,3 +20,5 @@ After the *Tricán'da Sés'ha*, we have in the *Médiní's* list, a work entitle
 ---
 
 \* *Asiatic Researches* IX. 416.
+
+_Dr. Mārcis Gasūns_

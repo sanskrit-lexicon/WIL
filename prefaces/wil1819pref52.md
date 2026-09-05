@@ -1,3 +1,5 @@
+_Created: 06-08-2026 · Last updated: 05-09-2026_
+
 ---
 source_scan: leaf058.jpg
 source_page: Authorities, 2
@@ -38,3 +40,5 @@ Tri. = The *Trican'd'a S'es'ha*, the printed edition; the numbers refer to the s
 Uń. Có. = The *Un'ádi Cósha*.
 Vis. = The *Visva Pracásá*.
 Vop. = VOPADEVA's *Dhátupát'ha*.
+
+_Dr. Mārcis Gasūns_

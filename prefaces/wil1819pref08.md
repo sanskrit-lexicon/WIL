@@ -1,3 +1,5 @@
+_Created: 06-08-2026 · Last updated: 05-09-2026_
+
 ---
 source_scan: leaf014.jpg
 source_page: Preface, 5
@@ -16,3 +18,5 @@ The *Amera Cósha*, or vocabulary of AMERA SINHA, is a compilation too well know
 The era at which the author of the *Amera Cósha* flourished, connected as it is by these long and universally current traditions, with a period of peculiar splendour in the literary annals of *India*, is an object of profound interest: to ascertain it within any reasonable bounds would fix the date of a number of celebrated compositions, whose age is involved at present in utter obscurity, and would determine the time, and existence, of a monarch, of whom, notwithstanding he furnishes an epoch by which *Hindu* dates are still regulated, the accounts are contradictory and perplexed: how far it is practicable to effect this object, will best appear from the following considerations, the extent of which will find a sufficient excuse, in the important associations which are involved in the result.
 
 Authorities which assert the contemporary existence of AMERA and VICRAMÁDITYA, might be indefinitely multiplied, and those are equally numerous, which class him amongst the '*nine gems*.' The specification of these worthies, including the name of AMERA SINHA, occurs however in a verse, which appears in a great measure traditionary only, as I have not been able to trace it to any authentic source, although it is in the mouth of every *Pańdit*, when interrogated on the subject. It has been published by Mr. BENTLEY, in his *Essay on the Hindu systems of Astronomy*, in the 8th volume of the *Asiatic Researches*, and as it is sufficient for the purposes of the present enquiry, I shall here insert it.
+
+_Dr. Mārcis Gasūns_

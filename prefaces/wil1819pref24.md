@@ -1,3 +1,5 @@
+_Created: 06-08-2026 · Last updated: 05-09-2026_
+
 ---
 source_scan: leaf030.jpg
 source_page: Preface, 21
@@ -18,3 +20,5 @@ Those notions which attribute an extravagant antiquity to the *Hindus*, are full
 ---
 
 \* *History of Java* II. 86[?]. † *Systema Brahmanicum* 194.
+
+_Dr. Mārcis Gasūns_

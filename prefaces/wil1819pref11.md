@@ -1,3 +1,5 @@
+_Created: 06-08-2026 · Last updated: 05-09-2026_
+
 ---
 source_scan: leaf017.jpg
 source_page: Preface, 8
@@ -19,3 +21,5 @@ The most correct copy of the work I have been able to procure, and which was bro
 
 \* *Asiatic Researches* VIII. 244. † *Asiatic Researches* V. 64.
 ‡ WARD on the History, Religion and Literature of the *Hindús* I. 516.
+
+_Dr. Mārcis Gasūns_

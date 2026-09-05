@@ -1,3 +1,5 @@
+_Created: 06-08-2026 · Last updated: 05-09-2026_
+
 ---
 source_scan: leaf043.jpg
 source_page: Preface, 34
@@ -22,3 +24,5 @@ The *Jainas* appear to have been in possession of the consciences and patronage 
 † GLADWIN's *Ayeen Akbery* vol. 3. 151. *Calcutta* edition.
 
 ‡ BUCHANAN's *Mysore* vol. 3. 110.
+
+_Dr. Mārcis Gasūns_

@@ -1,8 +1,10 @@
+_Created: 06-08-2026 · Last updated: 05-09-2026_
+
 # WIL 1819 (first edition) front matter — complete (English, source)
 
-**Edition = 1819 first ed.** — H. H. Wilson, *A Dictionary, Sanscrit and English*, Calcutta: Philip Pereira, Hindoostanee Press, 1819. This is NOT the 1832 second edition (the CDSL `wil` text); see [README.md](README.md).
+**Edition = 1819 first ed.** — H. H. Wilson, *A Dictionary, Sanscrit and English*, Calcutta: Philip Pereira, Hindoostanee Press, 1819. This is NOT the 1832 second edition (the CDSL `wil` text); see [README.md](https://github.com/sanskrit-lexicon/WIL/blob/main/prefaces/README.md).
 
-Per-page files: `wil1819prefNN.md`. Index: [README.md](README.md).
+Per-page files: `wil1819prefNN.md`. Index: [README.md](https://github.com/sanskrit-lexicon/WIL/blob/main/prefaces/README.md).
 
 ## Contents
 
@@ -1208,3 +1210,5 @@ Vop. = VOPADEVA's *Dhátupát'ha*.
 \* This and its aspirate are the only defects in the system, as K and K'h are more correct representatives of the original characters; the misapplication was occasioned by the system being adopted to the *Arabick* as well as *Sanscrit* alphabet, and K being required to express the *Kaf* of the former.
 
 *(Note: the small-Roman equivalent of द is printed "d'h" — identical to that of ध — evidently a printer's error for "d".)*
+
+_Dr. Mārcis Gasūns_

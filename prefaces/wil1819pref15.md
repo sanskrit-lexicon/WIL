@@ -1,3 +1,5 @@
+_Created: 06-08-2026 · Last updated: 05-09-2026_
+
 ---
 source_scan: leaf021.jpg
 source_page: Preface, 12
@@ -18,3 +20,5 @@ Admitting therefore the testimony of this record, it follows, that AMERA SINHA w
 ---
 
 \* *Asiatic Researches* I. 284.
+
+_Dr. Mārcis Gasūns_

@@ -1,3 +1,5 @@
+_Created: 06-08-2026 · Last updated: 05-09-2026_
+
 ---
 source_scan: leaf020.jpg
 source_page: Preface, 11
@@ -22,3 +24,5 @@ I have thus shown that the supposed co-incidence of the persons, in the verse wh
 त्रिस्रोता इव सरसा सरस्वती[?] स्फुरति यैर्भिन्ना[?]
 
 thus rendered by SIR WILLIAM JONES, *we do homage to the poets who composed, the Rámáyan, the Mahábhárat and the Vrĭhatcat'há, by whom delightful eloquence blazes forth divided like the river with three streams.*
+
+_Dr. Mārcis Gasūns_

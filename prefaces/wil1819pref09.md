@@ -1,3 +1,5 @@
+_Created: 06-08-2026 · Last updated: 05-09-2026_
+
 ---
 source_scan: leaf015.jpg
 source_page: Preface, 6
@@ -25,3 +27,5 @@ The first subject of doubt is the authenticity and weight of the stanza, which i
 \* *Asiatic Researches* VIII. 242. It may be observed that in this verse as printed in the Researches the name of GHATACARPARA is mispelt, GHATACARPU'RA: the name is itself a poetical one, and the meaning of it with the passage in which it originally occurs are given in Mr. COLEBROOKE's Essay on *Sanscrit* and *Pracrit* Poetry, *Asiatic Researches* X. 402.
 
 † *Asiatic Researches* VIII. 243. ‡ *Asiatic Researches* VIII. 243. § *Asiatic Researches* IX. 157.
+
+_Dr. Mārcis Gasūns_

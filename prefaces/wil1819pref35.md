@@ -1,3 +1,5 @@
+_Created: 06-08-2026 · Last updated: 05-09-2026_
+
 ---
 source_scan: leaf041.jpg
 source_page: Preface, 32
@@ -22,3 +24,5 @@ The introductory lines of this author's vocabulary, explain the principles of hi
 ---
 
 \* *Asiatic Researches* V. 66.
+
+_Dr. Mārcis Gasūns_

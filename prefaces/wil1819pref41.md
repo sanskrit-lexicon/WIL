@@ -1,3 +1,5 @@
+_Created: 06-08-2026 · Last updated: 05-09-2026_
+
 ---
 source_scan: leaf047.jpg
 source_page: Preface, 38
@@ -18,3 +20,5 @@ The only copy of the *Retna Málá*, I have been able to procure, contains no sp
 ---
 
 \* A compilation of a superior character to any of these modern works, and indeed to any of the more ancient works, is now in progress in *Calcutta*: it is entitled the *Śabda Calpa Druma*, and is a *Sanscrit* Dictionary alphabetically arranged, with references to the authorities, and with copious explanations in the *Sanscrit* language: it is printed in the *Bengali* character: it is the work of a young native gentleman of fortune and family, RÁDHÁCÁNTA DEB, with the assistance of the best *Pańd́its*, and is printing at his own expence, and is an occupation which singularly contrasts with the low luxury, in which *Hindus* of his age and rank ordinarily expend their time, and money: the politeness of the author has favoured me with the first sheets of the work, but, I regret, it was not sufficiently advanced for me to benefit by its contents: he has also obliged me with many critical remarks on the earlier part of my own Dictionary, of which where practicable I have availed myself: the *Śabda Calpa Druma* must take some considerable time before it is completed.
+
+_Dr. Mārcis Gasūns_

@@ -1,3 +1,5 @@
+_Created: 06-08-2026 · Last updated: 05-09-2026_
+
 ---
 source_scan: leaf039.jpg
 source_page: Preface, 30
@@ -40,3 +42,5 @@ Of the above vocabularies most are cited by the commentators on the *Amera Cósh
 \* My remarks on the possibility of meeting with these works apply to *Calcutta* and *Benares* particularly, and may be extended perhaps to the tract of *India* immediately along the *Ganges* as far as *Haridwár*: the state of manuscripts in the *Dekhin* is probably more compleat, and it may be expected that the late accessions to the *British Indian* empire both to the west and north will be productive of many valuable additions to *Sanscrit* bibliography.
 
 † One of them was probably the *Núm Mála* of DU PERRON which he terms Dictionnaire Samskretam a l' usage des *Sciouras*.
+
+_Dr. Mārcis Gasūns_

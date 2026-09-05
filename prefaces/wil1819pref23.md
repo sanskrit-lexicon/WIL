@@ -1,3 +1,5 @@
+_Created: 06-08-2026 · Last updated: 05-09-2026_
+
 ---
 source_scan: leaf029.jpg
 source_page: Preface, 20
@@ -18,3 +20,5 @@ The time thus made out for the heighth of the *Bauddha* persecution, agrees in a
 ---
 
 \* *Asiatic Researches* X. 91. † KŒMPFER's *Japan*, B. 2. Chap. 4. The first introduction of the *Bauddha* faith into *China* took place much earlier; according to DE GUIGNES A. D. 65; but he adds, on n'eut alors qu'une idée confuse de la Religion de Fo, et ce n'est que dans la suite, qu'elle a eté plus en vogue; he also notices 'la protection singuliere' which the Dynasty of the Leam that reigned from 549 to 557, gave to the Religion of Fo.
+
+_Dr. Mārcis Gasūns_

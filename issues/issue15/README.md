@@ -1,3 +1,5 @@
+_Created: 17-05-2026 · Last updated: 05-09-2026_
+
 wil_AB_1.1.txt obtained from <https://github.com/sanskrit-lexicon/csl-corrections/issues/10#issuecomment-4466084543> on 17 May 2026
 
 temp_wil_0.txt copied from csl-orig/v02/wil/wil.txt as on commit 837b40b16424eff6b7def975385b37e7b606cca5 on 17 May 2026.
@@ -50,3 +52,5 @@ This document outlines the major structural differences between the AB format an
 
 - **CDSL Format** appears to be hard-wrapped at around 75-80 characters, which may break lines in the middle of sentences.
 - **AB Format** preserves more structured line breaks based on list items or semantic blocks.
+
+_Dr. Mārcis Gasūns_

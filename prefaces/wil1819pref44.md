@@ -1,3 +1,5 @@
+_Created: 06-08-2026 · Last updated: 05-09-2026_
+
 ---
 source_scan: leaf050.jpg
 source_page: Preface, 41
@@ -22,3 +24,5 @@ the *Médiní* and *Viśva* प्रवेश[?], in the *Nánárt́ha Retna M�
 बज्झुरं शाद्वनक्षेत्रे गहनौषधयोरपि ॥ *Méd.* बज्झुरं गुञ्जमञ्जर्यां[?] क्षेत्रेऽनम्भसि शाद्वले । बज्झूरं तु वनक्षेत्रे वाहनोषरयोरपि ॥ *Hém.* बज्झुरं तु निर्ज्जनस्थाने[?] विन्दुचरे च बज्झुरं । बज्झुरं गहने कुञ्जे ॥ *D'har.* बज्झुराः पुंसि गहने नक्षेत्रोषरेष्वपि[?] च *Śabd. R.* बज्झुरं स्याद्वनक्षेत्रे वाहनोषरयोरपि ॥ *Viś.* स्यादुच्चरे[?] चनक्षेत्रे बज्झूरं गहनेपि च *Tri.*
 
 The first inference to be drawn from these readings, is that besides the meanings peculiar to बज्झूर it has those of बज्झुर also, and the next is that though बज्झुर may sometimes occur as a noun masculine, yet properly it is neuter, all the authorities agreeing in making it so except the *Śabda Retnávalí*: for the interpretations; the *Médiní* is wrong in शाद्वनक्षेत्रे which should be either शाद्वले and क्षेत्रे or शाद्वलक्षेत्रे, also in औषध which should be उषर from the concurrence of the *Hém. Viś.* and *Śabda Retnávalí*, and the analogy of the other senses. *Hémachandra* seems the most accurate except that वाहन is put for गहन; the विन्दुचरे of *Dharini* is what? and its निर्ज्जेनस्थान[?] though admissible is more probably निर्ज्जनस्थान; the नक्षेत्र of the *Śabda Retnávalí* is evidently a mistake for वनक्षेत्र. The *Viśva* has वाहन also where the rest have गहन being as usual the same essentially with *Hémachandra*. The *Tricáńd́a* has उच्चरे[?] for उषरे and चनक्षेत्रे for वनक्षेत्र. The *Śabdárt́ha Calpa Teru* has under this word वहने[?] and औषधे for गहने and उषरे and the *Śabda Sanderbha Sindhu*, misquoting its originals, writes बाहन[?] for the वाहन of *Viśva* and *Hémachandra*.
+
+_Dr. Mārcis Gasūns_

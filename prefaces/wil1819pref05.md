@@ -1,3 +1,5 @@
+_Created: 06-08-2026 · Last updated: 05-09-2026_
+
 ---
 source_scan: leaf011.jpg
 source_page: Preface, 2
@@ -16,3 +18,5 @@ The *Sanscrit* vocabularies still in use are in considerable number: they repeat
 To collect these different authorities into one compilation, and arrange their united contents in an accessible shape, were the objects of the work undertaken for the use of the College; and to these were added, the citation of the authority, and the synonimes there given, the specification of the genders of nouns, and the etymological analysis. It was written in the *Bengálí* character, and occupied four large folio volumes.
 
 A copy of the Dictionary thus described, came into my possession shortly after I commenced my *Sanscrit* studies, and I anticipated the most valuable assistance to them from such a source. I found, however, that it comprehended in its etymological details, and lengthened quotations of synonimes, much more than I then required, and that from its unwieldy size it was inconvenient
+
+_Dr. Mārcis Gasūns_

@@ -1,3 +1,5 @@
+_Created: 06-08-2026 · Last updated: 05-09-2026_
+
 ---
 source_scan: leaf033.jpg
 source_page: Preface, 24
@@ -22,3 +24,5 @@ The commentary of BHARATA MALLA, is the favourite authority of the *Bengal* Scho
 ---
 
 \* HIDJAR SINGH, *Rája* of *Bundelcund*, *Dow* III. 126. JUDGER SINGH *Rája* of *Bundela*, *Ibid* 154.
+
+_Dr. Mārcis Gasūns_

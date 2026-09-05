@@ -1,3 +1,5 @@
+_Created: 06-08-2026 · Last updated: 05-09-2026_
+
 ---
 source_scan: leaf009.jpg
 source_page: Dedication, 2
@@ -28,3 +30,5 @@ H. H. WILSON.
 CALCUTTA,
 
 *October,* 1819.
+
+_Dr. Mārcis Gasūns_

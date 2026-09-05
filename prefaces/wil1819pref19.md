@@ -1,3 +1,5 @@
+_Created: 06-08-2026 · Last updated: 05-09-2026_
+
 ---
 source_scan: leaf025.jpg
 source_page: Preface, 16
@@ -18,3 +20,5 @@ incident amongst the *Hindus*. The *Kudali Brahmans*, who form an establishment 
 § BUCHANAN's *Mysore* III. 91. ‖ *Ibid* I. 143. ¶ Dedication to the translation of the *Prabodha Chandrodaya*.
 
 \* Preface to the translation of the *Dáya Bhága*. † BUCHANAN's *Mysore* II. 424. ‡ *Asiatic Researches* V. 5.
+
+_Dr. Mārcis Gasūns_

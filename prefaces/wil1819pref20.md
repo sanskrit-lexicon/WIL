@@ -1,3 +1,5 @@
+_Created: 06-08-2026 · Last updated: 05-09-2026_
+
 ---
 source_scan: leaf026.jpg
 source_page: Preface, 17
@@ -20,3 +22,5 @@ Many works in celebration of this distinguished character, and in commemoration 
 \* The manuscript agrees however with Mr. DUNCAN's statement in one important particular; the admission of S'ANCARA's living in the time of the *Malabar* Prince CHERUMAN PERUMAL, a Prince, who from his connection with the *Malabar Christian* Church has been long an object of attention to the Scholars of the west: according to SCALIGER (De emendatione temporum 525,) *Calicut* was founded in 907, and this event is ascribed to that Prince by ASSEMANNUS (*Bibl. Orien. Tom* 3. Part 2d 341 et seq.) but who observes, that according to VISCHERUS[?] it took place much earlier, or in 825. CHERUMAN PERUMAL is said to have granted many privileges to the *Christians*, inscribed on plates of copper, of which DU PERRON procured copies, (Zend. Dis. Prél. clxxviii. and note) and which according to him corroborate the account of this transaction derived from ASSEMANNUS: this date will therefore nearly confirm the above view of S'ANCARA's age and give us about ten centuries for his antiquity.
 
 † *Asiatic Researches* IX. 414. In addition to the instances there specified it may be observed, that SA'YAN'A the author of the *Mádhaviya Dhátu Vritti* calls himself the uterine brother of MA'DHAVA and the son of MA'YAN'A (?), the prime minister of SANGAMA, the son of CAMPA, monarch of the eastern, southern, and western seas, or in fact of the Peninsula of India [Devanagari quotation, about two lines, illegible in this scan] ॥ end of the first section.
+
+_Dr. Mārcis Gasūns_

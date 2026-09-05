@@ -1,3 +1,5 @@
+_Created: 06-08-2026 · Last updated: 05-09-2026_
+
 ---
 source_scan: leaf057.jpg
 source_page: Authorities, 1
@@ -31,3 +33,5 @@ source_url: https://archive.org/details/wilson-a-dictionary-in-sanscrit-and-engl
 *Hém.* = *Hémachandra*, printed copy; the numerals indicate the book and verse: the last six or alphabetical sections are designated as *Hém. Ná.* or the *Nánárth'a* chapters of HÉMACHANDRA.
 *Jat'á.* = The vocabulary of JATÁDHARA.
 *Mat'hu.* on *Am.* = MAT'HURÉS'A's commentary on the *Amera Cósha*.
+
+_Dr. Mārcis Gasūns_

@@ -1,3 +1,5 @@
+_Created: 06-08-2026 · Last updated: 05-09-2026_
+
 ---
 source_scan: leaf032.jpg
 source_page: Preface, 23
@@ -20,3 +22,5 @@ The *Vyác'hyá S'udhi* is the ablest commentary on the *Amera Cósha*, that has
 ---
 
 \* *Asiatic Researches* VII. 216; and Preface to the *Amera Cósha*.
+
+_Dr. Mārcis Gasūns_

@@ -1,3 +1,5 @@
+_Created: 06-08-2026 · Last updated: 05-09-2026_
+
 # Audit A (vision) vs B (Tesseract) — WIL 1819 front matter
 
 _Date: 06-08-2026 · Engine A: Claude vision OCR (Fable 5, `claude-fable-5`, subagent fan-out) · Engine B: archive.org hOCR searchtext (Tesseract) for the same leaves · pipeline: per-leaf token comparison_

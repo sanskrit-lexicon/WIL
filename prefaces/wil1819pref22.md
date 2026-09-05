@@ -1,3 +1,5 @@
+_Created: 06-08-2026 · Last updated: 05-09-2026_
+
 ---
 source_scan: leaf028.jpg
 source_page: Preface, 19
@@ -20,3 +22,5 @@ According to the authority of MÁDHAVA and that of tradition, CUMÁRIL BHATTA, c
 ---
 
 \* BUCHANAN's *Mysore* III. 91. † Dr TAYLOR's *Prabodha Chandrodaya*. 119.
+
+_Dr. Mārcis Gasūns_

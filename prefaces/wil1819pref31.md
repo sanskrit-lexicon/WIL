@@ -1,3 +1,5 @@
+_Created: 06-08-2026 · Last updated: 05-09-2026_
+
 ---
 source_scan: leaf037.jpg
 source_page: Preface, 28
@@ -16,3 +18,5 @@ The next work mentioned, and the original compilation of which the *Médiní* is
 The *Viśva Pracáśa*, is of great value in the enquiry into the comparative dates of the various lexicons, which I have attempted to institute, being one of the very few compilations which present the age of their composition, and furnish us with a fixed point, from which we can take with something like confidence, a retrospective view: the vocabularies enumerated above contain no dates, and can only be placed at undefined intervals between the *Amera Cósha*, and the *Viśva Pracáśa*, upon the authority of the *Médiní*, confirmed as that is in most instances, by the enumeration of authorities which occurs in those works, and in which the name of the *Viśva* never appears: most of them are therefore, in all probability, prior to the year of *Śaca* 1033 or A. D. 1111. which the author of the *Viśva Pracáśa* has given as the date of his compilation.
 
 The author of the *Viśva Cósha*, MAHÉS'WARA is the most communicative of all the *Sanscrit* Lexicographers, and we are much indebted to the venial vanity, which has induced him to expatiate on his personal history. He informs us, that he is descended from SRÍ CRISHN'A, physician to SÁHASÁNCA, sovereign of *Gádhipur*, a name from which the modern *Ghazipur* might be supposed to be derived, but which is enumerated by the vocabularies as a synonime of *Canyácubja* or *Ca-*
+
+_Dr. Mārcis Gasūns_

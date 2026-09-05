@@ -1,3 +1,5 @@
+_Created: 06-08-2026 · Last updated: 05-09-2026_
+
 ---
 source_scan: leaf034.jpg
 source_page: Preface, 25
@@ -20,3 +22,5 @@ The *Tricán'da Vivéça*[?], by RAMANA'T'H VIDYA' VA'CHESPATI, a work of consid
 Authorities of higher rank, though often of less value, than the commentators on the *Amera Cósha*, and constituting together with that work and its appendages, the bulk of the present compilation, are the vocabularies of original authors: of these the most valuable are easily and generally procurable, and many others it is asserted exist, though rarely to be found: those which I have been able to obtain I shall now proceed to enumerate, following as correctly as inference and conjecture will admit, the order of their antiquity, and furnishing such slender information respecting their authors, as the state of every thing like biography in *India*, is capable of affording: the comparative age of various compositions is in many cases ascertainable by the references which the writers make to their predecessors, and the absence of the notice of a celebrated work, where mention of it is likely to be found, is a very strong presumption of its not being in existence: the application of this test is very extensive, and conjoined with the information afforded by inscriptions, and that which may be conjectured from the legends of the *Purán'as*, presents the only chance, of our ever being able to extricate the ancient history of *India*, from the labyrinth in which it is at present lost.
 
 The first *Cósha* after that of AMERA, in the copious list of authorities cited by the author of the *Médiní*, which has been consulted in the following work, is the *Abhidhána Retna Mála* of
+
+_Dr. Mārcis Gasūns_

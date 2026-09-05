@@ -1,3 +1,5 @@
+_Created: 06-08-2026 · Last updated: 05-09-2026_
+
 ---
 source_scan: leaf023.jpg
 source_page: Preface, 14
@@ -26,3 +28,5 @@ From astronomical data derived from the work of VARÁHA MIHIRA,§ the *Vrĭhat S
 उक्तञ्च वराहमिहिरेण ।
 
 यदि भिनत्ति सूर्य्यपुत्रो रोहिण्याः शकटमिह लोके[?] । द्वादश वर्षाणि तदा न हि वर्षति माधवो भूमौ ॥
+
+_Dr. Mārcis Gasūns_

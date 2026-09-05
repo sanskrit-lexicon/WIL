@@ -1,3 +1,5 @@
+_Created: 06-08-2026 · Last updated: 05-09-2026_
+
 ---
 source_scan: leaf045.jpg
 source_page: Preface, 36
@@ -22,3 +24,5 @@ The *Náma Málá*, is another of my authorities of which the age is uncertain: 
 \* Of whose immense wealth the author of the *Seir Mutaqherin* characteristically remarks, that when MIR HABIB with a party of *Mahratta* horse surprised *Murshedabad*, and carried off from JUGAT SE'T's house two crore of *Arcot* rupees, this prodigious sum did not affect the two brothers more than if it had been two trusses of straw.
 
 † As at Sravana Bellagola in *Mysore* (*Asiatic Researches* IX. 256.) and at *Biddery*[?] in *Canara* (BUCHANAN's *Mysore* 3. 75.) I understand from Colonel MACKENZIE that there is also an establishment of *Jaina* priests at *Chittamoor*.
+
+_Dr. Mārcis Gasūns_

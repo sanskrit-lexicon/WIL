@@ -1,3 +1,5 @@
+_Created: 06-08-2026 · Last updated: 05-09-2026_
+
 ---
 source_scan: leaf044.jpg
 source_page: Preface, 35
@@ -24,3 +26,5 @@ The modern and present condition of the *Jaina* sect appear to be additional con
 § Besides other reasons for this conjecture, there is one that appears conclusive: amongst the subjects of MAHA'VI'RA's juvenile studies, the *Lílávatí* is mentioned, a work that was not composed earlier than the middle of the twelfth century.
 
 ‖ The *Páducá* of VA'SUPU'JYA; repeated copies of this inscription have established the date of the monument *Samvat* 1693 or A. D. 1637.
+
+_Dr. Mārcis Gasūns_

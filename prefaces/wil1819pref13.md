@@ -1,3 +1,5 @@
+_Created: 06-08-2026 · Last updated: 05-09-2026_
+
 ---
 source_scan: leaf019.jpg
 source_page: Preface, 10
@@ -26,3 +28,5 @@ It may indeed be asserted, that the *Cat'ha Sarit Ságara*, or rather the *Vrĭh
 ---
 
 \* *Mégha Dúta* with translation, 36 and note: also *Asiatic Researches* X. 451.
+
+_Dr. Mārcis Gasūns_

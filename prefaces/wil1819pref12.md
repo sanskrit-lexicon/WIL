@@ -1,3 +1,5 @@
+_Created: 06-08-2026 · Last updated: 05-09-2026_
+
 ---
 source_scan: leaf018.jpg
 source_page: Preface, 9
@@ -20,3 +22,5 @@ It is now perfectly well understood, that in *India*, identity of name is by no 
 That the name of VARARUCHI, has in like manner been applied to different individuals, might fairly be inferred from the practice thus described; but we have in this case a remarkable confirmation of our conjectures, and find, from the varying statements of several writers, that two, if not three, persons of this denomination, are celebrated in the literary history of the *Hindus*.
 
 In the *Cat'há Sarit Ságara*, the same work in substance as the *Vrĭhat Cat'há*, and by the same author, SÓMADEVA, who declares that his abridgement has omitted, no essential part of his own original, the ancient grammarian, CÁTYÁYANA, is said to be the same person as VARARUCHI, and to be called indiscriminately by either name: the opening of this work, in the usual style of *Hindu* story telling, introduces us to superhuman agency; a demi-god named PUSHPADANTA, an
+
+_Dr. Mārcis Gasūns_

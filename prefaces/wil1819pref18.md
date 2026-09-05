@@ -1,3 +1,5 @@
+_Created: 06-08-2026 · Last updated: 05-09-2026_
+
 ---
 source_scan: leaf024.jpg
 source_page: Preface, 15
@@ -24,3 +26,5 @@ The birth of ŚANCARA, presents the same discordance of opinion as every other r
 § COLEBROOKE's *Indian* Algebra, Introduction, Dissertation, E. ‖ *Asiatic Researches* X. 91.
 
 ¶ *Asiatic Researches* IX. 108. \* *Ibid* 139. † *Ibid* VII. 214. ‡ *Ibid* VII. 214.
+
+_Dr. Mārcis Gasūns_

@@ -1,3 +1,5 @@
+_Created: 06-08-2026 · Last updated: 05-09-2026_
+
 ---
 source_scan: leaf048.jpg
 source_page: Preface, 39
@@ -18,3 +20,5 @@ The *Śabda Chandricá*, is a vocabulary of vegetable and mineral substances, wi
 The list of vocabularies which constitute my authorities, is not yet completed, and I have to add to their number, the *Dwirúpa Cósha* of BHARATA MALLA and *Uńádi Cósha* of RÁMA SERMAN; the first of these is a collection of various readings, pointing out the different orthoepy of the same word, and is the compilation of a writer whom we have noticed amongst the commentators on *Amera*; it is not very frequently referred to in the following work, as similar varieties are abundantly furnished by the author's commentary on the *Amera Cósha*, which afforded a more ready reference, and most of the examples, are also met with in the *Śabda Retnávalí*, whence they have been likewise extracted.
 
 The *Uńádi Cósha*, is an explanation of the irregular derivatives, formed with the affixes *Uń and others* or *Uńádi*, the construction and import of which being reducible to no positive system, they have been formed into a class by themselves: the vocabulary I now speak of, has the advantage of being elucidated by a comment written by the author, and I have therefore found it sometimes usefully consulted, but as the comment is constructed according to VOPADÉVA's system of grammar, I have preferred, in all cases where I had a choice, the five *Uńádi* chapters
+
+_Dr. Mārcis Gasūns_

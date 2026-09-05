@@ -1,3 +1,5 @@
+_Created: 06-08-2026 · Last updated: 05-09-2026_
+
 ---
 source_scan: leaf035.jpg
 source_page: Preface, 26
@@ -20,3 +22,5 @@ The next in the list of the *Médiní*, is the *Dharan'í Cósha* or vocabulary 
 \* *Asiatic Researches* VII. 233 and X. 391.
 
 † In a paper in the *Transactions of the Literary Society of Bombay*, by LIEUTENANT MACKMURDO, which I shall again have occasion to notice, an AJEE PA'L occurs, who seems to have taken an active part in the introduction of the *Jaina* Religion into *Guzerat*, towards the end of the twelfth century, and who may have been the compiler of the vocabulary, or the patron of its author, who consequently ascribes it to him; a practice frequent in the literary flattery of *Hindu* writers.
+
+_Dr. Mārcis Gasūns_

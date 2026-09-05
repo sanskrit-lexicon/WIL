@@ -1,3 +1,5 @@
+_Created: 06-08-2026 · Last updated: 05-09-2026_
+
 ---
 source_scan: leaf055.jpg
 source_page: Preface, 46
@@ -14,3 +16,5 @@ compleat for my use. The accuracy of his compilation and excellence of his autho
 The whole extent of the Dictionary from these various sources, is but indifferently proportioned to a language, which it may be safely said has no limit, and the extent will be thought still less, when it is found that it for a great part consists of the language of Botany and Mythology. For so great a portion being thus appropriated, it would be sufficient for me to say, that it is the case with my originals, but there is a still better reason, and incidental reference to a Deity by some of his many titles, and fanciful allusions to a flower or plant, constitute half, or more than half, of the poetry of the *Hindus*. Their mythology is the main structure, their botany the chief decoration of their poetical compositions, and I have no fear of being found by the student unnecessarily copious on these two themes: as far as affects my translation of the names of plants and objects of Science I do not mean to be responsible for its accuracy: Mr. COLEBROOKE's *Amera Cósha* has been my chief guide, and in other cases I have made use of the *Bengali* and *Ooriya* vocabularies published at the College, and of Dr. ROXBURGH's Catalogue of the Botanical Gardens as published by Dr. CAREY, with the *Bengali* and *Hindi* names of a large portion of its contents.
 
 Although the number of vocables contained in the Dictionary is comparatively scanty, yet its application may, with a little attention to the genius and grammar of the language, be almost
+
+_Dr. Mārcis Gasūns_

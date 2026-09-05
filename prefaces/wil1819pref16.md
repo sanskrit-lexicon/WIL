@@ -1,3 +1,5 @@
+_Created: 06-08-2026 · Last updated: 05-09-2026_
+
 ---
 source_scan: leaf022.jpg
 source_page: Preface, 13
@@ -20,3 +22,5 @@ The real date of VICRAMÁDITYA's reign, is however still a desideratum in *India
 \* *Asiatic Researches* VIII. 243. † *Asiatic Researches* IX. Essay on VICRAMÁDITYA and SÁLIVÁHANA.
 
 ‡ The *Jains* I am informed consider *Vicramáditya* to have been of their persuasion; in the *Vrĭhatcathá*, *Sinhásana Dwátrinśati*, and *Vetála Panchavinśati*, he always appears as the worshipper of DURGÁ or DÉVÍ especially.
+
+_Dr. Mārcis Gasūns_

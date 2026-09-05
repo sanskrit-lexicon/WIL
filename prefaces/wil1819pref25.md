@@ -1,3 +1,5 @@
+_Created: 06-08-2026 · Last updated: 05-09-2026_
+
 ---
 source_scan: leaf031.jpg
 source_page: Preface, 22
@@ -20,3 +22,5 @@ The different commentaries on the text of the *Amera Cósha*, to which I have al
 \* *History of India* Vol. I. 410.
 
 † DU PERRON carried two copies to Europe: it was also noticed in the first volume of the *Asiatic Researches* (354): we have seen what BARTOLOMEO says of the work and he took home a copy of it. Several copies more or less perfect were presented by Lady JONES, to the *Royal Society*, and FREDERICK SCHLEGEL in his work *Ueber die spruche und weisheit der Indier*, notices a manuscript of it in the *Royal Library*, at *Paris*, with a *Latin* interpretation.
+
+_Dr. Mārcis Gasūns_

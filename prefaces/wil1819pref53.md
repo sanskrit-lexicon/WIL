@@ -1,3 +1,5 @@
+_Created: 06-08-2026 · Last updated: 05-09-2026_
+
 ---
 source_scan: leaf059.jpg
 source_page: Application of the Roman Character
@@ -73,3 +75,5 @@ source_url: https://archive.org/details/wilson-a-dictionary-in-sanscrit-and-engl
 \* This and its aspirate are the only defects in the system, as K and K'h are more correct representatives of the original characters; the misapplication was occasioned by the system being adopted to the *Arabick* as well as *Sanscrit* alphabet, and K being required to express the *Kaf* of the former.
 
 *(Note: the small-Roman equivalent of द is printed "d'h" — identical to that of ध — evidently a printer's error for "d".)*
+
+_Dr. Mārcis Gasūns_

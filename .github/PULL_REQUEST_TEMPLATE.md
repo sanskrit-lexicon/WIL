@@ -1,3 +1,5 @@
+_Created: 03-07-2026 · Last updated: 05-09-2026_
+
 <!--
 Thank you for contributing to a CDSL repository.
 Please fill in the sections below before submitting.
@@ -38,3 +40,5 @@ Please fill in the sections below before submitting.
 ## Licence
 
 By submitting this pull request I agree my contribution is licensed under the same terms as the repository (CC BY-SA 4.0 for data, GPL-3.0 for code).
+
+_Dr. Mārcis Gasūns_

@@ -1,3 +1,5 @@
+_Created: 06-08-2026 · Last updated: 05-09-2026_
+
 ---
 source_scan: leaf040.jpg
 source_page: Preface, 31
@@ -38,3 +40,5 @@ consulted: HALAYUDHA, PURUSHOTTAMA and MAHE'S'WARA make mention of most of them 
 23. The *Retna Málá*.
 
 24. The *Vis'va Praca's'a*, forming with the *Médiní*, twenty-five vocabularies, all prior to the fifteenth century, and of which my original and myself, aided as we were by Mr. COLEBROOKE's valuable collection of manuscripts, have been able to procure no more than nine or ten: they are not however the whole number of works extant in the time of ME'DINI' CARA, and his predecessors, which were either vocabularies themselves, or treated of the forms, inflexions, genders and meanings of words, in a manner that sanctioned their being included in the same class: thus the author of the *Vis'va Cósha* specifies SA'HASA'NCA, the patron of his family as the author, the nominal one, it may be imagined, of a vocabulary, and works of a similar character are attributed to the Princes VICRAMA'DITYA and BHOJA: the former occurs amongst the remaining authorities of the *Médiní*, along with works assigned to BA'GBHAT'T'A, MA'DHAVA, VA'CHESPATI, DHERMA, VYA'RI, TA'RAPA'LA, CA'TYA'YANA, CHANDRA, SOMA and PA'N'INI; there are also other *Cóshas*,
+
+_Dr. Mārcis Gasūns_

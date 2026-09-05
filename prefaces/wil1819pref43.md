@@ -1,3 +1,5 @@
+_Created: 06-08-2026 · Last updated: 05-09-2026_
+
 ---
 source_scan: leaf049.jpg
 source_page: Preface, 40
@@ -16,3 +18,5 @@ Of the above works, the whole were employed in the original compilation, with th
 Of variations in different manuscripts of the same work, abundant specimens might be presented, but it will be sufficient to confine them to the *Viśva*, of which I had four different copies: one of these under the term अरर, explains it by छेदन, another by छादन; three copies assign to केशट, as one sense of it शोघण[?], and a fourth शोगाक, whilst there is reason to think that they are all wrong, and that the correct reading should be ओकण; under the word भल्ला, one copy has जालिक, another जानुका, and a thrid भिह्निका[?], and in many instances the four copies present as many different readings, and every one erroneous: this is the case with the manuscripts of all the *Cóshas*, and it is to be regretted, that the printed editions of those which have been published, are very far from correct, with the single exception of the *Serampore* edition of the *Amera Cósha* ; printed copies however as editions multiply are likely to become more accurate, whilst from the carelessness and ignorance of transcribers in general, the multiplication of manuscript copies is only the propagation and augmentation of inaccuracy.
 
 The varieties of reading presented by different works are still more numerous and embarrassing, than those I have noticed: thus under the word मिसि[?], one of the interpretations occurs in
+
+_Dr. Mārcis Gasūns_
