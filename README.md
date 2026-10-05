@@ -1,5 +1,7 @@
 # WIL — Wilson *A Dictionary, Sanscrit and English* (1832)
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22170459.svg)](https://doi.org/10.5281/zenodo.22170459)
+
 _Created: 28-12-2014 · Last updated: 06-08-2026_
 
 Development and correction repository for **Horace Hayman Wilson's *A Dictionary, Sanscrit and English*, 2nd edition (Calcutta, 1832)**, a Sanskrit→English dictionary, part of the [Cologne Digital Sanskrit Lexicon](https://www.sanskrit-lexicon.uni-koeln.de/) (CDSL). The canonical source text lives in [`csl-orig/v02/wil/wil.txt`](https://github.com/sanskrit-lexicon/csl-orig/blob/main/v02/wil/wil.txt) (44,577 entries); this repository holds the development, correction, and enrichment work — Wilson↔Monier-Williams root correspondence, verb identification, botanical-name markup, and per-issue corrections.
